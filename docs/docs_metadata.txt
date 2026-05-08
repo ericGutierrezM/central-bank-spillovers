@@ -1,0 +1,1 @@
+This folder contains the web deployment and all related files for the project.
