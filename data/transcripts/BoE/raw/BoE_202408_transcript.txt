@@ -1,0 +1,817 @@
+SOURCE: mpr-press-conference-transcript-august-2024.pdf
+DATE: 202408
+TYPE: transcript
+============================================================
+
+KaƟe MarƟn  
+Hi everyone. 
+Welcome to the August Monetary Policy Report press conference. 
+We're joined today by Clare Lombardelli, deputy governor for monetary policy, Dave Ramsden, 
+deputy governor for markets and banking, and the governor, Andrew Bailey. 
+Andrew, we'll start with opening remarks and then we'll turn to quesƟons. 
+Andrew Bailey  
+Well, thank you, KaƟe. 
+And can I start by welcoming Claire to her ﬁrst MPL press conference? So today we've cut Bank Rate 
+by 0.25 percentage points to 5%. It was a ﬁnely balanced decision. InﬂaƟon has been exactly on our 
+2% target for two consecuƟve months. And inﬂaƟonary pressures in the UK economy have eased 
+much as expected. 
+It’s nice to have music when I said that thanks, but this is very welcome news as the as the music 
+suggested. 
+Now at the same Ɵme, the UK economy has been stronger in recent months, and this is very 
+welcome too. But it does add to the risk that inﬂaƟon could be higher than we expected if we cut 
+interest rates too much or too quickly. And despite easing services, price inﬂaƟon and domesƟc 
+inﬂaƟonary pressures do remain elevated.  
+So, we need to make sure that inﬂaƟon stays low. We need to put the period of high inﬂaƟon ﬁrmly 
+behind us. And we need to be careful not to cut rates too much or too quickly, all the while 
+monitoring the evidence on how inﬂaƟonary pressures are evolving. 
+And the best and most sustainable contribuƟon that monetary policy can make to growth and 
+prosperity is to ensure low and stable inﬂaƟon, and an economy where people can plan for the 
+future with conﬁdence and in which money holds its value. And we have truly come a long way in 
+returning inﬂaƟon to target. 
+Chart one, which just come up shows the development of 12-month consumer price inﬂaƟon since 
+2019. That's the white line. InﬂaƟon has fallen signiﬁcantly from its peak over the past year alone. 
+It's fallen from nearly 8% in June last year to 2% in the latest data for May and June, and we expect 
+consumer and price inﬂaƟon to edge up again in the second half of the year, perhaps to around 
+2.75%. 
+You can see that in the shaded area, but we then expect inﬂaƟon to revert towards the 2% target 
+over the next year. 
+Now, under the surface, the decline in the headline number has been driven by lower goods price 
+inﬂaƟon as reﬂected in negaƟve contribuƟons from energy prices. 
+
+
+That's the orange bars and fading contribuƟons from food and other goods that's purple and blue on 
+the chart. 
+As the eﬀects of lower energy prices fade over the coming months, more of the headline inﬂaƟon 
+number will be driven by services price inﬂaƟon. That's the yellow bars. 
+So, the stories behind the headline inﬂaƟon numbers really only emerge as we dive deeper into price 
+developments for goods and for services. 
+The story on energy prices is worth repeaƟng. AŌer sharp rises following the start of the war in 
+Ukraine, household energy prices fell signiﬁcantly in the second half of last year, with large declines 
+in the Ofgem price caps. These declines are currently pulling down on the annual measure of 
+inﬂaƟon. 
+In the latest number for June, household energy price inﬂaƟon was -27%. With a weight of 4% in the 
+consumer price index, that currently subtracts about a percentage point from headline inﬂaƟon. 
+Now, as last year's declines drop out of the annual comparison over the rest of this year, this negaƟve 
+contribuƟon from household energy prices will fade, and that's the main reason why we expect 
+headline inﬂaƟon to edge up in the coming months. 
+As chart two shows, core goods price inﬂaƟon has also fallen sharply over the past two years. That's 
+the orange line and we expect it to remain muted in the coming months. Again, that's shown in the 
+shaded area. 
+These are goods traded in internaƟonal markets and with supply chains restoring themselves and 
+signs of deﬂaƟon. DeﬂaƟon emerging in some key supplier countries, most notably China. Global 
+goods price inﬂaƟon should help keep goods price inﬂaƟon low for UK consumers. 
+By comparison, services price inﬂaƟon that's the blue line is declining more gradually. The conƟnued 
+strength in services inﬂaƟon reﬂects more persistent inﬂaƟonary pressures in the UK economy. 
+So-called base eﬀects from irregular falls in volaƟle components last year may even cause services 
+inﬂaƟon to rise slightly in August, before we can expect it to ease again throughout the rest of the 
+year. 
+While goods price inﬂaƟon has been a liƩle lower than we expected in May, services price inﬂaƟon 
+has been somewhat higher. As chart three shows. These surprises have come with an upƟck in 
+monthly services price inﬂaƟon rates, as are in orange, which can be indicaƟve of momentum in 
+price increases over the very near term. 
+Now, much of that strength has been driven by an increase in the components of the services basket 
+that are index linked or regulated. That's in blue, oŌen resulƟng in price rises in the month of April.  
+Monthly services price inﬂaƟon, excluding these components, along with other volaƟle components 
+such as airfares and hotels have been lower. 
+That's the Purple line, and this may be a beƩer guide to the direcƟon for services inﬂaƟon over 
+coming months, but we need to watch this carefully. 
+
+
+The Monetary Policy CommiƩee conƟnues to pay close aƩenƟon to services inﬂaƟon as an indicator 
+of persistence in domesƟc inﬂaƟonary pressures, along with a range of other economic indicators. 
+But this does not mean that we should adjust our course with every data surprise that comes in. 
+What maƩers for our policy decisions in the is the accumulaƟon of evidence about the medium-term 
+outlook for inﬂaƟon. 
+What the data adds to our understanding of the underlying dynamics in the UK economy that 
+ulƟmately determine the future path for consumer price inﬂaƟon. And given the Ɵme it takes for 
+monetary policy to have its full eﬀect, we need to be forward looking in determining how restricƟve 
+monetary policy should be to return inﬂaƟon sustainably to the 2% target. 
+A further factor in the MPC's assessment is the recent strength in economic acƟvity. 
+GDP growth has been noƟceably stronger than expected over the ﬁrst half of this year, following a 
+period of weakness in the second half of last year. The commiƩee sees it as most likely that 
+underlying momentum has remained more steady and that the balance between demand and supply 
+has remained stable. This judgment is supported by various indicators, which suggests that capacity 
+uƟlisaƟon and labour market Ɵghtness have moved by much less than the GDP numbers. 
+The job of monetary policy is to squeeze the persistent element of inﬂaƟon out of the system in a 
+way that is consistent with returning inﬂaƟon to target on a Ɵmely and sustained basis. That's what 
+we did by increasing Bank Rate to 5.25% and keeping it at that level for a year. That has leaned 
+heavily against second round eﬀects from global inﬂaƟonary shocks on domesƟc inﬂaƟon 
+persistence. 
+But we sƟll face the quesƟon of whether the persistence element of inﬂaƟon is on course to decline 
+to a level consistent with inﬂaƟon being on target on a sustained basis. And what it will take to make 
+that happen is the decline of persistence, now almost baked in as the global shocks that drove up 
+inﬂaƟon unwind. Or will it also require a period with economic slack in the UK economy? 
+Or are we experiencing a more permanent change to wage and price seƫng, which would require 
+monetary policy to remain Ɵghter for longer? 
+These have become important quesƟons in the MPC’s policy deliberaƟons. As policymakers, we can 
+have all three cases in our expectaƟons with diﬀerent weights aƩached to them, and those weights 
+can change over Ɵme. 
+The commiƩees collecƟve, modal or most likely projecƟon of the UK economy is consistent with a 
+relaƟvely benign view of inﬂaƟon persistence and what it takes from here to squeeze it out of the 
+system and return inﬂaƟon sustainably to target. 
+As chart four shows in the in this most likely projecƟon, condiƟonal on a market implied path of Bank 
+Rate that declines to 3.5% over the three year forecast horizon. Consumer price inﬂaƟon falls back to 
+1.7% in two years’ Ɵme, and to 1.5% in three years. 
+In this projecƟon, second round eﬀects and domesƟc prices and wages are judged to take longer to 
+unwind than they did to emerge, leading to some persistence in inﬂaƟonary pressures. But against 
+that, a margin of economic slack gradually builds over the forecast horizon, despite the recent pickup 
+
+
+in economic growth. As such, the most likely projecƟon encompasses the ﬁrst two relaƟvely benign 
+cases that I just described. 
+So the modal projecƟon reﬂects the commiƩee's collecƟve judgment that we are making good 
+progress in returning inﬂaƟon to the 2% target sustainably. The progress has become clearly visible in 
+measures of both inﬂaƟon percepƟons and inﬂaƟon expectaƟons. These are important determinants 
+of consumer price inﬂaƟon, given the role they play in wage and price seƫng in the economy. We 
+should expect that percepƟons of current inﬂaƟon and expectaƟons of future inﬂaƟon will play into 
+wage bargaining and price seƫng. 
+Chart ﬁve gives a snapshot based on the Bank's InﬂaƟon Aƫtudes Survey of UK households and its 
+Decision Maker Panel survey of UK businesses. Short term household inﬂaƟon expectaƟons in purple 
+on the leŌ-hand panel have conƟnued to fall alongside the observed decline in consumer price 
+inﬂaƟon, while medium term expectaƟons in orange remain stable. 
+Household’s percepƟons of the current rate of inﬂaƟon remain elevated. That's the blue line, but 
+they have fallen sharply and tend to react to headline inﬂaƟon with a lag. Similarly, ﬁrms’ current 
+inﬂaƟon percepƟons and inﬂaƟon expectaƟons over the short and medium term have also fallen 
+signiﬁcantly. That's the right-hand panel. 
+All of this points to a conƟnuing normalisaƟon of wage and price seƫng dynamics that the fall in 
+headline inﬂaƟon will feed through to inﬂaƟon expectaƟons and to weaker pay, wage pay and price 
+seƫng dynamics. 
+So even if we judge that second-round eﬀects will take longer to unwind than they did to emerge, 
+the evidence from these indicators is consistent with the view that second round eﬀects will conƟnue 
+to fade with the restricƟve monetary policy stance that we have put in place, and the emergence of a 
+margin of slack in the economy. 
+There is, however, an alternaƟve account of the economy, which is less benign than our most likely 
+projecƟon. And this account reﬂects a view that MPC members put some weight on to, albeit to 
+diﬀerent degrees, when reaching their conclusions on the appropriate degree of restricƟveness in 
+monetary policy. 
+This view is that the economy is closer to the third least benign case that I set out earlier, that 
+inﬂaƟonary pressures have become more ingrained in the UK economy as a result of structural 
+changes in product and labour markets as a lasƟng legacy of the major shocks that we have 
+experienced. 
+One possibility that the commiƩee has considered is that the rate of unemployment, below which 
+inﬂaƟonary pressures begin to build, may have gone up over recent years. 
+There is also a risk that recent upside news to economic acƟvity could reﬂect stronger demand 
+relaƟve to supply, in turn increasing inﬂaƟonary pressures in the UK economy over the medium term. 
+Now we can think of the alternaƟve view as a prototype economic scenario of the kind that Ben 
+Bernanke has recommended in his recent review of our processes, in Ɵmes of high uncertainty. As 
+we develop our response to Doctor Bernanke's recommendaƟons, we will be in a posiƟon to 
+
+
+arƟculate fully such scenarios in the report we present today, giving some weight to an alternaƟve, 
+less benign view of inﬂaƟon persistence is reﬂected in an upside risk or skewed to our inﬂaƟon 
+forecast. 
+The mean path for inﬂaƟon is higher than the modal or most likely path as a result. Whether we 
+think of the possibility of less benign developments and inﬂaƟonary pressures as an alternaƟve 
+scenario or as an upside risk, the message is the same. 
+We need to make sure that monetary policy is suﬃciently restricƟve for suﬃciently long that inﬂaƟon 
+remains near the 2% target.  
+Now weighing the evidence at this meeƟng, the Monetary Policy CommiƩee voted to cut Bank Rate 
+by 0.25 percentage points to 5%. 
+CPI inﬂaƟon has fallen markedly over the past year back to the 2% target. The impact from past 
+external shocks has abated and the risks of persistently high inﬂaƟon have moderated. So, it's now 
+appropriate to reduce the degree of restricƟveness a liƩle to ensure that inﬂaƟon remains 
+sustainably around the 2% target. 
+But key indicators of inﬂaƟonary pressures remain elevated, and recent strength in economic acƟvity 
+is added to the risk of more persistent inﬂaƟonary pressures. And this, of course, gives us pause for 
+thought. 
+Monetary policy will need to remain restricƟve for suﬃciently long unƟl the risks to inﬂaƟon 
+remaining sustainably around the 2% target in the medium term have dissipated further. 
+The commiƩee conƟnues to remain highly alert to the risks of inﬂaƟon persistence and will decide 
+the appropriate degree of monetary policy restricƟveness at each meeƟng. 
+So with that, Clair, Dave and I will be happy to take quesƟons. 
+KaƟe MarƟn Let's go to Faisal and then Ed, please. 
+Faisal Islam, BBC  
+Thanks, governor. Faisal Islam, BBC news. Other central bank colleagues in Europe have suggested 
+this phrase one and done. It seems to me from the minutes that's not what you're saying, that the 
+door is open for further rate cuts just not necessarily loads of them. And does this delicate balance 
+that you refer to, is it in any way interfered with or interrupted by above inﬂaƟon, public sector pay 
+seƩlements? 
+Andrew Bailey Sorry, there was the last point above inﬂaƟon. 
+Faisal Islam Public sector pay seƩlements.  
+Andrew Bailey So on this point about you know, is it one and done or is it more to come? 
+I want to just reemphasize the language partly the language I concluded with actually about 
+commiƩee remaining highly alert to the risks of inﬂaƟon persistence, and that we will decide, you 
+know, the appropriate degree of restricƟveness at each meeƟng. 
+
+
+And also, just point you to the ﬁnal paragraph of the monetary policy statement that we've issued 
+today, which essenƟally says a very similar thing, but is, frankly, language that we've used for some 
+Ɵme now, actually. 
+So nothing's changed in that respect. I'm not giving you any view on the path of rates to come. I'm 
+saying we will go from meeƟng to meeƟng, as we always do. And it's this judgment about resilience, 
+because if I can sort of ask a variant myself, a variant of your quesƟon, if you don't mind. I mean, if 
+you said to me, what's changed? The answer is nothing's really changed, actually much in terms of 
+the economic news. 
+It's that we have become more conﬁdent and over Ɵme of this path that we've observed for a while 
+now, this path of the eﬀect that the level of restricƟon is having and what it's doing, and we've 
+become suﬃciently conﬁdent now that we think we can reduce that degree of restricƟons a bit and 
+we will go on making that judgment. 
+So, on the second part of your quesƟon, Faisal, on the news on public sector pay, a couple of things 
+I'll say on that. First of all, the Treasury, obviously we have a Treasury representaƟve who is in the 
+commiƩee when we meet. We were very, very fully and properly briefed on it. A Chancellor and I 
+spoke on it as well. 
+Two things. First of all, we take we take the lead in terms of pay indicators from the private sector, 
+because the private sector pay is feeding through directly into the into CPI. But public sector pay 
+obviously has an eﬀect on demand and it can have a signaling eﬀect. On the whole, I think private 
+sector pay tends to lead public sector pay, and that's what we've been seeing actually if you look in 
+recent Ɵmes. 
+The second point I'll make is if you look at past behavior and you look at the incremental news, and 
+this is a very simple back of the envelope thing. So, you know, we'll get the full story with the 
+budgets obviously, because we haven't got the full story yet because obviously we don't know how 
+this is going to be funded. 
+The Chancellor's got decisions to make on that front. There's a lot of analysis to do. The OBR are 
+starƟng their process. And as you know, we condiƟon our view on of government policy on 
+announced government policies. And that will come with the budget. 
+But if you do a very simple back of the envelope on the increment to public sector pay that the 
+Chancellor announced, let's say increment, because obviously there is an assumpƟon already in 
+there. Going back to the budget earlier this year, the proverbial back of the envelope suggests an 
+increment in inﬂaƟon space, which is very small. 
+I mean, you're in quite small second decimal place numbers at that point. So, that's the back of the 
+envelope. We'll get a much beƩer story obviously by October the 30th when we get the budget. 
+KaƟe MarƟn Go ahead.  
+Ed Conway, Sky - Thank you. 
+Governor Ed Conway from Sky news. So, you've just cut interest rates, it's a big moment, but one of 
+the things you've menƟoned a couple of Ɵmes is that rates are sƟll in restricƟve territory. 
+
+
+So can you just expand on that a liƩle bit more so that people understand. 
+Does that mean that that they are sƟll likely to feel pain as a result of where interest rates, economic 
+pain as a result of where interest rates are right now, and when can they expect that to change for it 
+not to be in restricƟve territory or for it to be not painful? 
+Andrew Bailey Well, we look at RestricƟveness in terms of I mean, you can look at a number of ways, 
+but let's look at it in terms of where we think growth is relaƟve to potenƟal growth. For instance, in 
+the economy, we obviously had a very small recession at the end of last year. A number of causes, 
+you know, causes of that. 
+We are coming out of that now. 
+But as you see from our forecast for GDP, you know, we've got growth, you know, picking up it's a 
+liƩle bit inconsistent year by year and we've taken a rather sort of measured view, I would say, of the 
+latest news in terms of how it feeds through. But I think that's a path of growth where it suggests 
+that, you know, we're sƟll below potenƟal and we do have a small output gap opening up in the 
+forecast. 
+So I think that's one way of capturing the fact that there is sƟll a restricƟve seƫng in that sense, and 
+we think that's appropriate given I'd have to make this point again, having to ensure that the 
+persistence of inﬂaƟon is taken out of the system. So that's the way we look at it.  
+You know, we've talked about our star quite a lot and the neutral rate in these press conferences in 
+the past. 
+I think, you know, we don't provide we've never been in really of the view that we should we provide 
+a quanƟtaƟve number on what that is. But I think, as you know, from things that we've published in 
+the past, I think, you know, policy is above a neutral rate at this point, and we would see it gradually 
+coming down as this degree of degree of inﬂaƟon persistence comes out. 
+So there is yeah, there's a way to go sƟll. And it's consistent with I know you probably say the 
+message I kept giving during my introductory remarks, which is, you know, we've got to monitor this 
+very carefully as to how over what period of Ɵme and under what condiƟons, we can start to, you 
+know, start to release that. 
+And I'm not giving any predicƟons on how that will work through. 
+KaƟe MarƟn Great. Can we go to Sam and then Sue, please? 
+Sam Fleming, Financial Times. 
+Over the past year or so, the Bank has been quite clear in the tests. It's seƫng itself, in a sense, for 
+gauging what policies should do. The focus has been on labour market condiƟons, wage growth and 
+services price inﬂaƟon. 
+Paragraph 24 [in the MPC Minutes] today slightly broadens this and talks more generally about 
+persistence. Can you talk a liƩle bit about why in a sense you're changing this, this, this language and 
+what we should read into that? 
+
+
+And second of all, you talked again, per the previous quesƟons about not moving too quickly in that 
+context, do you think the market is geƫng ahead of itself and expecƟng another rate cut before the 
+end of the year? 
+Andrew Bailey Well, I'm not going to comment on the market curve because I really rarely do 
+actually. So, the market will take a view and I'm sure the market will be studying carefully what we've 
+done and said today. So that's them. I'll give a view. I'm sure Clare may want to come in on this.  
+I mean, you rightly pick up that we've reposiƟoned things today, and I really am very keen that you 
+sort of take that message away, actually and the reposiƟoning is this and it's sort of hopefully you 
+saw it in the remarks that I just made that the indicators are important the data is obviously 
+important, but we felt that at this point, when we made this change in policy, it was appropriate to 
+give something more of a framework within it described the framework that we're looking at, policy, 
+which I would say really sits above then the data indicators, the data indicators, obviously, if you like, 
+are the evidence that supports the framework, but the data indicators are not the framework 
+themselves. 
+And so I go back to this sort of, you know, trilogy that I set out about, you know, what is this? What is 
+the sort of what are the dynamics at the moment? You know, are we seeing, you know, largely self-
+correcƟon of these big global shocks and that, that will feed through to then taking the persistence 
+out? 
+You know, I think if you if you put all your sort of, all your chips on that slot, as it were, you would say, 
+well, that's a preƩy benign story, then that's a very good news story. 
+The second intermediate case I set out was, well, actually, no, you get take that, but you also need 
+something of an output gap to open up, so it sort of goes back to Ed's quesƟon, actually about 
+RestricƟveness. You can see that we have got an element of that in the in what we published today. 
+And then the third one is rather diﬀerent in a sense, but not but not inconsistent. So, say as I said 
+earlier, you can have all three and your weights as it were. But the third one is saying, look, we've 
+been through these huge shocks, parƟcularly Covid. Has this caused structural changes in the 
+economy, which we, of course, then have to take into account in the way we think about policy now, 
+you know, diﬀerent members put diﬀerent weights on these. 
+But Clare may want to develop this a bit? 
+Clare Lombardelli  
+Sure. Thanks, Andrew. 
+I mean, as you say, what we're doing here is we're looking at the accumulaƟon of the evidence that 
+we've seen, over recent months, I mean, over, over the year, really, and thinking about how does 
+data and the new data we get ﬁt into that, and how does it ﬁt into that overall picture relaƟve to our 
+expectaƟons? 
+So as the data evolves and what we've seen recently is that it is evolving broadly in line with that 
+expectaƟon, and that gives you more conﬁdence that you're in this world where inﬂaƟon pressures 
+are inﬂaƟonary, pressures are reducing. 
+
+
+As Andrew says, we are also conscious of this risk that, you know, we might be in a sort of alternaƟve 
+world where you've got either stronger demand, more acƟvity, or you've seen structural changes in 
+the economy, you know, post the shocks that we've had. And it's really about thinking about how do 
+we think about those risks. How do we factor them into our policymaking? 
+I mean, this is one of the areas that, you know, Ben Bernanke really focused on in in his report, which 
+is and we're puƫng quite a lot of thought into his how do we think about risks? How do we think 
+about uncertainty, and how do we build that into policy making in a way that is sort of useful? 
+Thoughƞul. 
+And that's the work that we're undertaking now thinking about. 
+And you can see sort of here sort of bringing that, you know, doing, doing some of that in what we've 
+done today in talking about this alternaƟve approach, this framework that allows people to sort of 
+think about that balance of risks and as the evidence evolves, as we say, it gives us more certainty 
+we're in one world than the other. 
+But of course, there is uncertainty out there, and that's why we have to keep vigilant. 
+Sue Chan, Telegraph  Just another one on public sector pay rises. Rishi Sunak has just tweeted that 
+he is concerned that Labour's inﬂaƟon - these are his words - InﬂaƟon busƟng pay deals have put 
+further Bank of England cuts at risk. Does your previous answer suggest that you disagree with that. 
+And just another one on the minimum wage if I may. There's a number of things that businesses are 
+telling your agents on how they're coping with higher minimum wages, such as cuƫng hours and 
+increasing non pay beneﬁts. 
+Does that suggest that there's a sense among businesses that they are reaching the limits of what 
+they can absorb on the minimum wage? 
+Andrew Bailey Well, let me take the two separate quesƟons. 
+Take the ﬁrst one, I think just go back to what I said before. I think it's now. The next step in this 
+process now is obviously the budget on the 30th of October, because what we had this week was 
+obviously a statement nut it needs to be sort of, in a sense, fully ﬁlled in as the Chancellor said, 
+nothing, nothing, nothing, nothing diﬀerent from what the Chancellor said there. 
+And parƟcularly, obviously, the quesƟon of, you know, of funding and so on, that goes with that. So, 
+we will wait for that news and then we can fully process that, as we always do as announced 
+government policy and see where it comes out. 
+So that's the ﬁrst one on the NaƟonal Living Wage. I mean, you're correct. And, you know, it's raised 
+and it's in our summary of our agents forecasts that, you know, when I go around, I think when we all 
+go around the country, I go around the country a lot, I mean, the naƟonal living Wage does get raised 
+quite a lot. And we spend quite a lot of Ɵme looking at it. 
+I would say that actually when we look at if you go back to the May forecast. Pay has actually evolved 
+preƩy much exactly as we thought it would back in May. We haven't had any surprises on that front 
+It's coming down quite gradually, but it is coming down. So, we've had no surprises on that front. 
+
+
+So, I think what I take from that is that the eﬀects that the naƟonal living wage that we built in at 
+that point have not, in a sense been contradicted by, by bad news on the upside. We haven't seen 
+that, frankly. You know, we're very you know, we're obviously very vigilant on all that front, but we 
+haven't seen any news that contradicted the view we took at that point. 
+But look, we listen, and I listen and I spend a lot of Ɵme going around the country, and I do listen to 
+what our contacts tell us about that. 
+And by the way, it's that both the naƟonal living wage itself and it's this what they tend to call 
+compression risk that you get, which is of course, is that it does have an eﬀect in a sense, you know, 
+above that because otherwise diﬀerenƟals get compressed as a point that ﬁrms make very regularly 
+to me. So it is a, you know, it's a point they make and we recognize and we factor into our thinking. 
+Dave Ramsden  It's absolutely the case that when you go round doing our agents visits, we get that 
+reporƟng back on the impact of the NaƟonal Living wage. And we ﬂagged it, as Andrew was saying, 
+very much as a risk at the Ɵme of the May forecast, because we didn't know how it was going to 
+land. As we report in in this report, we for the for the reasons Andrew set out we imagined it an 
+esƟmated it would add about 0.3 percentage points to aggregate pay growth.  
+ And that looked that looks to be, from what we can see so far it has had what we're describing as a, 
+a small impact so far in aggregate wage growth, so very much in line with expectaƟons. So that's a 
+risk that at least so far hasn't crystalised. We'd incorporated it. And as and as Andrew stressed, we've 
+seen wage growth very much following that projecƟon that we had at the Ɵme of the May forecast. 
+It's come down to 5.6% in the latest three months and for private sector regular wages. And that was 
+our forecast. 
+KaƟe MarƟn Let's go to Ashley and then Phil Inman. 
+Ashley Armstrong, The Sun Hi. Thank you. 
+Obviously this rate cut is good news for borrowers and those with mortgages, but less good news for 
+savers. What we found last Ɵme around, when rates were rising, was that the high street banks were 
+very slow to pass on the beneﬁts of the higher interest rates. Can you now sense who's going to 
+beneﬁt most? Will the savers be hit quicker? 
+Do you think that the banks are being faster to react to what the base rate is doing, or will it be kind 
+of more beneﬁt to the borrowers? 
+And then if I could squeeze in one, about a lot of readers are kind of making big decisions about their 
+lives and their homes and whether to remortgage. 
+What would you tell them if they were trying to make a decision on whether to remortgage now or 
+wait? 
+Andrew Bailey Well, we're rather careful as a Bank of England not to give ﬁnancial advice Actually, as 
+you'll understand what I would say is this, I mean, if you look at the paƩern, if you look at the sort of 
+path of mortgage rates, let me say a couple of things. 
+
+
+I mean, they are actually now over 1% lower typically than they were this Ɵme last year. And I think 
+what that tells us is that, you know, expectaƟons of where inﬂaƟon was going to go to have, you 
+know, have, shiŌed. InﬂaƟon has come down, you know, more rapidly than I think all of us feared this 
+Ɵme last year, in terms of the, the global shocks wearing their way through. 
+And that's obviously good news. Now mortgage look at look at it more immediately. Mortgage rates 
+have also come down, obviously less. Part of that fall I described over the year has actually happened 
+in sort of recent weeks actually. Now, of course, these days with most mortgages being ﬁxed rate 
+over some period of Ɵme, they're at term they're actually essenƟally priced oﬀ the swap curve in 
+ﬁnancial markets. So, they reﬂect obviously what ﬁnancial markets think is going to happen to rates. 
+And so, you have seen some easing oﬀ, in the last few weeks and month or so. 
+Now we'll see how we see how markets react to the news today. 
+I mean, you know, that will be interesƟng because you might say, well, that move I just described was 
+in some sense sort of discounƟng what markets thought might happen. Because, if you look at 
+pricing, markets have been essenƟally pricing a cut either today or in the September meeƟng. So, 
+you know, they had got that cut priced in. 
+If you look at savings, let me I've said this before, I would draw a disƟncƟon between term deposits 
+and site deposits. So term deposit rates have eﬀecƟvely followed mortgage rates. There may be 
+Ɵming diﬀerences immediately that that can happen, obviously. But if you look at the last year, I 
+think you ﬁnd term deposit rates and mortgage rates have moved preƩy similarly. 
+Site deposits have not moved as much and that's true over the whole period of recent years that the 
+movement of term deposit rates has been larger than site deposit rates. 
+And I've said, I think I've certainly said in the Treasury Select CommiƩee hearings before that one 
+way of raƟonalising that actually, is to switch then to the other side of our sort of acƟviƟes, of the 
+regulatory side. That we now put a lot more value on term deposits rather than site deposits because 
+of the fact they don't run as quickly if they have a problem. And that's reﬂected in the regulatory 
+liquidity structure and framework and so banks do price them accordingly. I think we're seeing we've 
+been seeing some of that in recent years. 
+Ashley Armstrong For those who might not realise the site deposits are easy access where you can 
+withdraw your money. And term deposits are… 
+Andrew Bailey Term deposits are for a period of Ɵme yea So three months, six months whatever. 
+Dave Ramsden And if I can we put the usual chart in the MPR chart 2.7 on page 38 that that tells the 
+story in a chart that Andrews just told. Obviously, the other thing that was happening with site 
+deposits, instant access, is that, you know, at the Ɵme when interest rates were very low, margins did 
+really get squeezed. And so there was some rebuilding of margins. It's very important that that 
+rebuilding of margins shouldn't go too far, but it was necessary. 
+And so, you know, we'll, we'll certainly be tracking, as we always do, what happens to, both site and 
+term deposit rates. Now, that Bank Rate, has been cut today. 
+
+
+Andrew Bailey Yeah. I don't want to spend my Ɵme promoƟng my own speeches, but the speech I 
+gave at Loughborough University earlier this year goes through that point that Dave's just made in 
+some probably grinding detail that you really don't want to read. 
+But if you do. 
+KaƟe MarƟn Go ahead. 
+Phillip Inman, Guardian You've got a predicƟon of lower growth and higher unemployment in the 
+second year of the forecast. 
+Do you can you explain to people why that's a price worth paying? 
+And also, Dave, could you give us an explanaƟon of you've obviously voted, at an earlier stage for a 
+cut in rates. 
+Is there a cost to not having moved earlier? 
+Andrew Bailey Well, let me start on Phillip on the growth and unemployment point. 
+And what I would say is this that the path of unemployment that we now have in this, in this report is 
+a lot shallower than two things. One is paths we had in the past. Two is history. And one of the you 
+know, one thing I think quite notable thing that doesn't get said much is just how liƩle 
+unemployment has moved actually in the last few years, and that's a good thing. It's a very good 
+thing. 
+Now there's a liƩle bit of uncertainty, as we know about exactly what the rate of unemployment is at 
+the moment in this country with the problems with the Labour Force survey. But, you know, we use a 
+lot of other indicators to track what we think it is And it's somewhere in the lowish 4% range. 
+If you look back in history, I mean, I I'm not I'm not going to comment on how old you are. I'm old 
+enough to remember when it, you know, it was the headline in every newspaper and every news 
+program, if you go back to the 70s and 80s, I mean, this is a very diﬀerent cycle. 
+So I don't want to see unemployment go up at any Ɵme. But this is I mean, it's a much shallower 
+path. 
+Why have we got that? Well, it really goes back to the sort of the three points, the three, the three 
+parts to the framework I made. I said earlier, one is this sort of in a sense, self-correcƟng path. 
+The other is where restricƟon does have some impact via an output gap, which does cause some, 
+you know, put some added weight onto the sort of onto the restricƟveness of monetary policy to get 
+this persistent inﬂaƟon point out. 
+But it's a lot it's a lot milder than we've seen historically to be, to be honest with you. 
+Dave Ramsden And all I’d as is, the degree of restricƟveness that we've sƟll got, I think everyone on 
+the commiƩee sees that as necessary to squeeze the persistent part of inﬂaƟon to ensure that 
+inﬂaƟon stays sustainably at target. As I've said before, I said it in May when I did vote for a cut. 
+
+
+Today is really about the collecƟve posiƟon, so I'm not going to get into discussing those kinds of 
+issues today. But there'll be there'll be there'll be opportuniƟes in the future to hear from individual 
+members. Thanks. 
+KaƟe MarƟn We'll go to Joel and then Phil. 
+Joel Hills, ITV 
+The MPC has been quite pessimisƟc on the potenƟal growth rate of the economy relaƟve to the OBR 
+relaƟve to the IMF, and looking through the forecasts today, that seems to sƟll be the case. 
+Happily, we have a new government with a the outline of a plan to kick start growth. 
+Are there things that the government can announce in the next few months that would cause the 
+Bank to be less pessimisƟc on the economy's medium term prospects. 
+And what view would the Bank take of a Trump presidency? 
+What impact would that likely have on the outlook for growth and inﬂaƟon, please? 
+Andrew Bailey Well, I'll take those in reverse order. 
+I and I'm sure Clare may want to come in on the ﬁrst. I won't burden Clare with the second. We take 
+no view on the potenƟal of who will win the US presidenƟal elecƟon. We will obviously be interested 
+in the outcome, but we do not take a view on who's going to be the next president of the USA. Sorry. 
+Well, we'll see who wins and what their what their policies are. And yeah, we always we always 
+condiƟon our view on announced UK policies, let alone everybody else's policies. So we'll leave that 
+there. 
+I mean on the quesƟon of growth, as I'm sure Claire want to come in. First of all, we always condiƟon 
+on announced government policies. The government is obviously very new, and it will formulate its 
+views on what it wants the growth policies to be, and we will factor those into our thinking about the 
+supply capacity of the economy. 
+I also want I mean, I do agree very strongly both, by the way, both with the current chancellor and 
+the previous chancellor, because actually there's very liƩle diﬀerence here that there are important 
+things that need to be done. 
+Important things that need to be done, parƟcularly in the ﬁnancial sector, to encourage investment 
+in the producƟve capacity of the economy. I'm a very strong supporter of that. I was very strongly 
+supporƟng Jeremy Hunt in that. And I will take the same view with Rachel Reeves, at which point I'll 
+hand over to Clare. 
+Clare Lombardelli Thanks, Andrew. 
+I mean, yeah, it's you know, we're not we're not going to write the budget here and nor should we. I 
+mean, clearly, you're right We've got growth, sort of underlying growth in our forecast at around 
+0.3% a quarter. 
+
+
+So, you know, is it isn't, you know, at the moment we think, that that is obviously slightly lower than 
+what we've seen in recent quarters. We think most of that was volaƟlity rather than momentum. But 
+in the medium term, we think if you look at what's in the data, including things like the business 
+surveys, that's more consistent with where we're likely to go. I mean, obviously there's a set of things 
+that could be done that can raise potenƟal growth. 
+Those are clearly things that would help with any, any sense around sort of inﬂaƟon and, and, and 
+output and that trade oﬀ there. But, we think what we've got in our forecast broadly in line with 
+what the data is telling you and the underlying drivers of growth. 
+Dave Ramsden But just to underpin what Clare was just saying and also what Andrew was just 
+saying, the reason that it will be a focus of this government as the previous government is, you know, 
+as we set out, each Ɵme in table 1D, labor producƟvity one was 1.75% on average 1998 to 2007. 
+And then it was 0.75% 2010 to 2019. So we've had that signiﬁcant shorƞall in producƟvity growth 
+compared to history and we've taken an assessment, of where it's going to go in future that hasn't 
+changed since our last supply stock take. Overall, we had supply growth at 1.5% a year. 
+We keep reassessing that depending on what happens, in the economy, one thing that we focused 
+on this Ɵme and it's, it's more in Andrew's third case the case where there have been more structural 
+challenges is that maybe the he NAIRU, the medium term equilibrium unemployment rate, could be 
+a liƩle bit higher than we've currently esƟmated, that in and of itself would actually be negaƟve for 
+supply growth. 
+But as Andrew and Claire were implying, there are lots of things that could be posiƟve for supply 
+growth, but we're going to have to look at these things in the round. And can do that with each Ɵme 
+we come back and present a forecast in our supply stock takes. 
+Phil Aldrick Bloomberg Just looking at the inﬂaƟon forecasts, they come down to below 2% at the 
+two year and the three year horizon, which suggests that policy is too Ɵght. So it implies that you 
+either cut faster or further. I just wondered which is more likely. 
+And it's great to see growth being upgraded in the short term. But the Prime Minister has said that 
+he would like to see a 2.5% ambiƟon, and I can't see any of that in the forecast. 
+I just wondered how probable what the probability of a 2.5% might be. 
+Andrew Bailey Well, you quoted the modal inﬂaƟon forecast. We also have a mean path for inﬂaƟon, 
+which, as I said in my introductory remarks, starts to bring in this alternaƟve scenario, to use Ben 
+Bernanke's phraseology. The mean path is actually much nearer, much nearer to target. 
+So, it goes back to this point about I made about what weight you place on those paths in thinking 
+about the, the stance of monetary policy going forward. So, I think that's the way to look at that one. 
+On, longer term growth I think we'll just come back to the point we were making earlier. 
+Look, we always condiƟon on announced government policies. At the moment, I would say, and this 
+is essenƟally I mean, Dave's just given you the ﬁgures, actually. The potenƟal growth rate is probably 
+
+
+below the sort of historic trend of potenƟal growth rates. The historic trend of potenƟal growth rates 
+is more in the 2 to 2.5% range. It's below that, has been for a while. 
+We will obviously very keenly follow what policies the government decides to adopt and then put 
+those through the process we use in assessing the supply side of the economy and the stock takes 
+we do on that and see where we come out. 
+But it's too soon to do that. 
+Jack BarneƩ, The Times  
+Governor, you've outlined two scenarios where interest rates could be a bit higher and obviously 
+you've outlined all the risks around that as well. 
+I just wondering whether or not you think it's reasonable for people watching this press conference 
+and reading the report to think that we're going back to a world where interest rates are going to be 
+much lower, i.e., are we going back to the world before the pandemic where we had rates near the 
+zero bound? 
+Andrew Bailey  Well, let me start by saying we're very clearly not going to sort of give you a sort of a 
+quanƟﬁed path of where interest rates are going to go that will emerge.  
+So I'll just make one point here, because I think it's important because I get asked this quesƟon a lot, 
+It's a reasonable quesƟon. Where are we going to? I think it's reasonable to say that it's unlikely that 
+we are going back to the world we were in between 2009, actually post the ﬁnancial crisis and the 
+point at which we started raising rates. 
+And the reason for that is that that world was really driven by very big shocks, if you think about it. 
+So obviously, the ﬁrst driving shock was the global ﬁnancial crisis. And then a number of others came 
+along, most recently Obviously, Covid would be the one to point to there. 
+You know, and I say that not because I think if you, you know, what would take us back to that world? 
+Well, I would deduce from history that what would have to take us back to that world is some very 
+big shock that we don't know about at the moment. So, it's much more likely, it seems to me, that 
+we're going back to a world - and it's going back to Ed's quesƟon actually- where we will be 
+somewhere around whatever the neutral rate turns out to be, which let me say, it's reasonable to say 
+is lower than we are at the moment because we're describing policy as restricƟve, but it's higher 
+than we were between 2009 and when we started raising rates, for the point I just made about 
+external shocks. 
+Joasia Popowicz, Central Banking  
+So Joasia Popowicz Central Banking. in the report, it says events in the Middle East have had 
+relaƟvely liƩle impact on inﬂaƟon to date and that there is a risk of intensiﬁcaƟon over a longer 
+period, given the events we've seen only just this weekend, does this assessment already need to be 
+revised. 
+Andrew Bailey So it's a good quesƟon. 
+
+
+Events in the Middle East are tragic and it's terribly sad to watch it. 
+It has had far fewer economic consequences than to two sort of points of comparison. One is history. 
+So if you go back to the 1970s, for instance, and secondly, therefore actually then I think many of us 
+feared when these events started last October, and we can sort of speculate on why that is. 
+But, I mean, the easiest one to look at is the oil price. I mean, we've not had a big spike up in the oil 
+price, which, you know, say drawing on the lessons of history, it would have been perfectly 
+reasonable to expect might have happened if you took a rather simplisƟc approach to the lessons of 
+history. 
+So that's encouraging. But I have, you know, there's always a but I think we have to be very vigilant 
+on this front. I think we decided that the risk, the skew that we had in the forecast, you know, up Ɵll 
+now since those events started, we wouldn't retain because of the fact that we haven't seen the 
+signs of it emerging. But I don't for a moment want to give you the impression that means we're not 
+very vigilant about this because, as you rightly said, things can change very quickly. 
+Chris Giles, Financial Times 
+You say in the report that you don't want to go to cut rates too much or too quickly. Can you deﬁne 
+too much and too quickly, or is it just vibes? 
+Andrew Bailey Well, I'm not going to deﬁne it. I'm going to come back to the framework that we set 
+out. 
+I think we're going to have to, at each meeƟng, come back to this and say, and it's why I made the 
+point that in a sense we've raised this assessment framework up a level from, from the evidence 
+itself, but we're then going to ask ourselves the quesƟon, what does the evidence that we've had 
+since we last sort of considered it tell us about the framework. And what does it tell us about these 
+sort of three parts of the framework? 
+Are we seeing, you know, more evidence that, you know, this persistent inﬂaƟon evidence, the fact 
+that the second-round eﬀects, are taking longer to dissipate, than, than inﬂaƟon did to emerge. No 
+great surprise about that based on history. 
+But what are we learning about this? And that's what we'll do. So I'm not going to say, what is it? I'm 
+not going to tell you what it means because we don't know at this stage. I think what it means is 
+there are a number of potenƟal paths here. Each member of the commiƩee will give somewhat 
+diﬀerent weights to those three parts to the framework and that's absolutely fair and 
+understandable. You know, reasonable people can do that, and I would also, be sure that each of us 
+will, in a sense, recalibrate those as we see the evidence, and that's how we will do it. 
+Andy Bruce Reuters. I've got a quesƟon about QuanƟtaƟve Tightening. 
+In the MPR It's menƟoned that it's, there's a degree of uncertainty about how QT will interact with 
+rate cuts because it's never been tried before. 
+
+
+And then it goes on to say if QT has a bigger impact than expected, then the level of Bank Rate allows 
+some scope for it to be cut to counteract that if necessary. My quesƟon is why wouldn't you just 
+pause QT or reduce it in that situaƟon and use Bank Rate, which is quite a rough tool. 
+Andrew Bailey Well, I'm sure Dave will want to come in, but I feel so terrible about this, but I'm going 
+to refer to another of my speeches. If you read the speech I gave at LSE a couple of months ago, the 
+reason I say that I in that speech I set out what I regard as an important part point. There are two 
+parts to the path, really. Because, by the way, we're moving to a system where the level of reserves, 
+bank, central bank reserves will be demand driven. 
+It's a bit diﬀerent from the fed there where they they've more set a supply set sense framework that 
+they want to have ample reserves. Now we can't tell you what that what the precise point where we 
+hit that sort of demand number is we're not we're not there yet. We know that. But the reason I say 
+that is that the ﬁrst part of QT is to do with reducing the level of reserves to the sort of the 
+equilibrium level, if you like. We think we may get there later next year, but we don't know for 
+certain. The second, the second part comes thereaŌer. That's not about the level of reserves. 
+It's actually about a diﬀerent issue, which is what is the right set of assets for the Bank of England to 
+have on its balance sheet to match the level, the equilibrium level of reserves? 
+And that's really about what where do we want the interest rate risk to be in that world. Should the 
+central bank be bearing it, or should the market out there be bearing it? And you'll take a preƩy big 
+clue from what I said at the LSE, that I'm more in favour of the laƩer than the former. 
+Dave, what do you want to. 
+Dave Ramsden Yeah, just to, I guess, try and locate, the kind of immediate decision that we have to 
+make. Andrews talked more about the longer-term consideraƟons and where we could be going, but 
+we will make our, decision for the next QT year, in September. And that will be based - and this is 
+what we set out in box A- where we've done our annual review of how, how QT is operaƟng based on 
+the last year, on three key principles. And we've stressed these ever since we ﬁrst set things out, 
+actually, three years ago, I think it was August 2021. The ﬁrst one is that Bank Rate’s going to be the 
+acƟve tool.  
+And we really do want QT to be in the background. We're not going to do QT if it risks disrupƟng the 
+funcƟoning of ﬁnancial markets. And linked to that, we also want to take a gradual and predictable 
+approach. So, what we have put in for this year's box is the point you were quoƟng around what 
+happens now. It turns out that this meeƟng we have we have reduced Bank Rate. 
+Where does that leave QT? Well, those principles sƟll absolutely apply. And also, we've always been 
+very clear that QT does have a small impact.  
+We esƟmate it. If you look at we've done just over or we will have done by the Ɵme we complete 
+this, this year's, Q2 will have done, Just over 200 billion, we’ll have reduced the APF from 895 billion, 
+down by over 200 billion. That was the peak. And we think that, our central esƟmate has had about a 
+0.1% impact on long term interest rates. It could be as much as 0.2, but those are preƩy small 
+numbers, especially when you think about the context of where Bank Rate is now. 
+
+
+And that comes back to this point about we're conﬁdent that we can keep operaƟng in the 
+background for the next year, consistent with our principles. And given where Bank Rate now is, if 
+there needs to be some kind of, adjustment, we've got more than enough space to do that. But as 
+I've said, our central esƟmate for the impact of QT through term premia is about 0.1. So, you know 
+we've cut Bank Rate by 0.25 today. So that gives you a sense of the relaƟve the relaƟve dimensions 
+there. 
+Steve Sedgwick CNBC. 
+Governor I just want to follow up. Actually, I think it was on Sam's quesƟon earlier on. You've 
+condiƟoned all of us. You've condiƟoned the city to worry more about services, inﬂaƟon and average 
+wage inﬂaƟon, the bete noires of the Bank of England. 
+But you've changed your mind to cut on the basis of a very, very minor decline in both of those 
+measures since your last decision, are you telling the city, which CNBC and others represent here, 
+that actually the city should turn down its algorithms, sensiƟvity to those twin measures. 
+And secondly, former Bank of England, economist, she was in the, I think, the structural economy, 
+department as well. 
+Rachel Reeves has just discovered a £20 billion plus black hole shock horror as well. 
+Is the Bank of England as shocked as the former employee Rachel Reeves is about this huge black 
+hole? And what are the ramiﬁcaƟons of that? 
+Andrew Bailey Well, I think we leave ﬁscal policy to the government. 
+Steve Sedgwick But it maƩers for the structural economy, doesn't it, if there's a 20 billion hole? 
+Andrew Bailey I set out earlier, actually, I think it was Ed's quesƟon, how we think about that. I made 
+the point that actually we look primarily at private sector wages And, you know, we think public 
+sector wages play a role, but they're not the direct input into, into inﬂaƟon measures. And I did say, 
+you know, you've got to if you if you get the back of your envelope out, you've got to think about 
+what the sort of the increment to, to public sector wages would be relaƟve to what was expected 
+and then, you know, calibrate what you think, that what you think the inﬂaƟon impact of that will be. 
+Well, now we'll know a lot more about that when we have the budget. But if you do a sort of rough 
+back of the envelope calculaƟon isn't that large actually.  
+So that's the point on services and wages. No, we're not, we're not sort of this is not a sort of scrap 
+this look, look at this. Let's put it was puƫng it into a framework, which was my point about Sam's 
+quesƟon. So good quesƟon. 
+Actually, as I said earlier, if you look at wages, actually the path of wages since May, since we were 
+siƫng here three months ago, has been preƩy much exactly what we thought it would be. 
+Services inﬂaƟon has been a bit higher. But other goods, goods have been lower. And as I did 
+menƟon in my opening remarks, you can spend a lot of Ɵme in the entrails of services inﬂaƟon, 
+because that's our job really. 
+
+
+And, you know, we can tentaƟvely, I think, but only very tentaƟvely, say, look, some of the more sort 
+of, if you like, sort of stable and less volaƟle elements look as if they're more stable and declining 
+than some of the other elements. 
+But look, you know, we will get a lot, a lot more informaƟon before we're next here. 
+And respond accordingly. 
+So no, I'm not in any sense sort of changing the message there other than, as I said earlier, I think 
+Sam's quesƟon again, with very deliberately sort of put in place a sort of framework and to give you 
+a, you know, a good sense as to how we interpret it. 
+Eshe Nelson New York Times, I did want to go back to that new services inﬂaƟon chart you showed 
+that kind of separated out the indexed, regulated part of inﬂaƟon and other parts. 
+And just kind of ask is that in new informaƟon that you're showing us that there's a lot of it was 
+indexed, regulated components of inﬂaƟon leading to higher services suggests that you could look 
+through that a bit more and then kind of focus on the other secƟons of inﬂaƟon of services, inﬂaƟon 
+that suggests it should be lower. 
+I'm just kind of trying to understand beƩer which bits you're looking at within it, but also make the 
+argument that you can always slice the inﬂaƟon data, the services inﬂaƟon data, in ways that support 
+a narraƟve. And we've kind of just been presented now with another one as a rate cut comes along. 
+And just a Ɵny quick follow up quesƟon for Clare, which is now you're, got your feet under the desk 
+as deputy governor, what are the ﬁrst prioriƟes in terms of implemenƟng the blanket review that 
+you've got into? Thank you. 
+Andrew Bailey Well, I'll start you make a really good point, of course, that one of the dangers of our 
+trade is that you slice things up so much that you lose the big picture. And, you know, we we're very 
+conscious of that. But you rightly raise that point. 
+So, hoping to avoid that all, I think the point is some of the sort of what I call the sort of regulated or 
+indexed services prices. I mean, we've all probably had our mobile phone bills and slightly nasƟer 
+teeth at the thought of RPI plus, element to it. That, of course, is a is actually a sort of form of price 
+indexaƟon. So, it has its own dynamic. 
+And obviously given what's happened to headline inﬂaƟon, obviously we should expect those index 
+prices to adjust accordingly when they're next reset. So, I think you have to look at you do have to 
+look at one set of services prices diﬀerently to others. 
+There are others that are very volaƟle. You know, we've observed, I mean, hotel prices are a good 
+example. I think there's what's called now dynamic pricing goes on a lot where they're adjusted 
+much more frequently. 
+And then as a set of services that are sort of probably behaving more in a sort of way they've 
+behaved for a long Ɵme. So, I think it's sensible to look at all of those components, to look at them 
+individually. 
+
+
+But then you have to put the whole story back together again, because it would be unwise to 
+obviously take in decisions on interest rates based on based on one part of the story and not the 
+others. 
+Clare Lombardelli Yeah. Thanks. 
+I mean, just actually on that point and on this sort of how we're interpreƟng data and thinking about 
+it, I think it's important to disƟnguish between, you know, has the data gone up or down, and did the 
+data do what we expected it to do was it in line with what we thought? 
+And that's quite important because it's the second, if you like, that gives you more conﬁdence of 
+which sort of world you're in in terms of is the economy evolving as we expected it to. And so, I 
+think, I think that, you know, that's an important part of how we're thinking about this, not just the 
+sort of direcƟon of the data, but is it is it in line with what we would expect under the scenario, the 
+scenarios we're thinking about?  
+On Bernanke? Yeah. I mean, you know, geƫng my feet under the table and beginning to really get 
+into the detail of some of this, I think there's a number of I mean, there was a lot in that report. So, 
+it's a, it's a really big it's a really sort of comprehensive report. 
+There's a lot of recommendaƟons that cut right across the way we think about and do monetary 
+policy, a few things, are clearly really important parts of that. 
+One is this issue that we've touched on a lot today about how do we think about risk and 
+uncertainty, and how do we sort of factor that into our processes around monetary policy making, 
+and what's the best way to do that? 
+There's a lot of complexity, and these are really complicated issues. 
+There's a lot of complexity underneath the opƟons of the diﬀerent ways you can do that. 
+There's related to clearly a set of issues around, you know, the role of the central forecast. 
+And we've talked about this a bit also today, part of one of another things that came out of Bernanke 
+is this quesƟon about actually, how do you think about supply shocks in parƟcular, and how do you 
+put that into this framework? 
+I guess the ﬁnal thing I would say is that a really big priority, and it's very clear coming in, to this new 
+and it's probably the least glamorous bit. And so, the bit you all might want to write about less, but 
+actually some of the infrastructure we use for our technology, how do we think about data as new 
+data comes in? How do we process that data? What suite of models are we using and thinking about 
+the economy and modeling the economy and doing our forecasts, all those sorts of things. 
+[01:02:09] There's actually a huge amount in all of that. It's going to take quite a bit of Ɵme, I think. 
+And, for us to, for us to sort of progress those agendas. But, you know, there's an awful lot in it and 
+it's going to be quite a programme of work over some Ɵme. 
+Anna Wise, Press AssociaƟon 
+
+
+How much is the current level of interest rates sƟll weighing on living standards, parƟcularly now 
+that inﬂaƟon has returned to normal levels? And I just wondered how much you think today's cut is 
+going to improve senƟment among households and businesses, or will there be some 
+disappointment that they might not see mortgage pricing parƟcularly come down immediately aŌer 
+this? 
+Andrew Bailey Well, I said earlier, I mean, in some ways, of course, because mortgages are priced oﬀ 
+the curve of the interest rate curve you've already seen some movement in mortgage prices over 
+recent weeks and months. 
+So, I think you have to be sort of these days, you have to be sort of conscious that some pricing is an 
+anƟcipaƟon eﬀect. Obviously, those are commercial decisions, but there's some anƟcipaƟon eﬀect 
+going on there relaƟve to what comes aŌerwards. So, I think, you know, you have to sort of look at 
+the whole the whole range of things there. 
+I'd really on the level of interest rates, I'd go back to the point I made earlier. Yes, rates are sƟll 
+restricƟve and that's necessary to get this, get the second-round eﬀects and the persistence of 
+inﬂaƟon out. So, you know, there will be obviously beneﬁts to this. I mean, we are already, and we 
+have been for a year or so, you know, household net income, real household net income growth has 
+been posiƟve for a year or so now. And of course, that's because inﬂaƟon has come down rapidly. So 
+that that is a beneﬁt. Obviously, it stands against what happened before that, that obviously. 
+So, as for what happens to conﬁdence, well we'll see. 
+Francine Lacqua Bloomberg. 
+Governor, you dropped the upside inﬂaƟon skew in May. Now it's back. So, what's changed? Are you 
+pushing back against market exuberance or is it really like an inﬂaƟon change. 
+Andrew Bailey It's a diﬀerent skew. So, it goes back to the earlier quesƟon on the we had a middle 
+East, you know, a middle East skew in before. As I was saying earlier, we've taken that skew out for 
+the reasons I gave earlier. But what we've now got is essenƟally a domesƟc, a domesƟc risk in there. 
+So, they might look a bit the same, but they're not, they're quite the stories behind them are quite 
+diﬀerent. 
+Geoﬀ Smith, PoliƟco Hello. Slightly bad-tempered quesƟon here. 
+Are you at all concerned by the move in Sterling at 8:00 this morning? Sterling did not wait for the 
+announcement to move. It was 0.8%, 0.9% down. And the move, you know, it was a very clear. Buy 
+the rumor. Sell the fact. Move. 
+Andrew Bailey Well, I think a lot of things have been going on in the last 24 hours, so. 
+Geoﬀ Smith There's no trigger at eight except the naƟonwide. Sorry, there was no trigger at eight, 
+which except the naƟonwide house prices, which were above expectaƟons. 
+Andrew Bailey  Well, there was a there was a there was a Federal Reserve decision last night. Yeah. 
+You know, there's a lot going on in the world economy. There was a Bank of Japan decision yesterday. 
+So, there's a lot going on in the world economy. And that's what aﬀects exchange rates. 
+
+
+So, so I wouldn't I mean, look, I think what we've observed, Jeﬀ, over the last actually the last few 
+days actually is a slight shiŌ in market anƟcipaƟon of what the decision today would be from. 
+I think our market staﬀ were saying it was 50:50 this Ɵme last week. It was about 6040 by the Ɵme 
+we sort of, you know, got to work this morning. I don't think there's any parƟcular story behind that. I 
+mean, markets, will form their own views. 
+And as I say, there's a lot going on in the rest of the world, so I wouldn't put anything more in it than 
+that. 
+KaƟe MarƟn Great. 
+Thanks very much, everyone.  
+ 

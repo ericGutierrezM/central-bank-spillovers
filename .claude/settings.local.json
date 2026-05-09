@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python src/fed_pdf_to_txt.py)",
+      "Bash(python -c ' *)",
+      "Bash(python src/boe_pdf_to_txt.py)",
+      "Bash(python src/ecb_normalize.py)",
+      "Bash(python src/standardize_cleaned.py)"
+    ]
+  }
+}
