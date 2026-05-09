@@ -37,3 +37,53 @@ Author: Samuel Fraley (BSE 2025–2026)
 - Next milestone: write and test the LLM scoring prompt (Hawkishness 1–10, Uncertainty 1–10) on a small batch
 
 ---
+
+## Session 2 — 2026-05-09
+
+**Goal:** Standardize Fed and BoE into `transcripts_cleaned/`, set up session logging, and plan coverage visualization.
+
+**Completed:**
+- Built `src/standardize_cleaned.py` — copies Fed and BoE processed files into `data/transcripts_cleaned/`, filtered to 2015–2025 study window, with consistent naming:
+  - Fed: `Fed_YYYYMMDD_{meeting|confcall|presconf}.txt` (90 files; 84 pre-2015 dropped)
+  - BoE: `BoE_YYYYMM_{transcript|opening}.txt` (82 files; 2 post-2025 dropped)
+- Created `sam_fraley_log.md` (this file) for session-by-session research logging
+- Created `CLAUDE.md` defining the `/wrap-up` command — appends a new session entry to this log
+- Coverage visualization script (`src/coverage_timeline.py`) initiated via Codex — parses filenames across all three cleaned folders, counts documents per month, plots 3 stacked bar subplots + shared panel; pending review
+
+**Corpus state after this session:**
+
+| Bank | Location | Files | Coverage |
+|------|----------|-------|----------|
+| Fed | `data/transcripts_cleaned/Fed/` | 90 | 2015–2025 |
+| BoE | `data/transcripts_cleaned/BoE/` | 82 | 2015–2025 |
+| ECB | `data/transcripts_cleaned/ECB/` | 89 | 2015–2025 |
+
+**Open questions / next steps:**
+- BoE counts 2 files per meeting (transcript + opening) — decide whether coverage plot shows files or meetings
+- BoE has no exact day in filenames (YYYYMM only) — need exact MPC dates for event-study alignment
+- Review and run `src/coverage_timeline.py` once ready
+- Next milestone: write and test the LLM scoring prompt (Hawkishness 1–10, Uncertainty 1–10) on a small pilot batch
+
+---
+
+## Session 3 — 2026-05-09
+
+**Goal:** Collect equity and VIX daily data; spot-check coverage.
+
+**Completed:**
+- Collected daily equity indices and VIX via yfinance; stored in `data/controls/`
+  - `global_indices_daily.csv` — Date, FTSE 100, S&P 500, Euro Stoxx 50 (2927 rows, 2015-01-02 to 2026-05-08)
+  - `vix_daily.csv` — Date, VIX (2854 rows, 2015-01-02 to 2026-05-08)
+- Spot check results:
+  - No duplicate dates in either file
+  - FTSE 100 and S&P 500: no missing values
+  - Euro Stoxx 50: 1 missing value (needs investigation)
+  - VIX has 73 fewer rows than equity file — likely a calendar mismatch; needs alignment check
+
+**Open questions / next steps:**
+- Identify which date has the missing Euro Stoxx 50 value and fill or flag it
+- Reconcile the 73-row gap between VIX and equity files (different trading calendars from yfinance?)
+- A proper health-check script (`src/check_controls.py`) should be written to automate this for future data pulls
+- Next milestone: write and test the LLM scoring prompt (Hawkishness 1–10, Uncertainty 1–10) on a small pilot batch
+
+---
