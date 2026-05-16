@@ -17,25 +17,37 @@ def download_fed_transcripts():
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     })
 
-    # 1. Build a comprehensive list of pages to scan for PDFs
-    pages_to_scan = [main_calendar_url]
-    for year in range(2007, 2027): 
-        pages_to_scan.append(f"{base_url}/monetarypolicy/fomchistorical{year}.htm")
+    # 1. Build a comprehensive list of BASE calendar pages
+    calendar_pages = [main_calendar_url]
+    for year in range(2015, 2027): 
+        calendar_pages.append(f"{base_url}/monetarypolicy/fomchistorical{year}.htm")
 
-    # 2. Extract intermediate "Press Conference" HTML pages from the main calendar
-    print(f"Pre-scanning main calendar for intermediate media pages...")
-    try:
-        response = session.get(main_calendar_url, timeout=10)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        for link in soup.find_all('a', href=True):
-            href = link['href']
-            if 'presconf' in href.lower() and '.htm' in href.lower():
-                full_media_url = urljoin(base_url, href)
-                if full_media_url not in pages_to_scan:
-                    pages_to_scan.append(full_media_url)
-    except requests.exceptions.RequestException as e:
-        print(f"[-] Failed to pre-scan calendar: {e}")
+    # 2. Pre-scan ALL calendar pages for intermediate "Press Conference" HTML pages
+    print(f"Pre-scanning all calendar pages for intermediate media pages...")
+    
+    # We will eventually scan all base calendars PLUS any intermediate pages we find
+    pages_to_scan = list(calendar_pages) 
+    
+    for cal_url in calendar_pages:
+        try:
+            response = session.get(cal_url, timeout=10)
+            if response.status_code == 404:
+                continue # Skip future years that don't exist yet
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Look for the intermediate links you discovered
+            for link in soup.find_all('a', href=True):
+                href = link['href']
+                if 'presconf' in href.lower() and '.htm' in href.lower():
+                    full_media_url = urljoin(base_url, href)
+                    if full_media_url not in pages_to_scan:
+                        pages_to_scan.append(full_media_url)
+                        print(f"  [+] Found intermediate page: {full_media_url}")
+                        
+        except requests.exceptions.RequestException as e:
+            print(f"[-] Failed to pre-scan {cal_url}: {e}")
 
     # ==========================================
     # NEW: Local File Detection
@@ -66,7 +78,7 @@ def download_fed_transcripts():
             href = link['href']
             link_text = link.get_text(strip=True).lower()
             
-            is_historical = 'transcript' in link_text and '.pdf' in href.lower()
+            is_historical = 'presconf' in link_text and '.pdf' in href.lower()
             is_recent = 'presconf' in href.lower() and '.pdf' in href.lower()
             
             if is_historical or is_recent:
@@ -284,5 +296,5 @@ def download_boe_transcripts():
 
 if __name__ == "__main__":
     download_fed_transcripts()
-    download_ecb_transcripts()
-    download_boe_transcripts()
+    #download_ecb_transcripts()
+    #download_boe_transcripts()
