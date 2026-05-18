@@ -22,7 +22,7 @@ a sustained period of strong labor market conditions that benefit all.
 From the standpoint of our congressional mandate to promote maximum employment and 
 price stability, the current picture is plain to see:  The labor market is extremely tight, and 
 inflation is much too high.  Against this backdrop, today the Federal Open Market Committee 
-raised its policy interest rate by ¾ percentage point and anticipates that ongoing increases in that 
+raised its policy interest rate by 0.75 percentage point and anticipates that ongoing increases in that 
 rate will be appropriate.  In addition, we are continuing the process of significantly reducing the 
 size of our balance sheet.  I’ll have more to say about today’s monetary policy actions after 
 briefly reviewing economic developments. 
@@ -83,13 +83,13 @@ high inflation poses to both sides of our mandate, and we are strongly committed
 inflation to our 2 percent objective. 
 Against the backdrop of the rapidly evolving economic environment, our policy has been 
 adapting, and it will continue to do so.  At today’s meeting, the Committee raised the target 
-range for the federal funds rate by ¾ percentage point, resulting in a 1½ percentage point 
+range for the federal funds rate by 0.75 percentage point, resulting in a 1.5 percentage point 
 increase in the target range so far this year.  The Committee reiterated that it anticipates that 
 ongoing increases in the target range will be appropriate.  And we are continuing the process of 
 significantly reducing the size of our balance sheet—which plays an important role in firming the 
 stance of monetary policy. 
 Coming out of our last meeting in May, there was a broad sense on the Committee that a 
-½ percentage point increase in the target range should be considered at this meeting if economic 
+0.5 percentage point increase in the target range should be considered at this meeting if economic 
 and financial conditions evolved in line with expectations.  We also stated that we were highly 
 attentive to inflation risks and that we would be nimble in responding to incoming data and the 
 evolving outlook.  Since then, inflation has again surprised to the upside, some indicators of 
@@ -211,13 +211,13 @@ which you would proceed going forward.
 Just talking about the SEP for a second:  What it really says is that Committee 
 participants widely would like to see policy at a modestly restricted—restrictive level at the end 
 of this year.  And that’s six months from now, and so much data [can accrue] and so much can 
-happen, so remember how highly uncertain this is.  But so that is generally a range of 3 to 3½ 
+happen, so remember how highly uncertain this is.  But so that is generally a range of 3 to 3.5 
 percent.  That’s where people are, and that’s what they want to see, knowing what they know 
 now and understanding that we need to be—we need to show resolve but also be flexible [in 
 responding] to incoming data as we see it.  If things are better, we don’t need to do that much, 
 and if they’re not, then we either do that much or possibly even more.  But in any case, it will be 
 very data dependent.  Then you’re looking at next year, and what you’re seeing is, people see 
-more—a bit more tightening and a range of maybe 3½ to 4 percent.  And that’s generally what 
+more—a bit more tightening and a range of maybe 3.5 to 4 percent.  And that’s generally what 
 
 
 June 15, 2022 
@@ -240,7 +240,7 @@ follow-up, could you break that apart for me?  How much of that is restrictive, 
 that is a normal positive rate that ought to be embedded or not, in your opinion, in the funds rate? 
 Thank you. 
 CHAIR POWELL.  Sure.  So the question really is, how high does the rate really need to 
-go?  And this is—the estimates on the Committee are in that range of 3½ to 4 percent.  And how 
+go?  And this is—the estimates on the Committee are in that range of 3.5 to 4 percent.  And how 
 do you think about that?  Well, you can think about the longer-run neutral rate, you can compare 
 it to that, and we think that’s in the mid-2s.  You can look, frankly, at broader financial 
 conditions.  You can look at asset prices, you can look at the effect they’re having on the 
@@ -477,7 +477,7 @@ we have.  So we have to restore that, and it really is in service, in the medium
 the kind of labor market we want and hope to achieve. 
 MICHELLE SMITH.  Matt. 
 MATTHEW BOESLER.  Hi, Chair Powell.  Matthew Boesler with Bloomberg.  So, as 
-you just mentioned, the Committee is now projecting a ½ percentage point rise in the 
+you just mentioned, the Committee is now projecting a 0.5 percentage point rise in the 
 unemployment rate and the SEPs over the next couple of years, and it removed a line from its 
 policy statement about thinking that the labor market can remain strong while it tightens policy.  
 You just mentioned that that is still your objective, though, so I’m wondering if you could 
@@ -691,7 +691,7 @@ Page 23 of 27
  
 progress, and that’s really another part of why we did what we did today and why the SEP looks 
 like it does.  We see it as appropriate to get the policy rate up to restrictive levels, which would 
-be, in the thinking of the Committee, somewhere in the range of 3 to 3½ percent by year-end.  
+be, in the thinking of the Committee, somewhere in the range of 3 to 3.5 percent by year-end.  
 And then after that, you see what the rest of the SEP says.  So I hope that’s responsive to your 
 question. 
 MICHELLE SMITH.  Nancy. 
@@ -731,7 +731,7 @@ did another—so we’re going to get here by the end of the summer, somewhere i
 probably.  Still, that’s still a low rate.  So that’s not a rate that is calculated to bring a recession 
 on.  And we’ll—by then, we’ll have seen a whole lot more data.  As I mentioned a couple times, 
 the Committee’s views are around a modestly restrictive stance, which will be in the 3 to 
-3½ percent range by the end of this year, but that’s conditioned on that being the appropriate 
+3.5 percent range by the end of this year, but that’s conditioned on that being the appropriate 
 thing to do.  If we see data going in a different direction, it’ll be reflected in our policy, as you 
 see today.  We’ll be watching—if things go in a direction we don’t expect, then we’re going to 
 adapt.  And I would say, this is a highly uncertain environment—extraordinarily uncertain 

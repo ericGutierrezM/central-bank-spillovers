@@ -267,7 +267,7 @@ federal funds rate hits the ELB, it remains there until certain threshold condit
 attained at which point it follows again the prescriptions of the asymmetric rule.  The 
 bottom figure displays the results for two alternatives:  one, the black dashed line, in 
 which the federal funds rate stays at the ELB until the unemployment rate drops 
-below 3½ percent (1 percentage point below the long-run natural rate of 
+below 3.5 percent (1 percentage point below the long-run natural rate of 
 unemployment for these scenarios), and another, the blue dotted line, in which the 
 ELB binds until the inflation rate rises above 2 percent. 
 In the FRB/US model, these threshold conditions lower the path of the federal 
@@ -285,15 +285,15 @@ July 31–August 1, 2018
  
  
 restrain the decline in inflation.  In particular, as shown in the top figures, under either 
-an unemployment rate threshold of 3½ percent, the black dashed lines, or an inflation 
+an unemployment rate threshold of 3.5 percent, the black dashed lines, or an inflation 
 threshold of 2 percent, the blue dotted lines, the unemployment rate converges back 
-to the natural rate by 2023, while inflation bottoms out at 1½ percent, around 40 basis 
+to the natural rate by 2023, while inflation bottoms out at 1.5 percent, around 40 basis 
 points above its trajectory absent threshold-based guidance. 
 In long-run stochastic simulations, we find similar results.  Under the asymmetric 
 rule, the median unemployment rate for a quarter in which the ELB is binding is 
-6½ percent.  If we resimulate those draws under one of the two thresholds just 
+6.5 percent.  If we resimulate those draws under one of the two thresholds just 
 described, however, the median unemployment rate would decrease by around 
-¼ percentage point.  Likewise, the median inflation rate would improve by as much 
+0.25 percentage point.  Likewise, the median inflation rate would improve by as much 
 as 40 basis points. 
 I will now hand over the discussion to my colleague Bernd Schlusche, who will 
 present our second exhibit in which we assess the efficacy of balance sheet policies. 
@@ -337,7 +337,7 @@ over 100 basis points more negative, on average, over the next several years und
 LSAP policy than under the MEP policy.  As a result, the unemployment rate, the 
 blue dotted line in the bottom-left figure, declines faster over the medium term, 
 reaching its natural rate four quarters earlier than under the passive policy.  The 
-inflation path is about ½ percentage point higher than under the passive policy at the 
+inflation path is about 0.5 percentage point higher than under the passive policy at the 
 trough, as shown in the bottom-right figure.  Because of the more rapid economic 
 recovery, the federal funds rate—not shown—departs from the ELB three quarters 
 sooner than under the passive policy.  Regarding the macroeconomic effects, we note 
@@ -348,7 +348,7 @@ effectiveness of the balance sheet measures.
 We also analyze the relative performances of the LSAP policy and the passive 
 policy in stochastic simulations.  In those simulations, we find that by 2020 the LSAP 
 policy reduces the median unemployment rate when the ELB binds by about 
-¼ percentage point compared with the outcome under the passive policy.  The median 
+0.25 percentage point compared with the outcome under the passive policy.  The median 
 inflation rate rises about 20 basis points. 
 The bottom panel summarizes the main messages of our memo.  The results 
 suggest that there is a material risk that the ELB will bind in the future.  We find that 
@@ -558,7 +558,7 @@ July 31–August 1, 2018
 in these countries have converged toward a common trend, and this can be thought of as a world 
 r*. 
 This common trend has declined nearly 2 percentage points over this period, with the 
-most recent estimate being around ¼ percentage point.  And this finding is in line with the GDP-
+most recent estimate being around 0.25 percentage point.  And this finding is in line with the GDP-
 weighted estimates of r* in my work with Kathryn Holston and Thomas Laubach.  The decline 
 in r* is a widespread phenomenon that began well before the Great Recession, and it’s primarily 
 driven by global developments related to demographics, productivity, and the demand for safe 
@@ -573,9 +573,9 @@ corresponding to the range of estimates in the June SEP.  But this conflates dis
 modal forecasts—which is typically pretty small—with true uncertainty—which is very wide, 
 especially with regard to r*. 
 Let me give a real-world example that makes this point.  If one had conducted the same 
-exercise back in January 2012, the range of r* estimates in the SEP was 1¾ to 2½ percent.  In 
+exercise back in January 2012, the range of r* estimates in the SEP was 1.75 to 2.5 percent.  In 
 other words, the most pessimistic view in the Committee back in 2012 about r* was that it was 
-1¾ percent.  And this compares with the current range of 1¼ to 1½ percent, which lies entirely 
+1.75 percent.  And this compares with the current range of 1.25 to 1.5 percent, which lies entirely 
 outside the range that we wrote down less than seven years ago.  So, from a risk-management 
 perspective, in which a low r* is far more damaging than a high r*, analysis of the implications 
 July 31–August 1, 2018
@@ -958,7 +958,7 @@ mind, that suggests that a review is warranted.  Some of you have heard me make 
 before.  Between 1995 and 2012, we arguably followed a de facto price-level targeting policy in 
 which inflation was sometimes above target and inflation was sometimes below target, but, on 
 average, we stayed on a 2 percent price-level path. 
-Since 2012, we’ve moved off that path and by a substantial margin—about 4½ percent 
+Since 2012, we’ve moved off that path and by a substantial margin—about 4.5 percent 
 off the price-level path.  And this makes me think that we’re no longer behaving as de facto 
 price-level targeters.  And, possibly, we have moved away from what would otherwise be more 
 closely aligned with the optimal policies that come out of our models. 
@@ -988,7 +988,7 @@ It’s also due to the substantial decline in potential output growth.  Standard
 is going to have a relationship between the decline in growth and r*.  The outlook is for r* to 
 remain lower than we expected when we agreed on our 2 percent symmetric inflation target.  So 
 I think this is a big change and challenge for us from 2012. 
-Under our median assessment for the neutral nominal federal funds rate of 2¾ percent, 
+Under our median assessment for the neutral nominal federal funds rate of 2.75 percent, 
 we could quite often run out of room to deliver the typical 500 basis point reduction in short-
 term policy rates that we have used in the past to mitigate economic downturns.  This was also 
 mentioned earlier.  We’d then be forced to turn to alternative instruments to provide monetary 
@@ -1523,10 +1523,10 @@ funds rate pinned at the lower bound has been a key consideration animating my p
 since shortly after I got here, as it appeared increasingly likely that the equilibrium interest rate 
 would remain much lower than it was in the decades before the crisis.  And, in fact, you can see 
 that evolution of thinking, as distilled in the SEP.  The median participant in the most recent SEP 
-expected a longer-run federal funds rate of 2¾ percentage points, which is down sharply from 
+expected a longer-run federal funds rate of 2.75 percentage points, which is down sharply from 
 the value that we saw just a few years ago, in 2012—the first time that these projections started 
-to be collected—when that estimate was at 4¼ percent, which was close to the average value of 
-4½ percent that we saw in the decades before the crisis.  That is a large loss of policy space. 
+to be collected—when that estimate was at 4.25 percent, which was close to the average value of 
+4.5 percent that we saw in the decades before the crisis.  That is a large loss of policy space. 
 July 31–August 1, 2018
 48 of 219
 
@@ -2113,7 +2113,7 @@ years.  As a whole, the data that have become available since the June Tealbook 
 been a little stronger in this regard than we expected.  The latest real GDP data have 
 far exceeded our expectation.  The BEA currently estimates that real GDP increased 
 about 4 percent at an annual rate in the second quarter—the blue dot in panel 1 of 
-your first exhibit—¾ percentage point above our June forecast.  However, a large 
+your first exhibit—0.75 percentage point above our June forecast.  However, a large 
 portion of the upward surprise was in net exports, and we expect much of the bump 
 from that source to be unwound over the second half of the year.  For 2018 as a 
 whole, our forecast of real GDP growth is 3 percent, 0.2 percentage point higher than 
@@ -2178,8 +2178,8 @@ We continue to anticipate that real output will rise faster than potential throu
 potential, partly because our baseline forecast continues to assume that the stance of 
 policy will shift from accommodative to somewhat restrictive, and partly because 
 some supply constraints emerge.  The unemployment rate—the black line in 
-panel 5—is expected to reach 3½ percent by the middle of next year and then to 
-remain at that level, which is 1¼ percentage points below our estimate of its natural 
+panel 5—is expected to reach 3.5 percent by the middle of next year and then to 
+remain at that level, which is 1.25 percentage points below our estimate of its natural 
 rate, over the remainder of the medium term. 
 As shown in panel 6, the continued improvement in labor market conditions has 
 been broadly shared across racial and ethnic groups.  At present, the three-month 
@@ -2202,7 +2202,7 @@ percentage point relative to the comparable period four quarters earlier, the ra
 whites declined 0.5 percentage point, the rate for Hispanics declined 0.6 percentage 
 point, and the rate for blacks declined 1 full percentage point.  Nonetheless, as is all 
 too evident from the chart, the relative positioning of the unemployment rates remains 
-stubbornly entrenched, with the unemployment rate for blacks averaging 2¾ 
+stubbornly entrenched, with the unemployment rate for blacks averaging 2.75 
 percentage points more than the rate for whites in the second quarter of this year.  In 
 addition, it seems that there is every reason to believe that when the next recession 
 hits, the differential between unemployment rates will widen back out again. 
@@ -2354,7 +2354,7 @@ Your next slide focuses more closely on the AFEs.  Much has been made of the
 weakening tone of the data we’ve been receiving in recent months, and, as shown on 
 the left, the black line indicates that we’ve indeed been revising down our forecast for 
 growth in 2018.  However, the markdowns have been quite small, totaling only about 
-¼ percentage point, and the PMIs and monthly activity indicators for the region are 
+0.25 percentage point, and the PMIs and monthly activity indicators for the region are 
 still pretty solid.  Accordingly, the forecasts for GDP growth in 2019 and 2020, the 
 red and blue lines, have been little changed.  On the right, our forecast model of 
 recession probabilities in the AFEs, obtained using economic activity data and 
@@ -3272,7 +3272,7 @@ unemployment rate, generates higher wages at the state level and possibly even m
 unemployment dips especially low.  If we start to see more wage and price pressures as labor 
 markets tighten over the course of this year, an important question will be how much we should 
 tighten monetary policy in response.  It is notable that the Tealbook projection needs monetary 
-policy to tighten vigorously by 2020, with the federal funds rate reaching 4¾ percent, just to 
+policy to tighten vigorously by 2020, with the federal funds rate reaching 4.75 percent, just to 
 stabilize the unemployment rate at 3.4 percent and ultimately move us in the direction of full 
 employment.  In contrast, the median SEP has the unemployment rate stabilizing at a slightly 
 higher unemployment rate of 3.5 percent with much less tightening.  The median federal funds 
@@ -3454,8 +3454,8 @@ As a final thought, let me return to price-level targeting and just put a though
 head.  From 1995 to 2012, as I mentioned earlier, U.S. monetary policy did look like de facto 
 price-level targeting directed towarda 2 percent rate of price-level increase.  We did stay right 
 around that trend line all during that 17-year period.  Since 2012, we have fallen off that price-
-level path, and we’re now about 4½ percent below that path.  To get back to that price-level path, 
-which could be argued to be optimal monetary policy, we would have to be at 2½ percent 
+level path, and we’re now about 4.5 percent below that path.  To get back to that price-level path, 
+which could be argued to be optimal monetary policy, we would have to be at 2.5 percent 
 inflation for a decade.  So I put that out there as a rule of thumb about what we should be 
 thinking about in terms of optimal future monetary policy for the Committee.  Thank you, Mr. 
 Chair. 
@@ -3483,7 +3483,7 @@ forces are likely to exert offsetting pressures in the opposite direction from n
 In the future, it’s likely that above-trend growth will continue here at home.  Business 
 confidence and consumer confidence remain high, and we’ve yet to see the full effects of the 
 recent tax cuts and spending increases.  The staff’s estimates suggest that fiscal impetus will 
-contribute about ½ percentage point to real GDP growth this year and next. 
+contribute about 0.5 percentage point to real GDP growth this year and next. 
 Looking at global real growth, we are seeing somewhat greater divergence.  After posting 
 solid gains last year and early this year, foreign economies appear, overall, to be settling into 
 something closer to trend growth.  Real GDP growth in the advanced foreign economies appears 
@@ -3510,7 +3510,7 @@ Chinese imports as well as pronouncements by Chinese monetary authorities of eas
 But broader comprehensive indexes suggest overall financial conditions remain quite 
 supportive of real GDP growth and are little changed on net.  As of Friday, the 10-year Treasury 
 yield was unchanged from the June meeting.  Private-sector yields are also little changed.  Equity 
-prices are up about ¾ percent since June.  But as I just noted, the stronger dollar provides 
+prices are up about 0.75 percent since June.  But as I just noted, the stronger dollar provides 
 somewhat of an offset to that. 
 Regarding our policy goals, the economy’s underlying strength is confirmed in evidence 
 of a very strong labor market.  So far this year, payroll gains have averaged over 200,000 per 
@@ -3534,7 +3534,7 @@ Wages also suggest a mixed picture.  With productivity gains over the past coupl
 years now moving back toward pre-crisis levels, I will be looking for nominal wage gains also to 
 move back up to pre-crisis levels, a period when core inflation was just slightly above 2 percent.  
 For the ECI, it looks like we may be within striking distance.  This morning’s data, with the ECI 
-increasing 2.9 percent over the most recent four quarters—that is about ¼ percentage point shy 
+increasing 2.9 percent over the most recent four quarters—that is about 0.25 percentage point shy 
 of the pace in 2005 to 2007—suggest that resource utilization is indeed getting tighter. 
 Regarding the second leg of our dual mandate, overall inflation measures are also 
 encouraging.  First, this morning’s report suggested core prices were up 1.9 percent, up a few 
@@ -3557,7 +3557,7 @@ July 31–August 1, 2018
  
  
  
-clustered around 1¾ percent, not yet evidencing any upward movement.  In order to ensure that 
+clustered around 1.75 percent, not yet evidencing any upward movement.  In order to ensure that 
 inflation expectations are firmly re-anchored at 2 percent for all of the reasons we discussed this 
 morning, I am comfortable with having a monetary policy that tolerates a modest overshoot 
 along the lines of the median path we saw in the most recent SEP. 
@@ -3574,7 +3574,7 @@ by that clock.  Thanks.
 CHAIRMAN POWELL.  Okay.  The economic go-round continues with President 
 Kaplan. 
 MR. KAPLAN.  All right.  Thank you, Mr. Chairman.  The Eleventh District economy 
-continues to be very strong.  In Texas, job growth was estimated to be 3½ percent in the second 
+continues to be very strong.  In Texas, job growth was estimated to be 3.5 percent in the second 
 quarter of 2018 and 3.6 percent job growth for the first half of the year.  This is an unprecedented 
 rate of job growth for the State of Texas.  Employment gains are broad based geographically and 
 across industries, but the energy sector is still adding jobs at a faster rate than any other sector in 
@@ -3622,11 +3622,11 @@ Saudi Arabia and Russia, that they plan to increase production.  Just to put all
 U.S. production certainly is growing very rapidly, and we see this in the cap-ex numbers.  Our 
 estimates indicate that U.S. production already reached 11 million barrels a day in early July.  
 That’s crude oil production.  The United States now roughly matches the production of all of 
-Saudi Arabia.  And in comparison, Russia produces about 11½ million barrels of crude oil per 
+Saudi Arabia.  And in comparison, Russia produces about 11.5 million barrels of crude oil per 
 day on average. 
 The reason I mention these numbers is, behind those big three, you get Iran and Iraq.  
 Iran hasn’t been discussed as much, produces about 3.8 million barrels a day, and exports about 
-2½ million barrels a day.  And you could see why, even though Saudi Arabia increased their 
+2.5 million barrels a day.  And you could see why, even though Saudi Arabia increased their 
 production, there are limits to their ability to offset what might be lost from Iran.  It’s our own 
 estimate that the increase from Saudi Arabia and Russia just offsets the loss of production from 
 Venezuela and a modest expectation for loss of exports from Iran.  I’ll come back to that.  About 
@@ -3652,7 +3652,7 @@ volatility.  And at this point, we are particularly vulnerable to an upward pric
 if the United States presses and is successful in causing Iran’s exports to be substantially 
 curtailed. 
 Right now, our own judgment is, the market is assuming that we’re going to lose only 
-about 250,000 barrels a day from Iran exports.  As they export 2½ million barrels, that could 
+about 250,000 barrels a day from Iran exports.  As they export 2.5 million barrels, that could 
 easily be more.  It would not surprise us to wake up one day and see the price spike up because 
 of either some miscalculation or other issue with Iran that curtails their exports.  So we are 
 worried about tariffs, but we probably add to the watch-out list this issue of a sudden price spike 
@@ -3758,7 +3758,7 @@ guiding the economy along a sustainable growth path and that monetary policy can
 alter that path. 
 Our outlook for inflation has moved up a touch, and we now have core PCE inflation 
 reaching 2.2 percent in 2020, but I think it is very unlikely that inflation will be much higher 
-over the forecast period—say, above 2½ percent—on a sustained basis.  Even though many of 
+over the forecast period—say, above 2.5 percent—on a sustained basis.  Even though many of 
 July 31–August 1, 2018
 112 of 219
 
@@ -3916,7 +3916,7 @@ July 31–August 1, 2018
  
  
 further and the unemployment rate to move down, and I expect that, over the forecast horizon, 
-the unemployment rate will remain below its longer-run level, which I estimate at 4½ percent. 
+the unemployment rate will remain below its longer-run level, which I estimate at 4.5 percent. 
 The inflation news is positive.  Inflation continues to firm, with recent total and core PCE 
 inflation readings near 2 percent.  And with measures of long-run inflation expectations broadly 
 stable, I expect inflation to be sustainable near 2 percent over the medium-run horizon. 
@@ -4132,7 +4132,7 @@ The national economy continues to power along.  Even smoothing through the secon
 quarter surge, real GDP is expanding well beyond its potential rate.  Similarly, employment 
 growth continues to surpass its underlying sustainable pace, which is especially impressive this 
 far along in the expansion.  We expect the unemployment rate to fall further, bottoming out 
-around 3½ percent toward the middle part of next year, and this labor market strength should 
+around 3.5 percent toward the middle part of next year, and this labor market strength should 
 support ongoing gains in wages and salaries. 
 One potential downside risk to the outlook comes from rising trade frictions.  While 
 concerned, my District contacts have not yet seen significant negative effects, and they remain 
@@ -4231,7 +4231,7 @@ growth measures relative to past expansions and what the moderate pace of wage g
 about the cyclical position of the economy.  Certainly, a tightening labor market should boost 
 wage growth, but I increasingly see other factors weighing on wage acceleration, including 
 slower structural productivity growth during this expansion, a longer-term decline in the labor 
-share of income—which has fallen in the business sector from 63 percent in 2000 to 56½ percent 
+share of income—which has fallen in the business sector from 63 percent in 2000 to 56.5 percent 
 July 31–August 1, 2018
 128 of 219
 
@@ -4332,11 +4332,11 @@ objective of 2 percent.  It should continue to remain there for the rest of the 
 So, taken together, the recent data point to a picture of an economy that’s heating up even 
 as we progressively remove policy accommodation.  Fiscal policy is providing significant 
 stimulus, and, as the Tealbook emphasizes, the trend in global real GDP growth remains positive.  
-I expect U.S. real GDP growth to be about 3¼ percent this year and to moderate to about 2½ 
-percent in 2019, still far above my estimate of 1¾ percent for potential growth. 
+I expect U.S. real GDP growth to be about 3.25 percent this year and to moderate to about 2.5 
+percent in 2019, still far above my estimate of 1.75 percent for potential growth. 
 So, consistent with this strong outlook for growth, I anticipate the unemployment rate 
-will edge down to a touch below 3½ percent by next year, well below my estimate of the natural 
-rate of unemployment, and I see unemployment remaining around 3½ percent through 2020.  
+will edge down to a touch below 3.5 percent by next year, well below my estimate of the natural 
+rate of unemployment, and I see unemployment remaining around 3.5 percent through 2020.  
 That’s the strongest labor market we will have seen in 50 years. 
 With such a sustained tight labor market, I expect wage and price inflation to pick up 
 further, producing a modest overshooting of our 2 percent objective in the next couple of years.  
@@ -4957,7 +4957,7 @@ time.  The lack of immediate inflation pressures, in a situation of an apparentl
 curve, gives us the flexibility to move more gradually than we have in the past, when inflation 
 concerns became acute more quickly. 
 While gradual increases still remain appropriate, we are running the risk that the 
-unemployment rate falls to around 3½ percent, as much of the Committee expected in the most 
+unemployment rate falls to around 3.5 percent, as much of the Committee expected in the most 
 recent SEP.  Inflation pressures and financial stability might be subject to more-nonlinear 
 dynamics.  More rapid increases in inflation or more quickly unraveling financial stability would 
 make it more difficult for us to move only gradually. 
@@ -5051,7 +5051,7 @@ is the clear next step.  Thank you, Mr. Chair.
 CHAIRMAN POWELL.  Thank you.  President Kaplan. 
 MR. KAPLAN.  Thank you, Mr. Chair.  I support alternative B as written.  Based on my 
 forecast, I believe we should be gradually removing accommodation and moving toward a 
-neutral monetary policy stance.  For me, that’s somewhere in the range of 2½ to 2¾ percent.   
+neutral monetary policy stance.  For me, that’s somewhere in the range of 2.5 to 2.75 percent.   
 On the basis of that, I would think that September, for me, feels a little bit too soon to 
 drop the “accommodative” language, and I think it would be easier to explain to the public if we 
 did that in either December or January.  My fear would be, once we drop that phrase, we may 

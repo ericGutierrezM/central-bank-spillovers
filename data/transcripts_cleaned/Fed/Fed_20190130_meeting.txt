@@ -3067,7 +3067,7 @@ materials in the packet labeled “Material for Briefing on the U.S. Outlook.”
 available indicators—which are fewer than usual because of the partial government 
 shutdown—suggest that real activity ended 2018 on a solid note.  As you can see 
 from panel 1 of your first forecast summary exhibit, we now think that real GDP rose 
-at an annual rate of 2¾ percent in the fourth quarter of last year, ½ percentage point 
+at an annual rate of 2.75 percent in the fourth quarter of last year, 0.5 percentage point 
 faster than our December Tealbook estimate.  This upward revision mainly reflects 
 the incoming data on consumer spending; in particular, the Census retail sales data 
 through November—the black line in panel 2—came in stronger than expected.  The 
@@ -3120,7 +3120,7 @@ spending and activity indicators, as well as various pieces of financial market 
 Hence, their perspective is especially useful at present, as the government shutdown 
 has delayed a number of key economic data releases and in light of the recent 
 volatility in financial markets.  As you can see from the panel, the Tealbook’s 
-projection of a 2¼ percent increase in first-quarter real GDP is not wildly at odds with 
+projection of a 2.25 percent increase in first-quarter real GDP is not wildly at odds with 
 the median model nowcast, especially given that the model nowcasts—unlike the 
 Tealbook forecast—only incorporate the effects of the government shutdown to the 
 extent that they are already present in the various indicators that the models employ. 
@@ -3136,7 +3136,7 @@ As noted in panel 5, the partial government shutdown, which ended—at least
 temporarily—last Friday, was about one week shorter than we had assumed in the 
 Tealbook.  Assuming that an agreement is reached in the next three weeks to keep the 
 government open, we now think that the direct and indirect effects of the shutdown 
-will subtract ¼ percentage point from annualized real GDP growth this quarter after 
+will subtract 0.25 percentage point from annualized real GDP growth this quarter after 
 having shaved half a tenth off last quarter’s growth; these cumulative reductions in 
 growth, which are a touch smaller than we built into the Tealbook projection, should 
 then be reversed in the second quarter.   
@@ -3208,7 +3208,7 @@ suffer from the presence of residual seasonality, which tends to depress measure
 inflation in the latter portion of the year.  Looking ahead, we anticipate that core 
 inflation on a 12-month basis will remain around 1.9 percent through the middle of 
 this year.  We expect that total PCE inflation will dip further below the core measure 
-in coming months—to as low as 1½ percent—as previous declines in oil prices feed 
+in coming months—to as low as 1.5 percent—as previous declines in oil prices feed 
 through to consumer energy prices. 
 Our medium-term inflation outlook—which is shown in panels 9 and 10—is not 
 materially different from our December projection.  In particular, we continue to 
@@ -3601,11 +3601,11 @@ time, could this be detrimental to Chinese growth prospects?
 MR. KAMIN.  I think the answer to the last question is certainly yes.  But just, to expand 
 on that:  Again, if you look at the concrete quantifiable kind of like effects of our trade policy on 
 China, they seem to be pretty small so far.  We’re putting the effect of measures taken so far to 
-be in the neighborhood of ⅓ percent of GDP in terms of the negative effect on China.  And then 
+be in the neighborhood of 0.3333 percent of GDP in terms of the negative effect on China.  And then 
 if we ended up following through with the additional measures that have been discussed, but not 
 yet implemented—which is raising tariff rates on $180 billion of imports from China that we 
 already have started to tariff, and adding tariffs on another $200 billion or so—then we think the 
-effect of that on China could be about ¾ percent of GDP, stretched probably over a couple of 
+effect of that on China could be about 0.75 percent of GDP, stretched probably over a couple of 
 years.  That’s obviously not a negligible amount—that’s actually fairly material in the context of 
 their falling growth—but it’s something that would be broadly manageable. 
 This does not take into account, however, the fact that an environment in which China’s 
@@ -3699,7 +3699,7 @@ leverage, high interest expense ratios, and low earnings and cash holdings that 
 increasing their debt loads the most. 
 For corporate bonds, credit quality has deteriorated within the investment-grade segment, 
 and market participants are very focused on the share of bonds rated at the lowest investment-
-grade level, which has reached near-record levels at about $2¼ trillion overall.  This is 
+grade level, which has reached near-record levels at about $2.25 trillion overall.  This is 
 particularly notable because these bonds are vulnerable to downgrades in the face of negative 
 shocks, because total assets under management in bond mutual funds have more than doubled in 
 the past decades, and because these funds now hold about one-tenth of the overall corporate bond 
@@ -4303,10 +4303,10 @@ demand from China and major economies in Europe had also fallen.  A contact who 
 large multinational power management company also noted declines in orders from some foreign 
 markets. 
 Now, despite softer activity, District labor market conditions remain strong.  Based on the 
-early benchmark data, payrolls grew a bit more than 1 percent last year.  That’s ¾ percentage 
+early benchmark data, payrolls grew a bit more than 1 percent last year.  That’s 0.75 percentage 
 point higher than the Cleveland Federal Reserve staff’s estimate of the District’s longer-run trend 
-employment growth.  The District’s unemployment rate remained at 4½ percent, where it has 
-been since July.  This is about ½ percentage point below the Cleveland staff’s estimate of its 
+employment growth.  The District’s unemployment rate remained at 4.5 percent, where it has 
+been since July.  This is about 0.5 percentage point below the Cleveland staff’s estimate of its 
 longer-run normal level.  So that’s a strong labor market for our District.  Firms continue to 
 report a lack of qualified workers.  Some firms have shifted from looking for new hires to doing 
 all they can to retain their current workers.  Wage pressures in the District remain elevated, and 
@@ -4343,7 +4343,7 @@ modal outlook remains that we will see growth at, or somewhat above, my trend gr
 2 percent.  Labor markets will continue to be strong, and inflation will remain near 2 percent, 
 apart from the transitory effects of changing oil prices. 
 The strength in the labor market will continue to buoy income growth and consumer 
-spending.  For the fourth year in a row, payrolls grew more than 2½ million jobs last year.  This 
+spending.  For the fourth year in a row, payrolls grew more than 2.5 million jobs last year.  This 
 is an average of about 220,000 jobs per month, and the pace was even stronger in the last three 
 months of the year where monthly gains rose to over 250,000.  This pace is well above estimates 
 of trend employment growth. 
@@ -4644,7 +4644,7 @@ consumption and private fixed investment.  Our model sees this as a particularly
 configuration, because it interprets the joint weakness of consumption and investment as 
 reflecting a combination of a large negative shock to productivity and another adverse shock that 
 increases the demand for safe assets.  As a result, the model’s short-term nominal equilibrium 
-interest rate falls to about 1½ percent.  So, in this alternative, our 2¼ to 2½ percent funds rate 
+interest rate falls to about 1.5 percent.  So, in this alternative, our 2.25 to 2.5 percent funds rate 
 target would look pretty restrictive.  This scenario is not the most likely path, according to our 
 model, but the exercise highlights how, depending on the configuration of shocks, even modestly 
 lower first-quarter real GDP growth could change our assessment of the current funds rate range 
@@ -4806,7 +4806,7 @@ labor market, as measured by the unemployment rate, did not have a direct relati
 wage growth but, instead, served to damp the contribution of productivity growth to wage 
 growth when labor markets are weak. 
 Based on these historical relationships, the improvement in labor market conditions since 
-2010 is estimated to have contributed approximately ½ percentage point to real wage growth, but 
+2010 is estimated to have contributed approximately 0.5 percentage point to real wage growth, but 
 future modest reductions in the unemployment rate would not be expected to contribute much 
 further.  Instead, improvement in productivity growth will be key to generating higher real wage 
 growth in coming years.  For example, if productivity growth were to return to levels seen 
@@ -5202,7 +5202,7 @@ Unemployment is at its lowest level in nearly 50 years.  Americans who had becom
 discouraged and left the labor market are coming back to work, and we’re seeing historically low 
 unemployment among groups that have historically faced the biggest challenges, such as African 
 Americans.  The indications are that we’re near full employment but not clearly beyond it.  
-Average hourly earnings rose 3¼ percent last year.  That’s the best reading so far in this 
+Average hourly earnings rose 3.25 percent last year.  That’s the best reading so far in this 
 expansion but still below pre-crisis rates, and the staff estimates that labor productivity rose 
 almost 2 percent last year. 
 The latest data confirm that the labor market continues to expand strongly.  Employment 
@@ -5379,7 +5379,7 @@ Analysis from my staff, however, shows the changes in these measures rather than
 levels provide the most useful information about future real GDP growth.  So if you base it on 
 the historical relationships between changes in key financial conditions and subsequent GDP 
 growth, the tightening we’ve seen since September suggests a reduction in 2019 GDP growth of 
-about ½ percentage point. 
+about 0.5 percentage point. 
 Now, this point estimate obscures a far more important point, and that is that the effects 
 of a large change in financial conditions on the economy are highly uncertain and depend on the 
 root causes underlying the change.  In particular, my staff examined the recent widening of credit 
@@ -5451,7 +5451,7 @@ echoed in the reports that many of you around the table have delivered regarding
 the part of your contacts. 
 In addition, some of us seem to have marked down a bit, at the past two meetings, 
 estimates of growth.  We mainly still see a solid outlook, although it feels like estimates are 
-moving down toward the bottom end of the range of 2 to 2½ percent for 2019, and 
+moving down toward the bottom end of the range of 2 to 2.5 percent for 2019, and 
 appropriately so.  Even if growth remains modestly above potential, this year will suffer by 
 comparison to last year’s strong growth of a bit above 3 percent.  And, as some observed, that 
 downshift may not feel particularly smooth. 
@@ -6105,10 +6105,10 @@ States.
 I continue to think that inflation expectations are the key variable for this Committee and 
 that we’re handling it badly in our policy analysis.  This morning, I saw the Conference Board’s 
 survey of inflation expectations, which reinforced my ideas that these surveys are way off.  The 
-current expectation for inflation is 4½ percent, according to the Conference Board’s survey, and 
+current expectation for inflation is 4.5 percent, according to the Conference Board’s survey, and 
 that is the lowest level it’s been since the recession.  So it was cited as evidence that inflation 
 expectations are coming down—that these expectations had come all of the way down to 
-4½ percent instead of anywhere close to what professional economists would say.  
+4.5 percent instead of anywhere close to what professional economists would say.  
 I also think that these term structure models, as was indicated in Thomas’s presentation, 
 tend to push a lot of the variation in the data into the term premium, which is really just a noise 
 term.  And because of the underlying assumptions, they tend to say that the inflation expectations 
@@ -6345,7 +6345,7 @@ yesterday, or if we’re simply feeling our way through a more benign decelerati
 growth back to its potential rate, as in our baseline projection.  We need to think ahead about 
 how we will determine which scenario we are facing, as well as the appropriate policy response 
 for that scenario.  Waiting may turn out to be easy.  We could see labor markets stabilizing, in 
-line with output growth decelerating to trend, with the unemployment rate staying in the 3¾ to 4 
+line with output growth decelerating to trend, with the unemployment rate staying in the 3.75 to 4 
 percent range and inflation remaining near our 2 percent symmetric objective.  Such outcomes 
 could suggest that our current policy setting would be adequate for quite some time.  I do think 
 that, as President Mester said, we should think about the term “patient” and how we get away 
@@ -6353,10 +6353,10 @@ from that term at the appropriate time.  It will probably be more challenging th
 But what if the data move differently?  I first wondered about what kinds of 
 developments would lead us to exit the patient mode and resume rate hikes.  One reason would 
 be if inflation compensation moved back toward mid-2000s levels and core PCE inflation rose 
-above 2¼ percent, with further increases likely in store.  Such clear emergence of rising 
+above 2.25 percent, with further increases likely in store.  Such clear emergence of rising 
 inflationary pressures would be a signal that monetary policy was still accommodative. 
 Another case would be if we saw a few more jobs reports like the one in December and 
-the unemployment rate also moving down to 3½ percent.  It would be important to carefully 
+the unemployment rate also moving down to 3.5 percent.  It would be important to carefully 
 assess the degree to which these developments might reflect structural labor market 
 January 29–30, 2019
 191 of 255

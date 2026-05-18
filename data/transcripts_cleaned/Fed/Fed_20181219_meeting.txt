@@ -1302,7 +1302,7 @@ risks associated with such an approach:  on the one hand, the risk that we encou
 before that target is reached and, on the other hand, the risk that that inflection point occurs 
 before the absolute minimum is achieved—before we’ve identified that kink. 
 From where we are today, it doesn’t appear to me that the risks associated with the 
-reserve target being too large are very great.  Reserves are currently $1¾ trillion.  On the basis of 
+reserve target being too large are very great.  Reserves are currently $1.75 trillion.  On the basis of 
 the survey, it appears that reserves below $800 billion will likely put us in a regime of reserves 
 scarcity.  To avoid the risk of stumbling onto the steep part of the demand curve, we may want to 
 allow a comfortable buffer above that level.  Suppose, for instance—and I chose a number that 
@@ -1965,7 +1965,7 @@ rates.  However, the persistent gaps between the different groups have remained.
 In the remainder of my remarks, I will build on Eric Engen’s presentation at your 
 previous meeting and consider some downside risks to our federal funds rate 
 projection, the black line in the left panel of slide 3.  In the December Tealbook, the 
-federal funds rate rises to 4¾ percent over the medium term, well above the median 
+federal funds rate rises to 4.75 percent over the medium term, well above the median 
 SEP path, the red line.  As described in the bullets to the right, to arrive at our 
 projection, we start from the same place you do—namely, an inflation target of 
 2 percent.  We then add a neutral real rate of 50 basis points.  We currently have 
@@ -1981,7 +1981,7 @@ December 18–19, 2018
  
  
  
-it’s therefore not surprising that we get to a peak funds rate of 4¾ percent.  For us, the 
+it’s therefore not surprising that we get to a peak funds rate of 4.75 percent.  For us, the 
 question is, “Why don’t you arrive at a similar path?”  As shown on your next slide, I 
 consider two possible answers to that question, which I frame as risks to the staff 
 projection. 
@@ -2077,7 +2077,7 @@ December 18–19, 2018
  
 The remaining slides examine the possibility that the economy’s self-correcting 
 forces are stronger than the staff assumes.  In the staff projection, the output gap—the 
-black line in the left panel—is projected to be at or above 2½ percent for the next 
+black line in the left panel—is projected to be at or above 2.5 percent for the next 
 three years despite a funds rate that is quite restrictive, the right panel.  However, 
 uncertainty about future output gaps is quite high, and a 90 percent confidence 
 interval—the light blue shaded region in the left panel—includes zero by the middle 
@@ -2145,7 +2145,7 @@ MR. ERCEG.  Sharply falling oil prices, weaker-than-expected data, and
 tightening financial conditions have raised widespread concerns about the health of 
 foreign economies.  We’ve been revising down our outlook for growth abroad but are 
 not anticipating a sharp further slowdown.  Looking ahead, we expect that the foreign 
-economies will grow at 2½ to 2¾ percent per year, close to our estimate of potential.  
+economies will grow at 2.5 to 2.75 percent per year, close to our estimate of potential.  
 Even so, these economies face formidable downside risks and have limited policy 
 space. 
 As discussed on the next page, while incoming data from abroad have been 
@@ -2619,7 +2619,7 @@ MR. BARKIN.  This is just a basic question.  The FRB/US model has a very differe
 path from that in the staff projection.  And you probably said this.  Just one more time:  What, in 
 layman’s terms, is what drives that significant of a difference? 
 MR. FIGURA.  The FRB/US model is interpreting what is happening right now and in 
-the period beyond this year—it’s interpreting what is driving an output gap of 2¼ percent, which 
+the period beyond this year—it’s interpreting what is driving an output gap of 2.25 percent, which 
 is what we’ve told it is occurring.  And it thinks that’s due to monetary policy shocks—the fact 
 that the policy rate path hasn’t increased as much as the policy rule would have predicted—
 aggregate demand shocks to the spending equations—the fact that BFI and PCE expenditures 
@@ -2643,7 +2643,7 @@ December 18–19, 2018
  
  
  
-in equity prices of about ½ percent per year, because we see valuations in equity markets now as 
+in equity prices of about 0.5 percent per year, because we see valuations in equity markets now as 
 a little elevated. 
 And we haven’t quite had the guts to write down outright declines in equity prices, but 
 we’ve written down increases that are way below historical averages.  The FRB/US model has 
@@ -2984,7 +2984,7 @@ most forecasters expecting the strength of consumer spending to continue through
 season. 
 Consistent with these favorable data, the December Blue Chip forecast of 2019 real GDP 
 growth is 2.3 percent, unchanged from November and above my and the Blue Chip’s estimate of 
-potential, as it, too, expects the unemployment rate to continue declining to 3½ percent by the 
+potential, as it, too, expects the unemployment rate to continue declining to 3.5 percent by the 
 end of 2019.  This unemployment rate forecast in the Blue Chip has been unaffected by the 
 recent downturn in financial conditions and remains well below my estimate of what is 
 sustainable in the longer run.  Recently, the changing prospects for reaching an agreement with 
@@ -3012,7 +3012,7 @@ These sectors in which we observe these shortages are not those experiencing rap
 productivity improvement.  From the employment cost index, wages and salaries for leisure and 
 hospitality are up 3.8 percent, and wages and salaries for retail trade are up 3.6 percent.  If 
 instead one uses the average hourly earnings, the comparable numbers are somewhat higher, 
-rising 4½ percent in the retail trade sector and up 4.3 percent in the leisure and hospitality sector.  
+rising 4.5 percent in the retail trade sector and up 4.3 percent in the leisure and hospitality sector.  
 These higher wages are also consistent with the rise in labor force participation rates for lower-
 skilled workers.  Those without a high-school education are entering the labor market in 
 significant numbers, presumably being attracted by the higher wages.  85ut85 is certainly good 
@@ -3328,7 +3328,7 @@ December 18–19, 2018
 District labor market conditions remain strong, although the growth in District payrolls 
 this year will likely be revised down after the benchmark revisions.  Even with the revisions, job 
 growth will be well above the Cleveland bank staff’s estimate of the District’s longer-run trend.  
-The District’s unemployment rate has been 4½ percent since July, about ½ percentage point 
+The District’s unemployment rate has been 4.5 percent since July, about 0.5 percentage point 
 below the Cleveland staff’s estimate of its longer-run normal level.  The GM assembly plant in 
 Lordstown, Ohio, near Youngstown, will be closing, resulting in a loss of 1,600 jobs at the plant.  
 Our staff estimates that the overall effect on the District’s labor market will be small, but the 
@@ -3376,7 +3376,7 @@ has remained at 3.7 percent, its lowest level in nearly 50 years.  Over the past
 payroll gains have averaged 170,000 per month, and for the year as a whole they have averaged 
 over 200,000 per month—up from last year’s level and well above the range of estimates of 
 trend monthly job growth.  Over the forecast horizon, I expect employment growth will 
-gradually slow toward its trend rate.  This will keep the unemployment rate below my 4½ 
+gradually slow toward its trend rate.  This will keep the unemployment rate below my 4.5 
 percent estimate of its longer-run level.  Sustaining the expansion will necessitate gradually 
 December 18–19, 2018
 97 of 242
@@ -3535,7 +3535,7 @@ December 18–19, 2018
  
 submission.  I think I’m SEP respondent Number 16.  We are now at 3.1 percent this year and 
 2.3 percent in 2019.  We then see growth moving modestly below its potential rate in 2020 and 
-2021.  We have the unemployment rate bottoming at 3½ percent next year and moving up to 
+2021.  We have the unemployment rate bottoming at 3.5 percent next year and moving up to 
 3.8 percent by the end of the forecast period, and our natural rate assumption is 4.3 percent.  We 
 recognize there are downside risks to this outlook.  Indeed, a number of businesses currently are 
 considering contingencies if demand weakens.  This possible move to a defensive posture is 
@@ -3572,7 +3572,7 @@ Domestic economic momentum has been strong, as evidenced by recent data on the l
 market and consumers.  Average monthly payroll gains of 170,000 over the past three months 
 are still well above the pace necessary to absorb new entrants.  While this pace slowed from its 
 values earlier in the year, it remains in the range of payroll gains we saw in the preceding two 
-years, a time when the unemployment rate was falling by about ½ percentage point a year.  
+years, a time when the unemployment rate was falling by about 0.5 percentage point a year.  
 Similarly, while there were some indications of an upward movement in claims earlier in the 
 intermeeting period, they moved back down in the latest reading and remain at very low levels. 
 Other labor market indicators, such as job openings and quits, suggest the underlying 
@@ -3944,7 +3944,7 @@ December 18–19, 2018
  
  
  
-year to being down 1½ million cars.  They hope it won’t happen, but they are starting to get in 
+year to being down 1.5 million cars.  They hope it won’t happen, but they are starting to get in 
 the mode of “We better prepare for it.”  And a 10 percent decline is a big decline. 
 Certainly, there is uncertainty regarding the effect of eight rate increases by the Federal 
 Reserve, affecting the economy with a lag.  Increasingly, I’m hearing about uncertainty 
@@ -4255,7 +4255,7 @@ remain moderate.  In looking forward, recent business surveys indicate a slightl
 for 2019 compared with 2018, especially for capital expenditures. 
 For the national economy, solid economic growth continues, led by consumer spending.  
 Labor market indicators generally remain strong.  Over the past three months, the U.S. economy 
-has added somewhere between ½ million and 1 million jobs, depending on if you look at the 
+has added somewhere between 0.5 million and 1 million jobs, depending on if you look at the 
 establishment versus the household survey.  The upward trend in prime-age labor force 
 participation rate (LFPR) seems to be continuing. 
 President Daly, one thing that I look at a little differently than you:  If people are 
@@ -4378,7 +4378,7 @@ next year and also these factors to exert a downward drag on home price apprecia
 years. 
 In response to the tightening of financial conditions, slowing growth, and a more 
 pessimistic outlook for the housing sector, I have lowered my real GDP growth projection for 
-next year to 2¼ percent—slower, yes, but still above my estimate of potential growth of 
+next year to 2.25 percent—slower, yes, but still above my estimate of potential growth of 
 1.8 percent. 
 December 18–19, 2018
 131 of 242
@@ -4398,7 +4398,7 @@ which is a Kalman filter model, also suggests productivity growth of around that
 least on the data that we have and the models that we have, there doesn’t seem to be a significant 
 shift in productivity trends yet. 
 With another year of above-trend growth, I expect the unemployment rate to bottom out 
-around 3½ percent next year. 
+around 3.5 percent next year. 
 On the inflation outlook, like President Kashkari, I agree that the absence of signs of 
 elevated inflationary pressures despite a really strong economy—and that could be whether you 
 look at inflation data, you look at inflation expectations, you look at labor costs, you look at 
@@ -4409,7 +4409,7 @@ Consistent with these modest changes in the outlook, I now foresee a somewhat
 shallower funds rate path.  Indeed, if it weren’t for this adjustment in the monetary policy path, 
 the downward adjustments to my projections for growth and inflation would have been larger.  
 And I now see the center of the target range reaching a cyclical peak of 3.1 percent eventually.  
-In real terms, this is ½ percentage point above my estimate of long-run r* of ½ percent.  With 
+In real terms, this is 0.5 percentage point above my estimate of long-run r* of 0.5 percent.  With 
 December 18–19, 2018
 132 of 242
 
@@ -4731,7 +4731,7 @@ was my understanding.  I don’t know whether that’s universally shared.
 MR. EVANS.  Okay.  Thank you. 
 MR. KAPLAN.  I might just follow that up. 
 CHAIRMAN POWELL.  President Kaplan. 
-MR. KAPLAN.  At 2 to 2¼—or now 2¼ to 2½—percent, in view of the fact that 
+MR. KAPLAN.  At 2 to 2.25—or now 2.25 to 2.5—percent, in view of the fact that 
 “gradual” is about pacing, which I think is what you just said, is it still useful at this stage, in 
 your view? 
 MR. LAUBACH.  I think the question is:  How would removing “gradual” now be 
@@ -5054,7 +5054,7 @@ Taking these types of risks at a meeting like this might be worth it if inflatio
 running above target and we really felt that we had to be aggressive to keep inflation and 
 inflation expectations contained.  But it’s not running above target; and it’s not been running 
 above target consistently since 2012.  You know, if we were price-level targeters, we could 
-actually run 2½ percent inflation for a decade, and we still wouldn’t be back on the price-level 
+actually run 2.5 percent inflation for a decade, and we still wouldn’t be back on the price-level 
 path that was established between 1995 and 2012. 
 So you’ve got a lot of room here to be patient and to recenter inflation and inflation 
 expectations at our 2 percent target, and you’ve got a lot of risk here that you’re going to push 
@@ -5380,7 +5380,7 @@ December 18–19, 2018
  
 will have to take on a modestly restrictive stance to return output and the unemployment rate to 
 their long-run normal rates in a measured fashion.  My appropriate policy rate path reflects my 
-assumption that a funds rate in the 3 to 3¼ percent range, when compared with our 2¾ percent 
+assumption that a funds rate in the 3 to 3.25 percent range, when compared with our 2.75 percent 
 assumption for the long-run neutral rate, will be restrictive enough to bring about this soft 
 landing. 
 Now, I’m just going to pause and say I’m going to refer to the “star” variables, r* and u*, 
@@ -5392,7 +5392,7 @@ bit more objective than just a hunch, but it is a hunch, in view of all of the u
 have.  So it’s convenient. 
 The recent changes in financial conditions have not altered my view that short-run r* is 
 slightly above its longer-run level, but I expect it to move down as fiscal stimulus wanes.  So I 
-continue to think it will be appropriate to move the policy rate into the 3 to 3¼ percent range by 
+continue to think it will be appropriate to move the policy rate into the 3 to 3.25 percent range by 
 the end of 2019.  Accordingly, after a federal funds rate increase today, I have three rate hikes in 
 2019 and, thereafter, hold the funds rate steady through 2021.  This is the same rate path as in my 
 September SEP submission.  I agree that the downside risks have increased since September, but 
@@ -5416,7 +5416,7 @@ material change in the baseline outlook.  And I’m personally reluctant to infe
 developments support signaling a lower path of the funds rate than I already had in September.  
 Of course, this could be wrong, and we could be facing more fundamental changes in financial 
 conditions and sentiment that could put a bigger dent in aggregate demand. 
-I think my terminal funds rate range of 3 to 3¼ percent allows for a flexible response.  
+I think my terminal funds rate range of 3 to 3.25 percent allows for a flexible response.  
 This is the median rate path of the SEP in 2020 and ’21.  If conditions remain uncertain, I could 
 see supporting a pause in rate hikes after today.  If it then turns out that we are simply in the 
 midst of our expected slowdown toward potential output growth in 2020, it could be appropriate 
@@ -5857,7 +5857,7 @@ December 18–19, 2018
  
 growth.  I have also taken down my projection of core inflation a touch.  And, consistent with 
 these changes in the outlook, I now foresee a somewhat shallower funds rate path, with the target 
-range peaking at 3 to 3¼ percent. 
+range peaking at 3 to 3.25 percent. 
 With today’s actions, a change in forward-guidance language in alternative B represents 
 an appropriate step in moving away from the strong explicit guidance toward a more data-
 dependent posture.  In addition, the language indicating that we’ll be monitoring global 

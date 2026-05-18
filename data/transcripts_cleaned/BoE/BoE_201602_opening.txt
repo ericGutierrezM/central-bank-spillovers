@@ -62,7 +62,7 @@ conditions.
 3 
  
 - 
-First, sterling has fallen 3½% since November, the largest decline between 
+First, sterling has fallen 3.5% since November, the largest decline between 
 Inflation Reports since the crisis.  
 - 
 Second, the gilt yield curve has fallen further, with UK ten-year rates down 25 
@@ -94,7 +94,7 @@ expected to continue; given high returns on capital and limited spare capacity.
  
 Overall, given global weakness, somewhat more modest wage growth and 
 accelerating fiscal consolidation, the overall pace of growth in the UK is expected to 
-dip below past averages this year, before returning to around 2½% thereafter, as a 
+dip below past averages this year, before returning to around 2.5% thereafter, as a 
 tighter labour market and rising productivity support real incomes and consumption, 
 and spur business investment.   
 This more modest profile for demand compared with our last Report is matched by a 
@@ -102,7 +102,7 @@ lower, but still solid, path for supply growth.
 Developments on the supply side reflect an economy that’s moving from a period of 
 exceptionally rapid employment growth and unusually slow productivity growth to 
 one where growth in both reverts to more normal and sustainable rates.   
-With 1 ½ million jobs created over the past three years, unemployment has fallen 3 
+With 1 0.5 million jobs created over the past three years, unemployment has fallen 3 
 percentage points to around 5%.  Job vacancies relative to unemployment are now 
 back at pre-crisis levels, and people are moving between jobs more frequently.  
 Given the resilience of the labour market, the MPC now expects the average hours 

@@ -21,7 +21,7 @@ state and remains solid.  Inflation has moved much closer to our 2 percent longe
 We’re committed to maintaining our economy’s strength by supporting maximum 
 employment and returning inflation to our 2 percent goal.  To that end, today, the Federal Open 
 Market Committee decided to take another step in reducing the degree of policy restraint by 
-lowering our policy interest rate by ¼ percentage point.  We also decided to continue to reduce 
+lowering our policy interest rate by 0.25 percentage point.  We also decided to continue to reduce 
 our securities holdings.  I’ll have more to say about monetary policy after briefly reviewing 
 economic developments. 
 Recent indicators suggest that economic activity has continued to expand at a—at a solid 
@@ -63,7 +63,7 @@ employment and stable prices for the American people.  We see the risks to achie
 employment and inflation goals as being roughly in balance, and we are attentive to the risks on 
 both sides of our mandate. 
 At today’s meeting, the Committee decided to lower the target range for the federal funds 
-rate by ¼ percentage point, to 4¼-4½ percent.  We’ve been moving policy toward a more neutral 
+rate by 0.25 percentage point, to 4.25-4.5 percent.  We’ve been moving policy toward a more neutral 
 setting in order to maintain the strength of the economy and the labor market while establishing 
 further progress in—sorry, enabling further progress on—inflation.  With today’s action, we 
 have lowered our policy rate by a full percentage point from its peak, and our policy stance is 
@@ -193,7 +193,7 @@ the split on this one?  How much of this was accounting for inflation data that 
 and how much of it is expecting that there will be inflationary fiscal policy next year?  
 CHAIR POWELL.  I, I’d say—I’d, I’d point to five or six things, and, and I’d start—let 
 me start by saying that we think the economy’s in a really good place, and we think policy’s in a 
-really good place.  Let’s remember that the economy’s growing 2½ percent this year, that 
+really good place.  Let’s remember that the economy’s growing 2.5 percent this year, that 
 
 
 December 18, 2024 
@@ -247,7 +247,7 @@ As I mentioned, November is, is back on track.  But, you know, once again we’v
 we’ve had a year-end projection for inflation and it’s kind of fallen apart as we’ve approached 
 the end of the year.  So that is certainly a large factor in people’s thinking.  I can tell you that 
 might be the single biggest factor is inflation has once again underperformed relative to 
-expectations.  It’s still, you know, going to be between 2½ and 3 [percent].  It’s way below 
+expectations.  It’s still, you know, going to be between 2.5 and 3 [percent].  It’s way below 
 where it was.  But, you know, we really want to see progress on inflation, to, to, you know, as I 
 mentioned, as we think about further cuts, we’re going to be looking for progress on inflation.  
 We have been moving sideways on 12-month inflation as the 12-month window moves.  That’s 
@@ -320,7 +320,7 @@ but not, not trying to get to definitive answers for some time.
 MICHELLE SMITH.  Nick.  
 NICK TIMIRAOS.  Nick Timiraos, the Wall Street Journal.  Chair Powell, to make sure 
 I understand, participants today revised up their core PCE inflation projection for ’25 so that the 
-central tendency runs from 2½ to 2.7 percent, and, as Howard noted earlier, most of the 
+central tendency runs from 2.5 to 2.7 percent, and, as Howard noted earlier, most of the 
 
 
 December 18, 2024 
@@ -333,7 +333,7 @@ Page 11 of 28
 Committee sees the risks to those projections to the upside.  So if inflation only declines next 
 year from 2.8 to 2.5 to 2.7, what would compel the Committee to be cutting in that situation?  
 CHAIR POWELL.  Let me—let me find these numbers.  So we have—we have inflation 
-coming down, core inflation coming down to 2½ [percent] next year.  That’s, that’d be—that’d 
+coming down, core inflation coming down to 2.5 [percent] next year.  That’s, that’d be—that’d 
 be significant progress.  You see a slower path.  I think that does take on board that we want to 
 see real progress.  But we, we, you know, we’d be seeing meaningful progress to get inflation 
 down to that level.  That wouldn’t be all the way to 2 percent, but that would be, it would be, you 
@@ -395,7 +395,7 @@ FINAL
 Page 13 of 28 
  
 for a very long time, and it keeps not happening.  So we have—we’re now well into another year 
-of growth.  It looks like it might be 2½ percent.  Third and—second and third quarters were right 
+of growth.  It looks like it might be 2.5 percent.  Third and—second and third quarters were right 
 about at the same level.  So the U.S. economy is just performing very, very well.  Substantially 
 better than our global peer group.  And I, I—there’s no reason to think a downturn is, is any 
 more likely than it—than it usually is.   
@@ -411,7 +411,7 @@ down towards our target.”  Given the fact that you’ve raised your forecast f
 have confidence or are you uncertain about the path of inflation going forward?  
 CHAIR POWELL.  So confidence was our test for raising rates, and, you know, we’ve 
 made—look, look at the broader suite:  We’ve made just a great deal of progress.  We’re, you 
-know, we’re well into the 2’s in, in core inflation and around 2½ [percent]—or even lower than 
+know, we’re well into the 2’s in, in core inflation and around 2.5 [percent]—or even lower than 
 that, we have been—for headline inflation.  So I, I would say I’m confident that inflation has 
 come down a great deal, and I, I’m confident in the story about why it’s come down and why 
 that portends well.  And I’ll—and I’ll tell you why.  You, again, you do see with housing 
@@ -541,7 +541,7 @@ low month, potentially, in November.  You know, it’s estimated by many to be i
 for core PCE.  So that could be idiosyncratically low.  We try to look—we try to look at not just 
 a couple or three months.  We shouldn’t have—our, our position shouldn’t change based on two 
 or three months of good or bad data.  We have a long string now of inflation coming down 
-gradually over time.  As I mentioned, 12-month, I think it’s 12-month headline’s 2½; 12-month 
+gradually over time.  As I mentioned, 12-month, I think it’s 12-month headline’s 2.5; 12-month 
 core is 2.8.  That’s way better than we were.  We still have some work to do, though, is how 
 we’re looking at it.  And we need policy to remain restrictive to, to get—to get that work done, 
 we think.  
@@ -860,7 +860,7 @@ not done, but, but I think we’re, we’re feeling good about where we are and 
 MICHELLE SMITH.  Go to Nancy for the last question.  
 NANCY MARSHALL-GENZER.  Hi, Chair Powell.  Nancy Marshall-Genzer from 
 Marketplace.  You said a couple times, inflation has been moving sideways.  You know, it 
-appears to be settling in around, excuse me, 2½ percent.  Do you think the Fed is just going to 
+appears to be settling in around, excuse me, 2.5 percent.  Do you think the Fed is just going to 
 have to settle for that and accept that you’re not going to get to your 2 percent target?  
 
 

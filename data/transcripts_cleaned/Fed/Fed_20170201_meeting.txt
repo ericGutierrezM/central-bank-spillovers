@@ -1372,10 +1372,10 @@ moved materially since December, the median respondent now expects the Federal
 Reserve’s reinvestment policy to first be changed in the first quarter next year, one 
 quarter sooner than in the December surveys.  As reflected in the blue dots in the top-
 left panel, this shift came as respondents further coalesced around the expectation that 
-the federal funds rate will most likely be between 1 and 1½ percent at the time of a 
+the federal funds rate will most likely be between 1 and 1.5 percent at the time of a 
 change to the reinvestment policy.  As shown by the red diamonds, the median 
 respondent expects the target federal funds rate to be 1.38 percent at the time of the 
-first change, down from 1½ percent in the December surveys.  In explaining the shift 
+first change, down from 1.5 percent in the December surveys.  In explaining the shift 
 in their expectations, a number of survey respondents highlighted the increased 
 discussion of reinvestment policy in recent Federal Reserve communications. 
 The top-right panel puts these expectations in the context of projected receipts of 
@@ -2030,7 +2030,7 @@ discuss reinvestment policy at the next meeting.  We’ll have several papers.
 VICE CHAIRMAN DUDLEY.  If you look at the answers over time, though, it looks 
 like we’re tied to a level. 
 MS. LOGAN.  A lot of people are expecting us to do it once— 
-MR. POTTER. It’s been between about 1 and 1½ percent for over 12 months.  And 
+MR. POTTER. It’s been between about 1 and 1.5 percent for over 12 months.  And 
 when we first asked this after the rate increase and the change of language in the postmeeting 
 statement, which is the “flash” survey after the December 2015 meeting, they thought 12 months 
 ahead, because they were thinking, “Well, the federal funds rate could likely have been in that 
@@ -2340,7 +2340,7 @@ prospective cyclical position—depicted by the black solid line in panel 3—is
 therefore also close to our December assessment.  Our point estimate is that output is 
 slightly above the level of potential at present, and we continue to expect that 
 aggregate demand will modestly outpace aggregate supply over the medium term— 
-albeit to a diminishing degree—leaving the level of real GDP 1¾ percent above 
+albeit to a diminishing degree—leaving the level of real GDP 1.75 percent above 
 potential at the end of 2019. 
 With regard to the labor market, December’s employment report was very close 
 to our expectation and suggests that conditions in the job market continued to tighten 
@@ -2470,7 +2470,7 @@ December.  According to that report, total PCE prices rose 1.6 percent over the
 period.  These rates quoted on a 12-month basis are not shown on your exhibit.  
 Looking ahead, we expect the 12-month change in total PCE prices to reach 2 percent 
 in February before ebbing to 1.8 percent around the middle of the year.  Meanwhile, 
-12-month core inflation is expected to hover between 1½ and 1¾ percent for at least 
+12-month core inflation is expected to hover between 1.5 and 1.75 percent for at least 
 the next several months. 
 This morning’s ECI release was slightly weaker than we had expected. 
 Nonetheless, compensation is estimated to have increased 2.2 percent over the 
@@ -2756,7 +2756,7 @@ obliged to leave your cell phones at the door before entering this room, I will 
 with my usual lengthy and tedious oral presentation.  [Laughter] 
 As in the previous forecast, we estimate that foreign real GDP growth in the 
 fourth quarter moderated from its unusually rapid third-quarter pace, and we see it 
-remaining near 2½ percent—roughly its potential rate—for the rest of the forecast 
+remaining near 2.5 percent—roughly its potential rate—for the rest of the forecast 
 period.  The outlook for the AFEs—the green line—is dragged down a bit by the 
 effects of Brexit on the U.K. economy.  EME economic growth picks up, as China’s 
 gradual slowing is more than offset by recovery in South America. 
@@ -5653,12 +5653,12 @@ calls for four increases, but with the acknowledgement of the possibility that m
 tightening may be in order in the out-years, in order to prevent a large overshoot of full 
 employment in the labor market. 
 The private-sector forecast for 2017, which is the Blue Chip consensus forecast, like the 
-Tealbook and my forecast, has the unemployment rate falling to 4½ percent by the end of this 
+Tealbook and my forecast, has the unemployment rate falling to 4.5 percent by the end of this 
 year, with the decline continuing in 2018.  The December median SEP differs from my forecast 
-in that the SEP unemployment rate median gets to 4½ percent at the end of this year and remains 
+in that the SEP unemployment rate median gets to 4.5 percent at the end of this year and remains 
 there. despite the real GDP growth forecast over the next three years averaging 2 percent.  In 
 contrast, I expect the economy to grow somewhat faster than 2 percent, which is above my 
-estimate of potential at 1¾ percent, and, as a consequence, I expect the downward trend in the 
+estimate of potential at 1.75 percent, and, as a consequence, I expect the downward trend in the 
 unemployment rate to continue. 
 My somewhat higher growth in part reflects the assumption that we will have fiscal 
 stimulus at the magnitude in the Tealbook.  The assumed increase in fiscal policy stimulus is 
@@ -5899,8 +5899,8 @@ deserves our thanks and commendation—presents an analysis of an expansionary f
 consisting of an increase in the primary budget deficit by 1 percent of GDP.  This expansion is 
 assumed, at least for the meantime, until the proposals under consideration take more shape, to 
 take the form of a cut in personal income taxes beginning in the third quarter of this year.  It is 
-calculated to increase the growth rate of real GDP by ¼ percentage point per year in 2017, ’18, 
-and ’19, which means that the level of real GDP would be ¾ percentage point higher by the end 
+calculated to increase the growth rate of real GDP by 0.25 percentage point per year in 2017, ’18, 
+and ’19, which means that the level of real GDP would be 0.75 percentage point higher by the end 
 of 2019. 
 Of course, as the Risks and Uncertainty section later in Tealbook A, which includes fan 
 charts, makes clear, a wide variety of possible fiscal outcomes remain in play.  In addition, we 
@@ -6042,13 +6042,13 @@ compensation per hour looks to have increased at a similar pace, on average, ove
 years.  Nonetheless, some slack may remain. Relative to pre-crisis levels, the prime-age 
 employment-to-population ratio remains low, and the share of employees working part time for 
 economic reasons is still elevated.  Today’s report shows the employment cost index increasing 
-only 2¼ percent last year.  But, overall, I am pleased to see that full employment is close and 
+only 2.25 percent last year.  But, overall, I am pleased to see that full employment is close and 
 could prove sustainable with the right policy mix. 
 Following a long period of stubbornly below-target inflation, I have been encouraged to 
 see recent signs of gradual progress toward our target, as the effects of earlier dollar appreciation 
 and oil price declines appear to be waning.  Over the 12-month period ending in November, core 
 PCE prices increased 1.6 percent.  This rate is still notably below 2 percent, but it’s up 
-¼ percentage point from a year earlier. 
+0.25 percentage point from a year earlier. 
 There have also been some reassuring signs on inflation expectations, which are 
 particularly important in an environment with a flat Phillips curve and a low neutral rate.  The 
 TIPS-based measure of five-year, five-year-forward inflation compensation is about 50 basis 
@@ -6205,7 +6205,7 @@ anemic demand abroad and projections of our debt-to-GDP ratio. In addition, even
 past few days counsel vigilance to possible policy changes well outside the fiscal realm that 
 could pose downside tail risks.  The risks from abroad are still tilted to the downside, but they 
 have lessened, especially relative to domestic upside risks. 
-In China, GDP increased at an annual rate of 6¾ percent. With a key political transition 
+In China, GDP increased at an annual rate of 6.75 percent. With a key political transition 
 in the second half of this year, the regime’s economic management tools will no doubt be 
 employed, in order to ensure a smooth trajectory.  However, the medium-to-long-term risks 
 stemming from a highly leveraged corporate sector, a slowing rate of sustainable growth, and 
@@ -6369,7 +6369,7 @@ become an increasing share of the population.  Rents are rising, and vacancy rat
 fall sharply.  We are also hearing anecdotal evidence of supply constraints in the housing sector. 
 One notable change in our landscape is that manufacturers are reporting a steep increase 
 in prices received.  That series has jumped to its highest level in the recovery, and it currently 
-stands at 20 points above average, which loosely translates to an equivalent 2½ percent monthly 
+stands at 20 points above average, which loosely translates to an equivalent 2.5 percent monthly 
 rise in the PPI at an annualized rate. 
 Regarding the nation as a whole, my economic outlook is a touch stronger than the 
 staff’s and falls more in line with the private forecast displayed in the Tealbook.  I think we 
@@ -6461,7 +6461,7 @@ overall but little change in the firms’ own capital spending or hiring plans.
 District labor market conditions continue to strengthen. My staff estimates that year-
 over-year growth in payrolls edged down to 0.6 percent in December.  This is an insignificant 
 change from November’s growth rate.  The pace continues to be above the Federal Reserve Bank 
-of Cleveland staff’s estimate of the District’s trend employment growth rate of about ¼ percent. 
+of Cleveland staff’s estimate of the District’s trend employment growth rate of about 0.25 percent. 
 The District’s unemployment rate was essentially unchanged in December, remaining at 
 the 5 percent level that prevailed all of last year.  The diffusion index of hiring plans was little 
 changed and continued to show more contacts planning to increase hiring than decrease it.  
@@ -6543,7 +6543,7 @@ eight recessions since the late 1950s, workers working part time for economic re
 percent of the labor force never recovered to the level it was before the recession—it remained 
 higher.  For example, before the 2001 recession, this ratio was 2.3 percent.  It declined to only 
 2.6 percent during the subsequent expansion.  Before the Great Recession, this ratio was 
-3 percent.  It peaked at 6 percent in September 2010 but has now fallen to 3½ percent in 
+3 percent.  It peaked at 6 percent in September 2010 but has now fallen to 3.5 percent in 
 December 2016.  Recent work by the Federal Reserve Bank of Kansas City reviewed some of 
 
 
@@ -6617,7 +6617,7 @@ There is considerable uncertainty regarding the policy changes that the new
 Administration and the Congress will pass.  The details matter in terms of estimating the timing 
 and magnitude of the effects in formulating the outlook over the medium run.  I continue to view 
 the Tealbook’s baseline assumptions about fiscal stimulus and the magnitude of its effects—what 
-they estimate will add about ¼ percentage point to real GDP growth over the next three years— 
+they estimate will add about 0.25 percentage point to real GDP growth over the next three years— 
 as plausible.  But the prospect of a larger fiscal package puts some upside risk on both growth 
 and inflation.  A smaller package poses downside risks, especially because financial market 
 participants appear to be anticipating fairly large effects. If they’re disappointed, there could be 
@@ -6765,7 +6765,7 @@ We tend to agree with the staff forecast that growth is likely to remain relativ
 an above-trend growth rate but instead think of the 2 percent growth rate as being statistically 
 indistinguishable from the trend growth rate.  Accordingly, we continue to forecast a 4.7 percent 
 unemployment rate through the end of the forecast horizon, and we expect unemployment will 
-fluctuate between 4½ and 5 percent during this period. In our baseline forecast, we think payroll 
+fluctuate between 4.5 and 5 percent during this period. In our baseline forecast, we think payroll 
 employment growth is likely to slow more than is assumed by the Tealbook. 
 We have treated possible fiscal policy changes at the federal level as an upside risk to the 
 growth and employment scenario just outlined.  We have thought about it, but we have not 
@@ -7019,7 +7019,7 @@ more sensitively to incoming data.  Such an approach need not go too far in the 
 direction and emphasize only the risk of falling “behind the curve.” 
 I’ll mention one factor that will be important to watch: labor force participation, which 
 has shown welcome and unexpected strength, suggesting along the way a bit more room for 
-growth.  We’ve now had three years with measured participation bouncing around between 62½ 
+growth.  We’ve now had three years with measured participation bouncing around between 62.5 
 and 63 percent and remaining, overall, about flat despite demographic and other secular factors 
 pushing down trend participation.  Since the labor market has been steadily improving through 
 this period, my assumption is that some of the bouncing around is really a function of 
@@ -7743,7 +7743,7 @@ January 31–February 1, 2017
 86 of 171
 cannot count on a repeat of such good fortune, so we must remain alert and responsive to the 
 risks of letting the economy run too hot for too long. 
-My own forecast is that unemployment will bottom out around 4½ percent later this year. 
+My own forecast is that unemployment will bottom out around 4.5 percent later this year. 
 That’s comfortably warm.  By contrast, reaching the low fours may singe us.  We need to keep 
 that in mind as we formulate policy in the period ahead.  I’m going to withhold my comments on 
 that until tomorrow.  Thank you. 
@@ -8841,7 +8841,7 @@ financial conditions little changed since the election, we’ve seen a lot of mo
 asset prices.  It seems to me that the movements have been largely offsetting one another. 
 I do think that there is a reasonable case for at least considering another round of 
 tightening in March.  I can imagine a move in March and then perhaps in June or September.  If 
-we get two more hikes in the federal funds rate, we’re up to a target range of 1 to 1¼ percent.  At 
+we get two more hikes in the federal funds rate, we’re up to a target range of 1 to 1.25 percent.  At 
 that time, assuming that the economic outlook was still solid, I think that I would want to at least 
 consider seriously beginning to taper the reinvestment of maturing Treasury securities and 
 agency MBS repayments.  I would prefer to do that process relatively soon, if we could, the 
@@ -9755,7 +9755,7 @@ consider communication outside the official statement if it becomes necessary to
 expected path of interest rates. 
 In my view, the Tealbook is the most likely outcome but only if we raise rates at the pace 
 assumed in the Tealbook.  While there are risks of negative surprises, the Blue Chip consensus, 
-the Tealbook, and my forecast all have the unemployment rate falling below 4½ percent even 
+the Tealbook, and my forecast all have the unemployment rate falling below 4.5 percent even 
 with policy that is a bit tighter than the median SEP in December. 
 The risk of a significant overshoot on both elements of the dual mandate may well merit 
 taking out some insurance against that outcome, which would entail more tightening than even 
@@ -9858,10 +9858,10 @@ So during the intermeeting period, I spent a little time reading about monetary 
 What I learned was fascinating, a bit unsettling, and also quite poignant. I’d like to share 
 some of the highlights with you briefly.  Some obvious parallels between now and the mid-1960s 
 were evident in the charts that the staff distributed at the December meeting.  First, resource 
-utilization was tight and getting tighter.  The unemployment rate fell from around 5½ percent at 
+utilization was tight and getting tighter.  The unemployment rate fell from around 5.5 percent at 
 the end of 1963 to 4.0 percent at the end of ’65, and it reached 3.6 percent near the end of 1966.  
 Along the way, there was an active debate about the degree of remaining slack. 
-Second, inflation was low and stable coming into the period, hovering around 1½ percent 
+Second, inflation was low and stable coming into the period, hovering around 1.5 percent 
 through the end of 1965, although a number of prominent wage settlements in ’64 and ’65 
 
 
@@ -10639,7 +10639,7 @@ guidance regarding appropriate policy, in my opinion.
 For similar reasons, the time is not yet ripe to signal that any changes in balance sheet 
 policy are forthcoming soon.  Since the first rate hike in December 2015, our policy statement 
 has said that we plan to keep reinvesting maturing securities until we’re “well under way” with 
-funds rate normalization.  The dealer survey seems to align around a range of 1¼ to 1½ percent. 
+funds rate normalization.  The dealer survey seems to align around a range of 1.25 to 1.5 percent. 
 We had previously ceased reinvestments, I think, back in 2011, so this is not uncharted territory. 
 With my inflation outlook not reaching 2 percent sustainably until 2019, I don’t see the need to 
 adjust our balance sheet language any time soon. 
@@ -11169,7 +11169,7 @@ guidance that rates will increase only gradually, I view today’s decision as a
 see the wisdom of making minimal adjustments to the statement, although I would have 
 preferred alternative C’s characterization of inflation.  Paragraph 4 of alternative B continues to 
 emphasize the current shortfall of inflation from the 2 percent goal, language that was added in 
-December 2015 when headline inflation was around ½ percent. 
+December 2015 when headline inflation was around 0.5 percent. 
 With significant uncertainties about the scope, size, and timing of potential changes in 
 fiscal policies, calibrating monetary policy will be more challenging.  I continue to support a 
 gradual approach in removing accommodation but one that is considerably faster than one rate 
@@ -11838,7 +11838,7 @@ January 31–February 1, 2017
 135 of 171
 CHAIR YELLEN.  Thank you.  Without objection.  Finally, I need a motion from a 
 Board member to approve establishment of the primary credit rate at the existing rate of 
-1¼ percent and establishment of the rates for secondary and seasonal credit under the existing 
+1.25 percent and establishment of the rates for secondary and seasonal credit under the existing 
 formulas specified in the staff’s January 27 memo to the Board.  Do I have a motion? 
 MR. FISCHER.  So moved. 
 MR. TARULLO.  Second. 

@@ -19,11 +19,11 @@ the American people.  While the unemployment rate remains low, it has edged up, 
 slowed, and downside risks to employment have risen.  At the same time, inflation has risen 
 recently and remains somewhat elevated.   
 In support of our goals, and in light of the shift in the balance of risks, today the Federal 
-Open Market Committee decided to lower our policy interest rate by ¼ percentage point.  We 
+Open Market Committee decided to lower our policy interest rate by 0.25 percentage point.  We 
 also decided to continue to reduce our securities holdings.  I’ll have more to say about monetary 
 policy after briefly reviewing economic developments. 
 Recent indicators suggest that growth of economic activity has moderated.  GDP rose at a 
-pace of around 1½ percent in the first half of the year, down from 2.5 percent last year.  The 
+pace of around 1.5 percent in the first half of the year, down from 2.5 percent last year.  The 
 moderation in growth largely reflects a slowdown in consumer spending.  In contrast, business 
 investment in equipment and intangibles has picked up from last year’s pace.  Activity in the 
 housing sector remains weak.  In our Summary of Economic Projections, the median participant 
@@ -62,8 +62,8 @@ inflation goal.  The median projection in the SEP for total PCE inflation is 3.0
 and falls to 2.6 percent in 2026 and to 2.1 percent in 2027. 
 Our monetary policy actions are guided by our dual mandate to promote maximum 
 employment and stable prices for the American people.  At today’s meeting, the Committee 
-decided to lower the target range for the federal funds rate by ¼ percentage point to 4 to 
-4¼ percent and to continue reducing the size of our balance sheet.   
+decided to lower the target range for the federal funds rate by 0.25 percentage point to 4 to 
+4.25 percent and to continue reducing the size of our balance sheet.   
 Changes to government policies continue to evolve, and their effects on the economy 
 remain uncertain.  Higher tariffs have begun to push up prices in some categories of goods, but 
 
@@ -92,7 +92,7 @@ In our SEP, FOMC participants wrote down their individual assessments of an
 appropriate path for the federal funds rate, based on what each participant judges to be the most 
 likely scenario for the economy.  The median participant projects that the appropriate level of the 
 federal funds rate will be 3.6 percent at the end of this year, 3.4 percent at the end of 2026, and 
-3.1 percent at the end of 2027.  This path is ¼ percentage point lower than projected in June.  As 
+3.1 percent at the end of 2027.  This path is 0.25 percentage point lower than projected in June.  As 
 is always the case, these individual forecasts are subject to uncertainty, and they are not a 
 Committee plan or decision.  Policy is not on a preset course. 
 The Fed has been assigned two goals for monetary policy—maximum employment and 
@@ -440,8 +440,8 @@ HOWARD SCHNEIDER.  Thanks.  Howard Schneider with Reuters.  So, as you
 mentioned a minute ago, some margins of the job market would suggest that the slide’s already 
 happening.  The Black unemployment rate in August was above 7 percent, declining workweek, 
 difficulty among college graduates finding work, high—rising youth unemployment.  Why do 
-you think a ¼ percentage point now is going to arrest that? 
-CHAIR POWELL.  Well, I hadn’t say that I thought a ¼ point would make a huge 
+you think a 0.25 percentage point now is going to arrest that? 
+CHAIR POWELL.  Well, I hadn’t say that I thought a 0.25 point would make a huge 
 difference to the economy.  But you’ve got to look at the whole path of rates, right?  And the 
 market has already—has already been baking in expectations.  I mean, our market works through 
 expectations, right?  So I think our policy path really does matter.  And I think it’s important that 
@@ -474,7 +474,7 @@ investment.  I don’t know how long that will go on.  No one does.
 In terms of spending, you saw the consumer spending numbers were well above 
 expectations, and that may well be skewed toward higher-earning consumers.  There’s a lot of 
 anecdotal evidence to suggest that.  Nonetheless, it’s spending.  So, I mean, I think the economy 
-is—you know, it’s moving along.  Economic growth is going to be 1½ percent or better this year, 
+is—you know, it’s moving along.  Economic growth is going to be 1.5 percent or better this year, 
 maybe a little better.  Forecasts have been coming up, as you can see.  So labor market is—
 unemployment is low, but—you know, downside risks—but it’s still a low unemployment rate.  
 So that’s how we see it. 
@@ -624,7 +624,7 @@ put it all out on the table.  And this is what you get.
 And you’re right, there is a—there’s a range of views in the dots.  And I think that’s, like 
 I said, very unsurprising given the quite unusual—historically unusual nature of the challenges 
 that we face.  But let’s remember, though, the unemployment rate’s 4.3 percent.  The economy is 
-growing at 1½ percent.  So it’s not a bad economy, or anything like that.  We’ve seen much more 
+growing at 1.5 percent.  So it’s not a bad economy, or anything like that.  We’ve seen much more 
 challenging economic times. 
 But from a policy standpoint, the standpoint of what we’re trying to accomplish, it’s 
 challenging to know what to do.  There are, as I mentioned earlier, there are no risk-free paths 

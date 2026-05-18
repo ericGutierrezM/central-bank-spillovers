@@ -111,7 +111,7 @@ moderately above 2 percent for some time so that inflation averages 2 percent ov
 longer-term inflation expectations remain well anchored at 2 percent.  We expect to maintain an 
 accommodative stance of monetary policy until these employment and inflation outcomes are 
 achieved.  With regard to interest rates, we continue to expect that it will be appropriate to 
-maintain the current 0 to ¼ percent target range for the federal funds rate until labor market 
+maintain the current 0 to 0.25 percent target range for the federal funds rate until labor market 
 conditions have reached levels consistent with the Committee’s assessment of maximum 
 employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent 
 for some time. 
@@ -361,7 +361,7 @@ FINAL
 Page 12 of 30 
  
 JAMES POLITI.  Chair Powell—thanks, Chair Powell.  Your economic projections 
-today forecast 7 percent growth in 2022, unemployment at 4½ percent, and core inflation of 
+today forecast 7 percent growth in 2022, unemployment at 4.5 percent, and core inflation of 
 3 percent.  If those conditions are achieved by the end of the year, would that constitute 
 substantial further progress, in your mind?  And kind of more broadly, when you look at the sort 
 of median forecast for interest rates in 2023 showing not one but two interest rate increases at the 
@@ -456,7 +456,7 @@ FINAL
 Page 15 of 30 
  
 they don’t, why isn’t this just flexible inflation targeting without an average in a range of 2 to 
-2¼ percent?  Thanks. 
+2.25 percent?  Thanks. 
 CHAIR POWELL.  You know, so as part of our year-and-a-half-long process, the review 
 that we did and came out with at the end of that with the—with the new Statement on Longer-
 Run Goals and Monetary Policy Strategy, we looked carefully at the idea.  We’ve all read all the 
@@ -467,7 +467,7 @@ that we will seek to—seek inflation that runs moderately above 2 percent for s
 it’s, it’s meant to create a broad sense that we want inflation to average 2 percent over time.  And 
 that under the old—under the old formula, under the old framework, what was happening was, 
 2 percent was a ceiling because all of the errors were below.  You were always getting back to 
-2 percent.  So you were bouncing back and forth between 1½ and 2, and we wanted them to be 
+2 percent.  So you were bouncing back and forth between 1.5 and 2, and we wanted them to be 
 centered around 2.  So, so that’s, that’s the approach that we’re taking.  And you’re right, it’s 
 not—it’s not a formulaic approach.  We were clear on that when we announced the framework.  
 Was there another part of your question, Craig? 
@@ -788,11 +788,11 @@ you’ve, you’ve still got a very strong growth, well above the longer-run pot
 of the economy.  You’ve got—you’ve got growth meaningfully above that, and inflation is lower 
 next year in all of our—in all of our forecasts.  I think the range of, of core PCE forecast for next 
 year is 1.7 to 2.5 in 2022 and, and 2 to 2.3 in 2023.  So you’re right, you’re seeing—I, I can’t 
-remember the number, but it might be in the 3s—3, 3½ percent growth for next year.  That’s, 
+remember the number, but it might be in the 3s—3, 3.5 percent growth for next year.  That’s, 
 that’s a really good year—coming on the back of a 7 percent growth year, that’s a really good 
 year.  That’s, that’s a year with a lot of momentum.  That’ll see—you know, that’ll cause 
-significant job creation and, and it will—I mean, we would take 3½ percent.  We didn’t have a 
-3½ percent growth year—we didn’t have a 3 percent growth year between the Global Financial 
+significant job creation and, and it will—I mean, we would take 3.5 percent.  We didn’t have a 
+3.5 percent growth year—we didn’t have a 3 percent growth year between the Global Financial 
 Crisis and the end of the expansion.  So that would be a good year. 
 GREGG ROBB.  Doesn’t it seem like there’s a risk of, of, you know, like stagflation—
 where that—you’re going to go from 7 percent and down, that means the economy’s really, you 

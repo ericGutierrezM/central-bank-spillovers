@@ -862,7 +862,7 @@ CHAIR POWELL.  Thank you, President Daly.  President Rosengren, please.
 MR. ROSENGREN.  My question is kind of at the intersection of Paul’s and Rebecca’s 
 presentations.  Both the ECB and Japan now have balance sheets that are much larger than ours 
 relative to GDP.  Have we seen the bank behavior in the Japanese banking system or the 
-European banking system that you’re concerned about if we went from $2½ trillion to 
+European banking system that you’re concerned about if we went from $2.5 trillion to 
 $5 trillion? 
 MR. WOOD.  One thing that I would say, of course, is that they both are in a situation in 
 which they have negative interest rates.  And so one thing they’ve dealt with is needing to do 
@@ -955,7 +955,7 @@ liability.  It just broadens the financing of those purchases to, as she said, a
 MR. EVANS.  Thanks very much. 
 CHAIR POWELL.  Thank you.  President Barkin, please. 
 MR. BARKIN.  Thanks.  And Rebecca, maybe a different angle on the question:  As you 
-got into the $5 trillion scenario, did you learn anything about even bigger scenarios—$7½ trillion 
+got into the $5 trillion scenario, did you learn anything about even bigger scenarios—$7.5 trillion 
 or $10 trillion?    Is there some level of a second breakpoint that we ought to be aware of? 
 MS. ZARUTSKIE.  So we didn’t go after the concept of the highest comfortable level of 
 reserves—which I think is another way, maybe, of describing what you’re asking.  We did do 
@@ -1968,7 +1968,7 @@ about the $5 trillion scenario, but having read the memos and heard the presenta
 have a lot of confidence—and, again, echoing President Evans—in the staff. 
 Your potential policy responses made sense to me, and I have a lot confidence we’ll find 
 a way to figure it out.  But I do believe if we get to the point—which I hope we don’t—when we 
-need to increase the actual size beyond the additional $2½ trillion, I hope we’ll seriously 
+need to increase the actual size beyond the additional $2.5 trillion, I hope we’ll seriously 
 consider these maturity extension options first before we actually increase the size of the balance 
 sheet.  We can talk more at a later time, but I think there is a political-economy sensitivity to the 
 November 4–5, 2020
@@ -1978,7 +1978,7 @@ November 4–5, 2020
  
  
 size of our balance sheet, and I’d love to be able to find other ways to create accommodation that 
-are short of increasing it further beyond the additional $2½ trillion.  Those are my comments.  
+are short of increasing it further beyond the additional $2.5 trillion.  Those are my comments.  
 Thank you, Mr. Chairman. 
 CHAIR POWELL.  Thank you.  President George, please. 
 MS. GEORGE.  Thank you, Mr. Chairman.  I want to join others in thanking the staff for 
@@ -2251,10 +2251,10 @@ objectives.”
 So then, finally, turning to the related issue of whether the banking system has the 
 capacity to absorb a large quantity of central bank reserves, I thought the memo and the briefings 
 on this topic were comprehensive, very informative.  I agree with the analysis that at the lower 
-level, at the $2½ trillion level, the banking system would have the capacity to absorb those 
+level, at the $2.5 trillion level, the banking system would have the capacity to absorb those 
 reserves. 
 I am somewhat more skeptical, maybe materially more skeptical, that it will absorb even 
-the smaller $2½ trillion of additional reserves without some unintended effects.  So you’ll all 
+the smaller $2.5 trillion of additional reserves without some unintended effects.  So you’ll all 
 remember, there was a lot of concern in the spring about the limitations of the leverage ratio on 
 the significant increase in deposits.  That was a particular problem for the processing banks.  
 November 4–5, 2020
@@ -2704,7 +2704,7 @@ projections.  Because the revisions since the September Tealbook are relatively 
 here I focus on how our projection has evolved over the course of the year.  Though 
 still historic, we expect the 2020 contraction to be less severe than we did in May.  As 
 shown in the inset box in panel 9, we now project a decline in GDP of 2.6 percent this 
-year, nearly 4½ percentage points less than we projected in May. 
+year, nearly 4.5 percentage points less than we projected in May. 
 What have we learned?  For one, the goods sector has been surprisingly resilient: 
 Consumer spending on goods is well above pre-pandemic levels, and home sales are 
 at their highest level since 2006.  Beyond 2020, the outlook remains tremendously 
@@ -2757,7 +2757,7 @@ Panels 15 and 16 contrast our baseline outlook for GDP and the unemployment
 rate with the corresponding outcomes from the “Second Wave” and “Additional 
 Fiscal Support” alternative scenarios.  The “Additional Fiscal Support” scenario 
 considers the effect of a $2 trillion package that begins later this year.  It greatly 
-accelerates the recovery early next year, with the level of GDP 2¼ percent higher 
+accelerates the recovery early next year, with the level of GDP 2.25 percent higher 
 than the baseline by midyear and the unemployment rate 1 percentage point lower. 
 In the “Second Wave” scenario, broad reinstatement of social distancing in the 
 fourth quarter, along with a deterioration in financial conditions, depresses household 
@@ -3215,7 +3215,7 @@ supply and demand factors, and it finds results similar to those in the literatu
 simulations suggest that in a U-shaped stress scenario similar to the COVID-19 stress-test 
 sensitivity analysis, bank lending declines more than 19 percent.  Relative to this drop, a capital 
 injection consistent with a 1 percentage point increase in bank capital ratios during the stress 
-scenario would imply an increase in loan growth of about 2½ percent next year and in the 
+scenario would imply an increase in loan growth of about 2.5 percent next year and in the 
 following year, with much of the adjustment coming from banks below the top 10 in terms 
 of assets. 
 Another part of the staff’s study used syndicated loans data and the Shared National 
@@ -4215,7 +4215,7 @@ investment and equipment.
 Labor market conditions have improved faster than expected, with strong gains in 
 employment and declines in the unemployment rate.  But, remember, this is really the reopening 
 part of this recovery.  The levels of output and employment are still far below their pre-pandemic 
-levels.  As of the third quarter, the level of real GDP remains 3½ percent below its peak in the 
+levels.  As of the third quarter, the level of real GDP remains 3.5 percent below its peak in the 
 fourth quarter of last year.  As of September, payroll employment is 7 percent below its level in 
 February, and that’s almost 11 million jobs. 
 The recovery continues to be very disparate across sectors, and I expect that to continue, 
@@ -4403,7 +4403,7 @@ November 4–5, 2020
  
 Another perhaps more troublesome price change complicating inflation measurement is 
 what’s happening with rents.  Again, due to the effect of the pandemic, inflation for both pure 
-rent and the implied rent of owner-occupied homes has slowed more than ½ percentage point 
+rent and the implied rent of owner-occupied homes has slowed more than 0.5 percentage point 
 since February.  Because of the immense weight that rents have in the consumer’s market basket, 
 especially in the CPI, and the construction of price changes for rents, which rely on six-month 
 percent changes, it is very likely this particular price change will influence underlying inflation 
@@ -4479,7 +4479,7 @@ I guess the good news is, we think deterioration of mobility and engagement most
 severely affects only services consumption, which is about 40 percent of GDP.  But I mention 
 this because in our downside case for the economy, it is our estimate that if the rest of the 
 country ultimately migrates down to a negative 60, which we’re increasingly seeing in spots on 
-our map that we track, that would mean instead of a contraction of 2½ percent for 2020, it would 
+our map that we track, that would mean instead of a contraction of 2.5 percent for 2020, it would 
 be a contraction of 4 percent for the year and negative GDP growth in the fourth quarter.  And I 
 must say, over the past few weeks as we watch the high-frequency data in mobility and 
 November 4–5, 2020
@@ -4555,7 +4555,7 @@ least in our District, that they’ll be able to maintain their population bette
 So that’s a positive thing. 
 I’ll make one last comment regarding the oil and gas sector.  I don’t really have anything 
 new to say that I haven’t said before about the drop in production in the United States from about 
-12.8 million barrels a day at the start of the year to something less than 10½ million barrels a day 
+12.8 million barrels a day at the start of the year to something less than 10.5 million barrels a day 
 by the end of the year.  You’ve heard us talk about the shedding of jobs, bankruptcies, 
 restructurings, greater merger activity, and also the awareness in the industry that size and scale 
 are going to be more critical, in particular to meet the challenges of reducing greenhouse gas 
@@ -4863,7 +4863,7 @@ November 4–5, 2020
  
 I am hopeful that we will achieve my stronger inflation outcome rather than the much 
 more modest path found in the Tealbook.  As a policymaker, I favor keeping our eye on getting 
-inflation moving toward 2½ percent in the foreseeable future, not merely inching above 2 at 
+inflation moving toward 2.5 percent in the foreseeable future, not merely inching above 2 at 
 some far distant date.  But the Tealbook forecast highlights how the inflation risks are clearly to 
 the downside, and that we likely have a lot of work ahead of us to produce an acceptable 
 outcome.  Thank you, Mr. Chair. 
@@ -4924,7 +4924,7 @@ So we’ll see how they’re able to contain that.  But the increase in EU cases
 EU fatalities are not occurring in a vacuum.  It is well understood in Europe that they are going 
 to have to get tougher and have to be better about managing the disease. 
 In the United States we have been running at about 2-plus fatalities per million per day, 
-recently trending up—2.7 the last time I checked.  The U.S. peak was about 6½ in the first part 
+recently trending up—2.7 the last time I checked.  The U.S. peak was about 6.5 in the first part 
 of the pandemic.  So, again, accidental injury is 1.5 per million per day, third largest cause of 
 death in the United States.  A pandemic running at this pace would be the third largest cause of 
 death.  So it’s pretty substantial, and it’s still running at a high rate, but I am pretty confident that 
@@ -4978,7 +4978,7 @@ November 4–5, 2020
  
 fatalities even though we have more infections.  In addition, we’ve got better treatments out there 
 than we used to have, so I think we will not get at least my definition of a second wave, which 
-would be to get up into the 6½ per million per day peak in fatalities that we saw earlier this year. 
+would be to get up into the 6.5 per million per day peak in fatalities that we saw earlier this year. 
 On the economy, as many have said, there’s generally been better-than-expected news.  I 
 have been using the Citigroup Economic Surprise Index, which has also shown up in staff 
 presentations.  I take it that the forecasting community is putting too much weight on the 
@@ -5045,7 +5045,7 @@ those on temp layoff, and much of the reduction in the official unemployment rat
 from people simply being recalled. 
 We do have millions of people still on temporary layoff.  They can be recalled, so I’m 
 hopeful that that’s what will happen in several months ahead here, and that the official 
-unemployment rate will continue to fall.  I have penciled in 6½ percent unemployment for the 
+unemployment rate will continue to fall.  I have penciled in 6.5 percent unemployment for the 
 December jobs report, so you can check me on that.  In the first week of January we’ll see where 
 we come out. 
 I continue to see a relatively rapid fall during 2021—although not as rapid as in 2020—
@@ -5437,7 +5437,7 @@ November 4–5, 2020
  
 were substantially better than expected, and it sounds like they were even better than expected by 
 Governor Quarles.  So that’s something. 
-Growth for the year as a whole looks to be around minus 2½ percent, which is far better 
+Growth for the year as a whole looks to be around minus 2.5 percent, which is far better 
 than we feared just a few months ago, and, of course, it’s a significant upgrade from even recent 
 forecasts.  But when you look into the future, a different picture emerges, with a much shallower 
 path of recovery and downside risks related to the surge in the spread of COVID and uncertain 
@@ -5901,7 +5901,7 @@ November 4–5, 2020
 
  
  
-of liftoff are grouped in the 2 to 2¼ percent bin; there are only three respondents in 
+of liftoff are grouped in the 2 to 2.25 percent bin; there are only three respondents in 
 the bin below 2 percent.  Regarding the timing of liftoff, the middle panel plots 
 market- and survey-based measures of the expected path of the federal funds rate.  
 The median respondent to the Desk’s surveys, the black x’s, sees it most likely that 
@@ -6340,7 +6340,7 @@ reminder of how far we have to go to achieve inflation that averages 2 percent o
 Indeed, under the Tealbook forecast, average inflation starting from early 2020 will fail 
 to reach the 2 percent mark even by the end of 2023.  This is too slow.  Our credibility depends 
 on achieving our inflation objective much sooner.  As I mentioned yesterday, to do so, our eyes 
-should be on getting inflation moving up with momentum toward 2½ percent, not just inching a 
+should be on getting inflation moving up with momentum toward 2.5 percent, not just inching a 
 bit above 2 percent at some far-distant date. 
 November 4–5, 2020
 202 of 340
@@ -6765,7 +6765,7 @@ So why did the liftoff move later despite the improved outlook?  The survey sugg
 our switch to a flexible average inflation-targeting strategy and its implementation through our 
 September outcome-based forward guidance have shifted expectations consistent with our 
 reaction function.  Perhaps the clearest indication is the increase in respondents who believe the 
-most likely value of headline 12-month PCE inflation at liftoff will be greater than 2¼ percent, 
+most likely value of headline 12-month PCE inflation at liftoff will be greater than 2.25 percent, 
 which increased from 30 percent in July to more than 50 percent in the latest survey.  Similarly, 
 as was noted, five-year, five-year-forward inflation compensation has moved up since we 
 November 4–5, 2020
@@ -6839,7 +6839,7 @@ Since July, market participants’ perceptions of our reaction function have shi
 Governor Brainard just described, with the median response of the Desk survey to the rate of 
 inflation prevailing at liftoff rising from 2.1 percent to 2.3 percent since July.  This expectation 
 stands in stark contrast to the survey results back in 2015, when the median response from the 
-survey was for core inflation to be around 1½ percent at liftoff.  So it’s a pretty dramatic change 
+survey was for core inflation to be around 1.5 percent at liftoff.  So it’s a pretty dramatic change 
 in how people understand our framework. 
 I’d like to comment a little bit on financial stability risks for market volatility in the 
 context of the highly uncertain outlook regarding the pandemic, fiscal policy, et cetera.  You 

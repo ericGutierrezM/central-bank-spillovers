@@ -20,7 +20,7 @@ responsibility of the Federal Reserve.  Without price stability, the economy doe
 anyone.  In particular, without price stability, we will not achieve a sustained period of strong 
 labor market conditions that benefit all.  
 Since early last year, the FOMC has significantly tightened the stance of monetary 
-policy.  We have raised our policy interest rate by 5¼ percentage points and have continued to 
+policy.  We have raised our policy interest rate by 5.25 percentage points and have continued to 
 reduce our securities holdings at a brisk pace.  The stance of policy is restrictive—meaning that 
 tight policy is putting downward pressure on economic activity and inflation—and the full 
 effects of our tightening have yet to be felt.  Today, we decided to leave our policy interest rate 
@@ -76,11 +76,11 @@ Page 3 of 27
 those least able to meet the higher costs of essentials like food, housing, and transportation.  We 
 are highly attentive to the risks that high inflation poses to both sides of our mandate, and we are 
 strongly committed to returning inflation to our 2 percent objective. 
-As I noted earlier, since early last year, we have raised our policy rate by 5¼ percentage 
+As I noted earlier, since early last year, we have raised our policy rate by 5.25 percentage 
 points, and we have decreased our securities holdings by more than $1 trillion.  Our restrictive 
 stance of monetary policy is putting downward pressure on economic activity and inflation.  The 
 Committee decided at today’s meeting to maintain the target range for the federal funds rate at 
-5¼ to 5½ percent and to continue the process of significantly reducing our securities holdings.  
+5.25 to 5.5 percent and to continue the process of significantly reducing our securities holdings.  
 We are committed to achieving a stance of monetary policy that is sufficiently restrictive to bring 
 inflation sustainably down to 2 percent over time, and to keeping policy restrictive until we are 
 confident that inflation is on a path to that objective. 
@@ -205,7 +205,7 @@ MICHELLE SMITH.  Nick.
 NICK TIMIRAOS.  Nick Timiraos, the Wall Street Journal.  Chair Powell, did the Fed 
 staff put a recession back into the baseline forecast in the materials for today’s meeting?  And 
 how much does this tightening and financial conditions substitute for rate hikes if the tightening 
-is persistent?  You had said it was worth maybe a ¼ point when we had the bank failures in the 
+is persistent?  You had said it was worth maybe a 0.25 point when we had the bank failures in the 
 spring.  What is it here on something that’s presumably more straightforward and more familiar 
 to simulate? 
 CHAIR POWELL.  So I guess I don’t want to answer your question about the—about the 
@@ -247,7 +247,7 @@ MICHELLE SMITH.  Colby.
 COLBY SMTH.  Thank you.  Colby Smith with the Financial Times.  In terms of the 
 thresholds that you’ve laid out of what could warrant further tightening, the additional evidence 
 of persistently above-trend growth, or some kind of reversal in the recent easing of labor market 
-tightness—that seems to suggest something more powerful than just one more ¼ point rate hike 
+tightness—that seems to suggest something more powerful than just one more 0.25 point rate hike 
 would be necessary.  And I’m just curious if that’s how the Committee sees it. 
 
 
@@ -727,7 +727,7 @@ You can see by the fact that we have slowed down, although we’re still—we’
 trying to gain confidence in what the appropriate stance is.  But you can see that.  We think, and 
 I think, that the risks are getting more balanced.  I’ll just say that they’re getting more balanced.  
 The risk of doing too much versus the risk of doing too little are getting—are getting more—
-closer to balance, because policy is I think clearly restrictive at 5¼ to 5½ percent.  That range, if 
+closer to balance, because policy is I think clearly restrictive at 5.25 to 5.5 percent.  That range, if 
 you take off a mainstream estimate of the expected inflation, take one year inflation, you’re 
 going to see that.  You’re going to see a real policy rate that is well above mainstream estimates 
 of a neutral policy rate.  Now that’s arithmetic.  It doesn’t really—the proof is really in how the 

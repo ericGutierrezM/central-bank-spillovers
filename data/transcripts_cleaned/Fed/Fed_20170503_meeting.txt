@@ -1445,8 +1445,8 @@ indicators than just the spending data, has portrayed a steadier profile of real
 in the past and continues to do so now.  Among the additional indicators taken into 
 account by the Chicago index, the recent data from the labor market point to 
 continued solid improvement:  In March, the unemployment rate came in 
-¼ percentage point lower than our previous projection, and the participation rate was 
-¼ percentage point higher.  In addition, initial jobless claims have remained 
+0.25 percentage point lower than our previous projection, and the participation rate was 
+0.25 percentage point higher.  In addition, initial jobless claims have remained 
 remarkably low of late. The BLS’s first estimate of March payroll employment 
 growth was disappointing, but we think the main culprit there was the weather—both 
 in the form of warmer-than-usual temperatures in February that probably caused 
@@ -1626,7 +1626,7 @@ inflation measures we track, the Michigan measure shows by far the steepest
 downtrend, so it is not obvious that a broader erosion in inflation expectations is 
 under way, but we continue to view that risk as material. 
 Last Friday, we received the March ECI—the black line in panel 11—which 
-showed a 12-month change that was ¼ percentage point higher than we had expected. 
+showed a 12-month change that was 0.25 percentage point higher than we had expected. 
 More broadly, labor compensation appears to be accelerating modestly, about as we 
 
 
@@ -1863,7 +1863,7 @@ will now continue our presentation.
 MS. WILSON.3 I’ll be referring to the materials titled “Material for Briefing on 
 the International Outlook.” IF’s benign, if unspectacular, foreign outlook is 
 summarized on slide 1.  Throughout most of the projection period, we have aggregate 
-foreign GDP growth running at about a 2½ percent pace, as growth in both the 
+foreign GDP growth running at about a 2.5 percent pace, as growth in both the 
 advanced and emerging market economies settles in at roughly their potential rates.  
 We see inflation stabilizing at 3 percent for the emerging market economies and 
 trudging slowly toward 2 percent for the advanced. 
@@ -2009,8 +2009,8 @@ confidence in foreign economic prospects engenders a sizable reversal of the dol
 appreciation seen since mid-2014.  If central banks respond more aggressively than 
 our baseline policy rule would imply, the effects on U.S. real GDP are still positive 
 but slightly smaller, as seen by the red lines, reflecting some greater upward pressure 
-on U.S. interest rates.  In either case, U.S. GDP growth runs closer to 2½ percent next 
-year and inflation reaches 2¼ percent. 
+on U.S. interest rates.  In either case, U.S. GDP growth runs closer to 2.5 percent next 
+year and inflation reaches 2.25 percent. 
 That said, of course, downside risks have not disappeared.  And a prominent one, 
 the risk of EME financial market turbulence, is discussed on the next slide.  To listen 
 to the chatter at the spring meetings or to read the latest investment reports, it is 
@@ -3873,10 +3873,10 @@ simply accepting the evidence of recent years that there does not appear to be v
 inflation pressure in the current environment. 
 Labor markets have continued to improve.  My interpretation is that labor input has 
 continued to expand at a pace of about 1.5 percent per year and that this, combined with about 
-½ percent per year productivity improvement, gives an output growth rate in the neighborhood of 
-2 percent.  Both nonfarm payrolls and hours are growing at approximately 1½ percent measured 
+0.5 percent per year productivity improvement, gives an output growth rate in the neighborhood of 
+2 percent.  Both nonfarm payrolls and hours are growing at approximately 1.5 percent measured 
 from a year earlier. If anything, this might slow down. 
-Unemployment has, indeed, fallen to 4½ percent, but I think it will fluctuate in this range 
+Unemployment has, indeed, fallen to 4.5 percent, but I think it will fluctuate in this range 
 over the forecast horizon.  Even if unemployment fell to 4 percent, I do not think it would have a 
 meaningful effect on inflation, considering the very flat Phillips curve estimated in the data in 
 recent years. I regard it as speculative to suggest that recently estimated Phillips curve 
@@ -4036,10 +4036,10 @@ percent over the next couple of years, again, consistent with the consensus of t
 May 2–3, 2017
 40 of 207
 forecast.  With the low rates of population and productivity growth that I expect, my estimate of 
-potential real GDP growth is only 1¾ percent. This implies that the projected path of GDP 
+potential real GDP growth is only 1.75 percent. This implies that the projected path of GDP 
 growth should lead to a further tightening of labor markets. 
 Given my estimate of the natural rate of unemployment of about 4.7 percent and with the 
-current unemployment rate already at 4½ percent, my forecast anticipates additional 
+current unemployment rate already at 4.5 percent, my forecast anticipates additional 
 overshooting of full employment.  Specifically, my modal forecast of the unemployment rate by 
 the end of 2019 stands at 4.1 percent, just 0.1 percentage point higher than the Tealbook.  A 
 modal unemployment forecast that low entails a significant probability that the unemployment 
@@ -4225,9 +4225,9 @@ Caterpillar also noted that international demand had improved, particularly in C
 expected government policies to support strong sales of construction equipment for at least 
 another few months.  This is the peak construction season there, I’m told. In contrast, Ford and 
 GM were less positive this round.  In March, our contacts had hoped that sales would stabilize 
-near the 17½ million pace seen in January and February, but March and April sales were 
+near the 17.5 million pace seen in January and February, but March and April sales were 
 disappointing, which leaves them with some decisions to make about production plans.  That 
-said, they still expect 2017 sales at the 17¼ million pace, only a little below the record for the 
+said, they still expect 2017 sales at the 17.25 million pace, only a little below the record for the 
 previous two years.  Furthermore, other business reports discounted the first-quarter slowdown in 
 overall consumer spending.  Notably, my director from Discover Financial was pretty upbeat and 
 indicated that credit card receipts seem more robust than the NIPA consumption data. 
@@ -4857,7 +4857,7 @@ should go into reverse.  Thus, I continue to expect real GDP growth to be slight
 this year. 
 Despite slower output growth in the first quarter, labor market conditions remain strong. 
 Average payroll gains in the first quarter were well above trend, and the unemployment rate of 
-4½ percent is nearly at its lowest level seen during the previous expansion and is below most 
+4.5 percent is nearly at its lowest level seen during the previous expansion and is below most 
 estimates of its longer-run level, including my own 5 percent estimate.  Productivity growth 
 remains low, and the subdued wage growth we’ve seen for some time is consistent with this.  
 Nonetheless, we have seen an acceleration in wages over the past year. 
@@ -4918,7 +4918,7 @@ Federal Reserve Bank of Cleveland’s median CPI inflation series rose 0.2 perce
  
 May 2–3, 2017
 51 of 207
-year-over-year increase held steady at 2½ percent, and the other CPI-based measures have been 
+year-over-year increase held steady at 2.5 percent, and the other CPI-based measures have been 
 rising at 2 percent or better. Over the past year, headline PCE inflation has neared our 2 percent 
 goal.  It’s important that inflation return to 2 percent on a sustained basis, but we should expect 
 some variability in the monthly data.  Despite the dip in inflation readings in March, longer-run 
@@ -5236,7 +5236,7 @@ production efficiencies.  Survey participants report that current prices are suf
 breakeven levels to encourage a further rig count growth, particularly in the Permian Basin. 
 Regarding the nation, my views on the national economic outlook are not much changed 
 from my estimates in March in most respects and are not very different from the Tealbook 
-baseline scenario. I see the unemployment rate dipping below 4½ percent in the fourth quarter of 
+baseline scenario. I see the unemployment rate dipping below 4.5 percent in the fourth quarter of 
 2017 and continuing to decline next year, driven by above-potential GDP growth.  Despite the 
 weak first-quarter real GDP growth, I continue to believe that because of improved ratios of debt 
 to income and debt service to income among households, the health of the household sector, is 
@@ -5386,7 +5386,7 @@ broadly unchanged, albeit less certain.
  
 May 2–3, 2017
 57 of 207
-Starting with the labor market:  In March, the unemployment rate fell to 4½ percent, 
+Starting with the labor market:  In March, the unemployment rate fell to 4.5 percent, 
 below the staff’s estimate of the natural rate as well as the median SEP estimate of the natural 
 rate. The labor force participation rate remains at 63 percent, moving above the staff’s current 
 estimate of its trend, as it did late in the past two cycles.  A key question is whether the 
@@ -5809,7 +5809,7 @@ that GDP growth over the next few years will be closer to 3 percent than to 2 pe
 On the first question—that is, what’s going to happen the remainder of this year— 
 alternative B and almost all of the other forecasters view the recent weakness in GDP growth as 
 likely being transitory.  They see a short period of rapid growth—more than 3 percent in the 
-second quarter and 2½ percent in the second half of the year—that will bring the growth rate for 
+second quarter and 2.5 percent in the second half of the year—that will bring the growth rate for 
 the year to slightly above 2 percent. That forecast is based on a number of positive signals, 
 including a long-awaited pickup in investment, including in housing; increases in oil production; 
 and a strengthening global economy, with trade growth picking up, and with Europe, Latin 
@@ -5826,7 +5826,7 @@ if the fiscal package that is beginning to take shape includes major supply-side
 The labor market continues to be a source of strength for the short-run recovery, but this 
 is not a new development.  The strength of the labor market is reflected in both the flattening of 
 the declining trend in the labor force participation rate and the unemployment rate itself, now at 
-4½ percent, almost ½ percentage point below the staff’s estimate of the natural rate and 
+4.5 percent, almost 0.5 percentage point below the staff’s estimate of the natural rate and 
 
 
  
@@ -6254,7 +6254,7 @@ May 2–3, 2017
 The strength in labor markets also continues to support housing.  With the rise in permits 
 for single-family housing over the past six months, the outlook for single-family construction 
 remains positive.  Recent research by my staff, however, suggests the number of households is 
-likely to be at least 3½ million below its trend, even after accounting for demographics and 
+likely to be at least 3.5 million below its trend, even after accounting for demographics and 
 changes in preferences.  This unmet demand for housing may face a persistent lack of supply due 
 in part to limited land in desirable areas available for development. Our business contacts are, 
 likewise, optimistic about future single-family housing demand.  With strong demand and the 
@@ -6517,9 +6517,9 @@ strong, but there are worrying signs that inflation might not be on track to tar
 CHAIR YELLEN.  Thank you.  President Williams. 
 MR. WILLIAMS.  Thank you, Madam Chair.  Despite some ups and downs in the recent 
 data, the economy’s underlying moderate expansion appears to still be on track.  I continue to 
-expect real GDP to grow 1¾ percent this year and next, just a touch above my estimated longer-
+expect real GDP to grow 1.75 percent this year and next, just a touch above my estimated longer-
 run trend.  The labor market also continues to improve, with the unemployment rate at 
-4½ percent.  We have now reached or exceeded everyone’s longer-run estimate of full 
+4.5 percent.  We have now reached or exceeded everyone’s longer-run estimate of full 
 employment from the March SEP.  And headline inflation looks likely to remain just shy of 
 2 percent this year before edging up and closing in on our target on a sustained basis next year. 
 In keeping with tradition, first-quarter real GDP growth disappointed; also in keeping 
@@ -6694,7 +6694,7 @@ despite four funds rate increases this year, another four rate increases next ye
 cessation of reinvestments later this year. 
 I would like to follow on President Rosengren’s comments and highlight the fact that 
 under this sizable overshoot of full employment, the Tealbook projects real GDP growth of only 
-1¼ percent for several years in a row to get the economy back to a sustainable level of 
+1.25 percent for several years in a row to get the economy back to a sustainable level of 
 employment.  That persistent sluggish growth puts the economy at considerable risk.  Even a 
 small shock could tip us into recession. 
 When you’re docking a boat, you don’t run it in fast toward shore and assume you can 
@@ -6765,7 +6765,7 @@ never approach a dock any faster than you’re willing to hit it.  Similarly, in
 growth, it is better to close in on the target gradually and avoid substantial overshooting, and this 
 recommends trying to rein in the boom to avoid the bust.  Acting in small steps now can avoid 
 having to make large and potentially destabilizing corrections later. 
-Summing up, with the unemployment rate at 4½ percent, we’ve already overshot full 
+Summing up, with the unemployment rate at 4.5 percent, we’ve already overshot full 
 employment, and 2 percent inflation is in the offing.  This is more or less where we expected to 
 be and positions us well for continuing our process of normalizing policy this year.  Thank you. 
 CHAIR YELLEN.  Thank you.  Vice Chairman. 
@@ -7016,7 +7016,7 @@ about incoming data and their policy implications.  Starting with the labor mark
 conditions as continuing to improve.  Payroll growth slowed to 100,000 in March, but that 
 slowdown was likely weather related.  Smoothing through the noise, the three-month average 
 remains solid at 180,000 per month.  In addition, the unemployment rate moved down to 
-4½ percent, U-6 declined notably, and other indicators of labor utilization tightened on balance.  
+4.5 percent, U-6 declined notably, and other indicators of labor utilization tightened on balance.  
 Wage growth looks to be firming a bit, but it still remains subdued, which raises the possibility 
 that the longer-run sustainable rate of unemployment could be lower than I estimate.  The 
 continued sideways movement of the labor force participation rate in the face of downward 
@@ -7653,7 +7653,7 @@ unemployment, in light of persistent low wage increases and persistent low infla
 it feels like if we’re making a mistake of overestimating the natural rate of unemployment, but 
 the error bars look symmetric.  I’m just wondering, are there any data you could point to or is 
 there a story you could tell on why, a year or two from now, we might look back and realize, 
-well, it was really 5½, it wasn’t 4.9?  How do we explain making the opposite error that I’m 
+well, it was really 5.5, it wasn’t 4.9?  How do we explain making the opposite error that I’m 
 concerned about? 
 MR. LAUBACH.  So the best idea I could come up with is to look back in the past to see 
 whether you observe, depending on in which phase of the business cycle you are, that you were 
@@ -7993,7 +7993,7 @@ will act in June.  This also affords us the flexibility to observe whether the e
 second-quarter economic activity occurs. While I’m not terribly concerned about a repeat of the 
 first-quarter weakness, we cannot completely rule it out at this point.  I would also hope that the 
 Committee considers moving the announcement of balance sheet shrinkage to this summer.  
-With the unemployment rate at 4½ percent and inflation now fluctuating around 2 percent, I am 
+With the unemployment rate at 4.5 percent and inflation now fluctuating around 2 percent, I am 
 concerned that we risk a serious overshoot of what is sustainable. 
 I currently still support a gradual approach to normalization.  A path of either three or 
 four increases per year is quite gradual by historical standards, but should the unemployment rate 
@@ -9010,7 +9010,7 @@ securities later this year.
 That being said, the gradual pace at which the Tealbook and the median SEP forecast 
 nominal and real rates to increase stands out relative to the Tealbook’s simple rule projections on 
 Tealbook A, page 88.  For the period ahead, the first-difference rule essentially defines a lower 
-bound for these projections at 1¾ for the end of 2017 and 2.8 percent for the end of 2018.  Both 
+bound for these projections at 1.75 for the end of 2017 and 2.8 percent for the end of 2018.  Both 
 of these projections exceed the median SEP, marginally for the end of 2017 and more so for the 
 end of 2018.  While raising the policy rate very gradually has been appropriate so far, tightening 
 in labor markets should alert us to consider some continued policy rate discussion of pacing at 
@@ -10476,7 +10476,7 @@ Board member to approve establishment of the primary credit rate at the existing
  
 May 2–3, 2017
 118 of 207
-1½ percent and establishment of the rates for secondary and seasonal credit under the existing 
+1.5 percent and establishment of the rates for secondary and seasonal credit under the existing 
 formula specified in the staff’s April 28 memo to the Board.  Do I have a motion? 
 MR. FISCHER.  So moved. 
 CHAIR YELLEN.  Second? 
@@ -11011,7 +11011,7 @@ evolution of prepayments under the same interest rate scenario.
 Under a lower rate scenario, which would typically also be an economically 
 adverse one, both the pace of prepayments and the uncertainty of prepayment risk on 
 individual MBS would increase.  For example, if primary mortgage rates were to fall 
-to 3½ percent and remain there for some time, our models suggest that MBS principal 
+to 3.5 percent and remain there for some time, our models suggest that MBS principal 
 repayments could increase to $25 billion to $30 billion per month as refinancing 
 becomes an attractive option for more of the underlying mortgages.  The caps would 
 provide a means of helping to clarify in advance how the portfolio would be managed 
@@ -11366,7 +11366,7 @@ Regarding question 1(a), I strongly believe that we should taper rather than sto
 reinvestments.  Tapering only slowly alters the path of the overall balance sheet, which should 
 minimize the risk of a taper tantrum response to our announcement that we are shrinking the 
 balance sheet. We are starting by reducing the balance sheet by less than $10 billion for each of 
-the first three months on a $4½ trillion balance sheet.  So I think that certainly is gradual. 
+the first three months on a $4.5 trillion balance sheet.  So I think that certainly is gradual. 
 On question 1(b), an 18-month schedule seems an appropriate phaseout period.  So I 
 agree for the reasons the Vice Chairman highlighted. 
 
@@ -12878,7 +12878,7 @@ to thank the staff for doing a good job and being flexible enough to revise thei
 is a good improvement. 
 On account of the gradual nature of the plan over 18 months and the nature of the caps, I 
 think I would be comfortable announcing this plan once we get to a meeting at which we raise 
-the target range for the federal funds rate to 1 to 1¼ percent. So I guess I agree with President 
+the target range for the federal funds rate to 1 to 1.25 percent. So I guess I agree with President 
 Rosengren.  For me, under this plan, I’d be comfortable with that trigger, which I would assume 
 would be either in June or September, although we’ll see.  Then, when we announce it, I would 
 give probably a two- to three-month timetable telling the market we will start two to three 
@@ -13388,7 +13388,7 @@ midway to its longer-run equilibrium value.
 Thus, I would prefer a simple amendment to the statement language along the following 
 lines:  “The Committee intends to commence phasing out reinvestments once normalization of 
 the level of the federal funds rate is well under way, after the target range for the federal funds 
-rate reaches 1¼ to 1½ percent, midway to the expected longer-run federal funds rate.” The Chair 
+rate reaches 1.25 to 1.5 percent, midway to the expected longer-run federal funds rate.” The Chair 
 could further clarify in the June press conference that, under the SEP median estimate, this 
 would mean commencing the phaseout of reinvestment at the meeting or press conference 
 meeting after the target for the federal funds rate has reached that range, which could be as soon 

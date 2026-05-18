@@ -476,12 +476,12 @@ fiscal stimulus, we trimmed a further 25 basis points after a broader review of 
 latest empirical evidence.  That evidence was summarized in a note by Cristina 
 Fuentes-Albero that went to research directors two weeks ago and was discussed in a 
 box in the Tealbook.  Together, these revisions leave our judgmental assumption 
-regarding r* at ½ percent. 
+regarding r* at 0.5 percent. 
 For reference, panel 2 reproduces a chart from a recent note by President 
 Williams that plots the average and range of r* estimates from a set of five models.  
 A year ago, I expected that r* would show at least a little procyclicality, consistent 
 with its behavior in two of the past three business cycles shown in the chart.  Instead, 
-it has been flat as can be, despite the further tightening in resource utilization.  At ½ 
+it has been flat as can be, despite the further tightening in resource utilization.  At 0.5 
 percent, our assumption is now squarely in line with the average shown in John’s 
 chart. 
 We didn’t allow the lower interest rates associated with this second piece of our 
@@ -503,7 +503,7 @@ July 25–26, 2017
 
  
 unemployment rate edges down further over the projection period.  At the end of 
-2019, the unemployment rate is forecast to be 3¾ percent, unrevised from our 
+2019, the unemployment rate is forecast to be 3.75 percent, unrevised from our 
 previous projection and about 1 percentage point below our estimate of the natural 
 rate. 
 Panels 5 and 6 summarize the inflation outlook.  From March through May—as 
@@ -520,7 +520,7 @@ the Committee’s 2 percent objective.  But, as shown in panel 7 on the next pag
 despite our continued expectation that inflation will move up to 2 percent in the 
 medium term, currently available data and our near-term monthly projection imply 
 that throughout the remainder of this year we will continue to see 12-month inflation 
-readings at or below 1½ percent. 
+readings at or below 1.5 percent. 
 The three-month losing streak from March through May laid the predicate for the 
 memo by Andrea De Michelis, David Lebow, Jeremy Rudd, and Riccardo Trezzi.  
 The memo evaluated a range of hypotheses for what could explain the latest bout of 
@@ -584,9 +584,9 @@ African American has been out of work has consistently exceeded the comparable
 figure for whites over the past two decades.  Perhaps surprisingly, the median 
 duration experienced by Hispanics has tracked the duration for whites very closely 
 and has even generally been a sliver lower.  The gap between median durations 
-experienced by blacks and whites averaged 3½ weeks during the expansion of the 
+experienced by blacks and whites averaged 3.5 weeks during the expansion of the 
 early 2000s.  In the early years of the current expansion that gap widened, reaching an 
-average of about 7½ weeks in 2011 and 2012.  Panel 14 addresses the underlying 
+average of about 7.5 weeks in 2011 and 2012.  Panel 14 addresses the underlying 
 mechanism that generates longer durations for blacks; it shows that in any given 
 month, blacks are considerably less likely than whites to transition from 
 unemployment into employment.  Lately, about 27 percent of unemployed white 
@@ -626,8 +626,8 @@ labeled “Material for Briefing on The International Outlook.”
 Incoming data have largely confirmed the narrative for the global economy that 
 has emerged in recent quarters.  First, activity abroad continued its solid and 
 widespread expansion.  As shown in panel 1, after picking up briskly in the second 
-half of last year, total foreign economic growth remained robust at 3¼ percent in the 
-first quarter of this year, and we estimate it moderated to a still strong 2¾ percent in 
+half of last year, total foreign economic growth remained robust at 3.25 percent in the 
+first quarter of this year, and we estimate it moderated to a still strong 2.75 percent in 
 the second quarter.  Squinting at the difference between the solid and dashed lines, 
 you can see that second-quarter growth in the advanced foreign economies, or AFEs, 
 is now estimated to be even higher than we had expected in June.  Indicators for the 
@@ -644,7 +644,7 @@ July 25–26, 2017
 
 
  
-foreign growth moderates a little more, to its potential rate of about 2½ percent, and 
+foreign growth moderates a little more, to its potential rate of about 2.5 percent, and 
 stays there for most of the forecast period. 
 Second, despite continued solid economic growth, inflation in the advanced 
 foreign economies generally remains well below central bank targets and looks set to 
@@ -716,7 +716,7 @@ back-of-the-envelope calculations designed to get a handle on this question.  Fi
 gauged the effect of asset purchases by the ECB, Bank of England, and the Bank of 
 Japan, shown in column 1, on term premiums in those countries (column 3).  We then 
 translated those declines into effects on U.S. term premiums (column 5) based on 
-pass-through estimates (shown in column 4) such as the ½ coefficient shown in panel 
+pass-through estimates (shown in column 4) such as the 0.5 coefficient shown in panel 
 8 for the euro area.  Summing up these effects, we calculate that the total cumulative 
 effect of foreign asset purchases since 2008 on U.S. term premiums has been 71 basis 
 points, the number in the bottom right of that panel; their effect since you first started 
@@ -951,7 +951,7 @@ is the natural rate of unemployment in Europe, and is it a time-varying object?
 MR. KAMIN.  Yes.  We do our own analysis, but we also look at the OECD estimates.  
 And so that is based on an OECD estimate of the natural rate of unemployment, which is actually 
 relatively little time-varying.  It falls a little bit over the course of the period from 2008 to the 
-present.  It has edged down about ½ percentage point at most and is a little bit under 9 percent.  
+present.  It has edged down about 0.5 percentage point at most and is a little bit under 9 percent.  
 So that’s the natural rate estimate for the euro area. 
 July 25–26, 2017
 23 of 152
@@ -1006,7 +1006,7 @@ mania or supported by high levels of leverage.
 In terms of valuation, I guess I spend most of my time worrying more about valuation in 
 the market for Treasury securities than about equity market valuation.  The equity risk premiums 
 are somewhat low compared with historical experience, but not unusually so.  In contrast, the 10-
-year Treasury yield of about 2¼ percent is quite surprising at a time when we’re close to full 
+year Treasury yield of about 2.25 percent is quite surprising at a time when we’re close to full 
 employment and are removing monetary policy accommodation.  The staff memo on the low 
 July 25–26, 2017
 25 of 152
@@ -1466,7 +1466,7 @@ being a bit above 2 percent, which exceeds most people’s sub–2 percent estim
 As a result, most forecasts expect continued declines in the unemployment rate from already low 
 levels. 
 Looking at the risks associated with my modal GDP forecast, should real GDP be a bit 
-weaker than currently expected—say, 1¾ percent—unemployment would level off at a rate 
+weaker than currently expected—say, 1.75 percent—unemployment would level off at a rate 
 below our estimate of the natural rate, still placing upward pressure on inflation.  However, if 
 real GDP grows a bit faster than expected, it is quite possible to have unemployment rates below 
 4 percent by next year.  The very real possibility of very low unemployment highlights a risk of 
@@ -1521,7 +1521,7 @@ the tentative progress we have seen on inflation may have stalled.
 Recent labor market readings indicate continued growth over the past three months.  
 Nonfarm payrolls have increased upwards of 190,000 per month, and private payroll growth has 
 been about the same as last year.  The employment-to-population ratio for prime-age workers has 
-improved, although it’s still 1½ percentage points lower than pre-crisis.  Disaggregating the 
+improved, although it’s still 1.5 percentage points lower than pre-crisis.  Disaggregating the 
 headline numbers, as we heard earlier, unemployment rates for minority groups have been 
 coming down more sharply than the overall average in recent months, showing ongoing progress 
 among groups that typically have the most room to grow.  These are welcome developments. 
@@ -1551,7 +1551,7 @@ Despite this benign picture for domestic activity, both overall and core PCE pri
 estimated to have risen 1.4 percent for the year through June, well short of our objective.  And, 
 of course, the slowdown of progress on inflation comes against the backdrop of five straight 
 years of undershooting our target.  The staff analysis concludes that temporary factors are 
-pushing down inflation this year perhaps by a bit more than ¼ percentage point, roughly the 
+pushing down inflation this year perhaps by a bit more than 0.25 percentage point, roughly the 
 same magnitude by which temporary factors boosted inflation by a similar amount last year.  It 
 concludes there’s little reason to take much signal from either, and fair enough.  But the decline 
 occurs against the backdrop of a sustained shortfall of inflation from our target despite a sharp 
@@ -1573,7 +1573,7 @@ before the crisis.  That’s suggested by estimates based on time-series models,
 expectations given in the Michigan survey, and five-year-forward TIPS-based inflation 
 compensation.  The evidence suggests an important reason inflation has been lower in the past 
 few years than in the pre-crisis period is thus this lower level of underlying inflation. 
-The staff estimate takes about 1¾ percent as its estimate of underlying inflation, which 
+The staff estimate takes about 1.75 percent as its estimate of underlying inflation, which 
 seems like a reasonable midpoint for these estimates.  Despite this low underlying level, the 
 Tealbook forecast sees core inflation rising to 1.9 percent next year and hitting our target in 
 2019, which of course is a critical factor in the baseline policy path.  Two key assumptions drive 
@@ -1609,7 +1609,7 @@ data have met expectations, and they confirm that the economy has rebounded in r
 and the expansion remains on track.  I expect real GDP to grow a touch above 2 percent this 
 year, on par with the average that we’ve seen over the past several years.  And, as I discussed at 
 our previous meeting, given the trends in demographics and productivity, I estimate that 
-potential GDP is growing only about 1½ percent per year.  Against that benchmark, the current 
+potential GDP is growing only about 1.5 percent per year.  Against that benchmark, the current 
 pace of economic growth is actually quite strong and exceeds, by a sizable margin, its 
 sustainable trend. 
 Labor market performance has also remained solid in recent months and has generally 
@@ -1662,7 +1662,7 @@ Now let me turn to an assessment of financial conditions, which is a crucial bac
 the forecast.  Here I want to make the point that a declining r*—the longer-run value of the real 
 funds rate—is important for interpreting movements in asset prices and in calculating the wealth 
 effect from these movements.  As I mentioned at our previous meeting, I lowered my own 
-estimate of r* to ½ percent.  This change reflected both persistently low estimates from many 
+estimate of r* to 0.5 percent.  This change reflected both persistently low estimates from many 
 macro models, including my own, as well as more recent evidence using term structure models.  
 The latest Tealbook forecast has also adopted the same lower r*, and the special Board staff 
 memo provides an excellent—indeed, insightful—review of the relevant literature. 
@@ -1914,10 +1914,10 @@ also anticipate that the resurgence in business investment that we’ve seen thi
 in light of strong fundamentals.  Synchronized growth in most major economies around the 
 world offers some upside risk.  Overall, I see GDP continuing to expand at a moderate but 
 above-trend pace over the remainder of the year. 
-Regarding labor markets, the unemployment rate has fallen ½ percentage point over the 
+Regarding labor markets, the unemployment rate has fallen 0.5 percentage point over the 
 past year, while participation has remained about flat.  With the strong June report over the first 
 six months of this year, payroll employment gains have averaged 180,000 a month, about the 
-same as last year, and this pace is consistent with a ½ percentage point drop in the 
+same as last year, and this pace is consistent with a 0.5 percentage point drop in the 
 unemployment rate over a year, assuming an unchanged participation rate.  On this path, the 
 unemployment rate should decline to the low 4s by the end of the year, a bit below most 
 assessments of the natural rate.  A tightening labor market should mean a gradual acceleration in 
@@ -1996,7 +1996,7 @@ in any of these variables, barring a major shock to the economy.  In particular,
 real GDP growth would likely remain near its average of recent years of around 2 percent.  For 
 all of 2016, the U.S. growth rate was very close to 2 percent, Q4 over Q4.  For the first half of 
 2017, the Q1 growth rate was 1.4 percent, and tracking estimates for the second quarter are 
-averaging about 2½ percent.  That suggests a growth rate for the first half of 2017 of about 1.9 
+averaging about 2.5 percent.  That suggests a growth rate for the first half of 2017 of about 1.9 
 percent.  This seems quite consistent with the regime-based conception. 
 Inflation readings have moved lower over the past several months.  Those data, combined 
 with our policy rate moves in March and June as well as our plans for more policy rate moves in 
@@ -2133,7 +2133,7 @@ Regarding the national outlook, we left our real GDP growth projection essential
 unchanged this round.  Second-quarter growth appears to have improved from the first-quarter 
 lull, and the economy seems to be on track for above-trend gains through the remainder of the 
 year.  With regard to resource slack, we basically are at full employment.  My assumption is that 
-the natural rate of unemployment is around 4½ percent, and that is essentially where we are now.  
+the natural rate of unemployment is around 4.5 percent, and that is essentially where we are now.  
 In addition, most of the other measures of labor market slack have now recovered to pre-
 recession levels.  One exception is the share of workers who are part time for economic reasons, 
 but that may reflect longer-run trends more than cyclical weakness.  Being at full employment, it 
@@ -2334,7 +2334,7 @@ times in its history, with recent investors taking haircuts of nearly 80 percent
 attracted strong demand, as the sale was more than three times oversubscribed. 
 Beyond these kinds of anecdotes, I do see systematic changes to the way state and local 
 pensions are operating in the current interest rate environment.  The median public pension fund 
-has lowered its assumed rate of interest to 7¾ percent.  As a result, public pension plans have 
+has lowered its assumed rate of interest to 7.75 percent.  As a result, public pension plans have 
 been moving a growing share of their portfolios out of traditional equities and bonds and into 
 real estate and alternative equities, which include private equity and hedge funds.  In 2001, fewer 
 than half of pension plans were invested in such instruments, whereas more recently nearly 
@@ -2634,7 +2634,7 @@ of developments that may take unexpectedly long to emerge or may not occur at al
 On the inflation front, I found the June CPI report somewhat disconcerting.  Although an 
 additional month of price data doesn’t provide much information by itself, as several of you 
 noted, it was the fourth consecutive month of weak readings.  Core CPI prices have risen at an 
-annual rate of less than ½ percent over the past 4 months, a marked deceleration compared with 
+annual rate of less than 0.5 percent over the past 4 months, a marked deceleration compared with 
 the previous 12 months.  Of course, inflation measured over such a short period tends to be quite 
 noisy and has only limited predictive power for future inflation once one controls for import and 
 energy prices, survey measures of expected inflation, resource utilization, and special transitory 
@@ -3068,7 +3068,7 @@ July 25–26, 2017
 
 
  
-inflation still stuck at 1½ percent, and I would find it very difficult to support a rate move if 
+inflation still stuck at 1.5 percent, and I would find it very difficult to support a rate move if 
 inflation is not clearly improving.  We cannot risk being viewed as capitulating on our symmetric 
 2 percent target. 
 So I support alternative B today as written and, barring any sharp deterioration in the 
@@ -3589,7 +3589,7 @@ Thank you.
 CHAIR YELLEN.  Thank you.  Now we have two sets of related matters under the 
 Board’s jurisdiction:  corresponding interest rates on reserves and discount rates.  I first need a 
 motion from a Board member to leave the interest rates on required and excess reserve balances 
-unchanged at 1¼ percent. 
+unchanged at 1.25 percent. 
 July 25–26, 2017
 116 of 152
 
@@ -3599,7 +3599,7 @@ MR. FISCHER.  So moved.
 CHAIR YELLEN.  Thank you.  Do I have a second? 
 MR. POWELL.  Second. 
 CHAIR YELLEN.  Okay.  Without objection.  Finally, I need a motion from a Board 
-member to approve establishment of the primary credit rate at the existing rate of 1¾ percent and 
+member to approve establishment of the primary credit rate at the existing rate of 1.75 percent and 
 establishment of the rates for secondary and seasonal credit under the existing formulas specified 
 in the staff’s July 21 memo to the Board.  Do I have a motion? 
 MR. FISCHER.  So moved. 

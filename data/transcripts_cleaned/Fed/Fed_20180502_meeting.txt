@@ -558,7 +558,7 @@ exchange value of the U.S. dollar over the intermeeting period, with the broad t
  
 May 1–2, 2018
 6 of 185
-weighted index rising about ½ percent.  As shown in the light blue bars of the middle-
+weighted index rising about 0.5 percent.  As shown in the light blue bars of the middle-
 right panel, the U.S. dollar’s appreciation over the period was pronounced against 
 more volatile emerging market currencies, such as the Brazilian real, which have in 
 the past exhibited particular sensitivity to increases in U.S. Treasury yields.  Many 
@@ -2779,7 +2779,7 @@ this outlook.  As you can see from panel 1 of your forecast summary exhibit, rea
 GDP growth slowed in the first quarter, though by a little less than we were 
 expecting.  The blue dot on the chart shows the BEA’s advance estimate, which we 
 received after the Tealbook was closed. Its estimate, which is subject to revision, was 
-2.3 percent, about ½ percentage point higher than our April Tealbook forecast but 
+2.3 percent, about 0.5 percentage point higher than our April Tealbook forecast but 
 relatively close to what we were projecting in March. 
 Regardless of the exact number, we continue to think that the deceleration in 
 economic activity last quarter will prove to be transitory.  In particular, the slowdown 
@@ -2787,7 +2787,7 @@ was concentrated in consumer spending, which had risen sharply in the fourth qua
 of last year, likely boosted by replacement demand for motor vehicles and, more 
 generally, a rebound in spending following the fall hurricanes.  As a result, we expect 
 to see real GDP growth pick back up to a 3 percent pace in the current quarter, which 
-would put the pace of growth over the first half of the year at about 2¾ percent.  
+would put the pace of growth over the first half of the year at about 2.75 percent.  
 Under our assumptions about potential output, this pace of first-half growth is 
 sufficient to further widen the output gap and implies additional upward pressure on 
 resource utilization. 
@@ -2919,14 +2919,14 @@ whites.
 Moving back up to the first panel:  Our forecast of real activity over the medium 
 term is just a shade weaker than the one we showed you in March, as we did take a 
 little signal from the incoming data for the underlying trajectory of consumer 
-spending.  Nevertheless, real GDP is projected to increase at roughly a 2½ percent 
+spending.  Nevertheless, real GDP is projected to increase at roughly a 2.5 percent 
 pace through 2019, supported importantly by fiscal policy—panel 5—before slowing 
 to 2 percent in 2020, as further increases in the federal funds rate—panel 6—and a 
 tightening in financial conditions more generally act to rein in spending and 
 production.  Hence, we continue to expect that real output growth will outpace 
 potential growth—albeit to a diminishing degree—throughout the projection period.  
 Accordingly, the unemployment rate—the black line in panel 3—levels out in 2020 at 
-3.3 percent, about ¼ percentage point higher than we were projecting in March. 
+3.3 percent, about 0.25 percentage point higher than we were projecting in March. 
 As we reported to you on Friday, information received after we closed the 
 Tealbook projection had little net effect on our medium-term outlook.  Although we 
 carried forward some of the higher-than-expected level of activity indicated by the 
@@ -3052,7 +3052,7 @@ dropping out of last year’s low March monthly reading from the 12-month-change
 calculation. 
 Looking ahead, we now expect the 12-month change in the core index to move 
 just above 2 percent this summer and to remain in the neighborhood of 2 percent 
-through the end of the year.  Total PCE inflation is projected to reach 2½ percent 
+through the end of the year.  Total PCE inflation is projected to reach 2.5 percent 
 briefly, boosted by some relatively rapid increases in consumer energy prices.  We 
 expect, however, that, by the end of the year, energy prices will have peaked and total 
 PCE prices will be rising at about the same rate as the core index. 
@@ -3154,8 +3154,8 @@ May 1–2, 2018
 30 of 185
 part because it is less noisy than the other available measures.  Last week—and after 
 the April Tealbook was closed—we received the ECI for March, which came in at 
-2.8 percent on a 12-month-change basis, about ¼ percentage point higher than we had 
-anticipated and ½ percentage point higher than its year-earlier pace.  The recent 
+2.8 percent on a 12-month-change basis, about 0.25 percentage point higher than we had 
+anticipated and 0.5 percentage point higher than its year-earlier pace.  The recent 
 behavior of the ECI appears broadly consistent with our view that compensation 
 growth is evolving about as one would expect, in a situation of an increasingly tight 
 labor market, relatively well-anchored inflation expectations, and continued lackluster 
@@ -3436,7 +3436,7 @@ Chinese imports and investment together signify a pivot to a more protectionist 
 stance.  The table provides some background on a number of these recent actions.  
 Importantly, although there has been much back-and-forth, the actual measures, as 
 currently enacted or as originally proposed, target a small fraction of our nearly 
-$2½ trillion in goods imports, assuming, as we do, that the ongoing NAFTA 
+$2.5 trillion in goods imports, assuming, as we do, that the ongoing NAFTA 
 negotiations do not result in sizable tariff increases.  Thus, the effect on output and 
 inflation in our forecast is minimal. 
 As discussed on your next slide, however, we have seen a willingness to escalate 
@@ -4337,7 +4337,7 @@ unfolded as the market anticipates—what would that imply for the dollar?
 MR. BULLARD. Right. 
 MS. WILSON. In our forecast, that would imply a weaker dollar than we have projected, 
 although it would have to be considerably weaker not to have any surprise at all. 
-MR. BULLARD.  Well, the next page shows the Committee going to 2½ percent or 
+MR. BULLARD.  Well, the next page shows the Committee going to 2.5 percent or 
 something like that.  So if we followed that path, then there’d be no change in the dollar, I guess.  
 Is that right?  Because there’d be no surprise compared with what the markets are expecting. 
 MR. HARKER.  If you can answer this, you’ll be the only one on the planet who could.  
@@ -4414,7 +4414,7 @@ points above Europe at the end of the forecast horizon.  Is there a global real 
 halfway in between, or is it one for the United States and one for Europe, or what? 
 MS. WILSON.  This is a long-standing question.  We look at what we consider a neutral 
 rate for individual countries, and the neutral real rate tends to be range either from 1 to 
-½ percent, depending on the country, which would put the nominal rate at between, say, 2½ 
+0.5 percent, depending on the country, which would put the nominal rate at between, say, 2.5 
 percent and 3 percent. 
 MR. BULLARD. Oh, I see. 
 MS. WILSON.  Even for the United States there’s such a range of what you think is the 
@@ -5452,8 +5452,8 @@ And there is good news in nominal wage growth, too.  Friday’s employment cost 
 release puts the four-quarter change in total compensation at 2.7 percent and on a clear upward 
 trajectory.  Looking ahead, several factors will continue to juice the economy, including the 
 double dose of fiscal stimulus, solid global growth, and supportive financial conditions.  I expect 
-GDP growth this year and next to average about 2½ percent, well above potential.  As a result, I 
-see the unemployment rate drifting down to 3½ percent next year. 
+GDP growth this year and next to average about 2.5 percent, well above potential.  As a result, I 
+see the unemployment rate drifting down to 3.5 percent next year. 
 
 
  
@@ -5510,7 +5510,7 @@ With all of this good news, I made an extra effort to look for signs belying the
 wine and roses.  Sifting through the data, one discordant note is gross domestic income, or GDI, 
 which has been lagging behind GDP growth for some time now.  For example, during the second 
 half of last year, annualized growth of GDI fell short of that of real GDP growth by more than 
-1¼ percentage points.  And this discrepancy is particularly noteworthy because of past research 
+1.25 percentage points.  And this discrepancy is particularly noteworthy because of past research 
 by Board staff and others.  The GDI may be the more reliable indicator of underlying economic 
 conditions. Specifically, in the past, a shortfall of GDI growth relative to GDP often correctly 
 predicted that the GDP number would be revised down later on. 
@@ -5612,7 +5612,7 @@ Finally, to set the stage for my discussion tomorrow of monetary policy, I think
 useful to compare our current outlook with the one we had one year ago.  According to the 
 median SEPnumbers of March 2017, we were then anticipating that real GDP growth would 
 average about 2 percent in 2018 and 2019.  This March, the median SEP numbers showed 
-substantially faster real GDP growth, averaging about 2½ percent.  In keeping with faster 
+substantially faster real GDP growth, averaging about 2.5 percent.  In keeping with faster 
 
 
  
@@ -5684,7 +5684,7 @@ substantially faster real GDP growth, averaging about 2½ percent.  In keeping w
 May 1–2, 2018
 58 of 185
 growth, the path of the unemployment rate has come down significantly.  Last March, the 
-median SEP put the unemployment rate at 4½ percent at the end of 2019.  In the latest 
+median SEP put the unemployment rate at 4.5 percent at the end of 2019.  In the latest 
 projection, it was 3.6 percent—a downward revision of nearly a full percentage point, with only 
 a small portion of that explained by a lower estimate of the long-run unemployment rate. 
 The “takeaway” is thatwe now project that the economy in 2018 will run substantially 
@@ -5847,7 +5847,7 @@ May 1–2, 2018
 of the workforce and the potential effect of that on the natural rate of unemployment is quite 
 interesting and potentially quite a material change. 
 So while my estimate is, I think, the same as most others’ in the SEP, at about 
-4½ percent, I have a very big confidence interval around that.  And this uncertainty is all the 
+4.5 percent, I have a very big confidence interval around that.  And this uncertainty is all the 
 more acute as the changes introduced by the tax bill work their way through the economy.  
 Thank you. 
 CHAIRMAN POWELL.  Thank you.  President Rosengren. 
@@ -5857,7 +5857,7 @@ than I anticipated, and Q1 GDP growth was faster than my estimate of potential g
 the Tealbook and most private-sector forecasters, I continue to assume that real GDP for the 
 remainder of this year and all of next year will grow more rapidly than potential GDP, in part 
 because of highly stimulative fiscal policy and only gradual tightening of monetary policy.  As a 
-result, I expect labor markets to tighten further, with the unemployment rate falling about ½ 
+result, I expect labor markets to tighten further, with the unemployment rate falling about 0.5 
 percentage point.  With inflation likely to be at our 2 percent target but the unemployment rate 
 more than a full percentage point below my estimate of full employment, we will be testing the 
 limits of running a tight labor market economy. 
@@ -6189,9 +6189,9 @@ dollar pass-through of materials cost as well as some firms realizing even broad
 increases. So my sense is that, in the aggregate, we are seeing a modest increase in pricing 
 power. 
 For the national outlook, we haven’t changed our views about economic growth since our 
-March SEP submission, which had real GDP increasing 3 percent in 2018, 2½ percent in 2019, 
-and 1¾ percent in 2020. And we’re still projecting that the unemployment rate will drop to near 
-3½ percent by late 2018 and stay there through 2020.  This is a percentage point below our 
+March SEP submission, which had real GDP increasing 3 percent in 2018, 2.5 percent in 2019, 
+and 1.75 percent in 2020. And we’re still projecting that the unemployment rate will drop to near 
+3.5 percent by late 2018 and stay there through 2020.  This is a percentage point below our 
 estimate of the natural rate of unemployment.  On balance, the incoming data on inflation have 
 been positive.  As expected, year-over-year inflation stepped up as the ugly March 2017 data fell 
 out of the calculation, and the anecdotes I just mentioned are consistent with a modest increase in 
@@ -6341,7 +6341,7 @@ May 1–2, 2018
 66 of 185
 District labor market conditions have strengthened further since our previous meeting.  
 The District’s unemployment rate fell to 4.4 percent in March, its lowest level since 2001 and 
-more than ½ percentage point below its year-ago level. Year-over-year payroll job growth in the 
+more than 0.5 percentage point below its year-ago level. Year-over-year payroll job growth in the 
 District strengthened in March and has been running at about 1 percent since the middle of last 
 year.  This is more than double the Cleveland bank staff’s 0.4 percent estimate of trend job 
 growth in the District. 
@@ -6987,13 +6987,13 @@ first-quarter growth coming in softer than anticipated, the ECB has indicated it
 very prudent course.  And in Japan, with inflation continuing to run well below the 2 percent 
 objective, changes to the yield curve control policy and rate hikes seem very remote. 
 Consistent with these developments, the foreign exchange value of the dollar in real 
-trade-weighted terms is up about ¾ percentage point from the March meeting.  But, of course, 
+trade-weighted terms is up about 0.75 percentage point from the March meeting.  But, of course, 
 it’s still much lower than its 2016 peak. This is part of a broader picture where financial 
 conditions have tightened somewhat during the intermeeting period, moving more in line with 
 the expectation of continued gradual increases in the federal funds rate than we observed for 
 much of last year. In particular, longer-term Treasury yields have risen, and the 10-year yield 
 increased 60 basis points so far and crossed the 3 percent threshold for the first time in four 
-years.  Similarly, equity prices are down 1¾ percent since March and flat so far this year, but still 
+years.  Similarly, equity prices are down 1.75 percent since March and flat so far this year, but still 
 up nearly 20 percent relative to the end of 2016.  On net, even with these recent moves, financial 
 conditions remain quite supportive of aggregate demand. 
 The latest readings on inflation, as others have noted, have been encouraging.  In the 
@@ -7076,8 +7076,8 @@ to pose a material uncertainty.  While targeted trade measures that result in ne
 should have little effect on the outlook, any broadening dynamic of retaliation and 
 counterretaliation could unsettle equity markets, damp global confidence, and disrupt supply 
 chains, as Beth Anne pointed out earlier. 
-Second, the staff estimates that fiscal impetus will contribute about ½ percentage point to 
-real GDP growth this year and ¾ percentage point next year—and CBO estimates that are 
+Second, the staff estimates that fiscal impetus will contribute about 0.5 percentage point to 
+real GDP growth this year and 0.75 percentage point next year—and CBO estimates that are 
 similar—coincide with a time when the economy is already close to full employment and 
 growing above its trend rate.  It’s hard to know with precision how the economy is likely to 
 respond, because there are very few cases of such procyclical fiscal stimulus at similarly high 
@@ -7144,7 +7144,7 @@ would require spending legislation to be enacted in the summer or fall of 2019, 
 Furthermore, CBO projections suggest that budget deficits will be high and rising toward 5 
 percent, which may prompt fiscal fears to be back in focus.  There is, therefore, a nontrivial risk 
 of a reduction in fiscal support coming at a time when the economy may be slowing.  The 
-implied fiscal impetus in the CBO baseline, for instance, drops from nearly ¾ percentage point in 
+implied fiscal impetus in the CBO baseline, for instance, drops from nearly 0.75 percentage point in 
 2018 and 2019 to only 0.1 percentage point in 2020.  A large increase in fiscal support late in the 
 cycle followed by a sharp withdrawal could present us with a difficult set of crosswinds as we 
 attempt to navigate a soft landing.  On the other side, there is quite a bit of likelihood that a large 
@@ -7313,7 +7313,7 @@ costs are up. The potential for more tariffs could further increase costs. We ar
 and more companies that are attempting to pass through price increases, but this is an ongoing 
 theme of increasing input costs. 
 For the U.S. economy, our Dallas Fed economists continue to expect real GDP growth in 
-excess of 2½ percent, but we do continue to expect this growth to moderate in 2019 and move 
+excess of 2.5 percent, but we do continue to expect this growth to moderate in 2019 and move 
 toward potential in 2020, mainly because of aging workforce demographics, continued sluggish 
 productivity due to lagging education and skill levels, and other structural challenges that are 
 likely to create headwinds for economic growth in the medium term. 
@@ -8335,7 +8335,7 @@ which the Committee, including me, consistently forecast an imminent return of i
 May 1–2, 2018
 90 of 185
 The unemployment rate in the United States fell below 5 percent in the fall of 2015— 
-more than 2½ years ago—an event that, by conventional accounts of the Phillips curve, should 
+more than 2.5 years ago—an event that, by conventional accounts of the Phillips curve, should 
 have presaged increasing inflationary pressure. That pressure never really materialized, a clear 
 indication in my mind of just how weak these effects really are in the current macroeconomic 
 environment.  In light of these events, it does not seem prudent to me to bet heavily on the idea 
@@ -8946,8 +8946,8 @@ May 1–2, 2018
 97 of 185
 the CBO has updated its 10-year budget projections.  And, under current law, which includes the 
 rollback of tax cut provisions over time and the reimposition of spending caps on discretionary 
-spending—pretty favorable assumptions—the budget deficits are projected to be between 4½ and 
-5½ percent of GDP each year over the next decade.  And if we had deficits like that, the debt-to-
+spending—pretty favorable assumptions—the budget deficits are projected to be between 4.5 and 
+5.5 percent of GDP each year over the next decade.  And if we had deficits like that, the debt-to-
 GDP ratio would persistently increase over that period. 
 Now, there are several reasons why this baseline is likely to be considerably too 
 optimistic. First, as I mentioned, the projections assume that current laws maintain. Well, 
@@ -9466,7 +9466,7 @@ of your outlook.
  
 May 1–2, 2018
 102 of 185
-Alternative C also raises the target range to 1¾ to 2 percent. To provide some 
+Alternative C also raises the target range to 1.75 to 2 percent. To provide some 
 perspective on the current and projected stance of monetary policy, the upper-right 
 panel shows the historical evolution of the real federal funds rate (the black line) and 
 the median of participants’ implied March SEP numbers for the real federal funds rate 
@@ -9497,7 +9497,7 @@ expected a moderately restrictive policy along these lines, the yield curve coul
 flatten further or even invert.  As shown in the middle-left panel, the yield spread 
 between the 10-year Treasury note and the 3-month Treasury bill is low by historical 
 standards, but not exceptionally low.  In particular, this spread stands at about the 
-25th percentile of the distribution since 1990 and still about 1½ percentage points 
+25th percentile of the distribution since 1990 and still about 1.5 percentage points 
 above the average historical level associated with the onset of recessions. 
 The flattening of the yield curve over the past year comes up frequently in our 
 conversations with market participants.  Many saw the recent fiscal stimulus and 
@@ -10876,8 +10876,8 @@ increase.  But I’d like to make that judgment later this year.
 As we go through this process this year, I will be carefully monitoring the 10-year 
 Treasury rate and the shape of the yield curve.  It’s my own view that the reason for the flatness 
 of the curve has a lot to do with the sluggish outlook for real GDP growth in the medium term. 
-Put another way, I believe the next two or three moves—particularly three, once we get to 2¼ to 
-2½—are likely manageable.  But from there, I think the judgments will be much tougher, and the 
+Put another way, I believe the next two or three moves—particularly three, once we get to 2.25 to 
+2.5—are likely manageable.  But from there, I think the judgments will be much tougher, and the 
 risk of a Fed overshoot becomes much more of an issue, at least for me.  In that regard, I think 
 we should be data dependent and not predetermined or rigid in our plans. 
 
@@ -10939,8 +10939,8 @@ May 1–2, 2018
 119 of 185
 Also, as we move forward in the year, I think we would be well served, as soon as we 
 could, to have press conferences after every meeting.  Not only will this help improve the clarity 
-of our communications, which I think will get much more important once we get to that 2¼ to 
-2½ percent level but it will also give this Committee more operating flexibility, which I think 
+of our communications, which I think will get much more important once we get to that 2.25 to 
+2.5 percent level but it will also give this Committee more operating flexibility, which I think 
 we’ll be glad we have when the time comes. 
 In terms of the statement language, I’ll just make a couple of comments on alternative C. 
 I would agree with President Mester on not changing the first two sentences in paragraph 4.  I 
@@ -11118,7 +11118,7 @@ see in the coming data.
 Second, the language in paragraph 2 is artful in saying that future “increases . . . will be 
 consistent with sustained expansion of economic activity and employment.” “Sustained” is the 
 key term to parse here. Presumably, sustainable growth means growth that could be repeated 
-year after year. For activity, that means 1¾ to 2 percent, our views for long-run growth in the 
+year after year. For activity, that means 1.75 to 2 percent, our views for long-run growth in the 
 SEP.  For employment, there’s a wide range of estimates—say, 60,000 to 120,000 per month.  
 
 
@@ -11193,7 +11193,7 @@ the rationale for below-trend output growth and rising unemployment may be even 
 challenging. 
 The statement in paragraph 3 of alternative C that “monetary policy remains 
 accommodative” may also have a short shelf life.  Within a year of gradual increases, the funds 
-rate could be in the range of 2½ to 2¾ percent—and I agree with the comments that President 
+rate could be in the range of 2.5 to 2.75 percent—and I agree with the comments that President 
 Kaplan made about how, once we get to this juncture, I think it’s going to be more challenging— 
 thus reaching the SEP central tendency for the long-run neutral rate.  And if the short-run 
 equilibrium federal funds rate continues to be below the longer-term rate, then we’ll be at neutral 
@@ -11700,7 +11700,7 @@ May 1–2, 2018
 128 of 185
 then you have to convert that into an expectation for PCE inflation that’s based on market 
 factors.  If you make that conversion—and even if you don’t put in risk premiums or anything 
-like that—you’re going to get a number like 1¾ percent for market-based expected inflation over 
+like that—you’re going to get a number like 1.75 percent for market-based expected inflation over 
 the next five years.  The market is saying, “I don’t really think you’re going to hit your inflation 
 target over the next five years.” 
 Now, you might say, “Well, this is close enough for government work.”  But, you know, 
@@ -11773,7 +11773,7 @@ be to use the fact that the economy is performing well—it doesn’t really get
 May 1–2, 2018
 129 of 185
 from a central banker’s perspective—and try to get inflation expectations back to a reasonable 
-level: I think 2¼ or 2.3 percent on the five-year TIPS and maybe 2½ percent or higher on the 
+level: I think 2.25 or 2.3 percent on the five-year TIPS and maybe 2.5 percent or higher on the 
 five-year, five-year-forward, because those are CPI-based measures, and they have risk 
 premiums and so on—other things in there. So I think that you’d like them to run somewhat 
 higher than they are today, and that that would be a beautiful thing to do, because that would set 
@@ -12829,7 +12829,7 @@ to reflect such expectations.
 Now, in the current environment, I don’t think that’s where we are at all. I think 
 monetary policy is still viewed as accommodative.  If you look at federal funds rate futures 
 contracts a few years out, they climb to about 2.7 percent, and then they’re sort of flat after that. 
-That implies market participants believe that a neutral federal funds rate is 2½ or higher, and 
+That implies market participants believe that a neutral federal funds rate is 2.5 or higher, and 
 that’s not really that different from our implied SEP median long-term federal funds rate of 
 3 percent. 
 Also, this is market expectations, and the markets don’t always get it right.  Even if the 
@@ -12961,7 +12961,7 @@ Yes
 CHAIRMAN POWELL.  Thank you.  Now we have two sets of related matters under the 
 Board’s jurisdiction:  corresponding interest rates on reserves and discount rates. I first need a 
 motion from a Board member to leave the interest rates on required and excess reserve balances 
-unchanged at 1¾ percent. 
+unchanged at 1.75 percent. 
 MS. BRAINARD.  So moved. 
 
 
@@ -12987,7 +12987,7 @@ May 1–2, 2018
 CHAIRMAN POWELL.  Second? 
 MR. QUARLES.  Second. 
 CHAIRMAN POWELL.  Without objection.  Finally, I need a motion from a Board 
-member to approve establishment of the primary credit rate at the existing rate of 2¼ percent and 
+member to approve establishment of the primary credit rate at the existing rate of 2.25 percent and 
 establishment of the rates for secondary and seasonal credit under the existing formulas specified 
 in the staff’s April 27 memo to the Board. 
 MS. BRAINARD.  So moved. 

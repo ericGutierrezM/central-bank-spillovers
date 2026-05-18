@@ -53,7 +53,7 @@ Subdued UK growth partly reflects the weaker external backdrop, which is weighin
 net trade and investment. 
 But as has been the case for some time, Brexit uncertainties are dominating, weighing 
 particularly hard on business investment, which unusually during an expansion, has 
-contracted in five out of the past six quarters and is currently estimated to be just ½% higher 
+contracted in five out of the past six quarters and is currently estimated to be just 0.5% higher 
 than at the time of the referendum.   
 Consumer spending has proven more resilient to Brexit uncertainties, growing steadily in 
 recent quarters, underpinned by strong employment and a pickup in real wage growth.  
@@ -85,7 +85,7 @@ The fall in the perceived likelihood of a no-deal Brexit has also led to an appr
 sterling exchange rate, which has risen by around 4% over the past three months.   
 In the MPC’s projections, the assumed reduction in Brexit-related uncertainties supports 
 activity.  In particular, four-quarter business investment growth picks up materially, from 
-current negative rates to around 4½% by the end of the forecast – the fastest pace since the 
+current negative rates to around 4.5% by the end of the forecast – the fastest pace since the 
 referendum – recouping around one third of the estimated investment shortfall since that vote.  
 Household consumption rises broadly in line with real income growth over the forecast 
 period as a whole, picking up from 1% currently to 1.5% in 2020 and 2% by 2022. 
@@ -99,7 +99,7 @@ which is consistent with Bank Rate being below its current level through 2022.
 4 
 The extent of the pickup in UK growth is likely to be limited by continued weakness in 
 growth in the supply capacity of the economy.  Potential supply growth is projected to remain 
-subdued relative to historical rates, averaging around 1¼% over the forecast period.  That 
+subdued relative to historical rates, averaging around 1.25% over the forecast period.  That 
 reflects a continuation of the post-crisis trend, as well as the impact of the UK transitioning to 
 its new trading relationship with the EU.   
 Consistent with the provisions of the Withdrawal Agreement, the MPC’s latest projections 
@@ -111,14 +111,14 @@ gradually over many years.
 Overall, given support from lower uncertainty, easier fiscal policy and stronger external 
 demand, UK growth is projected to pick up from around 1% this year to 1.6% in 2020, 1.8% 
 in 2021 and 2.1% in 2022.  In the Committee’s projections, excess demand emerges in 2021 
-and builds over the remainder of the forecast period, reaching a sizable 1¼% of potential 
+and builds over the remainder of the forecast period, reaching a sizable 1.25% of potential 
 GDP by the end. 
 The MPC judges that the risks around its projections for potential supply growth – and 
 therefore GDP growth – are skewed to the downside in the second and third years of the 
 forecast, reflecting the uncertainty around the exact nature of the FTA with the EU and the 
 transition to it. 
 ----------------------------- 
-Inflation has been close to target recently.  It is expected to decline to around 1¼% by the 
+Inflation has been close to target recently.  It is expected to decline to around 1.25% by the 
 spring owing largely to the temporary effect of falls in regulated energy and water prices.  
 While unit labour costs have been growing above target-consistent rates and core services 
 inflation has begun to increase somewhat, employment growth has slowed and pay growth is 

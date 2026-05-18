@@ -23,7 +23,7 @@ we look ahead to next year, I want to assure the American people that we’re fu
 returning inflation to our 2 percent goal.  Restoring price stability is essential to achieve a 
 sustained period of strong labor market conditions that benefit all. 
 Since early last year, the FOMC has significantly tightened the stance of monetary 
-policy.  We’ve raised our policy interest rate by 5¼ percentage points and have continued to 
+policy.  We’ve raised our policy interest rate by 5.25 percentage points and have continued to 
 reduce our securities holdings at a brisk pace.  Our actions have moved our policy rate well into 
 restrictive territory, meaning that tight policy is putting downward pressure on economic activity 
 and inflation, and the full effects of our tightening likely have not yet been felt. 
@@ -44,7 +44,7 @@ FINAL
  
 Page 2 of 24 
  
-2½ percent for the year as a whole, bolstered by strong consumer demand as well as improving 
+2.5 percent for the year as a whole, bolstered by strong consumer demand as well as improving 
 supply conditions.  After picking somewhat over the—up somewhat over the summer, activity in 
 the housing sector has flattened out and remains well below the levels of a year ago, largely 
 reflecting higher mortgage rates.  Higher interest rates also appear to be weighing on business 
@@ -89,11 +89,11 @@ that high inflation imposes significant hardship, as it erodes purchasing power,
 those least able to meet the higher costs of essentials like food, housing, and transportation.  We 
 are highly, highly attentive to the risks that high inflation poses to both sides of our mandate, and 
 we are strongly committed to returning inflation to our 2 percent objective. 
-As I noted earlier, since early last year, we have raised our policy rate by 5¼ percentage 
+As I noted earlier, since early last year, we have raised our policy rate by 5.25 percentage 
 points, and we have decreased our securities holdings by more than $1 trillion.  Our restrictive 
 stance of monetary policy is putting downward pressure on economic activity and inflation.  The 
 Committee decided at today’s meeting to maintain the target range for the federal funds rate at 
-5¼ to 5½ percent and to continue the process of significantly reducing our securities holdings. 
+5.25 to 5.5 percent and to continue the process of significantly reducing our securities holdings. 
 While we believe that our policy rate is likely at or near its peak for this tightening cycle, 
 the economy has surprised forecasters in many ways since the pandemic, and ongoing 
 progress—sorry—ongoing progress toward our 2 percent inflation objective is not assured.  We 
@@ -252,7 +252,7 @@ the supply side.
 So this was the year when labor force participation picked up, where immigration picked 
 up, where the distortions to supply and demand from the pandemic—you know, the shortages 
 and the bottlenecks—really began to unwind.  So we had significant supply-side gains with 
-strong demand, and we got what looks like a 2½ percent-plus, or a little more than that, growth 
+strong demand, and we got what looks like a 2.5 percent-plus, or a little more than that, growth 
 year at a time when potential growth this year might even have been higher than that, just 
 because of the healing on the supply side.  So that was a surprise to just about everybody. 
 I think the inflation forecast is roughly, roughly what people wrote down a year ago, but 
@@ -628,8 +628,8 @@ much stuff that they temporarily don’t want any more stuff.  They haven’t go
 MICHELLE SMITH.  Let’s go to Jennifer.  
 JENNIFER SCHONBERGER.  Thank you, Chair Powell.  Jennifer Schonberger with 
 Yahoo Finance.  You said back in July that you needed to start cutting rates before getting to 
-2 percent inflation.  As you mentioned, PCE inflation is now running at 3½ on core.  On a six-
-month annual basis, core PCE is running at 2½ percent, though when you look at supercore and 
+2 percent inflation.  As you mentioned, PCE inflation is now running at 3.5 on core.  On a six-
+month annual basis, core PCE is running at 2.5 percent, though when you look at supercore and 
 shelter, they are, of course, stickier.  So when looking in the different components of the data, 
 how much closer do you have to get to 2 percent before you consider cutting rates? 
 CHAIR POWELL.  I mean, the reason you wouldn’t wait to get to 2 percent to cut rates 

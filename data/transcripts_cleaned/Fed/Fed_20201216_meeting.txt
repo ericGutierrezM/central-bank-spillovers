@@ -1591,7 +1591,7 @@ However, the unemployment rates in Delaware and Pennsylvania continue to decline
 the rate in New Jersey has recently experienced a notable uptick.  As well, the initial 
 unemployment insurance claims remain elevated.  For the week ending November 28, initial UI 
 claims, regular plus PUA, stood at slightly more than 59,000.  This is far below the series peak of 
-nearly 600,000 claims in the spring, but roughly 2½ times its pre-pandemic average. 
+nearly 600,000 claims in the spring, but roughly 2.5 times its pre-pandemic average. 
 In summary, the District’s labor market continues to recover, but, honestly, it still has a 
 long way to go before it returns to a more normal footing.  There are, however, notable pockets 
 of strength in the District.  Housing, especially single-family housing, is experiencing robust 
@@ -1820,7 +1820,7 @@ that signals that such an outcome is acceptable, would fail to increase inflatio
 sufficiently or budge the underlying inflation trend.  This would make it all the harder to achieve 
 our goals in the first place.  To counter this risk, our forecast assumes appropriate policy that 
 strongly communicates the aim of moving inflation up with enough momentum such that rates of 
-2½ percent are well within the central range of possible outcomes.  This more aggressive 
+2.5 percent are well within the central range of possible outcomes.  This more aggressive 
 strategy seems necessary to move expectations enough to deliver on the overshooting and 
 inflation-averaging standards we laid out in our new monetary policy framework.  I don’t see 
 how simply inching above 2 percent is going to do our job.  Thank you, Chair Powell. 
@@ -1918,7 +1918,7 @@ well during 2020 instead of trading at considerable discounts as one might have 
 is important for many households but also for businesses, making them more resilient than 
 otherwise during the crisis period. 
 Labor market outcomes have generally been better than expected since March–April, and 
-now the possibility of achieving an official unemployment rate of 6½ percent in the December 
+now the possibility of achieving an official unemployment rate of 6.5 percent in the December 
 jobs report is a distinct possibility.  In an earlier calculation during the intermeeting period, I 
 found that labor market recovery is about four years ahead of where it was after the Global 
 Financial Crisis in the United States.  For hours worked, about two-thirds of the recovery has 
@@ -1948,7 +1948,7 @@ unemployment.
 I continue to be encouraged by U.S. market-based inflation expectations, which, as of the 
 date of the Tealbook, were up 24 basis points during the intermeeting period on the five-year and 
 up 19 basis points on the five-year, five-year forward.  The ECB’s measures were only about 1 
-percent and 1¼ percent on inflation expectations over those same time horizons.  So I think 
+percent and 1.25 percent on inflation expectations over those same time horizons.  So I think 
 we’re doing quite well on this dimension, and I am hoping that as the recovery continues to take 
 December 15–16, 2020
 58 of 199
@@ -2131,7 +2131,7 @@ December 15–16, 2020
 than half from October to November, and last Thursday’s initial claims saw the largest weekly 
 increase since March. 
 Meanwhile, the labor force contracted again in November, particularly this time for 
-prime-age men.  Taking into account the additional 5½ million workers who have left the labor 
+prime-age men.  Taking into account the additional 5.5 million workers who have left the labor 
 force are now outside the labor force relative to February boosts unemployment from the current 
 headline 6.7 percent U-3 measure to 9.5 percent, and mismeasurement would boost it further, 
 close to 10 percent. 
@@ -2705,7 +2705,7 @@ December 15–16, 2020
  
 of inflation expectations are now above their levels before the onset of the COVID event earlier 
 this year—which may indicate some traction stemming from our revised consensus statement. 
-So my forecast sees inflation running about ¼ percentage point above the Tealbook 
+So my forecast sees inflation running about 0.25 percentage point above the Tealbook 
 forecast in 2021, in large part reflecting price pressures stemming from the higher-than-expected 
 spending that I built into the first half, while some of the supply lost to business closures in 2020 
 is still coming back online and faster growth in employment is leading to earlier recovery in 
@@ -2910,7 +2910,7 @@ pandemic.
 Taking this all together, I expect real GDP to increase 4.7 percent in 2021 and the 
 unemployment rate to decline to 4.7 percent by the fourth quarter of next year.  With sustained 
 and strong monetary policy support, I expect above-trend growth in 2022 and 2023, with the 
-unemployment rate reaching 3½ percent by the end of 2023.  And you can learn more about my 
+unemployment rate reaching 3.5 percent by the end of 2023.  And you can learn more about my 
 projection in my SEP submission, in which I’m participant number 10. 
 Despite the good news on vaccines and the resilience in the overall recovery so far, I 
 continue to view uncertainty about the outlook as being highly elevated and the risk skewed 
@@ -3029,13 +3029,13 @@ be slower than expected.  Some will decline to be vaccinated, and that will slow
 herd immunity.  Even so, like many of you and like most forecasters, I expect a strong second 
 half in 2021.  People are eager to resume normal social and economic activities.  Once the 
 vaccine is widely available, economic activity should move up strongly. 
-My SEP submission shows real GDP growth of 4½ percent next year, with the 
+My SEP submission shows real GDP growth of 4.5 percent next year, with the 
 unemployment rate falling to 5 percent by year-end, a very good year.  Your forecasts, most of 
 which have been revised up, show that there is broad alignment on this.  I continue to see the 
 pandemic as adding to disinflationary pressures.  Inflation remains below our 2 percent 
 objective, although it’s moved up recently.  I expect that trend will continue.  Indeed, I too have 
 inflation peeking its head over the 2 percent line in 2023, as continued above-trend GDP growth 
-pushes the unemployment rate down to 3½ percent by the end of that year.  In this base case, I 
+pushes the unemployment rate down to 3.5 percent by the end of that year.  In this base case, I 
 see liftoff as being plausible in 2024. 
 Despite downside risks in the near term, I now see the overall risks to GDP and 
 employment as balanced.  The vaccines substantially reduce the negative tail risks.  I also see 
@@ -3801,7 +3801,7 @@ the current pace of purchases while shifting the composition toward longer-dated
 Treasuries.  Thank you, Mr. Chair. 
 CHAIR POWELL.  Thank you.  President Mester, please. 
 MS. MESTER.  Thank you, Mr. Chair.  I support maintaining our target range for the 
-federal funds rate at 0 to ¼ percent and continuing our Treasury security and MBS asset 
+federal funds rate at 0 to 0.25 percent and continuing our Treasury security and MBS asset 
 purchases at the current pace.  Maintaining the current pace should help avoid upward pressure 
 on longer-term yields that could occur if activity picks up in the second half of the year, as 
 expected. 

@@ -1737,7 +1737,7 @@ Our memo focuses on macroeconomic implications of two approaches to ending
 reinvestment.  The top panel of exhibit 1 outlines these approaches and our modeling 
 assumptions.  Specifically, we consider a state-contingent policy under which 
 reinvestment ends in the final quarter of the year in which the federal funds rate first 
-passes either 1½ percent or 2½ percent; reinvestment then stops completely and 
+passes either 1.5 percent or 2.5 percent; reinvestment then stops completely and 
 permanently.  We compare economic outcomes of adopting such a policy to those of 
 a fixed-date policy under which reinvestments cease in full at the end of the third 
 quarter of 2017, as assumed in Tealbook B, regardless of macroeconomic conditions 
@@ -1869,16 +1869,16 @@ B, in which the term premium effects are endogenous.  In the simulations, the fe
 funds rate is governed by an interest rate rule that incorporates an intercept-adjusted 
 inertial version of the Taylor (1999) rule. 
 The middle panel of the exhibit summarizes the main results. Inasmuch as the 
-federal funds rate in the January Tealbook baseline averages just under 1½ percent in 
-2017:Q4, about half of the simulations show the federal funds rate below 1½ percent 
+federal funds rate in the January Tealbook baseline averages just under 1.5 percent in 
+2017:Q4, about half of the simulations show the federal funds rate below 1.5 percent 
 at that time, implying a nearly 50 percent probability that reinvestment continues 
-beyond the end of this year under the policy with a 1½ percent rule.  When we instead 
+beyond the end of this year under the policy with a 1.5 percent rule.  When we instead 
 assume that reinvestment ends in the final quarter of the year in which the federal 
-funds rate passes 2½ percent, the probability of having ended reinvestment by 2018 
-and 2019 is appreciably lower than under the 1½ percent policy, with the median date 
+funds rate passes 2.5 percent, the probability of having ended reinvestment by 2018 
+and 2019 is appreciably lower than under the 1.5 percent policy, with the median date 
 of ceasing reinvestment delayed until 2018.  Accordingly, across the entire set of 
-simulations, under the 1½ percent policy, the median size of the balance sheet is 
-about $525 billion larger than under the fixed-date policy.  Under the 2½ percent 
+simulations, under the 1.5 percent policy, the median size of the balance sheet is 
+about $525 billion larger than under the fixed-date policy.  Under the 2.5 percent 
 policy, the median balance sheet size is about $660 billion larger than under the 
 fixed-date policy. 
 Maintaining a larger balance sheet under the state-contingent policies implies that 
@@ -2002,10 +2002,10 @@ associated with a flexible cessation date does appear in the real economy: Compa
 March 14–15, 2017
 19 of 252
 with fixed-date policy, unemployment runs about 10 basis points and 15 basis points 
-lower under the 1½ percent and 2½ percent policies, respectively.  The differential 
+lower under the 1.5 percent and 2.5 percent policies, respectively.  The differential 
 effects on inflation outcomes are very small. 
 Our simulations suggest that delaying the cessation of reinvestment until the level 
-of the policy rate reaches 1½ percent or 2½ percent provides some modest insurance 
+of the policy rate reaches 1.5 percent or 2.5 percent provides some modest insurance 
 against the recurrence and length of effective lower bound episodes.  Accordingly, 
 policymakers may judge that it’s prudent to end reinvestment only after the federal 
 funds rate is reasonably away from the effective lower bound, leaving room to offset 
@@ -4345,10 +4345,10 @@ a solid economic outlook with balanced risks, and we need confidence that the pr
 normalization of short-term rates will continue.  So I think all of these factors have to come 
 together for us to judge that it’s time to start the process of ending reinvestments.  Now, my own 
 view, used in my economic projection, is that these factors will be well-aligned when the federal 
-funds rate target is around 1½ percent.  Again, like I said, I expect that to be toward the end of 
+funds rate target is around 1.5 percent.  Again, like I said, I expect that to be toward the end of 
 this year. 
-I do worry a bit about this 2½ percent rate that’s mentioned in one of the memos.  My 
-own view is that r* with regard to the nominal funds rate is 2¾ percent.  I don’t think it’s 
+I do worry a bit about this 2.5 percent rate that’s mentioned in one of the memos.  My 
+own view is that r* with regard to the nominal funds rate is 2.75 percent.  I don’t think it’s 
 
 
  
@@ -4407,7 +4407,7 @@ own view is that r* with regard to the nominal funds rate is 2¾ percent.  I don
  
 March 14–15, 2017
 42 of 252
-implausible that it’s actually 2½ percent.  And so I think if we were to set a 2½ percent trigger, 
+implausible that it’s actually 2.5 percent.  And so I think if we were to set a 2.5 percent trigger, 
 we’re basically allowing a pretty high probability, in my view, that we will not start 
 normalization for a long time or perhaps not at all.  So I would think carefully about having such 
 a high funds rate as a trigger. 
@@ -4584,7 +4584,7 @@ markets.  Indeed, we carried through with the taper all through 2014, and we saw
 financial turmoil in response to that.  So I think, properly communicated, a balance sheet 
 normalization program would work out just fine. 
 My sixth comment is that I do not like tying the date of reinvestment cessation to a level 
-of the policy rate, such as 1½ or 2½ percent.  That was called “state-contingent policy” in the 
+of the policy rate, such as 1.5 or 2.5 percent.  That was called “state-contingent policy” in the 
 memo.  Those simulations embed the assumption that the current policy rate is below the neutral 
 
 
@@ -4803,7 +4803,7 @@ already in the FOMC postmeeting statement that links reinvestment policy to norm
 the level of the federal funds rate. 
 Under my economic outlook, I’d be comfortable ending reinvestments sooner rather than 
 later at a funds rate somewhat higher than where we are now and considerably lower than the 
-2½ percent rate considered in one of the staff simulation exercises. I believe that with proper 
+2.5 percent rate considered in one of the staff simulation exercises. I believe that with proper 
 communication, the economy and financial markets will be able to handle a change in our 
 reinvestment policy later this year, which would be consistent with my outlook. 
 Once we end or phase in an end to reinvestments, I think the bar should be fairly high for 
@@ -5044,7 +5044,7 @@ crisis.  So what should we do about reinvestments?  I think we’re getting clos
 which we need to start ending them, and before the end of this year would be a good idea.  In 
 part it’s because of all this nagging we’re getting from the private sector, which is not really 
 necessary.  I think we can figure out what we want to do reasonably soon, and—except for the 
-2½ percent interest rate scenario—we will also be in a position to move reasonably soon. 
+2.5 percent interest rate scenario—we will also be in a position to move reasonably soon. 
 Let me just go to changes in minutes, et cetera.  If we want to move before the end of this 
 year, the time we have for both formulating what we want to say to the public and moving is 
 
@@ -6489,7 +6489,7 @@ be appropriate—a downturn in the economy, for example—will be readily appare
 of communicating this conditionality up front is, to me, overshadowed by the risk of seeing 
 doubt about the Committee’s commitment to full normalization. 
 Finally, I would like to see the Committee start the process of balance sheet reduction as 
-soon as reasonably prudent.  Assuming the economy is still on track, I think the 1½ percent 
+soon as reasonably prudent.  Assuming the economy is still on track, I think the 1.5 percent 
 threshold on the federal funds rate would be the best time to begin the process of shrinking the 
 balance sheet.  My forecast for the economy over the next three years, and the uncertainty 
 surrounding it, put very little weight on the likelihood that we would find it necessary to restart 
@@ -6560,7 +6560,7 @@ nervous about the optics and political risks of the Federal Reserve making large
 IOER payments as policy rates rise.  I don’t want to unnecessarily delay our eventual 
 normalization of the balance sheet.  Taking into account these considerations and in light of the 
 outcomes described in the staff memos, waiting until the funds rate is somewhere in the range of 
-1½ to 2 percent before changing reinvestment policy seems like a good plan to me. 
+1.5 to 2 percent before changing reinvestment policy seems like a good plan to me. 
 Regarding communications, I believe it is important to reinforce that the federal funds 
 rate is our primary policy instrument.  But if fundamentals were to change and we risked heading 
 toward the lower bound again, I think we need to retain the option to change our balance sheet 
@@ -6718,7 +6718,7 @@ the technical market function nature of these decisions, and it would reduce the
 participants might mistake a particular operational detail as a signal about the overall stance of 
 monetary policy or as a worry over some financial stability concern.  Thank you, Madam Chair. 
 CHAIR YELLEN.  Thank you.  President Kaplan. 
-MR. KAPLAN.  Thank you, Madam Chair.  I think the 1½ percent trigger is an 
+MR. KAPLAN.  Thank you, Madam Chair.  I think the 1.5 percent trigger is an 
 appropriate conceptual place to start, subject to continued progress in meeting our dual-mandate 
 objectives.  I think this trigger and our actions should be state dependent, and I do think our 
 
@@ -6952,7 +6952,7 @@ associated with the effective lower bound.
 With regard to the SEP median, placing the long-run value of the federal funds rate 
 around 3 percent, it would be reasonable to define normalization as well under way once the 
 range for the federal funds rate has reached midway to its long-run equilibrium value, which 
-suggests passing a threshold of around 1½ percent.  A threshold below this level leaves too little 
+suggests passing a threshold of around 1.5 percent.  A threshold below this level leaves too little 
 room to cut the funds rate if needed, while a threshold significantly above it risks delaying for 
 too long balance sheet normalization.  Current SEP numbers suggest this threshold could be 
 reached as soon as the third quarter of this year, such that full reinvestment could be 
@@ -7179,7 +7179,7 @@ the issues related to our reinvestment policy, and I see them building on the Co
 discussions going back to 2015. 
 In terms of the factors that should influence the timing of the change to reinvestments, the 
 staff analysis pointed to little difference in macroeconomic outcomes whether we start that 
-process later this year or when the funds rate reaches 2½ percent.  From this standpoint, I see 
+process later this year or when the funds rate reaches 2.5 percent.  From this standpoint, I see 
 current conditions and the outlook providing an opportunity to adjust the reinvestment policy this 
 year.  While precise market reactions are difficult to predict, I have some confidence that, with 
 the right communications, we could be less concerned about market reaction of the sort we saw 
@@ -7690,7 +7690,7 @@ that we wrote down in the March Tealbook isn’t materially different from our J
 forecast. 
 Starting with the near term, the spending indicators that we have in hand suggest 
 that real GDP growth will step down from a 2 percent pace in the fourth quarter of 
-last year to about 1½ percent in the current quarter—a somewhat weaker pace than 
+last year to about 1.5 percent in the current quarter—a somewhat weaker pace than 
 we had anticipated at the time of the January Tealbook.  However, we think that some 
 of the slower pace of growth this quarter likely reflects transitory factors. In 
 particular, there was a surprisingly steep drop in state and local construction in 
@@ -7960,7 +7960,7 @@ economy’s current and prospective cyclical position—the solid line in panel 
 very different from our January assessment. In particular, we think that output is a 
 little above potential at present, implying a slightly positive output gap.  Over the 
 medium term, we continue to expect that aggregate demand will outpace aggregate 
-supply, resulting in a level of real GDP at the end of 2019 that is about 1¾ percent 
+supply, resulting in a level of real GDP at the end of 2019 that is about 1.75 percent 
 above potential. 
 The minimal revisions to our projected output gap path imply a medium-term 
 forecast for the unemployment rate—panel 6—that is also little revised since the 
@@ -7982,8 +7982,8 @@ headline index has moved up from less than 1 percent last summer, as the steep
 declines in energy prices in late 2015 and early 2016 that had been holding down 
 inflation gave way to a series of increases more recently.  Looking ahead, we expect 
 the 12-month change in total PCE prices to move above 2 percent briefly before 
-easing to 1¾ percent in subsequent months.  By contrast, we expect the 12-month 
-change in core PCE prices to remain roughly steady at around 1¾ percent through the 
+easing to 1.75 percent in subsequent months.  By contrast, we expect the 12-month 
+change in core PCE prices to remain roughly steady at around 1.75 percent through the 
 end of the year.  Returning to panels 7 and 8, our projection beyond this year is 
 essentially identical to our January Tealbook forecast, with inflation edging up toward 
 2 percent over the next two years. 
@@ -8096,13 +8096,13 @@ lackluster structural productivity growth.  Steve will continue the briefing.
 MR. KAMIN.6  Thank you, Bill.  I’ll be referring to the handout titled “Material 
 for Briefing on the International Outlook.” 
 As indicated in panel 1, following its third-quarter rebound, total foreign growth 
-edged down just a little in the fourth quarter to about 2¾ percent.  That was a bit 
+edged down just a little in the fourth quarter to about 2.75 percent.  That was a bit 
 stronger than we’d written down in January and mainly reflected higher-than­
 expected growth in Canada and Mexico, which have large weights in our foreign 
-GDP aggregate.  We see foreign growth falling a little further, to around 2½ percent, 
+GDP aggregate.  We see foreign growth falling a little further, to around 2.5 percent, 
 in the first half of this year, mainly because we predict a sharp slowing of the 
 Mexican economy in the face of hikes in gasoline prices, plunging sentiment, and 
-monetary tightening.  So 2½ percent is roughly what we judge the potential rate of 
+monetary tightening.  So 2.5 percent is roughly what we judge the potential rate of 
 foreign growth to be, and our projection has the foreign economy growing at about 
 that pace through the remainder of the forecast period:  China gradually slows in 
 response to credit tightening and sectoral rebalancing, but South America pulls out of 
@@ -8274,9 +8274,9 @@ each economy’s eventual steady-state nominal interest rate, shown at the far r
 For the United Kingdom, we assumed a long-run nominal rate of 3 percent, reflecting 
 its inflation target of 2 percent and a real r* of 1 percent, similar to r*s estimated for 
 the United States.  For the euro area, the steady-state nominal interest rate of 
-2½ percent also reflects an inflation target of 2 percent but, reflecting its lower 
-potential real growth rate, a real r* of only ½ percent.  For Japan, we assume inflation 
-will settle at 1½ percent, below the Bank of Japan’s target, resulting in a long-run 
+2.5 percent also reflects an inflation target of 2 percent but, reflecting its lower 
+potential real growth rate, a real r* of only 0.5 percent.  For Japan, we assume inflation 
+will settle at 1.5 percent, below the Bank of Japan’s target, resulting in a long-run 
 nominal rate of the same level, as the real r* is assumed to be zero.  Finally, we 
 assume that interest rates converge to their steady-state levels at different speeds in 
 the three economies, depending on their economic conditions as filtered through an 
@@ -9212,7 +9212,7 @@ President Rosengren.
 MR. ROSENGREN.  Thank you, Madam Chair.  My economic outlook is quite similar to 
 that of the Tealbook, with an assumption of both four increases in the federal funds rate and a 
 tapered reduction in our balance sheet to begin in the third quarter.  I expect the unemployment 
-rate to be 4½ percent and both total and core PCE inflation rates to be just under 2 percent by the 
+rate to be 4.5 percent and both total and core PCE inflation rates to be just under 2 percent by the 
 end of this year.  I expect the economy will continue to grow at 2.3 percent in 2018, in part 
 because of my assumption that stimulative fiscal policy will be enacted at the beginning of that 
 year.  My assumption about the fiscal stimulus, like that of the Tealbook, is fairly conservative 
@@ -9222,7 +9222,7 @@ unemployment rate will fall to unsustainably low levels. My baseline forecast al
 somewhat faster pace of tightening than the Tealbook in 2018 in order to avoid the Tealbook’s 
 predicted outcome of an even larger overshoot of full employment. 
 For 2017, private forecasters provide quite similar forecasts.  The Survey of Professional 
-Forecasters has the unemployment rate at 4½ percent at the end of this year and total PCE 
+Forecasters has the unemployment rate at 4.5 percent at the end of this year and total PCE 
 inflation at 2 percent.  Thus, private forecasters expect we will be at our target inflation rate but 
 beyond full employment at the end of this year.  The Survey of Professional Forecasters then 
 expects 2.4 percent growth in 2018, with payroll additions averaging more than 160,000 per 
@@ -9516,7 +9516,7 @@ growing at a 2.8 percent pace in January 2015 and has slowed to 1.2 percent toda
 March 14–15, 2017
 100 of 252
 growing at 1.2 percent year over year suggests an economy growing at trend if you add in 
-½ percent for productivity growth not above trend. 
+0.5 percent for productivity growth not above trend. 
 It could be that the soft data are more forward looking and foresee rapid growth ahead, 
 reflected in equity prices and expected fiscal policy.  But, in my view, there are reasons to doubt 
 this.  First, equity markets are up considerably in recent months.  It is true that they may foresee 
@@ -9534,7 +9534,7 @@ The bottom line is, soft data optimism may be running ahead of reality.  I think
 Committee can take a wait-and-see approach to find out whether the hard data catch the softer 
 data or vice versa.  I continue to think that we are better off with a regime-based forecast, which 
 can be interpreted as something close to a steady state, with real GDP growing at 2 percent, 
-unemployment fluctuating between 4½ and 5 percent, and inflation close to 2 percent, and very 
+unemployment fluctuating between 4.5 and 5 percent, and inflation close to 2 percent, and very 
 little change in the necessary policy rate to support that.  Thank you, Madam Chair. 
 CHAIR YELLEN.  Thank you.  Governor Fischer. 
 
@@ -10013,7 +10013,7 @@ conditions, improved household balance sheets, the strong labor market, and mode
 stimulative fiscal policy as supportive of GDP growth over the forecast horizon at somewhat 
 above trend, which I estimate at 2 percent over the next few years. This pace is sufficient to put 
 downward pressure on the unemployment rate.  I expect the unemployment rate to fall to 
-4½ percent by the end of this year and to remain below my longer-run rate of 5 percent over the 
+4.5 percent by the end of this year and to remain below my longer-run rate of 5 percent over the 
 forecast horizon. 
 We have met the full employment part of our dual mandate.  Job gains have averaged 
 more than 200,000 per month over the past three months, keeping employment growth well 
@@ -10344,10 +10344,10 @@ March 14–15, 2017
 110 of 252
 and Italian banks—have so far been navigated without significant damage to growth, stability, or 
 inflation expectations. Fiscal policy has ceased being a drag and, in some cases, has turned 
-moderately expansionary.  Overall euro-area GDP increased at an annual rate of 1¾ percent last 
+moderately expansionary.  Overall euro-area GDP increased at an annual rate of 1.75 percent last 
 year, sufficiently in excess of potential to bring the unemployment rate down nearly 1 percentage 
 point.  And measures of inflation compensation obtained from 5-to-10-year-ahead inflation 
-swaps, which fell to 1¼ percent in the middle of last year, have recently moved up to 1¾ percent. 
+swaps, which fell to 1.25 percent in the middle of last year, have recently moved up to 1.75 percent. 
 Activity in Japan has also picked up recently as monetary policy has remained 
 supportive.  Of course, medium-term risks remain.  In China, the price of near-term stability, as 
 Governor Fischer noted, has been a large increase in leverage, particularly in the corporate 
@@ -10363,7 +10363,7 @@ remaining relatively stable, near 4.7 percent; and the participation rate of pri
 rising 1 full percentage point since the fall of 2015, which suggests significant cyclical 
 improvement and defies the expectations of many observers. Compensation per hour in the 
 business sector, the most comprehensive measure of wages, increased at an average annual rate 
-of 3¼ percent for the past two years, noticeably above the pace earlier in the recovery. 
+of 3.25 percent for the past two years, noticeably above the pace earlier in the recovery. 
 
 
  
@@ -10412,7 +10412,7 @@ March 14–15, 2017
 111 of 252
 Together, these data suggest we are closing in on full employment.  Even so, there may 
 still be some room for improvement. The prime-age employment-to-population ratio, for 
-example, remains 1¾ percentage points below pre-crisis levels.  There is still an elevated share 
+example, remains 1.75 percentage points below pre-crisis levels.  There is still an elevated share 
 of employees working part time who would prefer full-time work, and the employment cost 
 index has increased relatively little in recent years. 
 Most recently, we’re also seeing welcome signs of progress on the second leg of our dual 
@@ -10571,8 +10571,8 @@ but I take it as a sign that I have greater forecast acumen in the future.
 I could just leave it at that.  However, President Evans and I have a friendly wager about 
 when we’re going to finish our discussion today, and I took the “over.”  So I am going to 
 continue with my remarks.  [Laughter]  The economy is expanding at a moderate pace, and I 
-continue to expect GDP growth of 1¾ percent this year and next year. The unemployment rate 
-looks to bottom out at about 4½ percent by the end of this year, overshooting my estimate of full 
+continue to expect GDP growth of 1.75 percent this year and next year. The unemployment rate 
+looks to bottom out at about 4.5 percent by the end of this year, overshooting my estimate of full 
 employment, before eventually turning back upward toward the natural rate.  Of course, there 
 were both upside and downside surprises in the past few months, but these effectively offset each 
 other. 
@@ -10653,9 +10653,9 @@ their estimates of first-quarter real GDP growth over time, and we’re seeing t
 today. 
 For many years, residual seasonality has depressed real GDP growth in the first quarter. 
 Of course, it’s offset in later quarters.  We don’t want to get mixed up on either side of that.  Last 
-December I thought GDP growth in the first quarter would be around 1½ percent. That forecast 
+December I thought GDP growth in the first quarter would be around 1.5 percent. That forecast 
 actually hasn’t changed. Our current estimate is that residual seasonality has probably taken 
-about ½ percentage point off Q1 growth.  That would suggest underlying properly seasonally 
+about 0.5 percentage point off Q1 growth.  That would suggest underlying properly seasonally 
 adjusted growth around 2 percent in the first quarter. 
 Of course, when we think about appropriate monetary policy, we shouldn’t be focusing 
 on one quarter of data, but we should be looking at growth relative to a sustainable benchmark. 
@@ -10732,7 +10732,7 @@ March 14–15, 2017
 115 of 252
 recovery since the recession while at the same time we’ve seen the big decline in the 
 unemployment rate? I think we all know the numbers:  GDP growth has averaged 2.1 percent 
-during the recovery, but the unemployment rate fell, on average, ¾ percentage point per year. 
+during the recovery, but the unemployment rate fell, on average, 0.75 percentage point per year. 
 For the unemployment rate to decline so much, growth over this period obviously consistently 
 exceeded potential. 
 This new research applies Okun’s law logic to adjust output growth and other variables 
@@ -10744,7 +10744,7 @@ financial crisis and the recession, and they appear likely to continue.
 As we look ahead to the next few years, with the cyclical slack generated by the recession 
 already absorbed, we should be expecting slow growth.  The economy is unlikely to grow as fast 
 as the 2.1 percent average that we’ve seen over the past eight years.  In fact, look at private 
-forecasters.  They are currently expecting growth to be 2¼ to 2½ percent over the next few years, 
+forecasters.  They are currently expecting growth to be 2.25 to 2.5 percent over the next few years, 
 with only modest declines in the unemployment rate.  These forecasters have been consistently 
 surprised to the downside by growth during the recovery, and I think they are poised for another 
 further disappointment ahead. 
@@ -10815,7 +10815,7 @@ March 14–15, 2017
 With regard to appropriate policy, I haven’t changed my projection.  I continue to pencil 
 in four funds rate increases for this year and even more for 2018.  Like the Tealbook, my forecast 
 contains some overshooting of the funds rate in ’18 and ’19 relative to my estimate of the long-
-run equilibrium level of 2¾ percent.  This policy is aimed to limit the amount of overshooting—I 
+run equilibrium level of 2.75 percent.  This policy is aimed to limit the amount of overshooting—I 
 would subscribe myself to the comments President Rosengren made about the desirability of 
 limiting the overshooting—and I think that balances the risks to the economy. Also, as in the 
 Tealbook, I expect that the SOMA portfolio will start gradually declining by the end of this year 
@@ -10982,7 +10982,7 @@ businesses, and that’s enough, at least for the time being, to sustain their o
  
 March 14–15, 2017
 118 of 252
-We expect 2½ percent job growth in 2017 in Texas, which is the highest we’ve had in 
+We expect 2.5 percent job growth in 2017 in Texas, which is the highest we’ve had in 
 three years, and our business surveys show intensifying wage pressures and reports of labor 
 shortages, particularly in skilled trades.  One fabricated metals manufacturer commented 
 regarding his recent interviews with prospective workers.  He only had one primary question, 
@@ -11000,7 +11000,7 @@ impediments to getting workers back into the labor force. We really lack the eco
 in our District, and vocational training alone really isn’t enough to get people back into the 
 workforce. 
 Regarding the nation, our economists at the Federal Reserve Bank of Dallas forecast 
-2017 real GDP growth of approximately 2¼ percent.  This forecast is based on the expectation of 
+2017 real GDP growth of approximately 2.25 percent.  This forecast is based on the expectation of 
 solid growth in consumer spending and a more positive outlook for business investment.  
 Potential new fiscal policies and structural reforms have the potential to add to our forecast to the 
 upside, but we also see, like President Williams, downside risks, which include policies that can 
@@ -12103,7 +12103,7 @@ observation every six weeks about the difficulty of finding workers.  [Laughter]
 On the national economy, my projection is almost identical to my December submission. 
 With unemployment slightly below its long-run value, the natural forecast starting point is that 
 real GDP is likely to grow at its trend rate, which I, like many others, pegged at about 
-1¾ percent.  Nothing in the data flow has altered that view.  I have again written down a ¼ point 
+1.75 percent.  Nothing in the data flow has altered that view.  I have again written down a 0.25 point 
 upward bump for expansionary fiscal policy, but, like the Tealbook, I’ve moved it back from 
 2017 to 2018.  Otherwise, growth is 1.8 percent for this year through 2019, the same as in my 
 previous submission. 
@@ -12962,7 +12962,7 @@ December, we now have three rate hikes of 25 basis points each for 2017, up from
 previously, and we added an additional rate hike in 2019.  Also in our SEP we now have a slight 
 overshoot of our 2 percent inflation objective in the longer term, and, with the federal funds rate 
 path now somewhat steeper, we have the federal funds rate in 2019 climbing slightly above our 
-estimate of the long-run federal funds rate, which we still have pegged at 2½ percent. We 
+estimate of the long-run federal funds rate, which we still have pegged at 2.5 percent. We 
 haven’t raised our long-run federal funds rate because we don’t see any evidence that r* is 
 moving up.  I also believe that demographics and modest productivity growth will keep r* 
 
@@ -13044,7 +13044,7 @@ last Friday, was at 3.2 percent.  That’s well above most judgmental forecasts,
 Federal Reserve Bank of New York’s GDP forecast. 
 Now, I suspect that real GDP growth in the first quarter will be considerably below this 
 3.2 percent nowcast estimate.  After all, most judgmental real GDP forecasts in the first quarter 
-appear to be clustered around 1½ to 2 percent.  So, following President Williams’s discussion at 
+appear to be clustered around 1.5 to 2 percent.  So, following President Williams’s discussion at 
 the previous meeting, our staff did an analysis of the Q1 seasonality issue.  What they concluded 
 is that the data are sufficiently noisy so you can’t actually reject the null hypothesis that there is 
 no seasonality issue, but the point estimate that they found for the first quarter suggests that the 
@@ -13285,7 +13285,7 @@ previous months as compared with less than 1 percent during the summer.  In addi
 estimates that recent increases in energy prices will temporarily push inflation a bit above 
 2 percent in the next few months.  That said, we should be careful not to overstate the progress 
 we have made in reaching our inflation goal.  Core inflation has been running close to 
-1¾ percent since the summer and remains somewhat below our longer-run 2 percent objective. 
+1.75 percent since the summer and remains somewhat below our longer-run 2 percent objective. 
 My second observation is that the progress we have seen has been in line with 
 expectations, not notably stronger, and the outlook for real activity and inflation has not changed 
 materially.  Recent spending and production indicators do not suggest that overall activity is 
@@ -13427,7 +13427,7 @@ prices for energy and imports dropped out of the 12-month change.  But while hea
 inflation is now somewhat higher than I anticipated at our December meeting, that surprise 
 reflects a rise in consumer energy prices, the effects of which should fade later this year. Core 
 inflation, in contrast, has come in close to my expectations, and the 12-month change has been 
-running close to 1¾ percent since last August.  And inflation compensation and survey-based 
+running close to 1.75 percent since last August.  And inflation compensation and survey-based 
 measures of expected inflation are little changed. 
 My final point is that I continue to view the risks to the outlook as roughly balanced.  
 During much of last year, a sequence of events—turbulence in global financial markets, a 
@@ -14105,8 +14105,8 @@ But given how close we were on the CPI, my guess is that it won’t have any maj
 effect on our PCE price forecast.  Thank you. 
 CHAIR YELLEN.  How big is the differential at this point between CPI increases and 
 PCE or core CPI and core PCE? 
-MR. WASCHER. Right now, the 12-month change in core PCE prices is about 1¾, so 
-it’s about ½ percentage point at this point. 
+MR. WASCHER. Right now, the 12-month change in core PCE prices is about 1.75, so 
+it’s about 0.5 percentage point at this point. 
 CHAIR YELLEN.  So that’s what you consider to be normal? 
 MR. WASCHER.  I think that’s a little bit higher than normal, but it’s been running at 
 that—recently.  David? 
@@ -14345,7 +14345,7 @@ clearly, “inflation will rise to 2 percent” is no longer appropriate, but wh
 characterization?  The first draft said inflation “will be at or near 2 percent,” and the latest draft 
 says inflation “will stabilize around 2 percent.”  But it’s worth pointing out that the 70 percent 
 prediction interval for one-year-ahead inflation—that is, the inflation forecast for this year, 
-2017—is 1¼ percentage point.  For the two-year-ahead forecast, it’s 2¼ percentage points wide. 
+2017—is 1.25 percentage point.  For the two-year-ahead forecast, it’s 2.25 percentage points wide. 
 
 
  
@@ -14423,7 +14423,7 @@ So substantial fluctuations in overall inflation around our target seem quite li
 history is to be any guide, and that assessment is consistent with recent history.  Headline 
 inflation has been as low as negative 1 percent, and it’s been as high as 4 percent.  Obviously, 
 energy prices drive a lot of fluctuations in the headline rate, but the core rate has been as low as 1 
-percent in recent years and as high as 2½ percent. In that context, I think it’s problematic to say 
+percent in recent years and as high as 2.5 percent. In that context, I think it’s problematic to say 
 the Committee expects inflation to stabilize around 2 percent.  Now, I can understand a statement 
 like that about the Committee’s expectation regarding inflation—that is to say, the Committee’s 
 point forecast for any given future period.  But that’s very different.  I mean, the forecast may 
@@ -15096,7 +15096,7 @@ that, the unemployment rate had declined 2.2 percentage points, from 7.2 percent
 In the past 18 months, since September 2015, the unemployment rate has declined just 
 0.3 percentage point.  The Tealbook forecast has it declining just 0.1 percentage point from the 
 current value to the end of this year.  If that forecast materializes, it would mean two years of 
-unemployment essentially fluctuating between 4½ and 5 percent. 
+unemployment essentially fluctuating between 4.5 and 5 percent. 
 On inflation, the Federal Reserve Bank of Dallas trimmed mean PCE inflation rate 
 measured year over year in December 2014 was 1.58 percent; in December 2015, 1.62 percent; 
 in December 2016, 1.84 percent; and in January 2017, 1.87 percent.  It’s rising, yes, but ever so 
@@ -16336,11 +16336,11 @@ to language of a range for our inflation goal doesn’t work well when I think t
  
 March 14–15, 2017
 184 of 252
-we really do see 2 percent as the highest we’ll accept. So if we say “1½ to 2½,” I’m afraid that 
-the market participants who follow the Federal Reserve will read that as, “Well, really, 1½ to 2, 
-means 1¾.” That’s my concern, given the history here.  If we had a history in which we’d been 
-at 2 percent for a long time, then I think I’d be a little bit more comfortable with a range of 1½ to 
-2½—around 2. 
+we really do see 2 percent as the highest we’ll accept. So if we say “1.5 to 2.5,” I’m afraid that 
+the market participants who follow the Federal Reserve will read that as, “Well, really, 1.5 to 2, 
+means 1.75.” That’s my concern, given the history here.  If we had a history in which we’d been 
+at 2 percent for a long time, then I think I’d be a little bit more comfortable with a range of 1.5 to 
+2.5—around 2. 
 In terms of the language that President Lacker mentioned in paragraph 1, he’s right.  This 
 is a mix of tenses, and I don’t think that’s good.  I think the tense should always be—okay, so I 
 did grammar.  Wait a minute.  It’s either the past tense or the past participle? 
@@ -17977,8 +17977,8 @@ MR. TARULLO.  Second.
 CHAIR YELLEN.  Thank you.  Without objection.  Finally, I need a motion from a 
 Board member to approve establishment of the primary credit rate by the Federal Reserve Banks 
 of Boston, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, Kansas City, Dallas, and San 
-Francisco at 1½ percent, effective March 16, 2017.  It will also encompass approval by the Board 
-of Governors of the establishment of a 1½ percent primary credit rate by each of the remaining 
+Francisco at 1.5 percent, effective March 16, 2017.  It will also encompass approval by the Board 
+of Governors of the establishment of a 1.5 percent primary credit rate by each of the remaining 
 Federal Reserve Banks, effective on the later of March 16, 2017, and the date such Reserve Bank 
 informs the secretary of the Board of such a request.  The secretary of the Board would be 
 authorized to inform such Reserve Banks of the approval of the Board of Governors on such 

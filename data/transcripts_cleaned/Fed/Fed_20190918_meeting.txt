@@ -250,7 +250,7 @@ As outlined in slide 1, under the current framework, the ELB is likely to be a
 constraint for policymakers in the future.  Historically, the FOMC has lowered the 
 federal funds rate more than 4 percentage points during recessions, but all responses 
 to the June SEP indicate that the longer-run normal level of the federal funds rate is 
-less than 3½ percent.  As a result, it is likely that the ELB will bind in most future 
+less than 3.5 percent.  As a result, it is likely that the ELB will bind in most future 
 recessions.  A variety of statistical and economic models confirm this result and show 
 that ELB episodes are likely accompanied by high unemployment and low inflation. 
 Please turn to the slide on page 2.  The increased risk that the ELB will bind in the 
@@ -367,8 +367,8 @@ September 17-18, 2019
  
 the baseline recession scenario, in black, in the FRB/US model with negative shocks 
 to aggregate demand and inflation.  Here, under the inertial Taylor (1999) rule, the 
-ELB binds for about three years, the unemployment rate increases to 5½ percent, and 
-inflation falls to 1¼ percent. 
+ELB binds for about three years, the unemployment rate increases to 5.5 percent, and 
+inflation falls to 1.25 percent. 
 We then compare outcomes under the inertial Taylor rule to a four-year AIT rule, 
 in yellow, an eight-year AIT rule, in red, and a price-level-targeting rule that can be 
 thought of as an AIT rule with an extremely long makeup window, in green.  To 
@@ -384,7 +384,7 @@ observation is largely due to two features of the FRB/US model that limit the
 effectiveness of monetary policy—namely, the low sensitivity of the economy to 
 interest rates and of inflation to slack.  Higher sensitivity in both dimensions would 
 yield quantitatively larger gains, as shown in the memo and often found in academic 
-studies.  That said, even the ¼ percentage point reduction in peak unemployment 
+studies.  That said, even the 0.25 percentage point reduction in peak unemployment 
 featured in the scenario corresponds to 430,000 jobs saved, so it is a close call to 
 judge if the glass is half full or half empty.  Lastly, the low responsiveness of inflation 
 to slack embedded in the FRB/US model also implies that AIT rules deliver very 
@@ -399,7 +399,7 @@ strategy may constrain the desire to act promptly at the onset of the recession.
 The panels at the bottom of the exhibit present outcomes in our mild recession 
 scenario under a symmetric eight-year AIT rule, in yellow.  Here we assume that 
 policymakers inherited a positive inflation gap because inflation was, on average, 
-nearly 2½ percent in the years before the recession.  The red line represents an 
+nearly 2.5 percent in the years before the recession.  The red line represents an 
 asymmetric eight-year AIT rule that ignores this inflation gap.  The most striking 
 difference between the two AIT strategies is that the symmetric rule calls for higher 
 policy rates early on in the recession to make up for the accumulated inflation gap, 
@@ -1998,7 +1998,7 @@ inflation and unemployment can be a very misleading guide when policy is being s
 preemptively.  And, of course, it raises questions about the balanced approach in our Statement 
 on Longer-Run Goals. 
 Third, the equilibrium rate is very low.  The Committee’s median projection has fallen 
-from 4¼ percent to 2½ percent over the past seven years.  That means the conventional policy 
+from 4.25 percent to 2.5 percent over the past seven years.  That means the conventional policy 
 September 17-18, 2019
 64 of 292
 
@@ -2082,8 +2082,8 @@ episodes, but also how to move underlying inflation back up to target in the nea
 long period of misses in order to re-anchor expectations and strengthen our buffer. 
 One approach that I would want to explore and might be much simpler to communicate 
 would simply be to shift up our target range for a limited number of years with a review to 
-follow.  So, for instance, we could just target inflation in the range of 2 to 2½ percent over the 
-next five years to make up for the past five years when inflation has been in the range of 1½ to 
+follow.  So, for instance, we could just target inflation in the range of 2 to 2.5 percent over the 
+next five years to make up for the past five years when inflation has been in the range of 1.5 to 
 September 17-18, 2019
 67 of 292
 
@@ -2182,9 +2182,9 @@ our tools more aggressively, more effectively.  I think that’s true, and we co
 through the situation reasonably well, and that’s kind of what some of these simulations were 
 showing. 
 At the same time, there’s a great deal of uncertainty about r*.  So, say, if you asked me 
-10 years ago what r* was, I would have told you 2½ percent.  And today we’re saying it’s ½.  So 
+10 years ago what r* was, I would have told you 2.5 percent.  And today we’re saying it’s 0.5.  So 
 say that, in the next recession—which I hope is not for another 10 years—we’re actually in a 
-situation in which r* is not ½ percent but is actually minus ½ or even lower.  In that 
+situation in which r* is not 0.5 percent but is actually minus 0.5 or even lower.  In that 
 circumstance, using the same simulations, we just don’t have nearly as much firepower, either 
 conventionally—and, obviously, we could use unconventional policies, balance sheet policies, 
 too. 
@@ -2622,8 +2622,8 @@ Treasury security collateral at an average rate of 2.48 percent and $12 billion 
 awards against MBS collateral at a rate of 2.80 percent. 
 The operations were perceived by market participants as successful, and rates fell 
 after the announcement and into the morning, as shown in panel 20.  Rates in secured 
-markets were trading around 2½ percent after the operation.  The range on the federal 
-funds rate is still wide, and trades are going through between 2 and 2½ percent.  We 
+markets were trading around 2.5 percent after the operation.  The range on the federal 
+funds rate is still wide, and trades are going through between 2 and 2.5 percent.  We 
 won’t have certainty about where the effective federal funds rate will “print” until 
 September 17-18, 2019
 83 of 292
@@ -2908,8 +2908,8 @@ point, we are projecting continued strength in the household sector, supported b
 plentiful jobs and solid income growth. 
 Of course, the picture for business investment and, relatedly, the manufacturing 
 sector is decidedly less bright.  The black line in panel 3 shows manufacturing IP 
-growth, which slowed from a positive 2½ percent in the second half of last year to a 
-negative 2½ percent in the first half of this year.  Trade developments appear to have 
+growth, which slowed from a positive 2.5 percent in the second half of last year to a 
+negative 2.5 percent in the first half of this year.  Trade developments appear to have 
 held down manufacturing growth considerably.  The red portions of the bars show an 
 estimate of the direct effects of tariffs on manufacturing growth.  These estimates are 
 derived from a detailed industry-level assessment by my colleagues Aaron Flaaen and 
@@ -2957,7 +2957,7 @@ foreign growth, the stronger dollar, and analysts’ downgraded expectations abo
 long-run future profit growth.  But our assumption that trade tensions and uncertainty 
 will not rise further—our now standard assumption—and that the dip in foreign 
 growth will prove transitory limited our downward revision to the level of GDP to 
-just ¼ percent by the end of the medium term. 
+just 0.25 percent by the end of the medium term. 
 This round we also made some modest but noticeable revisions to our aggregate 
 supply assumptions.  Although we are always reevaluating our supply-side 
 assumptions, the aftermath of an annual revision to the NIPA is a particularly good 
@@ -3139,7 +3139,7 @@ downside risks mounting, and little sign of any inflation pressure, we expect fo
 monetary policy to remain accommodative for quite some time.  With euro-area 
 inflation, the green line on the left, running just above 1 percent, the ECB cut its 
 policy rate, the green line in the middle, a further 10 basis points to negative 
-½ percent and announced an open-ended resumption of its QE program, buying 
+0.5 percent and announced an open-ended resumption of its QE program, buying 
 20 billion euros in bonds per month.  Notably, the ECB statement included forward 
 guidance that rates will remain at their present or lower levels until the inflation 
 outlook robustly converges to target within the projection period, similar to the Bank 
@@ -3817,7 +3817,7 @@ to try to brush it off in this environment, as we’re not trying to fight again
 inflation at this juncture. 
 Inflation expectations, as measured by a straight read of the TIPS yield, are exceptionally 
 low.  The TIPS five-year breakeven adjusted to go from CPI inflation to PCE inflation suggests 
-that markets think that PCE inflation will be only about 1¼  percent over the next five years, well 
+that markets think that PCE inflation will be only about 1.25  percent over the next five years, well 
 below our 2 percent inflation target on our preferred measure.  I continue to regard it as 
 dangerous to try to decompose TIPS yields using affine term structure models that are known to 
 explain very little and are known also to be excessively sensitive to underlying assumptions.  
@@ -3868,7 +3868,7 @@ accommodation relative to where it was in June, our previous SEP.  I will discus
 detail tomorrow. 
 Now, as usual in an SEP round, we took another careful look at the longer-run variables 
 used to calibrate policy.  So, starting with r*—I knew you’d like that, Vice Chair—I have kept 
-my estimate of the long-run value at ½ percent.  However, in light of the paper by Alan Taylor 
+my estimate of the long-run value at 0.5 percent.  However, in light of the paper by Alan Taylor 
 and Òscar Jordà presented at the Jackson Hole Symposium last month, I am attuned to the fact 
 that global factors can influence our neutral rate.  Worsening foreign real GDP growth is leading 
 to inflows into long-term U.S. Treasury securities, lowering their yields, and putting downward 
@@ -3958,7 +3958,7 @@ issue.  Demand is strong.”  District labor market conditions remain strong.  T
 rate has remained at 4 percent in July, 1 percentage point below the Cleveland staff’s estimate of 
 its longer-run normal level and near its lowest level seen over the past 40 years. 
 Year-over-year growth in payroll employment in the District has slowed since the start of 
-the year to a bit below ½ percent in July, which is the Cleveland staff’s estimate of its longer-run 
+the year to a bit below 0.5 percent in July, which is the Cleveland staff’s estimate of its longer-run 
 trend.  District contacts suggest that the slowdown in employment growth is related to limited 
 labor supply rather than lower demand for workers.  A Cleveland Fed director associated with a 
 labor and workforce development agency reported results of his firm’s quarterly employer 
@@ -3990,7 +3990,7 @@ be about 2 percent.
 In my view, the most likely outcome continues to be that, over the forecast horizon, 
 output growth and employment growth will slow toward trend.  The unemployment rate will 
 remain at or below 4 percent, which is below my estimate of its longer-run level of 4 to 
-4½ percent, and inflation will gradually rise to 2 percent.  Although business investment, 
+4.5 percent, and inflation will gradually rise to 2 percent.  Although business investment, 
 manufacturing, and exports are soft, the softness is offset by strong growth in consumer 
 spending, which is supported by the strength in labor markets and solid consumer sentiment. 
 Payroll job growth has slowed from last year, but the job gains have averaged 156,000 
@@ -4057,7 +4057,7 @@ relatively flat, with the funds rate at its current level over the remainder of 
 incorporating only a few 25 basis point increases over the forecast horizon.  This is slightly more 
 shallow than I had in my June SEP submission, reflecting both July’s cut in rates and the 
 downward revision I made to my estimate of the longer-run federal funds rate, which I moved 
-from 3 percent to 2¾ percent. 
+from 3 percent to 2.75 percent. 
 September 17-18, 2019
 127 of 292
 
@@ -4227,7 +4227,7 @@ at a rate that is essentially indistinguishable from potential over the remainde
 period.  Not many external observers are likely to jump and cheer at 2 percent growth in 2020, 
 but we all recognize that that kind of growth is just a baseline feature of the current environment. 
 I expect the unemployment rate will hover near its current level throughout the projection 
-period, which is about ½ percentage point below my admittedly highly uncertain estimate of its 
+period, which is about 0.5 percentage point below my admittedly highly uncertain estimate of its 
 natural rate. 
 September 17-18, 2019
 133 of 292
@@ -4365,7 +4365,7 @@ quarter, similar to the first half.  In addition, there are signs that activity 
 starting to rebound, consistent with the decline in mortgage rates since last year.  In contrast, 
 business investment has been weak and on track for an outright contraction in the second half, 
 although the jump in oil prices may provide some support to investment in drilling and mining. 
-Manufacturing production fell in July after declining at an annual rate of 2½ percent in 
+Manufacturing production fell in July after declining at an annual rate of 2.5 percent in 
 the first half, and exports have also been disappointing, posting a decline in the first half against 
 the backdrop of trade conflict, weak foreign growth, and a strong dollar. 
 In speaking with fiscal and monetary officials of other major economies, I found that a 
@@ -4481,7 +4481,7 @@ because a greater cognizance now sort of woke people up.  There is greater secur
 geopolitical risk in the price of oil, and we should probably get used to that just being embedded. 
 For those who are hopeful this might increase U.S. production, we are a little bit skeptical 
 on that so far.  And, just to remind you of the context, U.S. production growth in 2018 was 
-1.8 million barrels.  This year it’s 1 million barrels.  We think next year it will be ½ million 
+1.8 million barrels.  This year it’s 1 million barrels.  We think next year it will be 0.5 million 
 barrels.  The reason for the substantial decline is, in light of capital discipline and a little bit more 
 sluggish oil price, shale firms are not spending as much money on cap-ex, and they are just 
 simply completing these so-called DUCs, drilled but uncompleted wells. 
@@ -5246,7 +5246,7 @@ another during your go-round, so I hope it will be relatively easy.
 I will be referring to the handout “Material for the Briefing on Monetary Policy 
 Alternatives.”  As Stacey discussed in her briefing, the spending and labor market 
 data we received over the intermeeting period have been consistent with an outlook in 
-which real GDP growth slows to its estimated trend rate of around 1¾ percent, while 
+which real GDP growth slows to its estimated trend rate of around 1.75 percent, while 
 payroll gains move down over time to a pace closer in line with unchanged resource 
 utilization.  As shown in the upper-left panel, the continued strength of the expansion 
 rests increasingly on household spending.  All three draft alternatives note that 
@@ -6055,7 +6055,7 @@ September 17-18, 2019
 Core PCE inflation, our preferred measure, is below target, but I don’t think it is enough 
 to simply argue that it will return to target or to 1.8 percent, as the Tealbook has it, in the next 
 couple of years.  The framework discussion yesterday highlighted the fact that we would prefer 
-to run inflation above target, perhaps 2 to 2½ percent, when the economy is not in recession in 
+to run inflation above target, perhaps 2 to 2.5 percent, when the economy is not in recession in 
 order to meet our inflation target, on average, over a long time frame—that is, over the entire 
 cycle. 
 So, in summary, I support alternative A for today.  As general advice to the Committee, I 
@@ -6228,18 +6228,18 @@ September 17-18, 2019
 about the headwinds from low inflation expectations.  We still have a ways to go to achieve our 
 symmetric 2 percent objective, so I am on board for a rate cut today. 
 Beyond the current decision, I recalibrated my SEP funds rate assumptions this round.  
-After a move today, my policy rate path is flat through late 2021 at the range of 1¾ to 2 percent.  
+After a move today, my policy rate path is flat through late 2021 at the range of 1.75 to 2 percent.  
 This is the same assumption I had in June, but I’ve slowed the subsequent funds rate increases by 
 having only one 25 basis point hike in each of 2021 and 2022.  This puts the funds rate in the 
-range of 2¼ to 2½ percent at the end of 2022.  That’s 50 basis points below what I would have 
+range of 2.25 to 2.5 percent at the end of 2022.  That’s 50 basis points below what I would have 
 written down if we’d been forecasting out that far in June. 
 The change reflects some reconsideration of r* on my part.  We haven’t moved our view 
-of long-run nominal r*, which is still 2¾ percent, but important headwinds, especially 
+of long-run nominal r*, which is still 2.75 percent, but important headwinds, especially 
 uncertainty over the rules of the game regarding international trade and weak growth abroad, are 
 pushing short-run r* below its long-run level.  We recognized these headwinds in June, but we 
 now think they are somewhat stronger and will be longer lived than we assumed back then.  This 
 view is supported by our DSGE model in Chicago, which estimates current short-run nominal r* 
-is quite low and will still be under 2½ percent at the end of the projection period.  Some 
+is quite low and will still be under 2.5 percent at the end of the projection period.  Some 
 decompositions of the yield curve also suggest that the real short-term rates will be low for quite 
 a while. 
 In light of this r* reassessment, we had to move our baseline funds rate path to maintain a 

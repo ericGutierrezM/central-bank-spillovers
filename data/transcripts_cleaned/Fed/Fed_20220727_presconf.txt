@@ -23,7 +23,7 @@ are to have a sustained period of strong labor market conditions that benefit al
 From the standpoint of our congressional mandate to promote maximum employment and 
 price stability, the current picture is plain to see:  The labor market is extremely tight, and 
 inflation is much too high.  Against this backdrop, today the FOMC raised its policy interest rate 
-by ¾ of a percentage point and anticipates that ongoing increases in the target range for the 
+by 0.75 of a percentage point and anticipates that ongoing increases in the target range for the 
 federal funds rate will be appropriate.  In addition, we are continuing the process of significantly 
 reducing the size of our balance sheet.  And I’ll have more to say about today’s monetary policy 
 actions after briefly reviewing economic developments.   
@@ -76,7 +76,7 @@ FINAL
 Page 3 of 29 
  
 At today’s meeting, the Committee raised the target range for the federal funds rate by 
-¾ of a percentage point, bringing the target range to 2¼ to 2½ percent.  And we’re continuing 
+0.75 of a percentage point, bringing the target range to 2.25 to 2.5 percent.  And we’re continuing 
 the process of significantly reducing the size of our balance sheet, which plays an important role 
 in firming the stance of monetary policy. 
 Over coming months, we will be looking for compelling evidence that inflation is moving 
@@ -185,8 +185,8 @@ additional tightening, significant additional tightening, in the pipeline.
 So where are we going with this?  I think the best—I think the Committee broadly feels 
 that we need to get policy to at least to a moderately restrictive level.  And maybe the best data 
 point for that would be what we wrote down in our SEP at the—at the June meeting.  So I think 
-the median [federal funds rate] for the end of this year, the median would’ve been between 3¼ 
-and 3½ [percent].  And, then, people wrote down 50 basis points higher than that for 2023.  So 
+the median [federal funds rate] for the end of this year, the median would’ve been between 3.25 
+and 3.5 [percent].  And, then, people wrote down 50 basis points higher than that for 2023.  So 
 that’s—even though that’s now six weeks old, I guess, that’s—that’s the most recent reading.  Of 
 course, we’ll update that reading at the—at the September meeting in eight weeks.  So that’s how 
 we’re thinking about it.  
@@ -234,7 +234,7 @@ Page 8 of 29
  
 But at the same time, I would say that’s probably the best estimate of where the 
 Committee’s thinking is still, which is that we would get to a moderately restrictive level by the 
-end of this year—by which I mean somewhere between 3 and 3½ percent—and that when the 
+end of this year—by which I mean somewhere between 3 and 3.5 percent—and that when the 
 Committee sees further rate increases in 2023, as I mentioned, we’ll update that, of course, at the 
 September meeting.  But that’s really the best I can do on that.  
 NICK TIMIRAOS.  You said inflation had been a little bit hotter than anticipated.  Has 
@@ -374,7 +374,7 @@ CHAIR POWELL.  So I don’t—I do not think the U.S. is currently in a recessio
 the reason is, there are just too many areas of the economy that are—that are performing, you 
 know, too well.  And, of course, I would point to the labor market, in particular.  As I mentioned, 
 it’s true that growth is slowing for reasons that we understand.  Really, the growth was 
-extraordinarily high last year, 5½ percent.  We would have expected growth to slow.  There’s 
+extraordinarily high last year, 5.5 percent.  We would have expected growth to slow.  There’s 
 also more slowing going on now.  
 But if you look at the labor market, you’ve got growth—I think, payroll jobs averaging 
 450,000 per month.  That’s a remarkably strong level for, for this state of, of affairs.  The 

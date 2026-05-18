@@ -23,7 +23,7 @@ the end of 2020.  UK wholesale gas prices were almost 400% higher.  Wholesale el
 risen by more than 300%.  The UK is a net importer of energy and tradable goods, and the rise in 
 global prices will inevitably both put upward pressure on inflation and weigh on UK real income and 
 spending.  Beyond the near term, and conditioned on a market-implied path for Bank Rate that rises 
-to around 1½% by the middle of 2023, UK GDP growth is expected to slow to subdued rates.  A small 
+to around 1.5% by the middle of 2023, UK GDP growth is expected to slow to subdued rates.  A small 
 margin of spare capacity is likely to emerge later this year and to build over the forecast period. 
  
 In the labour market, unemployment has continued to fall, despite the closure of the furlough 
@@ -34,7 +34,7 @@ coming months, before rising again owing to the impact of higher global energy a
 prices on domestic demand.  Reflecting the tight labour market, pay growth is somewhat above pre-
 pandemic rates at around 4%, and respondents to the Bank Agents’ annual pay survey expect pay 
 settlements to increase this year.  In the Monetary Policy Committee’s central projection, underlying 
-pay growth is expected to rise to around 4¾% over the coming year, before falling to around 2½% 
+pay growth is expected to rise to around 4.75% over the coming year, before falling to around 2.5% 
 over the medium term as labour market conditions ease.   
  
 
@@ -48,7 +48,7 @@ labour market, have also added to the upward pressure on consumer prices, albeit
 extent.  Core inflation – which strips out energy and other volatile items – picked up to 4.2% in 
 December.   
  
-Inflation is expected to increase further in the coming months, peaking at around 7¼% in April when 
+Inflation is expected to increase further in the coming months, peaking at around 7.25% in April when 
 higher utility price caps are due to be implemented.  In the central projection, the upward pressure 
 on CPI inflation dissipates over time, however, as global energy prices stop rising and global supply 
 constraints stabilise, while domestic cost pressures ease with demand weakening.  The widening 
@@ -86,9 +86,9 @@ unpredictability of these prices – remain constant.  Given the shape of those 
 assumption implies that, beyond that six-month horizon, the assumed paths of wholesale energy 
 prices remain a long way above the levels that markets expect currently expect.  If energy prices 
 were to fall back to the levels implied by futures curves, the degree of excess supply and 
-unemployment would be around ½ percentage point lower by the end of the forecast period.  CPI 
+unemployment would be around 0.5 percentage point lower by the end of the forecast period.  CPI 
 inflation would fall towards target more rapidly and, conditional on the current market-implied path 
-for Bank Rate, would be around ¾ percentage points below the target in two and three years’ time.  
+for Bank Rate, would be around 0.75 percentage points below the target in two and three years’ time.  
  
 The monetary policy decision 
 I will now turn to the immediate monetary policy decision.  

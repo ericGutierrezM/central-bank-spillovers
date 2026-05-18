@@ -180,8 +180,8 @@ September 15–16, 2020
  
 project.  Ironically, given subsequent events, the question of the time was whether the 
 productivity boom had driven r* higher.  In fact, if you go back to our December 2000 memo, 
-our first memo to the Board on r*, our original estimates had r* at 4¼ percent—and that’s real, 
-not nominal.  So that’s a 6¼ percent nominal r*.  Those were the days. 
+our first memo to the Board on r*, our original estimates had r* at 4.25 percent—and that’s real, 
+not nominal.  So that’s a 6.25 percent nominal r*.  Those were the days. 
 To jump ahead 15 years, following his appointment as director of Monetary Affairs, 
 Thomas would frequently and very earnestly ask me how he could be most effective in his role 
 as an adviser to the FOMC.  And I’d remind him that the Committee has at times been compared 
@@ -403,7 +403,7 @@ on sentiment later in the year.  A soft October deadline for an agreement with t
 on post-2020 trade looks unlikely to be met. 
 Another frequently raised concern relates to fiscal policy.  Most contacts have 
 been assuming that an additional pandemic-related fiscal package would be approved 
-this year and would be on the order of $1 trillion to $1½ trillion.  Absent a new 
+this year and would be on the order of $1 trillion to $1.5 trillion.  Absent a new 
 package, growth may decelerate at a faster-than-expected pace in Q4, a scenario that 
 Stacey will discuss, which could also significantly affect risk assets.  With the 
 election approaching, some think it may take pressure from financial markets to bring 
@@ -732,7 +732,7 @@ Fears of such an outcome have already unleashed a wave of policy actions abroad,
 and much more will likely be seen before this is through.”  In the event, we saw a 
 tidal wave of policy actions, but not enough to prevent a unprecedented decline in 
 output, one that we estimate will put the level of foreign real GDP in the fourth 
-quarter 4½ percent below that of the fourth quarter last year. 
+quarter 4.5 percent below that of the fourth quarter last year. 
 Now, sitting here in my son’s bedroom, having not seen the Board Room since 
 that March briefing, I would like to do a stocktaking:  assessing how the three factors 
 I highlighted six months ago have played out, what we’ve learned, and what worries 
@@ -1426,12 +1426,12 @@ Felicia, and your teams for doing such a great job.  Stacey, I’m probably goin
 and this is a variant on the question that Loretta asked.   
 I was going to ask—and this is a hard thought experiment:  If you could go back to 
 January, which I wish some days we could—and it’s hard to believe that the federal funds rate in 
-January was something like 1½, 1¾ percent.  In fact, I can’t even believe that’s the case.  We 
+January was something like 1.5, 1.75 percent.  In fact, I can’t even believe that’s the case.  We 
 were in the midst of the policy framework review then.  If you could wipe away the fact that 
 COVID happened, and if we had the actual situation in January, and then we’d finished our 
 policy review, how would that change this new funds rate rule?  For example, would your 
 intercept still be the effective lower bound (ELB)?  Again, with the situation in January when 
-you had a federal funds rate at 1½, 1¾ percent, how would you imagine you would be writing 
+you had a federal funds rate at 1.5, 1.75 percent, how would you imagine you would be writing 
 this new funds rate rule in that circumstance? 
 MS. TEVLIN.  I think if you’d come out with a consensus statement like the one you just 
 put out— 
@@ -1452,7 +1452,7 @@ September 15–16, 2020
 would’ve needed probably a couple of those three things we put in.  I don’t know if we would 
 have needed all three. 
 MR. KAPLAN.  So what I’m getting to is, the move, which is understandable, from 
-where we were—1½ to 1¾ percent—to 0, and the fact that that’s now embedded in the policy 
+where we were—1.5 to 1.75 percent—to 0, and the fact that that’s now embedded in the policy 
 rule, that’s a result heavily of COVID, obviously, because it set us back.  Correct? 
 MS. TEVLIN.  Right. 
 MR. KAPLAN.  And so— 
@@ -2292,7 +2292,7 @@ Regarding the national economy, we, like others, have upgraded our baseline econ
 forecast.  We now think that GDP for the year 2020 will have contracted 2.8 percent, and we 
 think GDP growth will be 3.4 percent in 2021.  In addition, we’ve revised down our 
 unemployment rate forecast to 7.4 percent for the end of this year and 5.7 percent in December 
-2021.  And in our forecast we do have the unemployment rate getting down to 3½ percent 
+2021.  And in our forecast we do have the unemployment rate getting down to 3.5 percent 
 during 2023. 
 Over the past few pre-pandemic years, I’ve been discussing, and we’ve been discussing, 
 how the trend of technology and technology-enabled disruption has been accelerating and having 
@@ -2491,7 +2491,7 @@ long-standing injustices and inequities in our country.
 Briefly turning to the national outlook, as I mentioned at the start, like many around the 
 table, I’ve been surprised at the economy’s ability to power through the virus outbreaks in recent 
 months.  Like the Tealbook, our forecast has considerably less damage in 2020 than in our 
-previous SEP.  We have revised our forecast up, to a 3½ percent decline in real GDP for this 
+previous SEP.  We have revised our forecast up, to a 3.5 percent decline in real GDP for this 
 year—half the drop we had in our June submission.  By the way, I am number 16 in the SEP. 
 Going forward, the general contours of our GDP forecast are similar to the Tealbook.  
 However, given the extent of the sectoral shocks we experienced, we do see frictions in the labor 
@@ -2811,16 +2811,16 @@ solid increase in equipment and investment spending in the third quarter, althou
 nonresidential structures remains depressed. 
 All told, the staff has increased their projection of real GDP growth by about 
 5 percentage points above their projection in July.  Payroll employment increased at an average 
-pace of 1½ million jobs per month in the past two months.  The published unemployment rate 
-fell 2¾ percentage points, and the labor force participation rate inched up.  Other margins of 
+pace of 1.5 million jobs per month in the past two months.  The published unemployment rate 
+fell 2.75 percentage points, and the labor force participation rate inched up.  Other margins of 
 labor utilization, including involuntary part-time employment and the average workweek, also 
 improved.  The economy has now recovered nearly one-half of jobs lost in March and April, and 
 the large majority of those gains have been workers on temporary layoff returning to their 
 employers. 
 But the path ahead may be more complicated.  Job losses classified as permanent are on 
-the rise and sit at nearly 3½ million in August, accounting for about one-fourth of the total 
+the rise and sit at nearly 3.5 million in August, accounting for about one-fourth of the total 
 unemployed.  Despite sharp declines, initial jobless claims are still running about four times 
-higher than pre-pandemic levels.  Payrolls remain 11½ million lower than pre-pandemic levels, 
+higher than pre-pandemic levels.  Payrolls remain 11.5 million lower than pre-pandemic levels, 
 and unemployment is 5 percentage points above its pre-pandemic level.  Unemployment is 
 13 percent for Black workers and is coming down more slowly than unemployment for other 
 categories of workers.  
@@ -2949,7 +2949,7 @@ The widespread move to virtual instruction at most K–12 schools this fall, how
 likely make it more challenging for families whose school-age children are participating in web-
 based or virtual education programs to maintain their pre-pandemic work schedules, as others 
 have noted, including President Mester and President Evans.  The staff’s Tealbook forecast 
-assumes that schools moving online will depress the participation rate about ¼ percentage point 
+assumes that schools moving online will depress the participation rate about 0.25 percentage point 
 through the end of this year.  My own expectation is that the effects could be larger and will 
 evolve as parents reassess their work responsibilities and the needs of their children. 
 Moreover, as we saw in the latest Survey of Household Economics and Decisionmaking 
@@ -3135,7 +3135,7 @@ contacted about the Main Street Lending Program say that they have plenty of cap
 creditworthy borrowers. 
 Nevertheless, many businesses are, as a number of you have noted, under significant 
 strain, although the pace of corporate rating downgrades has decreased significantly in recent 
-months.  The six-month trailing default rate on speculative-grade bonds rose to over 12½ percent 
+months.  The six-month trailing default rate on speculative-grade bonds rose to over 12.5 percent 
 in July and August.  Likewise, delinquency rates on business loans have risen noticeably despite 
 banks’ forbearance programs and despite banks’ willingness to work with affected borrowers.  It 
 can be hard to measure how severe those business strains are, because most businesses that fail 
@@ -3166,7 +3166,7 @@ upward pressure on inflation.
 So, as a result, I see robust growth in the fourth quarter and then 4.6 percent growth in 
 2021.  As the recovery turns into the expansion phase over the next 2 years, growth should 
 decline gradually but remain above potential.  I see this robust growth pushing the 
-unemployment rate down steadily to an average of 4½ percent by the end of 2021, and it drops 
+unemployment rate down steadily to an average of 4.5 percent by the end of 2021, and it drops 
 below my estimate of the long-run rate early in 2022. 
 With strong consumer demand driving higher growth and a lower unemployment rate—
 but somewhat more concern about lasting supply-side frictions—my inflation forecast is a couple 
@@ -3398,17 +3398,17 @@ payments—and the housing market has rebounded strongly.
 Inflation data have been encouraging as well, suggesting that inflation has bottomed out.  
 Much like the Tealbook, I’ve significantly increased my forecast of real GDP growth in the 
 second half of this year.  I now see GDP growth for the year as a whole, Q4 over Q4, coming in 
-around negative 3½ percent.  In light of the robust household survey numbers and a stronger 
+around negative 3.5 percent.  In light of the robust household survey numbers and a stronger 
 September 15–16, 2020
 109 of 238
 
 
  
  
-GDP forecast, I’ve lowered my forecast of the unemployment rate to 7½ percent in the fourth 
+GDP forecast, I’ve lowered my forecast of the unemployment rate to 7.5 percent in the fourth 
 quarter of this year. 
 Based on the recent inflation readings and the more favorable outlook, I’ve raised my 
-forecast of core inflation to nearly 1½ percent for this year.  Now, my baseline outlook for the 
+forecast of core inflation to nearly 1.5 percent for this year.  Now, my baseline outlook for the 
 next few years foresees a solid-paced recovery, supported by a highly accommodative stance of 
 monetary policy, including the target range for the federal funds rate remaining at its current 
 level throughout the forecast horizon. 
@@ -3511,7 +3511,7 @@ damage.
 Despite all of the better economic news, the economy remains fragile, as President 
 Mester said, and remains in a deep hole, and significant risks remain.  Even if third-quarter real 
 GDP growth is 30 percent, as broadly expected, GDP will still be about 4 percent below pre-
-pandemic levels.  There are still 11½ million people who remain unemployed because of the 
+pandemic levels.  There are still 11.5 million people who remain unemployed because of the 
 pandemic.   
 Unemployment is far too high.  And, of course, the U-3 numbers understate the problem 
 by about 3 percentage points because of a mistake in characterizations of employment status and 
@@ -3730,8 +3730,8 @@ comparing the black dotted lines and the red bars.  These shifts appear to be
 consistent with your new consensus statement’s focus on eliminating shortfalls from 
 maximum employment and achieving inflation that averages 2 percent over time.  At 
 the time of the first increase in the federal funds rate, the median respondent to the 
-September surveys expects the unemployment rate to be 4 percent, down from 4½ 
-percent in July, and inflation to be 2¼ percent, up from 2.1 percent in July.  Of note, 
+September surveys expects the unemployment rate to be 4 percent, down from 4.5 
+percent in July, and inflation to be 2.25 percent, up from 2.1 percent in July.  Of note, 
 there is still a fair degree of dispersion across respondents’ expected economic 
 conditions, which could potentially be reduced by making your forward guidance 
 more explicit.   
@@ -3797,7 +3797,7 @@ slower pace than in recent months.  Sales in the Census retail sales group, whic
 to pay the most attention to, rose 0.6 percent, which was somewhat more than we expected, but 
 they revised down in July.  So, overall, the data came in pretty close to our expectations. 
 Based on this early read, we would still write down a Q3 increase in real PCE of roughly 
-37 percent, which is down from about 37½ percent before these data.  And when I looked at the 
+37 percent, which is down from about 37.5 percent before these data.  And when I looked at the 
 details, it looked like spending was continuing to normalize somewhat, with gains in the 
 categories that have been hard hit by social distancing, like food services and apparel.  But there 
 were moderating gains or even small declines at places that had been doing well in the pandemic, 
@@ -4341,7 +4341,7 @@ so that we can ensure we are all in the best place to use our tools proactively 
 consensus.  Thank you, Mr. Chair. 
 CHAIR POWELL.  Thank you.  President Mester, please. 
 MS. MESTER.  Thank you, Mr. Chair.  I support maintaining our target range for the 
-federal funds rate at 0 to ¼ percent and continuing our Treasury security and agency MBS asset 
+federal funds rate at 0 to 0.25 percent and continuing our Treasury security and agency MBS asset 
 purchases at the current pace.  After the unprecedented decline in economic activity in the 
 second quarter, the third quarter has seen stronger-than-expected increases in activity in hiring.  
 But as the Chair said yesterday, the rebound we’ve seen is where it’s been easiest as a result of 
@@ -4489,7 +4489,7 @@ over time and eliminating employment shortfalls than does the policy described i
 Why do I say that alt-B is complex and might not work?  Essentially, the forward 
 guidance in alt-B attempts to describe a multipronged monetary policy reaction function, 
 including ad hoc responses to the emergence of unnamed and opaque risks.  First, alt-B says we 
-will maintain the current 0 to ¼ percent target range until we’ve reached our employment 
+will maintain the current 0 to 0.25 percent target range until we’ve reached our employment 
 mandate, inflation has perhaps only touched 2 percent, and we have inflation forecasts that 
 moderately exceed 2 percent for some time.  Down the road, Committee participants will likely 
 have quite different assessments of whether these conditions have been met.  And my personal 
@@ -4549,7 +4549,7 @@ strategy is trying so hard to achieve:  the mitigation of ELB risks.  We would i
 reinforced the substantial probability of inflation expectations settling below 2 and another bout 
 of near-zero policy rates before too long. 
 Waiting for liftoff also seems like appropriate risk management.  If inflation moves up to 
-2½ percent for a while, that just has us averaging 2 percent in a shorter amount of time.  If we 
+2.5 percent for a while, that just has us averaging 2 percent in a shorter amount of time.  If we 
 have to raise rates somewhat more quickly in this higher-inflation environment, it will be 
 occurring at a time when the economy will be stronger and able to absorb a steeper path of rates. 
 There’s another reason I prefer alt-A to alt-B.  Alt-A refers to eliminating shortfalls of 
@@ -4576,10 +4576,10 @@ the sentence on the accommodative stance of monetary policy, although I think it
 relevance isn’t worth the communications complications that it presents.  As I intended to 
 indicate earlier, I don’t disagree that a 1 percent federal funds rate can be accommodative.  I just 
 think it’s hard to convince the public of that when inflation is only 2 percent and overshooting is 
-just a forecast of the future, as opposed to when inflation is actually 2¼ percent or higher. 
+just a forecast of the future, as opposed to when inflation is actually 2.25 percent or higher. 
 Also, I’m not a fan of the alt-B risk language, though if I were a voting member, I would 
 probably agree to its inclusion.  Of course, the biggest unstated risk is financial instability.  But if 
-you’re worried that our 0 to ¼ percent target range is creating such risks, I really doubt that a 
+you’re worried that our 0 to 0.25 percent target range is creating such risks, I really doubt that a 
 1 percent funds rate will mitigate them, or even 2 percent.  And, of course, inappropriately 
 tighter monetary policy would slow the economy, which could create financial instability risks 
 on its own. 
@@ -4625,7 +4625,7 @@ September 15–16, 2020
  
  
 Moreover, in a scenario of fast-escalating inflation, it risks leaving us “behind the curve.”  
-Imagine trying to move quickly from the ELB to, say, a 3½ percent federal funds rate in order to 
+Imagine trying to move quickly from the ELB to, say, a 3.5 percent federal funds rate in order to 
 constrain inflation and the collateral damage that such a rapid increase could cause.  For those 
 reasons, the earlier liftoff in the Asymmetric Discounted Average Inflation-Targeting (ADAIT) 
 2019 policy rule—and I’d like to see even a 2020 version of that—resonated with me. 
@@ -4690,11 +4690,11 @@ accommodative than in the past in order to create a tighter and more inclusive l
 achieve our 2 percent average inflation target, I believe there are costs to keeping rates at near 
 zero. 
 One comment I would make—and we alluded to this yesterday in our conversations—is 
-that in my SEP submission for 2023, I have the unemployment rate getting down to 3½ percent 
+that in my SEP submission for 2023, I have the unemployment rate getting down to 3.5 percent 
 and the inflation rate still below target at 1.9 percent.  Coincidentally, this is similar to the state 
 of economic conditions we faced in January 2020, at the beginning of this year, which is why I 
-asked about it yesterday.  At that time, the federal funds rate was 1½ to 1¾ percent.  For me, in 
-light of our new framework, I no longer believe that 1½ percent or 1¾ percent would be an 
+asked about it yesterday.  At that time, the federal funds rate was 1.5 to 1.75 percent.  For me, in 
+light of our new framework, I no longer believe that 1.5 percent or 1.75 percent would be an 
 appropriate federal funds rate.  I think it’s too high.  It should be much lower than that.  But, on 
 the other hand, do I think it should be at the lower bound?  I certainly am not willing to make a 
 commitment today, if we get to those same economic conditions, that I would want to have a 
@@ -4774,7 +4774,7 @@ previous meetings, the large disinflationary impulse coming from the COVID shock
 been concentrated in a few hard-hit industries up to this point.  In other sectors in which demand 
 has surged and supply has sometimes been constrained, inflation has strengthened, sometimes 
 noticeably.  While inflation remains well in hand, I would be uncomfortable if inflation were to 
-move firmly above 2½ percent and long-run inflation expectations climbed similarly.   
+move firmly above 2.5 percent and long-run inflation expectations climbed similarly.   
 Of course, I’m open to the possibility that things might just work out with the guidance in 
 alternative B, and we can avoid either being perpetually mired at the ELB—fostering imbalances 
 in the financial system—or having inflation move uncomfortably high and unhinge inflation 
@@ -4803,7 +4803,7 @@ than the adoption of the 2 percent objective in the 2012 consensus statement.  T
 that augmenting the SEP with projections of longer-run inflation was instrumental in anchoring 
 inflation expectations, though perhaps a bit lower than some would have preferred.  From 2009 
 to 2011, the initial projections for longer-run inflation did not convey a symmetric 2 percent 
-target.  Instead, the projections ranged from 1½ to 2 percent and may well have helped anchor 
+target.  Instead, the projections ranged from 1.5 to 2 percent and may well have helped anchor 
 expectations somewhere below 2 percent. 
 A key “takeaway” coming from this research is the importance of aligning various 
 communications with our objectives.  Along these lines, as I filled in my SEP projections this 

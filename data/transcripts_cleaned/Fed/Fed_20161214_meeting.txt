@@ -1760,7 +1760,7 @@ MS. AARONSON.2  Thank you, Madam Chair.  I will be referring to the
 Your first exhibit summarizes the data received since the October projection, 
 which corroborate that economic activity picked up in the second half of the year, as 
 we’ve been anticipating for some time.  As shown in panel 1, we expect real GDP to 
-rise at about a 2½ percent pace, on average, in the second half of the year, up from a 
+rise at about a 2.5 percent pace, on average, in the second half of the year, up from a 
 1 percent pace in the first half.  In addition, the BEA’s first estimate of GDI in the 
 third quarter, line 7, which we also find to be a useful signal of the strength of the 
 economy, posted a large increase.  The incoming data for the third quarter have been 
@@ -1892,9 +1892,9 @@ While GDP growth has been a bit weaker and resource utilization is little revise
 the interest rate environment has been much more accommodative than we expected. 
 Panel 4 plots the Treasury yield curve for 2016:Q4 as we projected at the time of the 
 December 2015 Tealbook, the red line, and at present, the black line.  Last December 
-we projected the yield on three-month Treasury securities would stand at 1½ percent 
+we projected the yield on three-month Treasury securities would stand at 1.5 percent 
 by now, about 1 percentage point higher than its current value.  Meanwhile, the 10­
-year Treasury yield—despite its recent jump—is about 1¼ percentage points lower. 
+year Treasury yield—despite its recent jump—is about 1.25 percentage points lower. 
 
 
  
@@ -1997,7 +1997,7 @@ December 13–14, 2016
 As we have informed you previously, we took some signal from these 
 developments over the past year and marked down our assumption regarding r* in the 
 longer run.  Taking into account the upward revision we made this round, our 
-estimate of longer-run r* is ¼ percentage point lower than in the December 2015 
+estimate of longer-run r* is 0.25 percentage point lower than in the December 2015 
 Tealbook. 
 The most important change to our projection this round was that we assumed that 
 an expansionary fiscal policy package would be enacted next year.  Obviously, a 
@@ -2303,7 +2303,7 @@ me in talking a little more about its implications for the foreign economies.
 First, an overview of the forecast.  As seen in panel 1, third-quarter foreign real 
 GDP growth recovered more strongly from its second-quarter doldrums than we had 
 expected in October. After moderating in the fourth quarter, foreign growth settles 
-around 2½ percent, subdued by historical standards, throughout the remainder of the 
+around 2.5 percent, subdued by historical standards, throughout the remainder of the 
 forecast period.  As has been the case for some time, this outlook is helped by highly 
 accommodative monetary policy in advanced foreign economies and a recovery— 
 albeit a tepid one—in South America. 
@@ -3383,7 +3383,7 @@ assessment. It’s really more of a medium- or longer-term assessment of where w
 of—if I can say this—the steady-state balance of risks, because of the lower bound with a low r* 
 and with the global conditions that you anticipate.  The reason I point this out is that it’s not just 
 a statement in a way about, well, right now we’re still at a low interest rate, right now core 
-inflation is 1¾ percent, because even with a 4.2 percent unemployment rate and core inflation 
+inflation is 1.75 percent, because even with a 4.2 percent unemployment rate and core inflation 
 roughly at our target, in the Tealbook you still see this as a scenario in which the underlying risks 
 are still to the downside.  So I think that maybe just trying to make that point is helpful. 
 MR. WILCOX.  Well, I thought I was with you, but you indicated the opposite 
@@ -3456,7 +3456,7 @@ MR. WILCOX. Implicit in our projection, I think, is that there are some headwind
 that some normalization of real macroeconomic conditions will occur over the next few years, 
 and that will give the Committee some greater scope to raise the funds rate.  In particular, the 
 Laubach and Williams estimates are that the equilibrium real rate is, I think, in the neighborhood 
-of about ¼ percent at the moment. In the longer run, we now, having incorporated a more 
+of about 0.25 percent at the moment. In the longer run, we now, having incorporated a more 
 expansionary fiscal policy, have it at 1 percent.  And so, as that process of increase in the 
 equilibrium short rate unfolds, that will give a little bit greater scope for an easing of the stance 
 of monetary policy in the future, several years down the road, than would be available today. 
@@ -4772,10 +4772,10 @@ rate, there is merit in probing how low the natural rate might be.  At the same 
 important to weigh the potential costs of an unemployment rate that falls well below all of our 
 estimates of what is sustainable in the long run.  The countervailing costs and benefits are the 
 reason it can be useful to probe the lower natural rate of unemployment, but remaining more than 
-½ percentage point below our best guess of the natural rate for a prolonged period of time would 
+0.5 percentage point below our best guess of the natural rate for a prolonged period of time would 
 be more like a plunge than a careful probe. 
 My forecast envisions a very gradual decline in the unemployment rate, reaching 
-4½ percent by the end of 2017.  However, with the unemployment rate for November already at 
+4.5 percent by the end of 2017.  However, with the unemployment rate for November already at 
 4.6 percent, there is considerable risk that we will overshoot full employment by even more than 
 I forecast by the end of next year.  If it becomes clearer during the course of the year that this is 
 occurring, I would expect monetary policy to need to tighten more quickly. 
@@ -5024,7 +5024,7 @@ natural rate of unemployment, or r*.  In contrast to the Tealbook, I view it as 
 speculate about the potential effects of changes in federal policies on the longer-run level of r* at 
 this time.  On this issue, I think it’s not enough just to talk about the change in the deficit—the 
 details matter.  Until we have greater clarity on what policies actually get enacted into law, I’ll 
-maintain my current r* assumption of ¾ percent. I would add that the level of r* is affected by 
+maintain my current r* assumption of 0.75 percent. I would add that the level of r* is affected by 
 more than just U.S. policies and U.S. economic developments, and that global forces will 
 continue to put downward pressure on r*. For example, weighted-average estimates of r* for the 
 United States, the United Kingdom, Canada, and the euro area stand at slightly above zero today. 
@@ -5874,7 +5874,7 @@ level. But, even with these recent improvements, these gauges of inflation expec
 noticeably below historical norms, suggesting that we must continue to be attentive to downside 
 risks if we’re to achieve our target, which is symmetric around 2 percent. 
 The news on aggregate activity has likewise been encouraging.  Recent indicators suggest 
-GDP will increase at an annual rate of 2½ percent over the second half, a step-up from the 
+GDP will increase at an annual rate of 2.5 percent over the second half, a step-up from the 
 1.1 percent pace in the first half. Retail sales rebounded in October, auto sales remained strong 
 in November, and real income gains look to be solid this year despite a leveling-off in energy 
 prices—all good signs for consumers.  In addition, recent data on housing starts and permits 
@@ -5944,7 +5944,7 @@ After changing little over the middle part of the year, the dollar has increased
 3 percent since October. The staff expects the dollar to appreciate further, by a little more than 
 1 percent per year over the medium term.  But there’s a risk of a larger appreciation if fiscal 
 deficits expand more materially. And, although foreign GDP growth looks likely to move up to 
-an annualized pace of 2½ percent over the second half—a welcome improvement—the pace of 
+an annualized pace of 2.5 percent over the second half—a welcome improvement—the pace of 
 foreign growth is still considerably lower than earlier in the recovery. 
 There are also important fragilities in the international environment.  A strengthening 
 dollar and rising rates could pose risks to emerging markets that have experienced substantial 
@@ -6118,7 +6118,7 @@ expect deficits to increase into the future.  It’s too early to evaluate the s
 economy, in view of substantial uncertainty about the magnitude, the composition, and the 
 effects on aggregate demand and supply, as well as on term premiums.  Looking at earlier 
 episodes when significant electoral shifts led to greater unity across the legislative and executive 
-branches, we saw very large increases in deficits, on the order of 1½ to 2 percentage points of 
+branches, we saw very large increases in deficits, on the order of 1.5 to 2 percentage points of 
 GDP, that persisted beyond the first term.  Notably, episodes in the early 1980s and 2000s 
 occurred when the economy was further from full employment and there was greater headroom 
 in the national debt. 
@@ -6276,7 +6276,7 @@ verification requirements such as drug tests.
 We heard opinion to the effect that firms may still be holding the line on starting wages 
 to preserve their salary structures but are, in effect, incurring the costs of labor shortages by way 
 of reduced worker quality and increased training costs.  A further point on wage pressures:  
-Anecdotal reports indicated that the overall rate of merit programs remained stable in the 2½ to 3 
+Anecdotal reports indicated that the overall rate of merit programs remained stable in the 2.5 to 3 
 percent range.  However, the Atlanta Fed’s Wage Growth Tracker that measures average wage 
 growth of the same individuals accelerated to a pace just under 4 percent in the latest November 
 reading.  This is close to pre-recession readings. The labor market looks about as tight as it was 
@@ -6943,7 +6943,7 @@ we assume a modest fiscal expansion that increases the primary deficit a little 
 also did not make any changes to our path of potential output. By the way, we’re number eight 
 in the SEP submissions. 
 The direct impulse of our fiscal assumption on consumption and government purchases 
-would boost the level of GDP about ½ percentage point by the end of 2018.  We, like the 
+would boost the level of GDP about 0.5 percentage point by the end of 2018.  We, like the 
 Tealbook, interpret much of the recent increase in term premiums and the dollar as arising from 
 these expected policy changes.  These restraining influences limit the direct policy effect, so the 
 net effect on GDP is only 0.3 percentage point by the end of 2018.  All told, this is a relatively 
@@ -6951,8 +6951,8 @@ modest revision to our outlook, considering the substantial financial market rea
 Putting it all together, we continue to expect that real GDP growth will run moderately 
 above its potential rate over the course of the projection period.  As a result, we expect further 
 tightening in labor markets, with the unemployment rate falling from our projected average of 
-4.8 percent in the fourth quarter of this year to 4.3 percent by the end of 2019.  This is about ¼ 
-percentage point below the 4½ percent natural rate that we expect to prevail in 2020.  Our 
+4.8 percent in the fourth quarter of this year to 4.3 percent by the end of 2019.  This is about 0.25 
+percentage point below the 4.5 percent natural rate that we expect to prevail in 2020.  Our 
 expectation of increased fiscal stimulus makes me, like many around the room, a bit more 
 optimistic on inflation than in our previous SEP submission.  Financial market developments 
 have included a welcome increase in TIPS inflation compensation—I believe Governor Powell 
@@ -8483,8 +8483,8 @@ coming down the pike by way of policy initiatives, but it seems prudent to build
 fiscal stimulus into the baseline forecast at this point, and for simplicity we followed the 
 Tealbook’s approach of assuming a medium-sized personal tax cut in Q3.  Without that 
 assumption, our forecast would have been little changed from our September SEP submission 
-that showed real GDP growth slowing to its trend rate of about 1¾ percent.  With that 
-assumption, GDP growth is ¼ percentage point higher next year but basically the same 
+that showed real GDP growth slowing to its trend rate of about 1.75 percent.  With that 
+assumption, GDP growth is 0.25 percentage point higher next year but basically the same 
 thereafter. 
 I agree with the notion that any productivity enhancements arising from the new policy 
 environment are speculative at this point and likely to show up only over an extended horizon, so 
@@ -9241,7 +9241,7 @@ Payroll gains have remained solid at about 180,000 per month since late summer a
 as a whole.  The unemployment rate dropped markedly in November.  Like the staff, I expect 
 this decline to be partially reversed in the next month or two, leaving the unemployment rate 
 very close to my estimate of its sustainable longer-run level. The broader U-6 measure of labor 
-utilization, although still somewhat elevated, has fallen more than ½ percentage point since the 
+utilization, although still somewhat elevated, has fallen more than 0.5 percentage point since the 
 start of the year.  And the employment-to-population ratio has held steady, despite the downward 
 pressure from demographic trends. On the basis of these and other indicators, I judge that 
 overall utilization in the labor market is more or less back to normal. 
@@ -9316,8 +9316,8 @@ to policy, we should be able to prevent the unemployment rate from undershooting
 level to an excessive degree. 
 We’ve also made good progress on the inflation front, and the data have come in 
 somewhat stronger than I expected a year ago.  On a 12-month basis, headline PCE inflation is 
-now running at close to 1½ percent, compared with only ½ percent last year.  Moreover, core 
-PCE inflation is now running at 1¾ percent.  Survey-based measures of expected inflation 
+now running at close to 1.5 percent, compared with only 0.5 percent last year.  Moreover, core 
+PCE inflation is now running at 1.75 percent.  Survey-based measures of expected inflation 
 remain stable, and market-based measures of inflation compensation, although still low, have 
 risen more than 30 basis points since our previous meeting. These developments have reinforced 
 my confidence that inflation will be back to 2 percent within a couple of years, aided in part by 
@@ -9860,9 +9860,9 @@ baseline.  The distance between the two lines shows the additional tightening th
 would have the effect of keeping the unemployment rate and inflation on roughly the 
 same paths that we showed in the October baseline forecast. The federal funds rate in 
 the optimal control simulation using the current staff projection as the baseline is 
-2½ percent at the end of 2017—36 basis points above the rate in the optimal control 
+2.5 percent at the end of 2017—36 basis points above the rate in the optimal control 
 simulation based on the “No Fiscal Stimulus” scenario.  By 2020, when the funds rate 
-peaks at 5¼ percent, it is about 1 percentage point above the “No Fiscal Stimulus” 
+peaks at 5.25 percent, it is about 1 percentage point above the “No Fiscal Stimulus” 
 scenario. 
 The bottom-right panel summarizes a number of important caveats associated 
 with this analysis.  First, the prescriptions from optimal control are quite sensitive to 
@@ -10279,7 +10279,7 @@ estimating real PCE increased 0.2 percent in November, which was one-tenth less 
 expected, and there was a downward revision of one-tenth to this category of sales in October. 
 All told, though, this is a small forecast error.  And, relative to our expectation, we would take 
 about one-tenth off our estimate of real GDP growth in the fourth quarter, leaving our estimate of 
-fourth-quarter GDP growth at about 1½ percent. 
+fourth-quarter GDP growth at about 1.5 percent. 
 CHAIR YELLEN. Are there any questions for David? [No response] Okay.  Then why 
 don’t we begin our go-round on policy, starting with President Rosengren? 
 MR. ROSENGREN.  Thank you, Madam Chair.  I support alternative B.  The market 
@@ -10856,7 +10856,7 @@ December 13–14, 2016
 119 of 184
 normalization is well under way.  To better manage expectations, the Committee might clarify 
 what “well under way” means.  In my view, we will be well under way when the target range of 
-the funds rate reaches between 1 and 1¼ percent. The views of other participants could be 
+the funds rate reaches between 1 and 1.25 percent. The views of other participants could be 
 captured by including a question in the next SEP about the appropriate level of the federal funds 
 rate to cease reinvestments.  This would be similar to the previous special question about the date 
 at which participants judged that an increase in the funds rate would first become appropriate. 
@@ -12863,9 +12863,9 @@ CHAIR YELLEN.  Without objection.  Okay.  The final vote will also be a vote of 
 Board of Governors only and will cover three discount rate actions, so bear with me. First, it 
 will be to approve the requests of the Federal Reserve Banks of Boston, New York, Philadelphia, 
 Cleveland, Richmond, Atlanta, Chicago, St. Louis, Kansas City, Dallas, and San Francisco to 
-increase the primary credit rate to 1¼ percent from 1 percent, effective December 15, 2016. 
+increase the primary credit rate to 1.25 percent from 1 percent, effective December 15, 2016. 
 Second, it will also encompass approval by the Board of Governors of the establishment 
-of a 1¼ percent primary credit rate by the remaining Federal Reserve Bank, effective on the later 
+of a 1.25 percent primary credit rate by the remaining Federal Reserve Bank, effective on the later 
 of December 15, 2016, and the date such Reserve Bank informs the secretary of the Board of 
 such a request.  The secretary of the Board would be authorized to inform such Reserve Bank of 
 the approval of the Board of Governors on such notification by the Reserve Bank. 

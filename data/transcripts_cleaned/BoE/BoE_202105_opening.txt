@@ -19,7 +19,7 @@ world.
 New Covid cases in the UK have continued to fall, the vaccination programme is proceeding apace, 
 and restrictions on economic activity are easing.  Recently, however, new Covid cases have increased 
 significantly in India and some other countries. 
-UK GDP is thought to have fallen by around 1½% in 2021 Q1, to around 9% below its 2019 Q4 pre-
+UK GDP is thought to have fallen by around 1.5% in 2021 Q1, to around 9% below its 2019 Q4 pre-
 pandemic level. That fall is much less sharp than was expected three months ago.  As in some other 
 countries, the impact of restrictions on activity appears to have been smaller than anticipated, as 
 households and companies have adapted to this environment. 
@@ -60,7 +60,7 @@ The furlough scheme is currently scheduled to finish at the end of September 202
 March Budget, it was set to finish at the end of April. Over that period GDP is projected to rise 
 substantially. As a result, the scheme is now expected to come to an end when activity is much 
 closer to its pre-pandemic level.  For example, in 2021 Q1, GDP is expected to have been around 
-8¾% below its 2019 Q4 level; in 2021 Q3, GDP is projected to be around 1¼% lower, on average.  
+8.75% below its 2019 Q4 level; in 2021 Q3, GDP is projected to be around 1.25% lower, on average.  
 Given the expected near-term recovery in activity, most of those employees on furlough are 
 expected to return to work when the scheme ends, so unemployment is now projected to increase 
 only slightly. 

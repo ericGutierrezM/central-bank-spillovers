@@ -263,7 +263,7 @@ reopening a bit, we heroically assume that Chinese growth will pop up in Q2.  As
 activity in China recovers, that improvement slowly ripples through the foreign 
 economies, and as the virus is eventually contained elsewhere abroad, we expect 
 some bounceback in the second half, although we have lowered our projection for the 
-year by about ½ percentage point, to 1¾ percent. 
+year by about 0.5 percentage point, to 1.75 percent. 
 It’s quite possible, however, that the virus is more widespread, with broader 
 containment measures put in place, supply chain disruptions more acute, and 
 confidence and financial channels—those that Lorie just discussed—more severe.  
@@ -311,7 +311,7 @@ negative sentiment, much more severe lockdowns—including the closing of public
 schools and a prohibition on large public gatherings—and the loss of workforce.  
 Financial market conditions would, of course, worsen.  In a scenario like this one, 
 which we’ll probably end up showing as an alternative simulation, we might expect 
-global real GDP to fall to a level 1½ percent below baseline by the end of next year.  
+global real GDP to fall to a level 1.5 percent below baseline by the end of next year.  
 U.S. real GDP growth would be 1 percentage point weaker than we are currently 
 forecasting, and the unemployment rate could move up to 4.3 by the end of this year. 
 We can easily imagine a still weaker scenario in which the virus has mortality and 

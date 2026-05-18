@@ -55,7 +55,7 @@ inflation over the next three years, conditional on a path for market interest r
 implied by market yields.  The red line is a projection for inflation excluding the 
 energy price contributions (shown as purple bars).  As the negative contributions 
 from energy prices fade away over the second half of the year, headline inflation (in 
-blue) is set to go up again somewhat, to around 2¾% by the end of 2024.   
+blue) is set to go up again somewhat, to around 2.75% by the end of 2024.   
 Inflation then remains around this level throughout 2025 before gradually returning to 
 target in 2026.  This means that inflation is above target for longer in this projection 
 than in the November report. 

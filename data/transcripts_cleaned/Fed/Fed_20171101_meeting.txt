@@ -307,8 +307,8 @@ interesting observations from this outreach has been the very high risk-adjusted
 returns, as measured by Sharpe ratios, for strategies that buy equities on the dips.  A 
 simple illustration of how this might be affecting stock market dynamics is shown in 
 the bottom-right panel:  The S&P 500 index is currently experiencing an 
-unprecedented ratio of days on which it is up ½ percent or more compared with days 
-on which it is down ½ percent or more.  Some market participants express concern 
+unprecedented ratio of days on which it is up 0.5 percent or more compared with days 
+on which it is down 0.5 percent or more.  Some market participants express concern 
 that this pattern will lead to complacency and a greater risk of a large future decline in 
 equity valuations in the event that investors and strategies are surprised by a sequence 
 of down days in the market and react by liquidating positions.  On the other hand, we 
@@ -427,7 +427,7 @@ to alter our assessment of the underlying pace of aggregate demand, and we still
 growth at a solid rate of about 3 percent in the second half of this year.  Indeed, 
 BEA’s advance estimate of third-quarter real GDP growth, which was reported last 
 Friday and is shown as the blue dot in panel 1, came in at 3 percent, in line with our 
-Tealbook projection.  Growth is then projected to step down to 2½ percent next year 
+Tealbook projection.  Growth is then projected to step down to 2.5 percent next year 
 and to decelerate further over the forecast period as monetary policy gradually 
  
 2 The materials used by Mr. Lebow are appended to this transcript (appendix 2). 
@@ -472,7 +472,7 @@ observable characteristics, such as age or years of schooling, whereas a relativ
 large fraction of the gap between Hispanics and whites appears to be associated with 
 differences in completed years of schooling across the two groups. 
 Panel 5 shows four of the various compensation measures that we follow.  This 
-morning we received the September ECI—the black line—which rose 2½ percent 
+morning we received the September ECI—the black line—which rose 2.5 percent 
 over the past 12 months.  We view the current pace of ECI gains as roughly in line 
 with what we would expect in conditions of an increasingly tight labor market, 
 relatively subdued productivity gains, and low trend inflation.  By contrast, we see the 
@@ -584,9 +584,9 @@ The left chart on your next slide shows that, consistent with these developments
 exports have come in well above what we had anticipated a year ago, and that 
 strength is expected to continue.  Robust exports and surprisingly weak imports, not 
 shown, have contributed to a sizable boost in the contribution of net exports to U.S. 
-growth, shown on the right.  Instead of subtracting almost ½ percentage point from 
-GDP in 2017, as we thought last year, trade is likely to add ¼ percentage point and be 
-only a slight drag thereafter.  Basically, it’s like getting a ¾ percentage point of a 
+growth, shown on the right.  Instead of subtracting almost 0.5 percentage point from 
+GDP in 2017, as we thought last year, trade is likely to add 0.25 percentage point and be 
+only a slight drag thereafter.  Basically, it’s like getting a 0.75 percentage point of a 
 GDP-sized Hershey bar dropped in your goody bag. 
 Regarding slide 3, we are also getting a treat from more buoyant global conditions 
 spilling over into U.S. financial markets.  Improved global activity has supported 
@@ -617,7 +617,7 @@ Regarding your next slide, there are good reasons to believe that such foreign
 policies are lowering our yields.  As seen in the scatterplot on the left, looking at the 
 one-day window around ECB announcements, the IF staff find a positive relationship 
 between changes in German 10-year yields and U.S. 10-year yields.  Comparable 
-exercises for other AFEs suggest an average pass-through of about ½, with some 
+exercises for other AFEs suggest an average pass-through of about 0.5, with some 
 cross-country variation.  Updating work we’ve shown you earlier, we can use these 
 spillover results, along with estimates of the effect of foreign QE on own-country 
 October 31–November 1, 2017
@@ -676,7 +676,7 @@ October 31–November 1, 2017
  
 to sizable flight-to-safety flows into dollar assets.  In our simulation, which is a 
 milder version but more likely probably than the euro-area crisis earlier this decade, 
-AFE real GDP growth runs ½ percentage point below the baseline, increased 
+AFE real GDP growth runs 0.5 percentage point below the baseline, increased 
 uncertainty about the foreign outlook boosts the dollar—basically undoing the 
 depreciation we’ve seen this year—and U.S. growth and inflation take a moderate hit. 
 I’d like to end with another way we’ve chosen to evaluate potential tricks from 
@@ -1285,7 +1285,7 @@ growth environment.
 Despite all that, however, I think the jury is still out concerning the validity of this story.  
 I have several reasons for caution, and I do think, for purposes of monetary policy planning, we 
 should always be very cautious about interpreting the recent data.  First, year-over-year real GDP 
-growth is about 2¼ percent right now, which I assert is not statistically different from the post-
+growth is about 2.25 percent right now, which I assert is not statistically different from the post-
 crisis trend rate.  Some of the Q3 growth came from business inventory investment, which you 
 October 31–November 1, 2017
 36 of 171
@@ -1385,11 +1385,11 @@ rate in an environment in which we can claim little or no progress on moving inf
 our 2 percent target.  This may, in my view, depress inflation expectations further and possibly 
 put downward pressure on actual inflation. 
 If we consider inflation compensation in the TIPS markets, the five-year breakeven is 
-running at about 1¾ percent.  These TIPS measures are based on CPI inflation.  If we subtract 
+running at about 1.75 percent.  These TIPS measures are based on CPI inflation.  If we subtract 
 30 basis points to convert to PCE inflation, that leaves us with a reading of 1.45 percent—that is, 
 private-sector market participants who are betting their own money expect less than 1.5 percent 
 PCE inflation over the next five years.  One could make other adjustments to these numbers.  
-This 1½ percent for me is too low for comfort over that long of a time horizon.  The FOMC 
+This 1.5 percent for me is too low for comfort over that long of a time horizon.  The FOMC 
 should be able to control inflation over a five-year time frame. 
 A good question in my view for the Committee, and one I’ll return to tomorrow, is, why 
 are we overcommitted to December?  In my opinion, there’s a clear answer to this question:  It’s 
@@ -1709,7 +1709,7 @@ October 31–November 1, 2017
  
 Regarding the national economy, the data on economic activity since our previous 
 meeting have equaled or beat expectations.  Indeed, I see upside risk to my forecast of GDP 
-growth of 2½ percent for the year as a whole in light of soaring consumer confidence, solid gains 
+growth of 2.5 percent for the year as a whole in light of soaring consumer confidence, solid gains 
 in consumer and business spending, ongoing strength in the labor market, and the likelihood of a 
 Dodgers defeat tonight.  This pace of growth is substantially above the economy’s potential.  The 
 overall positive outlook for the economy is also reflected in the optimism of my contacts.  They 
@@ -1801,7 +1801,7 @@ activity, respondents reported a notable increase in planned capital spending, b
 seen in mid-2015. 
 District labor market conditions remain strong.  Year-over-year growth in payrolls has 
 averaged 1 percent over the past three months, which is above trend for the District.  And the 
-unemployment rate has averaged about 5¼ percent.  Contacts continue to report they’re having 
+unemployment rate has averaged about 5.25 percent.  Contacts continue to report they’re having 
 difficulty in attracting and retaining workers, and that wages are moving up across a variety of 
 occupations and skill levels.  For example, one firm has instituted what they call “longevity 
 bonuses” in an attempt to keep warehouse employees with the company, and the staff in 
@@ -1921,7 +1921,7 @@ continues to benefit from migration of people and firms to the state.  We found,
 if a severe storm hits and the basic trend is upward, the storm normally does not disrupt that 
 trend.  If the basic trend before the storm is flat to downward, though, it may accelerate that 
 downward trend, as we’re seeing elsewhere.  For Texas, the trend was upward.  The population 
-of the state was roughly 22½ million people 10 years ago.  It is now pushing up in excess of 28 
+of the state was roughly 22.5 million people 10 years ago.  It is now pushing up in excess of 28 
 million people.  These migration trends continue to provide a strong tailwind, which helped the 
 state not only weather the energy downturn, but should help Houston and the Gulf region 
 manage through the aftermath of Hurricane Harvey. 
@@ -1965,7 +1965,7 @@ the remainder of 2017 and into 2018, prices will likely range in the band betwee
 and the mid-50s, with prices at the high end of the range encouraging increased drilling activity 
 and prices at the low end of the range discouraging drilling activity, as we’ve seen recently. 
 Regarding the United States, our bank’s economists are now forecasting approximately 
-2½ percent GDP growth for 2017.  This forecast reflects a strong U.S. consumer plus some 
+2.5 percent GDP growth for 2017.  This forecast reflects a strong U.S. consumer plus some 
 improvement in nonresidential fixed investment.  We continue to believe that this level of 
 growth will be sufficient to remove slack from the labor market. 
 In this forecast, we also expect cyclical inflation pressures to continue to build.  
@@ -2029,9 +2029,9 @@ gains continue at the pace seen earlier in the year.  By the November report tha
 before our December meeting, we should have a clean read. 
 The September household survey, which was likely not affected by the hurricanes, 
 showed the unemployment rate moving down to 4.2 percent, slightly below the narrow range it 
-had occupied from April to August and about ¾ percentage point below its year-earlier level. 
+had occupied from April to August and about 0.75 percentage point below its year-earlier level. 
 Looking toward next year, the Tealbook baseline incorporates a tax cut worth about 
-½ percent of GDP through the medium term.  That’s broadly consistent with the magnitude that 
+0.5 percent of GDP through the medium term.  That’s broadly consistent with the magnitude that 
 we saw in the recently passed congressional budget resolutions.  That seems like a reasonable 
 placeholder for now, although it will be important to have information on the composition and 
 timing, and we should learn more by the next meeting. 
@@ -2052,7 +2052,7 @@ expect further appreciation of the dollar over the medium term.
 Of course, dollar appreciation is likely to exert a further drag on inflation, and, as we saw 
 in the data “print” yesterday, inflation continues to come in surprisingly below what we 
 anticipated earlier in the year.  In the September data released yesterday, core PCE prices were 
-up only 1.3 percent over the past 12 months, down ½ percentage point from the previous year. 
+up only 1.3 percent over the past 12 months, down 0.5 percentage point from the previous year. 
 Even controlling for idiosyncratic factors in a variety of ways, the same puzzling decline 
 is evident.  For instance, looking at the annualized inflation rate subsequent to the sharp one-time 
 decline in March, core PCE prices have increased at only a 1.5 percent annual rate.  And, as 
@@ -2062,7 +2062,7 @@ September, also down from the previous 12-month period.
 Even for wages, there’s little sign of an increase in pass-through from diminishing slack.  
 There’s only modest evidence that the acceleration in wage gains we had seen the previous year 
 is resuming.  This morning we received the September ECI, which posted a 12-month gain of 
-2½ percent, only two-tenths above the preceding 12 months.  Similarly, average hourly earnings 
+2.5 percent, only two-tenths above the preceding 12 months.  Similarly, average hourly earnings 
 over the 12 months through September rose only two-tenths higher than the pace a year earlier. 
 October 31–November 1, 2017
 64 of 171
@@ -2091,7 +2091,7 @@ associated with monetary policy as a bubble-fighting tool.
 While very low unemployment rates clearly entail risks, so too does allowing 
 expectations of low inflation to become entrenched in a low-neutral-rate world.  Looking around 
 the world, notably at Japan and the euro area, it isn’t difficult to imagine a scenario in which the 
-1½ percent average inflation rate that we have seen over the past five years becomes embedded 
+1.5 percent average inflation rate that we have seen over the past five years becomes embedded 
 October 31–November 1, 2017
 65 of 171
 
@@ -2110,8 +2110,8 @@ capital spending we see in the national data, and Ford and GM were encouraged by
 big increase in auto sales.  Unlike the Tealbook, they thought only a small part of the surge was 
 hurricane-related replacement demand.  Instead, they thought much of the strength was makeup 
 after unusual weakness in August.  Ford expects the boost due to replacement demand to come in 
-the fourth quarter, pushing light vehicle sales up to nearly a 17½ million unit pace.  After that, 
-they expect sales to settle out at around a 16¾ million unit trend. 
+the fourth quarter, pushing light vehicle sales up to nearly a 17.5 million unit pace.  After that, 
+they expect sales to settle out at around a 16.75 million unit trend. 
 In other information about hurricane recovery, my director at Discover Financial said 
 Puerto Rico is still reeling, but that they’ve seen credit card usage in Texas and Florida return to 
 normal. 
@@ -2320,7 +2320,7 @@ measures but continued weak readings on core inflation.  My overall outlook for 
 remains a healthy one, but with continuing risks that inflation may remain stubbornly 
 below target. 
 Growth is at 3 percent in the second half of the year and on track to come in at 
-2½ percent for 2017.  PDFP, which is a good gauge of momentum, slowed in the third quarter, 
+2.5 percent for 2017.  PDFP, which is a good gauge of momentum, slowed in the third quarter, 
 perhaps because of the hurricanes, but nonetheless remains above trend at just over 2 percent as a 
 result of continued strong business investment. 
 The global environment of synchronized growth has probably supported investment 
@@ -2355,7 +2355,7 @@ remain open to the possibility that it is lower than we may think.  The Tealbook
 suggests that the natural rate may also move up and down with unemployment, and, intuitively, 
 to me, that makes some sense.  If there can be negative hysteresis effects, then why not positive 
 effects?  But while it is quite possible that the natural rate is materially lower than the 4.8 percent 
-Tealbook estimate, or the 4.6 percent SEP median, or my own estimate of 4½ percent, it seems 
+Tealbook estimate, or the 4.6 percent SEP median, or my own estimate of 4.5 percent, it seems 
 unlikely to me that it is materially below the current unemployment rate of 4.2 percent. 
 Wage developments and other labor market data are consistent with an economy that is 
 near full employment.  The Conference Board survey released this morning shows that the gap 
@@ -2520,7 +2520,7 @@ retires.
 Just on the debt service side, the numbers don’t look good at all.  In the most recent 
 Congressional Budget Office projections in June, they projected that federal debt service costs 
 are going to triple over the next decade, rising to $818 billion per year in 2027.  Then add on 
-$1½ trillion of tax cuts over 10 years on top of that—and that $1½ trillion of tax cuts might be a 
+$1.5 trillion of tax cuts over 10 years on top of that—and that $1.5 trillion of tax cuts might be a 
 conservative number, depending on how dynamic scoring is used to score this fiscal program.  
 This strikes me as a recipe for a very bumpy ride.  Fiscal stimulus at the time that the economy is 
 operating very close to full employment is hardly well timed.  If this is what we get, I expect this 
@@ -2604,8 +2604,8 @@ you noted, the limited data we’ve received since our September meeting are mor
 interpret than normal because of the hurricanes.  The staff’s best guess is that storm-related 
 disruptions reduced payroll gains by about 200,000 in September and will boost them by 150,000 
 in October and 50,000 in November. 
-On growth, the staff estimates that the hurricanes lowered GDP growth ½ percentage 
-point at an annual rate in the third quarter but will likely reduce growth almost ¾ percentage 
+On growth, the staff estimates that the hurricanes lowered GDP growth 0.5 percentage 
+point at an annual rate in the third quarter but will likely reduce growth almost 0.75 percentage 
 point in the fourth.  But, as David Wilcox emphasized, these estimates are unavoidably 
 imprecise.  So until the effects of the storms wash out of the data in a couple of months, it will be 
 harder than usual to assess the underlying pace of growth in employment and output. 
@@ -2762,8 +2762,8 @@ strength of the link between resource utilization and inflation, and the persist
 movements in inflation.  The memo reviews some plausible estimates, derived from 
 the historical record, of the magnitude of uncertainty about these features of the 
 economy.  In particular, a plausible estimate of the 70 percent confidence interval 
-associated with the current Tealbook estimate of u*of 4¾ percent ranges from 
-4 percent to 5½ percent.  In addition, the parameters of the Phillips curve have 
+associated with the current Tealbook estimate of u*of 4.75 percent ranges from 
+4 percent to 5.5 percent.  In addition, the parameters of the Phillips curve have 
 undergone substantial changes over the past two decades, with the slope having 
 flattened and persistence having lessened significantly.  We do not fully understand 
 the reasons why these changes have occurred. 
@@ -2796,7 +2796,7 @@ undershooting of unemployment and inflation.  Furthermore, in our benchmark
 simulations, the short-run Phillips curve is very flat, implying that gains in inflation 
 stabilization are achieved at the cost of, on average, substantially larger 
 undershooting of the unemployment rate.  For example, the probability of the 
-unemployment rate running below 3½ percent at the end of 2019 increases notably as 
+unemployment rate running below 3.5 percent at the end of 2019 increases notably as 
 the policy response to inflation becomes more forceful, but stabilization gains for 
 inflation are comparatively small. 
 The second source of uncertainty is whether a prolonged period of very low 
@@ -3393,13 +3393,13 @@ task as preventing an outbreak of 1970s-style inflation.  Perhaps, then, it’s 
 as a group have not convincingly demonstrated to the public our commitment to a symmetric 
 inflation target.  Actual inflation outcomes have been far from symmetric.  This experience could 
 easily be confused with a purposeful strategy in which 2 percent is a ceiling.  Settling for 
-1¾ percent reinforces this ceiling theory of an inflation target.  Our projections could reinforce 
+1.75 percent reinforces this ceiling theory of an inflation target.  Our projections could reinforce 
 this impression as well.  For multiple rounds, the SPFs have had inflation gliding up to target 
 from below.  It’s simply the nature of forecasts that they are typically smooth and typically don’t 
 display overshooting. 
 Since this can look like a ceiling after years of undershooting, our commitment to a 
 symmetric 2 percent inflation objective should be more evident in our public commentary.  
-These comments should deliver a much greater chance of inflation running at 2½ percent in 
+These comments should deliver a much greater chance of inflation running at 2.5 percent in 
 coming years.  This issue is especially important now because there’s a big strategic risk in 
 failing to get core PCE inflation symmetrically around 2 percent before this economic cycle 
 ends. 
@@ -3444,9 +3444,9 @@ The conundrum we face is complicated by the combination of the flatness in the P
 curve and a low neutral rate of interest.  Substantial evidence suggests that the equilibrium rate 
 of interest is much lower than it was in the decades before the crisis and it will remain low.  In 
 the most recent FOMC Summary of Economic Projections, the median participant expected a 
-longer-run federal funds rate, after subtracting inflation, of ¾ percent.  That’s down sharply from 
-the first projection in January 2012 of 2¼ percent, which was more in line with the average value 
-of 2½ percent in the decades before the financial crisis. 
+longer-run federal funds rate, after subtracting inflation, of 0.75 percent.  That’s down sharply from 
+the first projection in January 2012 of 2.25 percent, which was more in line with the average value 
+of 2.5 percent in the decades before the financial crisis. 
 A low neutral rate limits the amount of space available for cutting the federal funds rate 
 to offset adverse developments and can be expected to increase the frequency or length of 
 periods when the policy rate is stuck at the lower bound, unemployment is elevated, and inflation 
@@ -3465,11 +3465,11 @@ October 31–November 1, 2017
  
 In these circumstances, there’s a risk of a downward spiral.  Lower average inflation 
 means that average nominal interest rates will be lower still, leading to even less room for 
-maneuver if we experience adverse shocks.  While core inflation of, say, 1½ percent, which is 
+maneuver if we experience adverse shocks.  While core inflation of, say, 1.5 percent, which is 
 the average that we have seen over the past five years, is, in and of itself, not a great cause for 
 concern, settling for a low rate of inflation at a time when the neutral rate of interest has fallen 
 substantially could mean overall policy space is only half as big as it was previously—only 
-2¼ percent in coming years, well below the 4½ percent level in the decades before the crisis. 
+2.25 percent in coming years, well below the 4.5 percent level in the decades before the crisis. 
 This is an uncomfortably narrow buffer compared with previous decades, when the 
 FOMC has slashed the policy rate by over 5 percentage points in the face of recessionary shocks 
 on average.  In these circumstances, every five-tenths matter.  If our policy rate path isn’t 
@@ -3610,7 +3610,7 @@ Although Governor Fischer is no longer with us on the Committee, it seems severa
 myself included, are taking up his mantle and playing “Stan for a Day.”  We’ve noted in the past 
 that surveys and discussions with directors and business contacts suggest a large portion of the 
 public believes 2 percent is a ceiling.  If we were to express our inflation target as the center of a 
-range, with perhaps a ½ percentage point tolerance on either side of that midpoint, perhaps that 
+range, with perhaps a 0.5 percentage point tolerance on either side of that midpoint, perhaps that 
 would reinforce the idea that our tolerance for misses really is symmetric. 
 Now, I realize that changing our objective to a target range is probably not in the cards at 
 present, nor is the idea of a more explicit price-level objective, although President Evans, 
@@ -3864,7 +3864,7 @@ That, to me, would not be desirable.  I think the fact that there’s evidence t
 compensation is increasing is also noteworthy.  If that wasn’t happening, then I’d be more 
 inclined to be more patient. 
 Finally, I think it’s important that the starting point matters.  If we raise the federal funds 
-rate target range 25 basis points, we’re still going to be below 1½ percent.  That almost certainly 
+rate target range 25 basis points, we’re still going to be below 1.5 percent.  That almost certainly 
 is still an accommodative monetary policy setting.  If you had asked me a few years ago, at a 
 4.2 percent unemployment rate, where the federal funds rate would be, I would not have picked 
 where we are today. 
@@ -3949,11 +3949,11 @@ Yes
 Thank you. 
 CHAIR YELLEN.  Okay.  Now the Board needs to vote on corresponding interest rates 
 on reserves and discount rates.  I first need a motion from a Board member to leave the interest 
-rates on required and excess reserve balances unchanged at 1¼ percent. 
+rates on required and excess reserve balances unchanged at 1.25 percent. 
 MR. POWELL.  So moved. 
 CHAIR YELLEN.  Thank you.  Without objection.  Finally, I need a motion from a 
 Board member to approve establishment of the primary credit rate at the existing rate of 
-1¾ percent and establishment of the rates for secondary and seasonal credit under the existing 
+1.75 percent and establishment of the rates for secondary and seasonal credit under the existing 
 formulas specified in the staff’s October 27 memo to the Board.  Do I have a motion? 
 October 31–November 1, 2017
 130 of 171

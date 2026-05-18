@@ -261,7 +261,7 @@ reinvestments.
 NICK TIMIRAOS.  So, if I could follow on that, raising rates and reducing the balance 
 sheet both restrain the economy, both tighten monetary policy.  How should we think about the 
 relationship between the two?  For example, how much passive runoff is equal to every 
-¼ percentage point increase in your benchmark rate? 
+0.25 percentage point increase in your benchmark rate? 
 CHAIR POWELL.  So, again, we think of the balance sheet as, as moving in a 
 predictable manner, sort of in the background, and that the active tool meeting to meeting is not 
 both of them, it’s the federal funds rate.  There are—there are rules of thumb—I’m reluctant to 
@@ -583,7 +583,7 @@ unemployment rate consistent with] maximum employment.  If you look at things li
 job openings, as I mentioned earlier, and wages, you’re seeing—and, and just the ratio of job 
 openings to unemployed—you’re seeing a very, very tight labor market. 
 Now, we also know that labor force participation is significantly lower.  It’s 
-1½ percentage points lower than it was in February of 2020.  Maybe a [full] percentage point of 
+1.5 percentage points lower than it was in February of 2020.  Maybe a [full] percentage point of 
 
 
 January 26, 2022 

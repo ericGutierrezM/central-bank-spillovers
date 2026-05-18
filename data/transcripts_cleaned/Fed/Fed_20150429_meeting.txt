@@ -4915,7 +4915,7 @@ translation of retail sales to PCE associated with the steep decline in gasoline
 and the increased share of gasoline sales at large retail establishments such as Wal-
 Mart.  We do not judge any of these factors to be exerting a large influence on their 
 own, but as a group, our back-of-the-envelope calculations put the effect at about 
-¾ percentage point. 
+0.75 percentage point. 
 That said, we have not completely discounted the weaker-than-expected incoming 
 data.  Specifically, we trimmed our estimate of consumption growth in the second 
 quarter a bit as a result of the weaker-than-expected March retail sales report, and we 
@@ -4927,7 +4927,7 @@ prices is having a larger effect on drilling and mining investment than we had
 previously anticipated.  Because we believe that the fundamentals underpinning 
 household spending remain solid, we continue to expect that real GDP will rise at a 
 pace that exceeds our estimate of potential output growth over the remainder of the 
-year.  Even so, the level of real output at the end of this year is almost ½ percent 
+year.  Even so, the level of real output at the end of this year is almost 0.5 percent 
 lower than in our March forecast. 
 As a way of providing another perspective on the near-term outlook, panel 2 
 presents the results from the Board staff’s dynamic factor model.  This model uses the 
@@ -5313,7 +5313,7 @@ booming Chinese stock market, however, this forecast is somewhat speculative, an
 we have revised down our projection a bit in response to the recent weakness. 
 Ironically, nearly the only bright spot in the global economy has been the euro 
 area, for which strengthening industrial production, retail sales, and PMIs point to a 
-rise in first-quarter GDP growth to 1¾ percent (panel 4).  Notably, financial 
+rise in first-quarter GDP growth to 1.75 percent (panel 4).  Notably, financial 
 conditions are becoming more of a positive for the economy, in part reflecting the 
 
 
@@ -5398,7 +5398,7 @@ April 28–29, 2015
 ECB’s asset purchase program.  Bank lending standards are loosening, credit to 
 nonfinancial corporations is finally picking up a bit, interest rates are extremely low, 
 and the real trade-weighted euro is at its weakest level since 2001.  Accordingly, we 
-see euro-area growth firming to 2¼ percent in the next few years, provided that 
+see euro-area growth firming to 2.25 percent in the next few years, provided that 
 spillovers from Greece’s crisis remain contained, as we assume in our baseline. 
 That, however, is a big “if.”  The Greek government is struggling in its efforts to 
 negotiate additional financial assistance from European authorities and the IMF, even 
@@ -5433,7 +5433,7 @@ like to remind you that, starting with the March Tealbook, we decided to deviate
 our standard random-walk-oriented model and projected a further rise in the dollar.  
 That also must have contributed to the dollar’s subsequent decline.  [Laughter] In the 
 event, from its lower starting point, we assume the broad real dollar will still move up 
-some 2¼ percent between now and the end of the year as the U.S. economy bounces 
+some 2.25 percent between now and the end of the year as the U.S. economy bounces 
 back and markets refocus on the policy divergences among major central banks. 
 Your next exhibit puts movements in the dollar and their implications for 
 economic growth into broader perspective.  As shown by the black solid line in 
@@ -5524,7 +5524,7 @@ panel 1, even at its projected peak early next year, the broad real dollar would
 April 28–29, 2015
 61 of 229
 below its previous two peaks.  The black solid line in panel 2 shows the contribution 
-of net exports to real U.S. GDP growth.  We project it at negative ¾ percentage point 
+of net exports to real U.S. GDP growth.  We project it at negative 0.75 percentage point 
 this year and next.  This is the largest drag on growth since the early 2000s, and it 
 almost entirely reflects the appreciation of the dollar.  It may seem strange that the 
 dollar should depress the net export contribution to such an extent when it remains so 
@@ -6029,9 +6029,9 @@ back up toward 1.8 percent in the medium term and toward 2 percent in the longer
 addition, these other factors are important in getting there over the medium term. 
 MR. EVANS.  All right. That’s helpful.  That is different from the way I was 
 remembering it.  I thought that underlying inflation was pegged to your assessment of longer-
-term inflation expectations, and that they were still about 1¾ percent, but you’ve got a— 
+term inflation expectations, and that they were still about 1.75 percent, but you’ve got a— 
 MR. WASCHER.  That’s right. I think that’s right.  But maybe I’m not quite getting 
-your question.  Over the longer run, we have those inflation expectations drifting up from 1¾ 
+your question.  Over the longer run, we have those inflation expectations drifting up from 1.75 
 percent to 2 percent. 
 MR. EVANS.    Right.  Thank you. 
 CHAIR YELLEN.  President Mester. 
@@ -6571,7 +6571,7 @@ anticipation of further price reductions.  My business contacts believe that oil
 bottomed out, and that the effects of lower oil prices are likely to be temporary for most exposed 
 sectors.  Of course, that remains to be seen. 
 Conditions in District labor markets continue to follow national trends.  The District’s 
-unemployment rate, at 5.2 percent, is below the national rate of 5½ percent and below the 
+unemployment rate, at 5.2 percent, is below the national rate of 5.5 percent and below the 
 5.7 percent District average over the 2001–07 expansion.  Contacts in all sectors except energy 
 
 
@@ -6713,7 +6713,7 @@ The news on inflation was also a bit better over the intermeeting period. Core i
 modestly firming.  Both headline CPI and core CPI increased 0.2 percent in March for the 
 second month in a row, and core CPI inflation edged up to 1.8 percent on a year-over-year basis. 
 The Cleveland Fed’s median CPI measure, which helps predict headline inflation over the 
-medium term, has remained near 2¼ percent since April of last year.  The Federal Reserve Bank 
+medium term, has remained near 2.25 percent since April of last year.  The Federal Reserve Bank 
 ofCleveland’s measure of the 10-year expected inflation rate was essentially unchanged in April. 
 So this is the positive view of things.  Of course, there is also the possibility that the 
 slower growth will be more persistent and inflation developments will worsen.  I don’t believe 
@@ -6783,7 +6783,7 @@ Projections reflected some significant changes in longer-run variables.  The cen
 the longer-run unemployment rate has slipped from a range of 5.2 to 6 percent in June 2012 
 down to 5 to 5.2 percent in March.  Similarly, participant estimates of the long-run equilibrium 
 federal funds rate have declined.  The central tendency in June 2012 ranged from 4 to 
-4½ percent, but now it is down to only 3½ to 3¾ percent.  Our assessment of these key variables 
+4.5 percent, but now it is down to only 3.5 to 3.75 percent.  Our assessment of these key variables 
 has changed significantly, which, in retrospect, is not surprising, considering changes in 
 demographics and productivity since the financial crisis. 
 While I and many other participants have lowered our estimates of one of our dual 
@@ -7083,8 +7083,8 @@ April 28–29, 2015
 80 of 229
 down quite a bit.  Our own internal estimates of what that implies for how frequently we will hit 
 the zero lower bound are that it is substantially higher given that most of the time the equilibrium 
-federal funds rate that many of those models were estimated on was 4½ percent.  We are now at 
-3½ percent—I actually think you could make an argument that it is lower than 3½ percent.  So if 
+federal funds rate that many of those models were estimated on was 4.5 percent.  We are now at 
+3.5 percent—I actually think you could make an argument that it is lower than 3.5 percent.  So if 
 you have an equilibrium federal funds rate that is lower, the implication is that you hit the zero 
 lower bound more frequently unless you think you can dramatically alter either the frequency or 
 severity of having the kind of shocks that we experienced. 
@@ -7330,7 +7330,7 @@ rest of the year.
 We’ve made a small adjustment to our full-year GDP growth forecast to reflect a weaker 
 first quarter, but otherwise we have kept our forecast for growth and inflation unchanged from 
 the March meeting.  We made no material change to our outlook.  We have growth resuming a 
-run rate between 2½ and 3 percent, with second-quarter growth above 3 percent. A 
+run rate between 2.5 and 3 percent, with second-quarter growth above 3 percent. A 
 strengthening of consumer activity from the first quarter is a key factor in our outlook.   
 We currently judge the risk to our growth and inflation outlooks as tilted to the downside.  
 With the greater uncertainty I perceive at this juncture, the Tealbook alternative scenario titled 
@@ -7864,7 +7864,7 @@ right?
 MR. WASCHER.  Yes, we view the anchoring of inflation expectations as best 
 approximated by long-term survey measures of inflation expectations. 
 MR. EVANS.  Yes, that’s why I was asking the question about whether I understood you 
-right, you’ve currently got it anchored at 1¾ percent and are hoping to goes up to 2 percent. 
+right, you’ve currently got it anchored at 1.75 percent and are hoping to goes up to 2 percent. 
 MR. WASCHER.  Right. 
 MR. EVANS.  But at any rate, I’m done.  Well, I mean, it’s interesting. I appreciate that. 
 CHAIR YELLEN.  Please proceed. 
@@ -7876,7 +7876,7 @@ The view seems to be that there is enough momentum from last year that growth sh
 soon. 
 Separately, I didn’t hear of any meaningful reports of wage or price pressures from my 
 contacts.  My own outlook for the real economy continues to be for real GDP growth to run 
-between 2½ and 3 percent over the remainder of this year and next.  Our assumptions for 
+between 2.5 and 3 percent over the remainder of this year and next.  Our assumptions for 
 potential output growth are somewhat stronger than in the Tealbook, so our GDP path translates 
 into a very similar reduction in resource gaps as the Tealbook’s.  By the end of 2016, we have 
 the unemployment rate down to around 5 percent, which is my current assessment of the natural 
@@ -8397,7 +8397,7 @@ on its own set of financial and policy indicators, all are now telling a consist
 unspectacular GDP growth, on average, in the second and third quarters of 2015 and a gradual 
 deceleration in employment growth over the course of the year, with the unemployment rate 
 leveling off in the neighborhood of 5 percent heading into 2016.  We expect trimmed mean PCE 
-inflation, our measure of the underlying trend in headline inflation, to average about 1¾ percent 
+inflation, our measure of the underlying trend in headline inflation, to average about 1.75 percent 
 over the next four quarters.  As compared with the Tealbook, we are more optimistic on both 
 halves of the dual mandate, but we’re certainly not only in the same ballpark as the Tealbook, 
 but in the same outfield.  Hopefully, it’s not left field. 
@@ -8470,7 +8470,7 @@ Chinese do not need in their home market.
 On this dimension, my recent intermeeting visit to China, combined with discussions 
 with CEOs and my interpretation of some hard data, has suggested to me that trend growth in 
 China may be notably slower than commonly appreciated.  I think this goes beyond the relatively 
-weak reported growth rate in the first quarter to a trend rate of growth as low as 4½ percent.  
+weak reported growth rate in the first quarter to a trend rate of growth as low as 4.5 percent.  
 Chinese GDP statistics are notably opaque—a topic of macroeconomic discussion for the past 15 
 years or more—but corroborating data and anecdotes now seem to be diverging more sharply 
 from official reports, suggesting that a Chinese slowdown is to be taken far more seriously this 
@@ -8544,7 +8544,7 @@ expect inflation to return to target and eventually overshoot 2 percent in 2016.
 On the first issue, potential over-interpretation of the Q1 slowdown, data are clearly 
 weaker on a tracking basis since our previous meeting.  GDP will be reported tomorrow 
 morning, and the staff has penciled in an estimate close to zero. But suppose we take the median 
-of the nowcasting table reported in the Tealbook, which is an approximately 1½ percent annual 
+of the nowcasting table reported in the Tealbook, which is an approximately 1.5 percent annual 
 growth rate of GDP in the first quarter.  On that basis, the year-over-year growth rate would be 
 3.3 percent.  I think this number gives a better sense of the underlying pace of growth in the U.S. 
 economy and provides a better point of reference for shaping GDP expectations for the 
@@ -8600,7 +8600,7 @@ and others, published in 2014—suggests that labor force participation has been
 according to demographic factors since 2000, and, furthermore, that this downward trend will 
 continue through the forecast horizon.  This suggests that, on balance, there will be no sustained 
 upward improvement in labor force participation and, therefore, that unemployment will 
-continue to drop into the 4½ to 4 percent range over the forecast horizon, barring any major 
+continue to drop into the 4.5 to 4 percent range over the forecast horizon, barring any major 
 disruption in the U.S. economy.  This dynamic would be very similar to what was observed 
 during the 1990s expansion and again during the 2000 expansion.  On both of those occasions, 
 unemployment moved into the low 4 percent range. 
@@ -8889,7 +8889,7 @@ fairly small for Third District manufacturers.
 Both nonresidential and residential construction weakened in March.  We are also seeing 
 a softening in multifamily housing.  Reflecting the overall weaknesses in this sector, house price 
 appreciation is also slower than in the nation as a whole, with prices growing in the 3 to 
-3½ percent range.  Retailers in the region have been reporting healthy sales over the intermeeting 
+3.5 percent range.  Retailers in the region have been reporting healthy sales over the intermeeting 
 period and moderate year-over-year sales growth. Contacts report that sales are starting to be 
 bolstered by lower gasoline prices, and consumers in the region remain highly confident.  They 
 are also paying down post-holiday debt, and debit and credit card lines are declining.  Bankers in 
@@ -9185,7 +9185,7 @@ very low at 4.2 percent, and recent employment growth has been modest but is mix
 states and industries.  Several District states are seeing sizable oil and gas layoffs, and negative 
 spillovers are showing up in regional factory and transportation activity as well as in consumer 
 spending areas and those that are energy dependent.  Through the first quarter of this year, 
-District energy jobs were down 4½ percent, and firms in our latest energy survey expect their 
+District energy jobs were down 4.5 percent, and firms in our latest energy survey expect their 
 employment to fall by 12 percent this year.  District manufacturing is also feeling the effect, as 
 the last time our manufacturing survey composite was lower than its April reading was in early 
 2009. 
@@ -9724,7 +9724,7 @@ adjustment.
 As I assess the first quarter, I do think there are both transitory and more persistent 
 factors responsible for the slowdown.  On the transitory side, the Federal Reserve Bank of New 
 York’s staff analysis does suggest that severe winter weather did have a sizable effect.  We put 
-the impact at about 1½ percent on the annualized growth rate, slightly less than last year.  Having 
+the impact at about 1.5 percent on the annualized growth rate, slightly less than last year.  Having 
 said that, I wouldn’t take that point estimate too literally. Also, I do think the West Coast port 
 slowdown did disrupt economic activity.  We had a small business advisory group meeting, and I 
 was surprised that two out of the eight or nine businesses that attended referenced the port 
@@ -10489,7 +10489,7 @@ for GDP.  I think the baseline staff forecast strikes a reasonable balance for t
 by assuming higher GDP growth, but not a significant catch-up quarter like we had in the second 
 quarter of 2014. 
 On inflation, I would tentatively say I feel a little better about inflation, which is now 
-forecast to run at about 1½ percent for Q2, well above the Q1 readings.  Survey expectations 
+forecast to run at about 1.5 percent for Q2, well above the Q1 readings.  Survey expectations 
 remain stable.  Breakevens have moved up modestly across the curve since the March meeting, 
 seemingly driven more by oil prices and liquidity rather than changing expectations.  In light of 
 all of the recent market readings that suggest concerns about low inflation, it’s an improvement, 
@@ -10784,7 +10784,7 @@ had been anticipated.  Drilling investment looks to have dropped at an annualize
 sentiment, have also been weak and suggest that overall business investment will edge lower 
 over the first half of this year.  A variety of indicators also suggest that the stronger dollar is 
 weighing significantly on activity.  Net exports subtracted 1 percentage point from growth in the 
-fourth quarter, and the staff estimates a contribution of minus ⅔ percentage point in the first 
+fourth quarter, and the staff estimates a contribution of minus 0.6667 percentage point in the first 
 quarter.  The national manufacturing purchasing managers’ diffusion index of new export orders 
 has been in contractionary territory for the past three months.  Manufacturing production 
 declined at an annual rate of 1 percent, and the outlook for internationally oriented firms has 
@@ -11234,7 +11234,7 @@ I’m also concerned that we may not see a pickup in residential investment near
 as the Tealbook forecasts this year.  Housing starts and permits have been incredibly weak even 
 though mortgage rates are low, employment and income are rising, and demographic trends seem 
 to call for a faster pace of building.  According to staff calculations, if housing remains weak it 
-could shave ¼ percentage point or so off the Tealbook projection of real GDP in the second half 
+could shave 0.25 percentage point or so off the Tealbook projection of real GDP in the second half 
 of this year and in 2016. 
 I worry most about retail sales having been soft for several months now.  Savings rates 
 moved up 1 full percentage point since the fourth quarter despite large gains in employment, a 
@@ -11356,7 +11356,7 @@ Tealbook projects that headline inflation will be under 1 percent this year on a
  
 April 28–29, 2015
 137 of 229
-and that core inflation this year is only going to run at 1¼ percent.  Those forecasts seem quite 
+and that core inflation this year is only going to run at 1.25 percent.  Those forecasts seem quite 
 reasonable. 
 Given this inflation outlook, the likelihood that employment and output will expand at 
 only a moderate pace in coming quarters, and uncertainties about the global economy, I 
@@ -11486,8 +11486,8 @@ The next three lines show some offsetting misses that turned out not to have muc
 effect on the top-line GDP number.  In particular, government spending fell by less 
 than we were expecting, net exports fell by more, and there was a greater 
 accumulation of inventories than we’d written down.  In terms of their contributions 
-to growth, net exports were estimated to have subtracted 1¼ percentage points from 
-GDP growth in the first quarter, while inventories added ¾ percentage point to 
+to growth, net exports were estimated to have subtracted 1.25 percentage points from 
+GDP growth in the first quarter, while inventories added 0.75 percentage point to 
 growth.  I should note that, for these two categories in particular, the BEA does not 
 have complete data for the first quarter.  In the advance GDP estimate, inventories 
 and net exports are based on two months of data and BEA’s assumed values for the 
@@ -15458,7 +15458,7 @@ VICE CHAIRMAN DUDLEY.  Yes, exactly.
 MR. EVANS.  Yes.  That’s fair. I agree. 
 VICE CHAIRMAN DUDLEY. It refers to inflation.  It doesn’t refer to core inflation.  I 
 think you can argue it either way, frankly. 
-CHAIR YELLEN. Inflation is running about ¼ percent.  Core is running about 1.4 or 
+CHAIR YELLEN. Inflation is running about 0.25 percent.  Core is running about 1.4 or 
 something like that. 
 VICE CHAIRMAN DUDLEY. Yes.  So about two-thirds of the gap is in these transitory 
 factors, and about one-third is— 

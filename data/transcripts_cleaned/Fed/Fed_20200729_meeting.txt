@@ -548,8 +548,8 @@ July 28–29, 2020
  
  
 First and foremost is the dramatic decline in the neutral federal funds rate.  Since January 
-2012, the median estimate of the neutral rate in the SEP has fallen 1¾ percentage points—from 
-2¼ percent to ½ percent.  The secular decline in r* is not limited to the United States.  It is also 
+2012, the median estimate of the neutral rate in the SEP has fallen 1.75 percentage points—from 
+2.25 percent to 0.5 percent.  The secular decline in r* is not limited to the United States.  It is also 
 seen in many other countries.  It reflects longer-run trends in demographics and other global 
 forces that are unlikely to go into reverse anytime soon. 
 A lower r* constrains the ability of monetary policy to offset the effect of negative 
@@ -592,8 +592,8 @@ inflation of 2 percent on a sustained basis.
 Three related features of the economy’s “new normal” called for this reassessment of our 
 longer-run goals and strategy.  First, the equilibrium interest rate is very low—which implies a 
 large decline in the conventional policy buffer.  That was abundantly clear in March, when we 
-were able to cut the policy rate only 1½ percentage points before hitting the effective lower 
-bound, in contrast to previous decades, when the policy rate would have been cut 4½ to 
+were able to cut the policy rate only 1.5 percentage points before hitting the effective lower 
+bound, in contrast to previous decades, when the policy rate would have been cut 4.5 to 
 5 percentage points on average.  The loss of conventional policy space can be expected to 
 increase the frequency and duration of periods when the policy rate is pinned at the lower bound, 
 unemployment is elevated, and inflation is below target.  In turn, the experience of extended 
@@ -625,16 +625,16 @@ unemployment rate reached a then-prevailing estimate of the natural rate, we wou
 away from a significant portion of the working-age population at great cost.  By allowing the 
 labor market to continue healing after the U-3 rate reached the SEP median definition of the 
 natural rate of roughly 5 percent in the fourth quarter of 2015, it created conditions for the entry 
-of a further 3½ million prime-age Americans into the labor force—a movement of nearly 
+of a further 3.5 million prime-age Americans into the labor force—a movement of nearly 
 1 million people out of long-term unemployment and opportunities for 2 million involuntary 
-part-time workers to secure full-time jobs.  It supported a further 3½ percentage point decrease in 
+part-time workers to secure full-time jobs.  It supported a further 3.5 percentage point decrease in 
 July 28–29, 2020
 18 of 325
 
 
  
  
-the Black unemployment rate, a 2¼ percentage point decrease in the Hispanic unemployment 
+the Black unemployment rate, a 2.25 percentage point decrease in the Hispanic unemployment 
 rate, and a nearly 3 percentage point increase in the labor force participation rate of prime-age 
 women. 
 The observation that employment gains come late to the communities facing the greatest 
@@ -1445,7 +1445,7 @@ Consider the following example.  Some people may think that the Committee intend
 bring average inflation since 2012 up to 2 percent in three years.  If so, they’ll think that we will 
 be aiming for inflation to run at around 3 percent over the next three years.  Other people may 
 think that the Committee is aiming for inflation since 2017 to average 2 percent.  This means 
-they’ll think that we’ll be aiming for inflation to run at around 2¼ percent over the next three 
+they’ll think that we’ll be aiming for inflation to run at around 2.25 percent over the next three 
 years.  These shorter-run inflation intentions are very different, and the associated expected 
 policy rate paths will also differ.  Without offering more information, the Committee would be 
 increasing uncertainty about future policy, not reducing it, and potentially misaligning market 
@@ -2599,7 +2599,7 @@ July 28–29, 2020
  
 The bottom two panels summarize how all the factors I have described are 
 combined in our medium-term GDP projection.  As shown by the middle bars in 
-panel 11, we expect GDP to decline 5½ percent over 2020 as a whole—less than in 
+panel 11, we expect GDP to decline 5.5 percent over 2020 as a whole—less than in 
 May—as the slower expected unwinding in social distancing in the second half of this 
 year is more than offset by the recent better-than-expected data and the upward 
 revision to fiscal stimulus.  GDP growth is expected to be somewhat less robust next 
@@ -2920,7 +2920,7 @@ the run in March.  This facility backstops prime funds, the left bar in the pane
 right.  It does not, however, cover their closest substitutes—dollar-denominated 
 offshore prime funds, the middle column.  A group of other vehicles, indicated in the 
 right column, contains prime-like investments, as well as safer forms of investments 
-that we cannot disentangle.  All told, there are between $500 billion and $1½ trillion 
+that we cannot disentangle.  All told, there are between $500 billion and $1.5 trillion 
 in assets in prime-like funds that are subject to similar run dynamics and are not 
 eligible for the facility. 
 In the March turmoil, run-like dynamics were not confined to money funds. On 
@@ -3186,7 +3186,7 @@ MR. ENGEN.  The fiscal-impetus measure, if you extended it further back, what yo
 would tend to see is that it’s—not surprisingly, because this is measuring discretionary federal 
 policy actions to aid the economy—very cyclical.  The increase that you see in 2020 here is 
 unprecedented.  For example, back in 2008 and 2009, the peak effects were closer to—it was 
-¾ percentage point in 2008 and about 1 percentage point in 2009, far less than the 5 percentage 
+0.75 percentage point in 2008 and about 1 percentage point in 2009, far less than the 5 percentage 
 points that we’re assuming here for this year. 
 Over the long sweep of things, if you took an average, it would be relatively small.  It 
 would be about one-tenth.  It was the case in the earlier time period for state and local 
@@ -3524,7 +3524,7 @@ and asked how previous corporate credit growth affects the depth and duration of
 across business cycles in 17 advanced economies in the modern era.  Their analysis finds that a 
 period of high corporate debt growth is not typically followed by a deeper or more prolonged 
 downturn.  They estimate that the run-up in corporate debt prior to this recession will subtract a 
-mere ¼ percentage point from the level of real GDP over the next five years, and even this small 
+mere 0.25 percentage point from the level of real GDP over the next five years, and even this small 
 effect is statistically insignificant.  This result contrasts with their finding, using the same 
 methodology, of a very large negative effect of booms in household debt—in particular, housing 
 debt—on subsequent growth. 
@@ -4162,7 +4162,7 @@ interesting to me that the staff has seen the better macroeconomic data, the wor
 penciled in a bigger fiscal package than they did earlier.  And the net effect of these is that 
 they’ve somewhat revised up their view of economic activity.  In other words, the hole that the 
 economy will fall into this year is a little less deep than they thought it was in May. 
-Still, we’re looking at a very deep hole roughly in line with consensus:  a 5½ percent 
+Still, we’re looking at a very deep hole roughly in line with consensus:  a 5.5 percent 
 decline in GDP, fourth quarter over fourth quarter, and an unemployment rate of around 
 9 percent.  Now, later this week, we’re going to get the “first read” on GDP data for the second 
 quarter.  And there’s little doubt that it will show that a staggeringly steep decline in activity 
@@ -4908,8 +4908,8 @@ District states remain more than 10 percent below January levels.  Manufacturers
 pipeline of new orders over the rest of 2020 and beyond is thin. 
 Labor market conditions in the District have improved, but District payroll employment 
 in June remained about 10 percent below its level in February.  This is larger than the peak-to-
-trough decline of about 6¾ percent observed over the previous downturn.  Similarly, the District 
-unemployment rate fell nearly 3 percentage points in June, but its level—about 10½ percent—
+trough decline of about 6.75 percent observed over the previous downturn.  Similarly, the District 
+unemployment rate fell nearly 3 percentage points in June, but its level—about 10.5 percent—
 matches the highest rate seen in the aftermath of the Great Recession. 
 Ohio was progressing through a planned, gradual reopening of businesses, based on 
 public health metrics, which required protocols that differed by type of businesses.  There has 
@@ -4960,7 +4960,7 @@ travel, hotel accommodations, and restaurants is still far below normal.  And ma
 production is still 11 percent off its January peak. 
 While there has been a material positive change in labor market conditions, the level of 
 payroll employment is still down almost 10 percent from its peak in February.  So that’s down 
-almost 15 million jobs.  The unemployment rate has fallen about 3½ percentage points since 
+almost 15 million jobs.  The unemployment rate has fallen about 3.5 percentage points since 
 April, but, at just over 11 percent, it remains higher than its peak in the aftermath of the Great 
 Recession. 
 Now, as others have said, the path of the economy is very dependent on the path of the 
@@ -5026,7 +5026,7 @@ Payments for basic expenses, including nondurable goods and rent, mortgage, or o
 payments. 
 As another indicator:  A Brookings Institution analysis of data obtained from this 
 survey—which was taken in the third week in June—shows that child food insecurity is a large 
-problem; 16½ percent of households with children reported that sometimes or often, their 
+problem; 16.5 percent of households with children reported that sometimes or often, their 
 children were not eating enough because of a lack of resources.  This is more than five times as 
 July 28–29, 2020
 161 of 325
@@ -5034,7 +5034,7 @@ July 28–29, 2020
 
  
  
-high as in 2018.  It translates into 14 million children, which is over 2½ times the number at the 
+high as in 2018.  It translates into 14 million children, which is over 2.5 times the number at the 
 peak of the Great Recession. 
 With employers not necessarily rehiring workers, it’s likely that continued support will 
 be needed to enable households to meet these types of expenses.  Delays in coming to an 
@@ -6101,11 +6101,11 @@ time of the first rate increase.  Also, respondents who see a relatively early d
 from the ELB, the group of dots toward the left in each chart, generally see it 
 occurring alongside higher unemployment rates and lower inflation rates.  Finally, a 
 bit over one-half of respondents see the Committee waiting until the unemployment is 
-4½ percent or lower before departing the ELB, while one-fourth see the Committee 
+4.5 percent or lower before departing the ELB, while one-fourth see the Committee 
 waiting until unemployment is below 4 percent.  For inflation, many expect some 
 degree of overshooting.  One-half of respondents expect the Committee to depart the 
 ELB when inflation is 2.1 percent or higher, and about one-third expect this when 
-inflation is 2¼ percent or higher. 
+inflation is 2.25 percent or higher. 
 Your next exhibit looks at financial conditions, which, overall, have improved in 
 recent months.  We routinely report financial conditions indexes, and the top-left 
 panel shows the mean, the black line, and the range, the blue shaded area, of four 
@@ -6958,14 +6958,14 @@ strategy, and it could provide needed clarity about our reaction function.
 As Rochelle Edge and Lorie Logan both discussed, there is quite a bit of dispersion 
 among respondents to the Desk surveys on what they expect the unemployment rate and inflation 
 to be when the FOMC lifts the funds rate up above its effective lower bound.  The 
-unemployment rate ranges from about 3 to 6½ percent, and the inflation rates range from about 
+unemployment rate ranges from about 3 to 6.5 percent, and the inflation rates range from about 
 July 28–29, 2020
 227 of 325
 
 
  
  
-1½ to 3 percent.  The wide differences in liftoff conditions indicate that respondents are unclear 
+1.5 to 3 percent.  The wide differences in liftoff conditions indicate that respondents are unclear 
 about our intentions. 
 I’ll be interested to see if market participants’ views change after we release a new 
 consensus statement.  I suspect that there’s still going to be dispersion, and that there will be 

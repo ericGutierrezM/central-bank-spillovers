@@ -19,12 +19,12 @@ tragic.  The financial and economic implications for the global economy and the 
 are highly uncertain. 
 At the Federal Reserve, we are strongly committed to achieving the monetary policy 
 goals that Congress has given us:  maximum employment and price stability.  Today, in support 
-of these goals, the FOMC raised its policy interest rate by ¼ percentage point.  The economy is 
+of these goals, the FOMC raised its policy interest rate by 0.25 percentage point.  The economy is 
 very strong, and against the backdrop of an extremely tight labor market and high inflation, the 
 Committee anticipates that ongoing increases in the target range for the federal funds rate will be 
 appropriate.  In addition, we expect to begin reducing the size of our balance sheet at a coming 
 meeting. 
-Economic activity expanded at a robust 5½ percent pace last year, reflecting progress on 
+Economic activity expanded at a robust 5.5 percent pace last year, reflecting progress on 
 vaccinations and the reopening of the economy, fiscal and monetary policy support, and the 
 healthy financial positions of households and businesses.  The rapid spread of the Omicron 
 variant led to some slowing in economic activity early this year.  But cases have declined sharply 
@@ -82,7 +82,7 @@ continue to see risks as weighted to the upside.
 The Fed’s monetary policy actions have been guided by our mandate to promote 
 maximum employment and stable prices for the American people.  Our policy has been adapting 
 to the evolving economic environment, and it will continue to do so.  As I noted, the Committee 
-raised the target range for the federal funds rate by ¼ percentage point and anticipates that 
+raised the target range for the federal funds rate by 0.25 percentage point and anticipates that 
 ongoing increases in the target range will be appropriate.  The median projection for the 
 appropriate level of the federal funds rate is 1.9 percent at the end of this year—a full percentage 
 point higher than projected in December.  Over the following two years, the median projection is 

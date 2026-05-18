@@ -514,7 +514,7 @@ balance sheet and having us setting a rate itself.
 CHAIR POWELL.  Governor Brainerd. 
 MS. BRAINARD.  In the case in which we do not make a clear ex ante commitment that 
 this will be available to large firms in moments of stress because of 13(3) or other concerns, what 
-kind of a reduction in desired reserves are we talking about?  Is it $50 billion, $100 billion, $½ 
+kind of a reduction in desired reserves are we talking about?  Is it $50 billion, $100 billion, $0.5 
 June 18-19, 2019
 13 of 232
 
@@ -1947,7 +1947,7 @@ titled “Material for Staff Presentation on the Domestic Economic Situation.”
 updates our near-term GDP projection.  After the Tealbook was closed, we received 
 the retail sales report and Monthly Treasury Statement for May, both of which came 
 in stronger than expected.  As a result, our current-quarter GDP growth projection, 
-line 1, now stands at 2.3 percent; this is ½ percentage point above our June Tealbook 
+line 1, now stands at 2.3 percent; this is 0.5 percentage point above our June Tealbook 
 forecast and 0.3 percentage point above our April forecast, line 2.  Given our read of 
 fundamentals, we made only minor adjustments to our second-half GDP projection, 
 which continues to be weaker than in April, mainly because of our more pessimistic 
@@ -2059,7 +2059,7 @@ together with its 70 percent confidence interval and, for comparison, our judgme
 estimate of the natural rate, the black line.  In panel 12, the time-series estimate, the 
 red line, comes from a version of the model that incorporates a wage equation.  The 
 contour and level of both model estimates are similar; additionally, incorporating the 
-wage equation narrows the confidence interval about ¼ percentage point. 
+wage equation narrows the confidence interval about 0.25 percentage point. 
 The interplay of slack and compensation growth is explored further on the next 
 page.  We interpret recent compensation growth—in particular, its having mostly 
 remained below its pre-recession pace—as about what one would expect given our 
@@ -2211,8 +2211,8 @@ wife would pronounce “yoo-man” for “human” or “Yoo-ston” for “Hous
 unfortunately, convincing answers to the first two questions have been harder to 
 pin down. 
 Let’s start with global growth, shown in your first exhibit.  Total foreign growth, 
-the black line, appears to have bottomed out at about 1½ percent in the fourth quarter, 
-well below our estimate of 2½ percent potential growth, and looks to have remained 
+the black line, appears to have bottomed out at about 1.5 percent in the fourth quarter, 
+well below our estimate of 2.5 percent potential growth, and looks to have remained 
 depressed in the first quarter.  When we wrote down our forecast for the April 
 Tealbook, indicated by the dashed line, we were moderately upbeat about prospects 
  
@@ -2235,7 +2235,7 @@ growth in the current round, mainly in the EMEs.  We are also less confident tha
 fairly rapid convergence toward potential we have in our outlook will materialize. 
 Your next slide dives deeper into our global forecast.  In the euro area, first-
 quarter GDP growth actually came in a little stronger than we’d predicted in April, 
-with growth rising to 1½ percent.  However, still-gloomy manufacturing indicators 
+with growth rising to 1.5 percent.  However, still-gloomy manufacturing indicators 
 point to some slowing for the remainder of the year, and downside risks have clearly 
 increased:  Prime Minister May’s stepping down means that a disruptive, no-deal 
 Brexit is more likely, while Italy and the EU are back to feuding about the budget. 
@@ -2574,13 +2574,13 @@ I really want to go to this question of, when I look at the Brookings paper that
 from the New York Fed and Dallas did and former New York Fed colleagues did, they went very 
 carefully through these demographic factors as you did in chart 15 on page 4.  And I think they 
 come to the same conclusion—that age, sex, educational attainment can explain something like a 
-¾ percentage point decline in the natural rate since, say, 2005.  And then I’m trying to 
+0.75 percentage point decline in the natural rate since, say, 2005.  And then I’m trying to 
 understand—they get an estimate, and it’s roughly 4 percent for the natural rate, and your 
-argument would be, it’s closer to 4½ or 4.6 percent.  And so one of the things I realized, looking 
+argument would be, it’s closer to 4.5 or 4.6 percent.  And so one of the things I realized, looking 
 at this, is that the starting point actually matters.  You start with roughly, in your charts, it looks 
-like a 5.2 percent natural rate before the recession.  You take off ¾ percentage point, and you get 
-to something like 4½, 4.6.  A lot of the estimates in the work I have seen suggest that the natural 
-rate back in 2005 was closer to 4¾.  You take ¾ off that, and you get 4. 
+like a 5.2 percent natural rate before the recession.  You take off 0.75 percentage point, and you get 
+to something like 4.5, 4.6.  A lot of the estimates in the work I have seen suggest that the natural 
+rate back in 2005 was closer to 4.75.  You take 0.75 off that, and you get 4. 
 I’m curious about how much of this debate is—we actually agree on a lot of the 
 fundamentals.  We agree on the demographics.  We agree on a lot of these things.  But in the 
 end, we just have kind of a different starting point of what the natural rate was a decade ago, and 
@@ -2593,12 +2593,12 @@ June 18-19, 2019
  
  
 through a very similar analysis that you do—and, coming to, in many ways, similar conclusions.  
-We get this essentially ½ percentage point difference.  I’m just curious how you think about that. 
+We get this essentially 0.5 percentage point difference.  I’m just curious how you think about that. 
 MR. RUDD.  The Brookings paper you’re referring to is the paper by Crump, Eusepi, 
 Giannoni, and Şahin of the New York Fed.  
 VICE CHAIR WILLIAMS.  Yes. 
 MR. RUDD.  I guess the first point I’d make is that our judgment is—at the time I last 
-looked at this literature extensively, I thought it was a reasonable conclusion that about 5¼ 
+looked at this literature extensively, I thought it was a reasonable conclusion that about 5.25 
 percent was a reasonable estimate of the natural rate before the Great Recession.  But maybe 
 that’s not true anymore.  Maybe people have, over time, as they have gotten more evidence and 
 more data, revised it down.  I don’t know.  But if you look at these models, in panels 11 and 12, 
@@ -2613,7 +2613,7 @@ The state-space models that are shown in panel 9 are bringing information about 
 market to bear—things like relationships between labor market variables.  The Brookings paper 
 is trying to do the same thing with job flow data.  If you just look at the raw job-flow data, I 
 think you do get an answer similar to 4.6.  I think that that trend implies something like 
-4½ percent for the natural rate.  Then they add additional information—in this case, a forward-
+4.5 percent for the natural rate.  Then they add additional information—in this case, a forward-
 looking expectations-based price and wage model.   
 June 18-19, 2019
 73 of 232
@@ -2758,7 +2758,7 @@ MR. EVANS.  I guess if I were going to think about this case more, I’d want so
 additional statistics, like, what is the variability of inflation?  What do some of these shock things 
 look like?  Especially when you describe, “Well, we get stuck at 1.8 percent, so now I’m going 
 to benchmark it against”—you know.  It’s easy if they get “1.8.  I can do inflation control.”  
-We’re just lucky we’re not at 1¼ percent, where we’d be even worse off on one side.  
+We’re just lucky we’re not at 1.25 percent, where we’d be even worse off on one side.  
 MR. RUDD.  So I did actually try some experiments where, for example, you’re at 
 1 percent, let’s say. 
 MR. EVANS.  Yes. 
@@ -3165,7 +3165,7 @@ elevated risk of recession ahead.  The term structure models—which attribute a
 to noise—are not useful in this environment when trying to interpret this market-based signal. 
 The 10-year and the 2-year are both down 45 basis points during the intermeeting period.  
 This is an extraordinary move in the bond market.  Similarly, and to echo Governor Clarida, the 
-5-year TIPS breakeven has fallen below 1½ percent in recent trading, strongly suggesting that 
+5-year TIPS breakeven has fallen below 1.5 percent in recent trading, strongly suggesting that 
 the Committee is unlikely to achieve the inflation target over the forecast horizon.  Some of the 
 movement is definitely due to oil prices, but oil prices can be a barometer of global demand as 
 well.  In the current situation, oil prices have fallen despite events on the supply side that 
@@ -3214,7 +3214,7 @@ significant easing.  Because the decisionmaking process determining tariffs is s
 assigning probability for these two outcomes is quite difficult.  As a result, in my SEP 
 submission, I have made the assumption, rather than the forecast, that no additional tariffs are 
 imposed, budget negotiations are not disruptive, and geopolitical problems do not heat up.  
-Under those assumptions, the outlook is quite benign:  Unemployment falls to 3½ percent, wage 
+Under those assumptions, the outlook is quite benign:  Unemployment falls to 3.5 percent, wage 
 growth picks up, inflation gradually rises to above 2 percent, and there’s no need for a reduction 
 in interest rates.  And, if anything, the risks might be reasonably balanced.  However, a negative 
 outcome is much more than a tail risk.  So while I’m not using this as a base case, it has a high 
@@ -3222,7 +3222,7 @@ enough probability that I view my forecast of a more benign outcome as having su
 downside risk. 
 A similar problem arises in interpreting recent market movements.  The decline in 10-
 year Treasury yields is quite striking.  Over the past year, the rate has been as high as 
-3¼ percent, and, at only a little over 2 percent now, it is currently at its lowest point since 2017.  
+3.25 percent, and, at only a little over 2 percent now, it is currently at its lowest point since 2017.  
 If bond market participants see the risk of further trade deterioration as quite high, perhaps even 
 higher than I do, then investors will seek to hold more long-term Treasury securities.  After all, 
 Treasury securities would likely appreciate in the event of a negative trade shock, particularly if 
@@ -3459,9 +3459,9 @@ policy, much for the reasons cited by President Daly.  I have two rate cuts befo
 2019.  I see real GDP expanding by around 2 percent this year and next.  I then expect a 
 moderate slowing in growth in 2021, largely reflecting a declining impulse from fiscal policy.  
 Later in the projection period, my forecast has the unemployment rate beginning to increase 
-gradually, but at the end of 2021, unemployment still remains about ½ percentage point below 
+gradually, but at the end of 2021, unemployment still remains about 0.5 percentage point below 
 my 4.3 percent estimate of the long-run neutral rate. 
-For inflation, I marked down my 2019 forecast for core PCE ¼ percentage point.  
+For inflation, I marked down my 2019 forecast for core PCE 0.25 percentage point.  
 Compared with the Tealbook, I am now assuming somewhat more persistence to the past few 
 months’ disappointingly low readings on core inflation.  However, I am projecting that inflation 
 will move up to target in 2020 and will overshoot by two-tenths in 2021.  This is an explicit 
@@ -3516,7 +3516,7 @@ surrounding trade policy and tariffs.
 Despite firms’ concerns, District labor market conditions remain strong.  The 
 unemployment rate edged down again in April to 4.2 percent, its lowest level so far in this 
 expansion and well below the Cleveland staff’s estimate of its longer-run normal level.  Year-
-over-year growth in payroll employment remained at about ¾ percent in April, well above the 
+over-year growth in payroll employment remained at about 0.75 percent in April, well above the 
 Cleveland staff’s estimate of its longer-run trend.  District firms continue to cite the difficulty in 
 finding skilled workers as their primary challenge. 
 Regarding the national economy, incoming data over the intermeeting period were 
@@ -3542,8 +3542,8 @@ Now, the labor market readings are consistent with continued expansion.  Since o
 previous meeting, the unemployment rate has fallen to 3.6 percent, its lowest level in nearly 
 50 years, and the broader U-6 measure fell to 7.1 percent, its lowest level of the cycle.  These 
 readings are well below my revised estimate of the longer-run unemployment rate.  My estimate 
-had been 4½ percent, but, given that inflation has remained stable and wages have not greatly 
-accelerated, I now estimate the longer-run unemployment rate to be in the 4 to 4½ percent range. 
+had been 4.5 percent, but, given that inflation has remained stable and wages have not greatly 
+accelerated, I now estimate the longer-run unemployment rate to be in the 4 to 4.5 percent range. 
 Monthly payroll job growth has averaged about 150,000 over the past three months.  This 
 is a step-down from last year’s strong pace of over 220,000 jobs per month, but it’s well above 
 trend.  As output growth slows toward a more sustainable pace, I expect job growth to slow as 
@@ -3782,7 +3782,7 @@ specific industries.  I think in response to all of this, most of the contacts I
 thinking more about how to, again, create more scale and are again renewing their examination 
 of M&A activity so that they can be competitive. 
 Our real GDP growth forecast for 2019 at the Dallas Fed is now approximately 2 percent.  
-That compares to about 2¼, 2½ percent just six weeks ago.  The Dallas trimmed-mean measure, 
+That compares to about 2.25, 2.5 percent just six weeks ago.  The Dallas trimmed-mean measure, 
 as many of you have mentioned, is currently running at approximately 2 percent, and we expect 
 it to end the year at approximately 2 percent.  Evan Koenig and Jim Dolmas, who is here with 
 me today—both are colleagues at the Dallas Fed—have written a paper that suggests the Dallas 
@@ -3823,7 +3823,7 @@ although we do share the views a number have mentioned about the paper from Rich
 Marc Giannoni and others that estimates the natural rate of unemployment to be approximately 4 
 percent.  Again, due to aging of workers, of firms, and increased women’s attachment to the 
 labor force, we expect those trends will continue, and we think over the next few years the 
-natural rate of unemployment is going to be in the neighborhood of 3¾ percent.  It will continue 
+natural rate of unemployment is going to be in the neighborhood of 3.75 percent.  It will continue 
 to drift down, because these trends are continuing. 
 June 18-19, 2019
 114 of 232
@@ -4118,9 +4118,9 @@ elevated, there are good reasons to expect solid consumer spending gains to cont
 second half.  Residential investment also looks likely to pick up. 
 The labor market remains strong, although there are some indications that payroll 
 employment is decelerating.  The 3.6 percent unemployment rate in May was the same as in 
-April and is down about ¼ percentage point from the first-quarter average.  The employment to 
+April and is down about 0.25 percentage point from the first-quarter average.  The employment to 
 population (EPOP) ratio for prime-age Americans was about 79.7 percent in May—which is up 
-about ½ percentage point from a year earlier and close to its pre-crisis cyclical peak.  So far this 
+about 0.5 percentage point from a year earlier and close to its pre-crisis cyclical peak.  So far this 
 year, payroll gains have averaged about 160,000 per month, and May’s payroll gain was 
 especially weak.  Against this, initial claims for unemployment insurance, which has proven to 
 June 18-19, 2019
@@ -4193,7 +4193,7 @@ June 18-19, 2019
 volatility we have seen in equities.  By contrast, spreads of corporate bond yields over Treasuries 
 haven’t widened by commensurate amounts, nor have they demonstrated the same kind of 
 volatility as a result of what market participants report to be ongoing strong demand.  And the 
-dollar has appreciated about ¾ percent since our last meeting. 
+dollar has appreciated about 0.75 percent since our last meeting. 
 Against this, the 10-year Treasury yield has come down about 40 basis points and is now 
 below the federal funds rate.  Alongside the drop in long-term interest rates, short-term interest 
 rates have been little changed.  This is a pattern that has historically been associated with 
@@ -4241,8 +4241,8 @@ captures the idea that underlying inflation reflects experience with actual infl
 responsiveness varies over time. 
 On the basis of recent estimates of the sensitivity of underlying inflation to experienced 
 inflation, John Roberts and I found that if the FOMC were to succeed in raising inflation to about 
-2¼ percent, it would only take about two and a half or three years for underlying inflation to rise 
-from the starting point of about 1¾ percent currently to 2 percent.  Of course, in our new normal 
+2.25 percent, it would only take about two and a half or three years for underlying inflation to rise 
+from the starting point of about 1.75 percent currently to 2 percent.  Of course, in our new normal 
 June 18-19, 2019
 128 of 232
 
@@ -4250,7 +4250,7 @@ June 18-19, 2019
  
  
  
-of a flat Phillips curve, it’s not clear how the FOMC could engineer that 2¼ percent inflation to 
+of a flat Phillips curve, it’s not clear how the FOMC could engineer that 2.25 percent inflation to 
 begin with on a sustained basis.  Nonetheless, that calculation should give us some reason for 
 optimism that if we were to experience shocks that raised inflation somewhat above 2 percent, 
 we could actually move underlying trend inflation up to our target over a relatively few number 
@@ -4440,14 +4440,14 @@ Tealbook assumes that the current level of discretionary spending will be mainta
 years 2020 and 2021.  But in the absence of legislation—that is, under current law—
 discretionary budget authority is scheduled to decline $150 billion for fiscal 2020, which starts in 
 October 1 of this year.  The resulting contraction of fiscal spending would exert significant drag 
-on growth next year, resulting in a level of real GDP about ½ percent lower than baseline by the 
+on growth next year, resulting in a level of real GDP about 0.5 percent lower than baseline by the 
 end of next year. 
 On the inflation front, recent signs have not been reassuring.  Wage growth appears to be 
 stalled at a level that’s below that consistent with 2 percent inflation.  Core CPI inflation in May 
 was below expectations for the fourth consecutive month, and the 12-month core PCE inflation 
 looks to come in at 1.5 percent in May.  Now, we don’t want to get too caught up in the month-
 to-month movements in inflation, but the direction of travel in core inflation from 2 percent in 
-December to 1½ percent today is far from encouraging, especially given that this is happening at 
+December to 1.5 percent today is far from encouraging, especially given that this is happening at 
 the same time that we’ve had these tariffs that should be otherwise providing a positive fillip to 
 inflation.  Measures of inflation expectations appear to be in danger of drifting away from us as 
 June 18-19, 2019
@@ -4477,8 +4477,8 @@ look at people’s forecasts and then say, “Your forecast hasn’t changed.  W
 funds rate?”  Well, the reason the forecast hasn’t changed is because, in my view, I’ve cut the 
 funds rate.  So we just need to be careful in how we think about that.  You know, without a 
 change in the path of the funds rate, my forecast would be lower for real GDP growth and higher 
-for unemployment.  I expect the unemployment rate to bottom out at about 3½ percent, 
-½ percentage point below my natural rate of unemployment estimate of 4 percent and remain 
+for unemployment.  I expect the unemployment rate to bottom out at about 3.5 percent, 
+0.5 percentage point below my natural rate of unemployment estimate of 4 percent and remain 
 near there over the forecast horizon. 
 June 18-19, 2019
 136 of 232
@@ -5302,10 +5302,10 @@ Accordingly, I now assume two 25 basis point funds rate cuts in the second half 
 and then have the funds rate on hold into 2021.  This policy setting, with continued good 
 economic fundamentals, should lift inflation expectations enough that, by 2021, inflation will be 
 clearly heading above 2 percent.  
-In my forecast, I have inflation at 2¼ percent by late in 2021.  With this overshooting 
+In my forecast, I have inflation at 2.25 percent by late in 2021.  With this overshooting 
 solidly in train, we could begin to move rates up toward their long-run neutral level.  In my SEP 
 submission, I assume 50 basis points of tightening in 2021, leaving the funds rate in the range of 
-2¼ to 2½ percent by the end of that year.  I have to say, this is aggressively optimistic.  I’m less 
+2.25 to 2.5 percent by the end of that year.  I have to say, this is aggressively optimistic.  I’m less 
 than certain that the funds rate increase in 2021 is going to be appropriate, but that’s how we put 
 it together. 
 I also think that these policy assumptions are sensible from a risk-management 
@@ -5357,7 +5357,7 @@ continue to monitor that.
 I’m also cognizant of the fact that the cost of capital is historically low.  Access to capital 
 is historically high.  Financial conditions are very strong.  Markets remain near their all-time 
 highs.   
-I also am cognizant, with the federal funds rate even where it is today, at 2¼ to 2½ 
+I also am cognizant, with the federal funds rate even where it is today, at 2.25 to 2.5 
 percent, that excesses and imbalances in the economy are likely to continue to build.  I’m 
 particularly concerned about the relative amount of corporate debt, particularly in triple-B and 
 weaker segments.  I’d be concerned that further accommodation would increase the likelihood of 
@@ -5677,7 +5677,7 @@ June 18-19, 2019
 inflation being a little bit lower.  It is actually just taking away our policy space to respond to the 
 next downturn. 
 If you look at the euro area, the five-year, five-year-ahead inflation swaps are at 
-1.2 percent, as I said.  My estimate of the neutral real rate in Europe is about minus ¼ percentage 
+1.2 percent, as I said.  My estimate of the neutral real rate in Europe is about minus 0.25 percentage 
 point.  That means that the neutral nominal interest rate in Europe is about 1 percent in a strong 
 and healthy economy.  So that’s the policy space that the euro area appears to have right now. 
 Similarly, for Japan, estimates of the neutral real rate are about 0 percent.  Inflation 

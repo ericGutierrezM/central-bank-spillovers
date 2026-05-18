@@ -21,7 +21,7 @@ responsibility of the Federal Reserve.  Without price stability, the economy doe
 anyone.  In particular, without price stability, we will not achieve a sustained period of strong 
 labor market conditions that benefit all. 
 Since early last year, the FOMC has significantly tightened the stance of monetary 
-policy.  We’ve raised our policy interest rate by 5¼ percentage points and have continued to 
+policy.  We’ve raised our policy interest rate by 5.25 percentage points and have continued to 
 reduce our securities holdings at a brisk pace.  We’ve covered a lot of ground, and the full effects 
 of our tightening have yet to be felt.  Today, we decided to leave our policy interest rate 
 unchanged and to continue to reduce our securities holdings.  Looking ahead, we’re in a position 
@@ -80,12 +80,12 @@ that high inflation imposes significant hardship, as it erodes purchasing power,
 those least able to meet the higher costs of essentials like food, housing, and transportation.  We 
 are highly attentive to the risks that high inflation poses to both sides of our mandate, and we’re 
 strongly committed to returning inflation to our 2 percent objective. 
-As I noted earlier, since early last year, we have raised our policy rate by 5¼ percentage 
+As I noted earlier, since early last year, we have raised our policy rate by 5.25 percentage 
 points.  We see the current stance of monetary policy as restrictive, putting downward pressure 
 on economic activity, hiring, and inflation.  In addition, the economy is facing headwinds from 
 tighter credit conditions for households and businesses.  In light of how far we have come in 
 tightening policy, the Committee decided at today’s meeting to maintain the target range for the 
-federal funds rate at 5¼ to 5½ percent and to continue the process of significantly reducing our 
+federal funds rate at 5.25 to 5.5 percent and to continue the process of significantly reducing our 
 securities holdings. 
 We are committed to achieving and sustaining a stance of monetary policy that is 
 sufficiently restrictive to bring inflation down to our 2 percent goal over time.  In our SEP, 
@@ -95,7 +95,7 @@ likely scenario going forward.  If the economy evolves as projected, the median 
 projects that the appropriate level of the federal funds rate will be 5.6 percent at the end of this 
 year, 5.1 percent at the end of 2024, and 3.9 percent at the end of 2025.  Compared with our June 
 Summary of Economic Projections, the median projection is unrevised for the end of this year 
-but has moved up by ½ percentage point at the end of the next two years.  These projections, of 
+but has moved up by 0.5 percentage point at the end of the next two years.  These projections, of 
 course, are not a Committee decision or plan; if the economy does not evolve as projected, the 
 path of policy will adjust as appropriate to foster our maximum-employment and price-stability 
 goals.  We will continue to make our decisions meeting by meeting, based on the totality of the 
@@ -146,7 +146,7 @@ government shutdown, the end of federal childcare funding, resumption of student
 payments—things of that nature. 
 CHAIR POWELL.  So I guess I would characterize the, the situation a little bit 
 differently.  So we decided to maintain the target range for the federal funds rate where it is—at 
-5¼ to 5½ percent—while continuing to reduce our securities holdings.  And we say we’re 
+5.25 to 5.5 percent—while continuing to reduce our securities holdings.  And we say we’re 
 committed to achieving and sustaining a stance of monetary policy that’s sufficiently restrictive 
 to bring down inflation to 2 percent over time—we said that.  But the fact that we decided to 
 maintain the policy rate at this meeting doesn’t mean that we’ve decided that we have or have 

@@ -87,7 +87,7 @@ strong labor market and to prevent higher inflation from becoming entrenched.  W
 watching carefully to see whether the economy is evolving in line with expectations. 
 The Fed’s monetary policy actions have been guided by our mandate to promote 
 maximum employment and stable prices for the American people.  In support of these goals, the 
-Committee reaffirmed the 0 to ¼ percent target range for the federal funds rate.  We also updated 
+Committee reaffirmed the 0 to 0.25 percent target range for the federal funds rate.  We also updated 
 our assessment of the progress the economy has made toward the criteria specified in our 
 forward guidance for the federal funds rate.  With inflation having exceeded 2 percent for some 
 time, the Committee expects it will be appropriate to maintain this target range until labor market 
@@ -95,7 +95,7 @@ conditions have reached levels consistent with the Committee’s assessments of 
 employment.   
 All FOMC participants forecast that this remaining test will be met next year.  The 
 median projection for the appropriate level of the federal funds rate is 0.9 percent at the end of 
-2022, about ½ percentage point higher than projected in September.  Participants expect a 
+2022, about 0.5 percentage point higher than projected in September.  Participants expect a 
 gradual pace of policy firming, with the level of the federal funds rate generally near estimates of 
 its longer-run level by the end of 2024.  Of course, these projections do not represent a 
 
@@ -457,7 +457,7 @@ Page 15 of 31
  
 their economic forecast.  And so the median—what you’re talking about, the three rate increases, 
 that’s the median of the Committee—the median of the Committee is also that growth will be 
-4 percent and then unemployment will be 3½ percent by the end of the year.  So that’s a really 
+4 percent and then unemployment will be 3.5 percent by the end of the year.  So that’s a really 
 strong economy.  And, of course, if the—if the economy turns out to be quite different from that, 
 then so will the rate.  You know, we—no one will say, “Oh, we can’t change our policy because 
 we wrote something down in December.”  No one’s ever said that or will.  It will—the actual 
@@ -807,7 +807,7 @@ FINAL
  
 Page 26 of 31 
  
-started shrinking the balance sheet when short-term interest rates were about 1 to 1¼ percent 
+started shrinking the balance sheet when short-term interest rates were about 1 to 1.25 percent 
 range.  Do you think the FOMC might be able to potentially start running off assets before that 
 this time? 
 CHAIR POWELL.  Are they separate?  So our interest rate—I mean, they are separate 
@@ -819,8 +819,8 @@ something we haven’t really discussed at the Committee [meetings] yet.  We wil
 that, obviously, in coming meetings.  I don’t think that, that—the last cycle, there was quite a 
 long separation before interest rates.  I don’t think that’s at all likely in this cycle.  We’re in a 
 very, very different place with high inflation, strong growth, a really strong economy.  You 
-know, that—as I mentioned, the SEP medians are for 4 percent growth next year, 3½ percent—
-3½ percent unemployment at the end of the year, and the, the—you know, headline inflation of 
+know, that—as I mentioned, the SEP medians are for 4 percent growth next year, 3.5 percent—
+3.5 percent unemployment at the end of the year, and the, the—you know, headline inflation of 
 2.6 percent next year, core at 2.7.  So this is a strong economy, one in which it’s appropriate for, 
 for interest rate hikes.  So they’re separate, I would say.  Your—sorry, your second 
 question was? 
@@ -856,10 +856,10 @@ CHAIR POWELL.  No, I’m not expressing any judgment about, about the stimulus i
 that comment.  What I’m saying is, there’s a—there’s a sense among some that “you wanted 
 inflation, this is what you wanted, how do you like it?,” you know?  And the truth is, this is not 
 the inflation that we were—what we were talking about in the—in the framework was inflation 
-that comes from a tight labor market, right?  So we had 3½ percent unemployment for a period, 
+that comes from a tight labor market, right?  So we had 3.5 percent unemployment for a period, 
 and we had inflation that was just barely getting to 2 percent.  And I—you know, I think, in that 
 setting, our thinking was, we can afford to wait to raise rates until we see actual inflation rather 
-than [acting] preemptive[ly] because, you know, no one had seen what 3½ percent 
+than [acting] preemptive[ly] because, you know, no one had seen what 3.5 percent 
 unemployment would look like—with high labor force participation, by the way.  No one had 
 seen what it would look—really look like for an extended period, for decades.  And we didn’t 
 
@@ -919,8 +919,8 @@ interest.  Those are highly uncertain.  And, you know, we’ll make policy based
 seeing in the economy rather than based on what a neutral—what a model might say the neutral 
 rate is.  We, we all had the experience of the last cycle, where we all, through that cycle, were 
 trying to estimate what the neutral rate was, and it turned out—you know, I think we learned a 
-lot from seeing what happens.  We ended up cutting rates three times after raising them to 2¼ to 
-2½ percent.  So I’m not troubled by where the long bond [rate] is.  You know, I see that it’s low.  
+lot from seeing what happens.  We ended up cutting rates three times after raising them to 2.25 to 
+2.5 percent.  So I’m not troubled by where the long bond [rate] is.  You know, I see that it’s low.  
 You know, I mean, we’re really focused on broader financial conditions, [and] we’re focused on 
 maximum employment and price stability. 
 MICHELLE SMITH.  Thank you.  For the last question, we’ll go to Greg Robb. 

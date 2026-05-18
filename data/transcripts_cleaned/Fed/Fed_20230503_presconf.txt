@@ -29,7 +29,7 @@ committed to bringing inflation back down to our 2 percent goal.  Price stabilit
 responsibility of the Federal Reserve.  Without price stability, the economy does not work for 
 anyone.  In particular, without price stability, we will not achieve a sustained period of strong 
 labor market conditions that benefit all. 
-Today, the FOMC raised its policy interest rate by ¼ percentage point.  Since early last 
+Today, the FOMC raised its policy interest rate by 0.25 percentage point.  Since early last 
 year, we have raised interest rates by a total of 5 percentage points in order to attain a stance of 
 monetary policy that is sufficiently restrictive to return inflation to 2 percent over time.  We are 
 also continuing to reduce our securities holdings.  Looking ahead, we will take a data-dependent 
@@ -80,7 +80,7 @@ those least able to meet the higher costs of essentials like food, housing, and 
 are highly attentive to the risks that high inflation pose—poses to both sides of our mandate, and 
 we are strongly committed to returning inflation to our 2 percent objective. 
 At today’s meeting, the Committee raised the target range for the federal funds rate by 
-¼ percentage point, bringing the target range to 5 to 5¼ percent.  And we’re continuing to [carry 
+0.25 percentage point, bringing the target range to 5 to 5.25 percent.  And we’re continuing to [carry 
 out] the process of significantly reducing our securities holdings. 
 With today’s action, we have raised interest rates by 5 percentage points in a little more 
 than a year.  We are seeing the effects of our policy tightening on demand in the most interest 
@@ -341,7 +341,7 @@ we’ll factor that into our decisionmaking.
 MICHELLE SMITH.  Howard. 
 HOWARD SCHNEIDER.  Howard Schneider with Reuters.  Thank you.  So, noting that 
 the statement dropped the reference to “sufficiently” restricted—“restrictive,” I was wondering, 
-given your baseline outlook, whether you feel this current rate of 5 to 5¼ percent is, in fact, 
+given your baseline outlook, whether you feel this current rate of 5 to 5.25 percent is, in fact, 
 sufficiently restrictive. 
 CHAIR POWELL. That’s going to be an ongoing assessment.  We’re going to need data 
 to accumulate on that—not an assessment that we’ve made, as—that, that would mean we think 
@@ -479,7 +479,7 @@ quarter GDP at that point.  They could have been thinking about a fairly low num
 in any case, I’ll just say, I, I continue to think that it’s possible that this time is really different.  
 And the reason is, there’s just so much excess demand, really, in the labor market.  It’s, it’s 
 interesting, as, you know, we’ve raised rates by 5 percentage points in 14 months, and the 
-unemployment rate is 3½ percent, pretty much where it was—even lower than where it was 
+unemployment rate is 3.5 percent, pretty much where it was—even lower than where it was 
 when we started.  So job openings are still very, very high.  We see—by surveys and much, 
 
 

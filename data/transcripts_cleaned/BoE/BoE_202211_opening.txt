@@ -77,13 +77,13 @@ At the time of the August Report, the market-implied path for Bank Rate rose to 
 peak of about 3% in March 2023.  By the Committee’s September policy 
 announcement, on 22 September, the peak was 5%, one year ahead.  On 27 
 September, when turmoil in the market was most intense, the path reached its 
-highest peak, at nearly 6½% in November 2023.  At the market close yesterday, it 
-stood at about 4¾%. 
+highest peak, at nearly 6.5% in November 2023.  At the market close yesterday, it 
+stood at about 4.75%. 
  
 Given these moves, we have conditioned our November forecast on an average of 
 the market-implied paths over the final 7 days of our usual 15-day window.  This 
 means that the forecast we present today is conditioned on a path for Bank Rate that 
-rises to a peak of 5¼% in the second quarter of next year.  Despite the shorter 
+rises to a peak of 5.25% in the second quarter of next year.  Despite the shorter 
 window, this is substantially higher than in August.  
  
 – – – CHART 2 – – – 
@@ -170,7 +170,7 @@ CPI inflation projection.
  
 Looking further ahead, the MPC expects domestic inflationary pressures to remain 
 strong over the next year.  But in its central projection, which is conditioned on the 
-market-implied path for Bank Rate that rises to 5¼%, inflation then falls sharply.  It 
+market-implied path for Bank Rate that rises to 5.25%, inflation then falls sharply.  It 
 reaches 1.4% at the end of second year, below the 2% target, and it falls to 0% at 
 the end of the third year.   
  

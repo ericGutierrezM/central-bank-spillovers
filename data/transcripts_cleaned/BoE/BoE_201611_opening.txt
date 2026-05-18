@@ -50,7 +50,7 @@ investment.
 Both consumption and housing have benefitted from a smaller drag from uncertainty and 
 very supportive financial conditions. These positives are neither solely due, nor totally 
 unrelated, to the actions the MPC took in August.  
-These measures are working. Variable mortgage rates have fallen by the full ¼% and new 
+These measures are working. Variable mortgage rates have fallen by the full 0.25% and new 
 fixed-term mortgage rates are down by more. Rates on floating loans to businesses are down 
 by around 15 basis points and sterling corporate bond issuance has picked up strongly. For 
 those looking to borrow, credit is widely available. For those with debts, the cost is cheaper. 
@@ -89,7 +89,7 @@ weaker in the medium term compared to the Committee’s August projections.
 Despite that more modest medium-term growth outlook, CPI inflation is expected to be 
 higher throughout the three-year forecast period than in the Committee’s August projections.  
 This is largely the result of the renewed depreciation of sterling. In our central projection, 
-inflation rises from its current level of 1% to around 2¾% in mid-2018 before beginning to 
+inflation rises from its current level of 1% to around 2.75% in mid-2018 before beginning to 
 fall back gradually thereafter. 
 The balance of stronger near-term consumer demand, a modest supply outlook, and a lower 
 sterling exchange rate, implies a more challenging trade-off between returning inflation 

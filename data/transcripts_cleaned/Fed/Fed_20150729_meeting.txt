@@ -6412,7 +6412,7 @@ I think there’s even a third reason that hasn’t been talked about as much, a
 situation has really changed since our earlier discussions on reinvestment.  Specifically, the 
 normalization process has slowed down.  Liftoff is going to be later than expected, and the pace 
 of increases is going to be slower. I looked back: The median interest rate forecast in the June 
-2014 SEP showed the policy rate at 1⅛ percent at year-end 2015 and 2½ percent at year-end 
+2014 SEP showed the policy rate at 1.125 percent at year-end 2015 and 2.5 percent at year-end 
 2016. Current expectations are far below that.  Of course, the reason why liftoff is later and the 
 path is lower is that in June 2014, the central tendency for 2015 economic growth was 3.0 to 
 3.2 percent, compared with 1.8 to 2.0 percent in the June 2015 SEP.  What has happened is, as 
@@ -7947,7 +7947,7 @@ On the inflation side, we expect the data readings you will have in hand to stay
 low even through the time of the December meeting.  In the baseline forecast, we 
 now have the three-month change in total PCE prices stepping down noticeably after 
 the September meeting, reflecting the projected energy price declines I mentioned 
-earlier.  Core inflation is expected to run slightly below 1½ percent, with the 
+earlier.  Core inflation is expected to run slightly below 1.5 percent, with the 
 three-month changes expected to be held down some by residual seasonality, which 
 looks to us to weigh most heavily on core inflation in the latter part of this year. 
 Having shown you these values that would be consistent with our baseline 
@@ -8048,7 +8048,7 @@ Although on the order of €25 billion will be used to recapitalize the badly da
 banking system, nearly €55 billion goes out the door to service earlier loans from the 
 IMF and European creditors.  Even with this assistance, Greece will likely be 
 required to run primary budget surpluses—that is, budget balances excluding interest 
-payments—of 1½ percent of GDP in the next two years, rising to 3½ percent in 2018.  
+payments—of 1.5 percent of GDP in the next two years, rising to 3.5 percent in 2018.  
 This burden will be very difficult to bear, considering that Greek GDP—panel 1— 
 will almost certainly plummet this quarter, and that the current government is far 
 from committed to the austerity measures it has promised.  Accordingly, Greece will 
@@ -8059,7 +8059,7 @@ While the developments of the past month have further worsened Greece’s
 outlook, they’ve had little effect on prospects for the euro area more generally.  As 
 Simon has described, financial markets outside Greece were little affected.  And 
 indicators of euro-area economic activity have generally pointed to continued 
-recovery.  As shown in panel 2, we’ve marked down economic growth ¼ percentage 
+recovery.  As shown in panel 2, we’ve marked down economic growth 0.25 percentage 
 point in the third quarter, but that solely reflects the arithmetic effects of Greece’s 
 deep contraction on euro-area GDP.  Beyond the near term, we’ve actually boosted 
 the forecast a touch to reflect lower oil prices and the weaker euro exchange rate.  But 
@@ -9340,7 +9340,7 @@ we often make those assumptions in our trade models, too.  In fact, our model in
  
 July 28–29, 2015
 105 of 265
-features such that when the dollar goes up 10 percent, exports fall by 7½ percent. That implies a 
+features such that when the dollar goes up 10 percent, exports fall by 7.5 percent. That implies a 
 responsiveness of trade to the dollar that is actually less than 1.  And on the import side, we have 
 even smaller responses to a change in the dollar.  So the merits of further compressing those 
 trade responses don’t seem great. You raise a question that we are definitely in the process of 
@@ -10216,7 +10216,7 @@ general, other than in the Northeast, the ECI has increased only modestly.  It t
 large portion of the increase in 2015:Q1 had to do with a sizable jump in compensation for 
 private industry workers in New England.  The seasonally unadjusted quarterly change from the 
 previous quarter was about 20 percent.  On a Q4-over-Q4 basis, the rate of growth was 
-7½ percent. The increase was even larger for the wages-and-salaries component, indicating the 
+7.5 percent. The increase was even larger for the wages-and-salaries component, indicating the 
 jump was likely not concentrated in benefits. 
 There are several issues associated with how to interpret the New England ECI reading. 
 For instance, the jump in the ECI was mostly driven by incentive-paid occupations, such as sales. 
@@ -10453,7 +10453,7 @@ report on the research you’ve done on the ECI.  I’ll have to think about tha
 Speaking of the national picture, the data we’ve received since the last meeting are quite 
 consistent with the outlook we had back in June, so I think I can be brief.  My projections of real 
 GDP remain similar to the Tealbook’s, with economic growth through 2017 averaging between 
-2 and 2½ percent, and continued improvement in labor markets.  On inflation, over the last four 
+2 and 2.5 percent, and continued improvement in labor markets.  On inflation, over the last four 
 months for which we have data, the core CPI has increased at an annual rate of 2.4 percent, and 
 the core PCE price index has increased at a 1.7 percent rate.  Granted, four months might be too 
 short an interval to get excited about, and some residual seasonality could be at work, as 
@@ -10613,7 +10613,7 @@ construction industries report strong demand and generally good conditions, whil
 sectors, such as steel, that are exposed to the appreciation of the dollar, lower drilling activity for 
 oil and gas extraction, and falling commodity prices report slower activity. 
 Conditions in District labor markets continue to improve.  Over the first five months of 
-the year, the Fourth District unemployment rate has been stable at around 5¼ percent.  For the 
+the year, the Fourth District unemployment rate has been stable at around 5.25 percent.  For the 
 year ending in May, District payroll growth continued to edge up, to 1.6 percent.  This is 
 somewhat slower than the national pace of 2.2 percent but in line with demographic differences 
 between the District and the nation. 
@@ -10757,10 +10757,10 @@ I expect economic growth to rise to an above-trend pace later this year and next
 will support continued improvement in labor markets.  Over the intermeeting period, payrolls 
 continued to expand at a solid pace, and measures of unemployment and underemployment 
 moved lower.  And over the past year, the economy has created an average of 245,000 jobs per 
-month, and nonfarm payrolls are now 3½ million above their previous peak before the recession.  
+month, and nonfarm payrolls are now 3.5 million above their previous peak before the recession.  
 Although average hourly earnings remain subdued, we’re beginning to see signs that wage 
 growth is picking up.  Year-over-year gains in the employment cost index rose from under 
-2 percent in the first quarter of last year to over 2½ percent in the first quarter of this year. 
+2 percent in the first quarter of last year to over 2.5 percent in the first quarter of this year. 
 In my view, the evidence suggests that the economy is at or nearly at the Fed’s mandated 
 monetary policy goal of maximum employment.  This isn’t to say there aren’t longer-term issues 
 affecting the labor market.  Workforce development is a key issue for this country.  We want to 
@@ -10856,7 +10856,7 @@ our economy and for monetary policy if trend productivity growth remains low.
 Inflation continues to run below our 2 percent target, but recent readings show signs of 
 firming.  On a year-over-year basis, headline CPI, core CPI, and the Federal Reserve Bank of 
 Cleveland’s median CPI measure edged up in June.  The median CPI continues to run at about 
-2¼ percent. The Federal Reserve Bank of Cleveland’s inflation nowcast, like the Tealbook, has 
+2.25 percent. The Federal Reserve Bank of Cleveland’s inflation nowcast, like the Tealbook, has 
 headline PCE inflation rebounding from a decline at an annual rate of 2 percent in the first 
 quarter to a 2 percent rate in the second quarter and core PCE inflation moving up from a 0.8 
 percent rate in Q1 to a 1.7 percent rate in Q2. 
@@ -11593,7 +11593,7 @@ CHAIR YELLEN.  Thank you.  President Williams.
 MR. WILLIAMS.  Thank you, Madam Chair.  Data released in the past few months 
 underscore the transitory nature of the measured first-quarter weakness and confirm that the 
 economy is on a solid growth path.  Looking forward, I expect real GDP growth to average about 
-2½ percent for the remainder of the year before slowing to a more sustainable pace next year. 
+2.5 percent for the remainder of the year before slowing to a more sustainable pace next year. 
 With growth above trend, I expect continued progress in closing output and unemployment gaps 
 and in moving inflation back to our 2 percent target. 
 
@@ -11764,7 +11764,7 @@ optimism about renewed Iranian oil exports should only temporarily depress infla
 A bigger concern is the dollar appreciation, which has been sizable over the past year and 
 may well continue.  The dollar appreciation has a considerable but transitory effect on inflation.  
 The consensus from recent research is that a 10 percent rise in the dollar knocks about 
-½ percentage point off core inflation in the first year. This effect alone explains much of the 
+0.5 percentage point off core inflation in the first year. This effect alone explains much of the 
 shortfall in core inflation that we’ve been seeing of late. Importantly, though, this effect quickly 
 
 
@@ -11912,7 +11912,7 @@ July 10, 2015.  Similarly, the staff forecast for unemployment tends to be highe
 sector forecasts, as described by the Blue Chip.  The staff’s forecast of unemployment falls to 
 5.2 percent by the end of 2016—just 0.1 percentage point lower than today over the next 
 18 months—and to 5.1 percent by the end of 2017—just 0.2 percentage point lower than today 
-over the next 2½ years. 
+over the next 2.5 years. 
 I have said before that I do not see this as a credible forecast, taking into account the 
 declines in unemployment in the recent past.  My view is that unemployment is more likely to 
 continue to fall further, and that this should be part of the baseline case for this Committee.  One 
@@ -11986,7 +11986,7 @@ other words, the trend line would run through the data.  This would likely sugge
 improvement in the labor force participation rate. 
 The Tealbook also provides what the unemployment forecast would be without these 
 assumptions.  On page 20, changing either assumption would send the unemployment rate below 
-4½ percent over the forecast horizon.  Changing both assumptions likely sends the 
+4.5 percent over the forecast horizon.  Changing both assumptions likely sends the 
 unemployment rate below 4 percent over the forecast horizon. Some version of these alternative 
 scenarios would provide a better benchmark case for this Committee, in my view, and would be 
 more consistent with available private-sector forecasts.  An additional consideration in my mind 
@@ -12617,9 +12617,9 @@ issue of how much hours worked would increase if the other measures of unemploym
 Ayşegül Şahin, who is sitting over here, has done a lot of work on this.  And when you actually 
 ask yourself the question of how much hours worked would you get if all these other measures 
 normalize, it’s not as much as you might think or hope.  It suggests that maybe the 
-unemployment rate overstates the tightness of the labor market by about ½ percentage point.  In 
+unemployment rate overstates the tightness of the labor market by about 0.5 percentage point.  In 
 other words, if you could get U-6 down to where you’d expect it to be relative to U-3, you might 
-get about ½ percent of additional hours worked. So it points in the right direction of saying that 
+get about 0.5 percent of additional hours worked. So it points in the right direction of saying that 
 you have some extra labor market slack, but it’s not a huge increment of slack, in my opinion.  
 Thank you, Madam Chair. 
 CHAIR YELLEN.  Thank you.  Governor Fischer. 
@@ -13442,7 +13442,7 @@ investment, and the recent bottoming out in oil rig counts indicates that the su
 that sector may have run its course. Although the recent further decline in oil prices may spur a 
 bit more of a pullback, I don’t expect that it will be as extreme as what we’ve just been through.  
 So the second half should be stronger than the first.  The staff’s second-half GDP forecast is 
-notably more downbeat than that of private forecasters, most of whom seem to be at 2½ percent 
+notably more downbeat than that of private forecasters, most of whom seem to be at 2.5 percent 
 or above.  David Wilcox noted earlier that that was principally due, we think, to net exports.  
 We’re not submitting a real GDP growth forecast for this round, but I feel that, at a minimum, 
 there’s risk to the upside. 
@@ -13523,12 +13523,12 @@ seems likely to be with us as long as global economic growth remains weak, and t
 decline in commodity prices does suggest that that could be a while. 
 Turning to inflation, the other half of our mandate:  The price and wage data clearly 
 present some challenges. The staff estimates that total PCE inflation was only 0.2 percent for the 
-12 months ending in June, and that core inflation was only 1¼ percent. Of course, headline 
+12 months ending in June, and that core inflation was only 1.25 percent. Of course, headline 
 inflation is being pulled down by oil prices, and that will end. The staff estimates that core 
 inflation is also being held down about 40 basis points by the indirect effects of energy and 
 import prices.  That would suggest that underlying core inflation may be around 1.7 percent.  It 
 therefore seems to me reasonable to expect, with some degree of confidence, that core and total 
-inflation will move back up to 1¾ percent once these temporary factors are behind us.  However, 
+inflation will move back up to 1.75 percent once these temporary factors are behind us.  However, 
 the recent decline in oil prices and the appreciation of the dollar will restrain inflation throughout 
 the second half of this year and, to a much lesser extent, next year, and that may present a real 
 communications challenge throughout the fall as the Committee considers liftoff. 
@@ -13754,9 +13754,9 @@ norms, and the same is true of the share of employees working part time for econ
 That said, the labor market certainly continues to show improvement. 
 In contrast, incoming data so far have not provided grounds for reasonable confidence on 
 the inflation leg of our dual mandate.  The recent data suggest an underlying trend of price 
-inflation of around 1¼ to 1½ percent.  The 12-month change in core PCE prices, for example, is 
-estimated to have been 1¼ percent in June, while the 12-month change in the Federal Reserve 
-Bank of Dallas trimmed mean was 1½ percent in May. These rates are quite similar to the 1¼ 
+inflation of around 1.25 to 1.5 percent.  The 12-month change in core PCE prices, for example, is 
+estimated to have been 1.25 percent in June, while the 12-month change in the Federal Reserve 
+Bank of Dallas trimmed mean was 1.5 percent in May. These rates are quite similar to the 1.25 
 percent average pace of core inflation over the past several years. As the effect of dollar 
 appreciation on core import prices fades and resource utilization tightens further, I would expect 
 that inflation will rise toward our 2 percent target. But, in view of the absence of any noticeable 
@@ -13905,7 +13905,7 @@ since earlier in the year when we set out as a condition for liftoff that we nee
 improvement in the labor market.  Based on your comments, I think this view was pretty widely 
 shared.  The unemployment rate is down from 5.5 percent at the time of our March meeting to 
 5.3 percent in the June report, and the improvement in broader measures of labor utilization has 
-been more noticeable, with U-6 down from 11 percent to 10½ percent now.  The labor force 
+been more noticeable, with U-6 down from 11 percent to 10.5 percent now.  The labor force 
 participation rate is down a bit since the March meeting, and the employment-to-population ratio 
 is unchanged, but the sideways movement of the employment-to-population ratio represents an 
 improvement on the underlying demographic trend.  So the staff estimates that the cyclical 
@@ -14057,7 +14057,7 @@ appreciably in the second half of the year and, especially, in the fourth quarte
 face a communications challenge if we choose to lift off this year because headline PCE inflation 
 on a 12-month basis is likely to remain close to zero until early 2016.  And, as David showed, 
 referencing core inflation may not be of much help either, as the staff projects the available 
-readings on 12-month core PCE inflation to continue to run close to 1¼ percent through the 
+readings on 12-month core PCE inflation to continue to run close to 1.25 percent through the 
 December meeting. 
 At liftoff, we will need to make a good case for projecting that inflation is heading back 
 to 2 percent.  To me, that case largely rests on the basic nature of the inflation process. Based on 
@@ -14288,7 +14288,7 @@ Second, I’d note that it’s likely to be quite a while before the Committee c
 confident of its outlook that inflation will return to our 2 percent objective.  Based on the staff 
 forecast, we will have to wait until early 2016 for the data to confirm that the inflation effects of 
 lower oil prices and a higher dollar were, indeed, completely transitory.  It will take yet longer to 
-confirm that inflation is moving back to 2 percent rather than just plateauing at around 1½ 
+confirm that inflation is moving back to 2 percent rather than just plateauing at around 1.5 
 percent.  With verification of our basic inflation forecast likely to emerge so gradually, the 
 normalization process will probably need to proceed quite cautiously.  We may also want to 
 explore alternatives to the “reasonably confident” language in our public statements, both at 

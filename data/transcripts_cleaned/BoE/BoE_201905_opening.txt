@@ -43,10 +43,10 @@ Overall GDP growth appears bang in line with our forecast.  However, its expendi
 components are substantially different, with the expected rotation from consumption towards 
 business investment and net exports failing to materialise.   
 Instead, higher employment and stronger wage growth meant that household consumption 
-was stronger than anticipated, growing by 2% versus 1½% expected.  
+was stronger than anticipated, growing by 2% versus 1.5% expected.  
 Offsetting that positive news, business investment fell by more than 2% rather than growing 
-by 4%.  And net trade subtracted ½ a percentage point from the expansion instead of 
-contributing ¾ of a percentage point to growth.  
+by 4%.  And net trade subtracted 0.5 a percentage point from the expansion instead of 
+contributing 0.75 of a percentage point to growth.  
 Businesses 
 This pattern looks set to continue in the near term.  
 The latest business investment intentions surveys point to further declines over the next few 
@@ -68,7 +68,7 @@ Stock building has been central to the plans of over two-fifths of survey respon
 boosting GDP in the first quarter.   
 Nevertheless, it remains the case that companies are only as ready as they can be, and they 
 expect a marked decline in the rate of growth, investment and employment in the event of a 
-hard Brexit.  In recent surveys, firms expected their output would fall by 3½% in the event of 
+hard Brexit.  In recent surveys, firms expected their output would fall by 3.5% in the event of 
 a no deal no transition Brexit.  
 Faced with a high option value of waiting for news about Brexit, companies in aggregate 
 appear to have favoured hiring relative to capital investment. 
@@ -129,7 +129,7 @@ above potential rates.
 5 
 - 
 Excess demand rises slightly above 1% by the end of the forecast period, notably 
-higher than in February, with the unemployment rate projected to decline to 3½%. 
+higher than in February, with the unemployment rate projected to decline to 3.5%. 
 The emergence of excess demand leads to a strengthening of domestic inflationary pressures, 
 more than offsetting the fading contribution from import and energy prices, such that 
 inflation rises above target in two years’ time and continues rising through the end of the 

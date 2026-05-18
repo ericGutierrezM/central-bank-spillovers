@@ -35,7 +35,7 @@ Gas futures prices have also come down markedly.
 CPI inflation projection with direct energy contribution 
  
 This chart shows the MPC’s central projection for inflation, which is conditional on a 
-market-implied path for Bank Rate that peaks at around 4½% by the middle of this 
+market-implied path for Bank Rate that peaks at around 4.5% by the middle of this 
 year.  In the central projection, consumer price inflation falls to about 4% towards the 
 end of the year.  The purple bars illustrate that a sizeable part of this fall can be 
 explained by direct effects from energy prices.   

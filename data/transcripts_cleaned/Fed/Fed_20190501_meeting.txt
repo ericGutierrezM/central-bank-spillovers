@@ -765,7 +765,7 @@ After all, we describe monetary policy as being data dependent.  Thus, compared 
 I would prefer to place relatively more weight on the short run to medium run.  Monetary policy 
 should be for the living. 
 In this respect, if we take the Tealbook as the baseline outlook, we are confronted with a 
-projected path of the federal funds rate that, up to 2024, reaches only 2¾ percent.  The real 
+projected path of the federal funds rate that, up to 2024, reaches only 2.75 percent.  The real 
 outlook associated with this federal funds rate is one of a prolonged growth recession of the kind 
 we have yet to see in the post–World War II period.  The Tealbook is well aware of the fragility 
 April 30–May 1, 2019
@@ -789,7 +789,7 @@ enough to offset even a modest-sized recession.
 An increase in the unemployment rate above its natural level of roughly 200 basis points 
 would, per estimates that are consistent with FRB/US, require a monetary policy offset in the 
 federal funds rate of roughly 400 basis points for about two years.  In short, whether the 
-equilibrium federal funds rate is at 2½ percent or at 1¾ percent, according to the memo estimates 
+equilibrium federal funds rate is at 2.5 percent or at 1.75 percent, according to the memo estimates 
 for the short-maturity portfolio, it may not make much of a difference from a practical 
 standpoint.  Policy is very likely to be constrained by the zero lower bound in the event of a 
 recession even under the current maturity configuration, all skewed toward the long end of the 
@@ -900,8 +900,8 @@ eventual scope and scale of these changes are highly uncertain and would take so
 develop, and they could generate other costs.  I’ll come back to this.  I found figure 4, which is 
 the bottom-left chart in the handout, useful to think about the r* issue.  It depicts the federal 
 funds rate paths for two portfolio strategies:  one with a short-maturity target portfolio and a 
-neutral funds rate a little above 1½ percent, and one with a proportional target portfolio and a 
-neutral federal funds rate closer to 2½ percent.  We need to ask which of these configurations 
+neutral funds rate a little above 1.5 percent, and one with a proportional target portfolio and a 
+neutral federal funds rate closer to 2.5 percent.  We need to ask which of these configurations 
 would yield better macroeconomic outcomes over time. 
 Because of the added cost of hitting the lower bound more frequently, for the short-
 maturity strategy to come out ahead, it would have to perform better at the lower bound.  That is, 
@@ -1737,7 +1737,7 @@ going to pay the price of a tighter stance of monetary policy during the transit
 there’s not a long-run effect, you do pay with—as you are shortening the portfolio, that pushes 
 the term premium up for a number of years, and that is a lower r* that you have to live with. 
 Now, when you think about a lower r* that you have to live with for the next five years 
-or something, that’s kind of a scary thought.  So if you think about an r* that’s 2½ percent, and 
+or something, that’s kind of a scary thought.  So if you think about an r* that’s 2.5 percent, and 
 April 30–May 1, 2019
 58 of 248
 
@@ -2693,7 +2693,7 @@ changes we made to the projection in this round.  First, we took onboard the
 downward revision to measured household wealth for last year that was reported in 
 the most recent release of the Financial Accounts of the United States, and we also 
 took on higher oil prices.  Together, these two factors, which are included in the red 
-portion of the bars, shaved about ¼ percent off of the level of output by the end of the 
+portion of the bars, shaved about 0.25 percent off of the level of output by the end of the 
 medium term.  Second, we also took the opportunity to assess other aspects of our 
 April 30–May 1, 2019
 85 of 248
@@ -2763,7 +2763,7 @@ MS. WILSON.4  Thank you, Stacey.  I can literally say without exaggeration that
 this forecast is hot off the press.  This morning we got critical real indicators for a 
 daunting number of economies, including the euro area, China, Canada, Mexico, 
 Taiwan, and Korea.  And it was a decidedly mixed bag.  On the plus side, first-quarter 
-euro-area GDP rose 1½ percent from below 1 percent in Q4.  And after Chinese GDP 
+euro-area GDP rose 1.5 percent from below 1 percent in Q4.  And after Chinese GDP 
 came in at a strong 7.3 percent in Q1, today April official Chinese PMI data retraced 
 only a bit of their March surge.  On the minus side, however, the flash GDP release 
 for Mexico showed a contraction in the first quarter (as did Korea’s advance release 
@@ -2787,7 +2787,7 @@ United States have also left a “footprint” on the international forecast (di
 slide 4).  For starters, the more robust U.S. outlook and lower interest rates provide 
 some boost to foreign growth in coming years.  And the lower U.S. interest rate path 
 means less dollar appreciation (shown to the left), putting the level of the dollar about 
-2¾ percent lower at the end of 2021 than in March.  On balance, these changes have 
+2.75 percent lower at the end of 2021 than in March.  On balance, these changes have 
  
 4 The materials used by Ms. Wilson are appended to this transcript (appendix 4). 
 April 30–May 1, 2019
@@ -2893,7 +2893,7 @@ extend the measure of aggregate TPU to exploit variation in trade uncertainty
 associated with sizable shifts in trade policy during the Nixon and Ford 
 Administrations, as well as recently.  This series allows them to identify a significant 
 effect of TPU on aggregate U.S. investment, the magnitude of which implies that the 
-recent jump in TPU may have lowered investment 1½ percent, seen in line 1 of the 
+recent jump in TPU may have lowered investment 1.5 percent, seen in line 1 of the 
 table. 
 The second approach exploits the fact that firm-level variation in trade policy 
 uncertainty is often sizable, even when aggregate variation is small.  From the results 
@@ -2907,7 +2907,7 @@ and the general rise in uncertainty about trade policy can affect demand.  The r
 of the model (line 3) again suggest a combined negative effect on investment of about 
 1 percent over a few years. 
 The approaches differ, but the results are remarkably consistent—a modest 1 to 
-1½ percent drag on the level of investment over several years, which, given the share 
+1.5 percent drag on the level of investment over several years, which, given the share 
 of investment in the U.S. economy, translates into a hit to GDP growth of around a 
 tenth a year. 
 Why, then, have concerns about uncertainties posed by trade policy seemed so 
@@ -3666,7 +3666,7 @@ disputes, and that overall compensation increases will be driven by benefits in 
 labor markets. 
 My own forecast differs from that of the Tealbook in this respect.  The Tealbook has the 
 employment cost index (ECI) moving from 3 percent for 2018 down to 2.7 percent in 2021 
-despite the unemployment rate falling to 3½ percent.  In contrast, even though I do not have the 
+despite the unemployment rate falling to 3.5 percent.  In contrast, even though I do not have the 
 labor markets tightening quite as much, I expect the ECI to continue to gradually move up. 
 April 30–May 1, 2019
 115 of 248
@@ -3877,11 +3877,11 @@ contacts noticed some first-quarter weakness.  At least some of that weakness wa
 clients having pulled orders forward in an attempt to avoid tariff-related price increases. 
 Manufacturers in the District that are domestically focused are faring better than those 
 that have relatively high exposure to international markets.  Our directors anticipate real GDP 
-growth to be between 2 to 2½ percent this year. 
-District labor market conditions remain strong.  After being 4½ percent for all of last 
-year, the unemployment rate edged down to 4.3 percent in March, more than ½ percentage point 
+growth to be between 2 to 2.5 percent this year. 
+District labor market conditions remain strong.  After being 4.5 percent for all of last 
+year, the unemployment rate edged down to 4.3 percent in March, more than 0.5 percentage point 
 below the Cleveland staff’s estimate of its longer-run normal level.  Year-over-year growth in 
-payroll employment was ¾ percent in March, a bit slower than earlier this year but still well 
+payroll employment was 0.75 percent in March, a bit slower than earlier this year but still well 
 above the Cleveland staff’s estimate of its longer-run trend. 
 Firms are dealing in a number of ways with the continued difficulty in finding qualified 
 workers.  Some business contacts are limiting drug screenings to the extent they can, and more 
@@ -3932,7 +3932,7 @@ If the economic expansion is to be sustained, it’s likely that job growth will
 decelerate from its current strong pace to a pace more in keeping with trend, which most 
 estimates put in a range of 75,000 to 120,000 per month.  Despite t.his gradual moderation, job 
 gains over the next few years should be strong enough to keep the unemployment rate under 
-4 percent, well below estimates of its longer-run level, which I put at 4½ percent. 
+4 percent, well below estimates of its longer-run level, which I put at 4.5 percent. 
 The inflation readings were disappointing.  As expected, recent headline PCE inflation 
 has been soft, reflecting the drop in energy prices in the fourth quarter of last year.  Oil prices 
 have since moved up, so some of this weakness is expected to reverse.  More of a concern, core 
@@ -4239,9 +4239,9 @@ more this year beyond the modest increases that were already in place.
 For the national outlook, the incoming monthly data suggest that the first-quarter 
 weakness in private domestic final demand likely will turn out to be a minor pothole.  Downside 
 risks remain, but they appear to have abated a good deal.  We boosted our forecast of real GDP 
-growth in 2019 to 2¼ percent.  Our outlook for 2020 and 2021 is mostly unchanged.  We are 
+growth in 2019 to 2.25 percent.  Our outlook for 2020 and 2021 is mostly unchanged.  We are 
 projecting a moderate slowdown in growth beginning next year, largely reflecting the declining 
-impulse from fiscal policy.  We see the unemployment rate averaging 3¾ percent over the 
+impulse from fiscal policy.  We see the unemployment rate averaging 3.75 percent over the 
 projection period, and our long-run neutral rate is 4.3 percent. 
 The news on inflation has not been good.  The recent data on core inflation have softened 
 considerably.  Perhaps there are special temporary factors operating.  However, I am highly 
@@ -4359,7 +4359,7 @@ do with respect to that issue.  So thank you, Mr. Chair.
 CHAIR POWELL.  Thank you.  President Kaplan. 
 MR. KAPLAN.  Thank you, Mr. Chairman.  Everything we are seeing in the 11th District 
 is consistent with solid growth, although at a somewhat slower pace than last year.  We currently 
-expect Texas job growth of between 1½ and 2 percent during 2019.  That compares with 
+expect Texas job growth of between 1.5 and 2 percent during 2019.  That compares with 
 2.3 percent growth last year.  But I would say, our manufacturing- and service-sector surveys and 
 our discussion with contacts suggest business seems to be stabilizing after weakness in the fourth 
 quarter of 2018. 
@@ -4442,7 +4442,7 @@ shale is going to keep up globally.  We’ve been saying this for a while.  It�
 elevated pressure on oil prices. 
 Last couple of comments.  We continue to see improvement in stabilization of the U.S. 
 economy.  Our own Dallas Fed economists now forecast that growth will be approximately 
-2¼ percent this year, close to the Tealbook.  We would note that our business contacts, while 
+2.25 percent this year, close to the Tealbook.  We would note that our business contacts, while 
 they are more confident about the outlook, continue to be concerned about margin pressure, cost 
 increases, input increases, and lack of pricing power.  We think this is very consistent with S&P 
 earnings growth.  While better than expected—just a reminder, S&P earnings growth is going to 
@@ -4545,7 +4545,7 @@ a whole.  This was a better reading than many had expected.  But, underneath the
 number, the data on aggregate demand illustrated tentative signs of slowing growth.  In 
 particular, there was a step-down in growth in the categories of consumer spending and business 
 investment.  Consumption growth dropped to 1.2 percent in the first quarter after registering a 
-2½ percent pace in the fourth quarter of last year.  I would note, however, that there were some 
+2.5 percent pace in the fourth quarter of last year.  I would note, however, that there were some 
 temporary factors that can probably account for some of the slower domestic spending growth in 
 the first quarter.  Among those, I would include the government shutdown, slower-than-usual tax 
 refund payments, and possibly some lingering caution after the financial market turbulence at the 
@@ -4690,7 +4690,7 @@ the labor market report earlier in the month, last Friday’s GDP report, yester
 “print” on PCE, and today’s upbeat confidence reading, those concerns have been largely laid to 
 rest.  The expansion looks likely to continue to be underpinned by confident consumers, robust 
 hiring, and supportive financial conditions. 
-The BEA on Friday reported that real GDP increased at a 3¼ percent annual rate in the 
+The BEA on Friday reported that real GDP increased at a 3.25 percent annual rate in the 
 first quarter, well above what many forecasters were expecting.  Although some components that 
 were strong in the first quarter are likely to weaken in the second quarter, nonetheless, 
 consumption growth looks likely to strengthen, leading to a solid first half in which real GDP 
@@ -4712,7 +4712,7 @@ Payroll employment increased about 180,000 per month on average over the first t
 months of the year.  Although that’s down a bit from the rapid gains of 2018, it’s enough to keep 
 the employment to population (EPOP) ratio moving up.  The unemployment rate was 3.8 percent 
 in March and has been about flat since this time last year.  During that time, the participation rate 
-and the EPOP ratio have both moved up about ¼ percentage point, suggesting that the strong job 
+and the EPOP ratio have both moved up about 0.25 percentage point, suggesting that the strong job 
 market is drawing in previously marginal workers.  Unemployment insurance claims recently hit 
 a new low for the cycle, suggesting those solid job gains are likely to continue.  And although 
 job openings ticked down in the latest survey, the current level is nonetheless higher than any 
@@ -4766,7 +4766,7 @@ effect.  Average hourly earnings rose 3.2 percent over the 12 months through Mar
 2.8 percent over the preceding 12 months, which were themselves up from the preceding year.  
 The employment cost index (ECI) doesn’t show quite as much acceleration, but, with today’s 
 release, that index is up about 2.8 percent over the past four quarters, similar to last year, and up 
-about ½ percentage point from the increase the year before that. 
+about 0.5 percentage point from the increase the year before that. 
 The broader economic context provides some reassurance.  Nonetheless, I remain 
 concerned about the soft underlying trend.  As I have been saying for several years now, a 
 variety of statistical filtering models suggest that underlying trend inflation has been running 
@@ -4883,7 +4883,7 @@ Japan, South Korea, and some regions in Europe continue.  And, of course, policy
 limited in some of these areas.  Now, even with the reported progress in the China trade talks, 
 trade tensions and spillovers to financial markets still present downside risks.  Although I expect 
 some payback in growth in the second quarter, I have raised my first-half real GDP growth 
-forecast to nearly 2½ percent at an annual rate, and that is a meaningful upgrade from my March 
+forecast to nearly 2.5 percent at an annual rate, and that is a meaningful upgrade from my March 
 forecast. And, like the Tealbook, I now see GDP growth for this year to be a tad above 2 percent.  
 That said, the outlook does remain cloudy, and it’s still too early to declare victory that we’ve 
 gone through this period of financial market turmoil and global economic uncertainty completely 
@@ -5004,7 +5004,7 @@ As Simon noted, the median respondent to the Desk’s surveys views as the most
 likely outcome no change in the target range for the federal funds rate between now 
 and the end of 2021.  When asked for the probability that they assign to outcomes for 
 the target range by the end of 2019, survey respondents assigned, on average, about 
-⅔ probability to no change.  The average probability of a rate hike before the end of 
+0.6667 probability to no change.  The average probability of a rate hike before the end of 
 the year has fallen sharply since the March surveys, from about 50 percent to 
  
 6 The materials used by Mr. Laubach are appended to this transcript (appendix 6). 
@@ -5072,7 +5072,7 @@ economic activity were accumulating.  Even though the Committee regarded
 out insurance against the risk of a sharper slowdown in economic activity by reducing 
 the funds rate target 25 basis points in July, and it did so again at its December 1995 
 and January 1996 meetings.  In the event, the unemployment rate, which had 
-remained near 5½ percent during 1995, resumed its downward trend in 1996.  At the 
+remained near 5.5 percent during 1995, resumed its downward trend in 1996.  At the 
 same time, core inflation peaked near 3 percent in the fall of 1995 and then began to 
 decline even as the expansion gathered momentum. 
 Of course, there are many differences between the situation in the mid-1990s and 
@@ -5486,7 +5486,7 @@ strong labor markets, and stable inflation expectations.  In this case, a strate
 be the best from a balanced-approach perspective.  Following such a strategy has gone fairly well 
 for the Committee.  From 2012 through 2018, headline PCE inflation averaged 1.4 percent, and 
 core PCE inflation averaged 1.6 percent.  At the same time, the unemployment rate fell from 
-over 8 percent to under 4 percent, and the real output growth averaged over 2¼ percent. 
+over 8 percent to under 4 percent, and the real output growth averaged over 2.25 percent. 
 The Committee began a gradual normalization of the federal funds rate starting in 
 December 2015.  Of course, one could argue that our policy reflected forecasts of inflation that 
 had it moving back up to 2 percent, an outcome that was not fully realized.  Nonetheless, in 
@@ -5529,7 +5529,7 @@ enter into a patient risk-management policy mode.  Today the outlook for activit
 appear nearly as fragile as it did at our past couple of meetings. 
 I do think there’s more to look at, however.  Namely, the news on inflation has broken 
 the wrong way—in an important way, I think—and it’s done that this year.  Core inflation 
-currently is flirting with 1½ percent, and the Tealbook forecast doesn’t have it reaching 2 percent 
+currently is flirting with 1.5 percent, and the Tealbook forecast doesn’t have it reaching 2 percent 
 until 2023, well beyond the medium-run forecast horizon.  Such a projection just doesn’t seem 
 consistent with a symmetric 2 percent inflation objective, in my opinion. 
 I will agree that today, I think, it continues to be appropriate to leave the funds rate where 
@@ -5571,9 +5571,9 @@ that GIF, every now and then, the guy hits the rim, but it falls straight down. 
 there. 
 The other is, maybe it’s going to be persistent, and we’re going to be below that unless 
 we take additional accommodative action—that, somehow, the setting of the neutral rate is not 
-consistent with how we’re doing this.  Is it possible that we’re going to get 2½ percent for 
+consistent with how we’re doing this.  Is it possible that we’re going to get 2.5 percent for 
 inflation?  That seems very difficult to imagine.  Even though the unemployment rate is at 
-3¾, you would think that that ought to be enough to help out with inflationary pressures.  But 
+3.75, you would think that that ought to be enough to help out with inflationary pressures.  But 
 I’m worrying that that’s not going to happen.  If we don’t talk about this and if we don’t make 
 sure that we get across the situation that this is worth paying attention to and we can’t let it go 
 April 30–May 1, 2019
@@ -5583,8 +5583,8 @@ April 30–May 1, 2019
  
 on, or else we will underrun our inflation objective, I worry about giving the appearance of 
 inflation complacency. 
-Is this a big deal?  Is this important?  I mean, 1¾ percent inflation—it isn’t so bad, is it?  I 
-mean, maybe we should have chosen 1½ to 2½ percent as our inflation range.  We didn’t, 
+Is this a big deal?  Is this important?  I mean, 1.75 percent inflation—it isn’t so bad, is it?  I 
+mean, maybe we should have chosen 1.5 to 2.5 percent as our inflation range.  We didn’t, 
 though.  We said 2 percent, and every time we say 2 percent and don’t live up to it, people have 
 to think about, what does that really mean?  We didn’t sign up for that. 
 So I think it’s going to be important to demonstrate that we do have that credibility.  The 
@@ -5713,14 +5713,14 @@ MR. KAPLAN.  Thank you, Mr. Chair.  I support alternative B as written, although
 would echo what President Bullard said about dropping the reference to global financial 
 developments, because I no longer believe that is applicable in the situation we face.  So if we 
 don’t drop it today, I think we should be scrutinizing it for the future. 
-My own view is, if the economy continues to grow in the range of 2¼ percent in 2019 
+My own view is, if the economy continues to grow in the range of 2.25 percent in 2019 
 and the trimmed mean from our point of view is in the range of 2 percent, I believe that our 
 April 30–May 1, 2019
 187 of 248
 
 
  
-policy setting of 2¼ to 2½ percent is roughly appropriate for the time being.  But I would 
+policy setting of 2.25 to 2.5 percent is roughly appropriate for the time being.  But I would 
 emphasize that the key words here are “for the time being.” 
 In the next several months, I’ll be particularly monitoring the following things:  number 
 one, trends in growth outside the United States.  And I’ll continue to check and see how those 

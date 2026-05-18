@@ -22,7 +22,7 @@ so far are yet to be felt.  Even so, we have more work to do.  Price stability i
 of the Federal Reserve and serves as the bedrock of our economy.  Without price stability, the 
 economy doesn’t work for anyone.  In particular, without price stability, we will not achieve a 
 sustained period of strong labor market conditions that benefit all. 
-Today, the FOMC raised our policy interest rate by ½ percentage point.  We continue to 
+Today, the FOMC raised our policy interest rate by 0.5 percentage point.  We continue to 
 anticipate that ongoing increases will be appropriate in order to attain a stance of monetary 
 policy that is sufficiently restrictive to return inflation to 2 percent over time.  In addition, we are 
 continuing the process of significantly reducing the size of our balance sheet.  Restoring price 
@@ -90,9 +90,9 @@ those least able to meet the higher costs of essentials like food, housing, and 
 are highly attentive to the risks that high inflation poses to both sides of our mandate, and we are 
 strongly committed to returning inflation to our 2 percent objective. 
 At today’s meeting, the Committee raised the target range for the federal funds rate by 
-½ percentage point, bringing the target range to 4¼ to 4½ percent.  And we are continuing the 
+0.5 percentage point, bringing the target range to 4.25 to 4.5 percent.  And we are continuing the 
 process of significantly reducing the size of our balance sheet. 
-With today’s action, we have raised interest rates by 4¼ percentage points this year.  We 
+With today’s action, we have raised interest rates by 4.25 percentage points this year.  We 
 continue to anticipate that ongoing increases in the target range for the federal funds rate will be 
 appropriate in order to attain a stance of monetary policy that is sufficiently restrictive to return 
 inflation to 2 percent over time.  Over the course of the year, financial conditions have tightened 
@@ -115,7 +115,7 @@ economic activity and inflation, the Committee decided to raise interest rates b
 today, a step-down from the 75 basis point pace seen over the previous four meetings.  Of 
 course, 50 basis points is still a historically large increase, and we still have some ways to go. 
 As shown in the SEP, the median projection for the appropriate level of the federal funds 
-rate is 5.1 percent at the end of next year, ½ percentage point higher than projected in September.  
+rate is 5.1 percent at the end of next year, 0.5 percentage point higher than projected in September.  
 The median projection is 4.1 percent at the end of 2024 and 3.1 percent at the end of 2025, still 
 above the median estimate of its longer-run value.  Of course, these projections do not represent 
 a Committee decision or plan, and no one knows with any certainty where the economy will be a 
@@ -183,7 +183,7 @@ And it could move down if inflation data are softer.
 MICHELLE SMITH.  Jeanna. 
 JEANNA SMIALEK.  Jeanna Smialek, New York Times.  Thanks for taking our 
 questions.  The SEP, like you mentioned, suggests that the Fed will be making another 
-¾ percentage points worth of rate increases in 2023.  I wonder if you would foresee that being in 
+0.75 percentage points worth of rate increases in 2023.  I wonder if you would foresee that being in 
 25 basis point increments, 50 basis point increments—sort of how you see the speed playing out 
 going forward.  And then I wonder what you’re looking at as you determine when to stop. 
 CHAIR POWELL.  So, as I’ve been saying, as we’ve gone through the course of this 
@@ -268,7 +268,7 @@ FINAL
  
 Page 9 of 23 
  
-½ percentage point, that’s positive growth.  It’s slow growth.  It’s well below trend.  It’s not 
+0.5 percentage point, that’s positive growth.  It’s slow growth.  It’s well below trend.  It’s not 
 going to feel like a boom.  It’s going to feel like very slow growth, right? 
 In that condition, labor market conditions are softening a bit.  Unemployment does go up 
 a bit.  I would say that many analysts believe that the natural rate of unemployment is actually 
@@ -402,7 +402,7 @@ year is still a very large drop in inflation from where inflation is running now
 1 percent change in inflation.  But remember that the jump[ing]-off point at the beginning of the 
 year is higher.  So, you know, we—we’re moving down still by a very large chunk.  I don’t think 
 it’s having—I don’t think the policy is having any less effect.  It’s just starting from a higher 
-level at the end of 2022.  So we’re getting down.  I believe the median is 3½ percent.  That 
+level at the end of 2022.  So we’re getting down.  I believe the median is 3.5 percent.  That 
 would be—that’s a pretty significant drop in inflation. 
 And, you know, where’s it coming from?  It’s coming from the goods sector, clearly.  By 
 the middle of next year, we should begin to see lower inflation from the housing services sector.  
@@ -509,7 +509,7 @@ expressed about the economy and the changes that you’ve made in the SEP.  And 
 if you’re reacting to the fact that the markets have loosened financial conditions or if you feel the 
 Fed may be a little bit behind on inflation, whether the recent disinflation we’re seeing is 
 transitory or not, and how this affects the idea of a soft landing if you’re projecting just 
-½ percent growth for this year. 
+0.5 percent growth for this year. 
 CHAIR POWELL.  So if I—I think I got your question.  So, you know, one thing is to 
 say is, I think our policy’s in—getting into a pretty good place now.  We’re restrictive, and I 
 think we’re—you know, we’re getting close to that level of sufficient—we think—sufficiently 
@@ -665,9 +665,9 @@ look at vacancies plus people who are actually working.  And then you can take s
 by, “Are you in the labor market?”  “Are you looking for a job or have a job?”  And you’re 4—
 more than 4 million people short.  We don’t see—despite very high wages and an incredibly 
 tight labor market, we don’t see participation moving up—which is contrary to what we thought. 
-So the upshot of all that is, the labor market is actually—it should—it’s 3½ million 
+So the upshot of all that is, the labor market is actually—it should—it’s 3.5 million 
 people, at least, smaller than it should have been based on pre-pandemic.  Just assume population 
-and reasonable growth and aging of the population; our labor force should be 3½ million more 
+and reasonable growth and aging of the population; our labor force should be 3.5 million more 
 than it is.  And that—there’re lots of easy ways to get to bigger numbers than that if you go back 
 a few more years.  So why is that?  Part of it is just accelerated retirements.  People dropped out 
 and aren’t coming back at a higher rate than expected.  Part of it is that we lost a half a million 
@@ -689,7 +689,7 @@ month ago, but I stopped short of telling Congress what to do because, you know,
 job.  And we need to, you know, do that job. 
 MICHELLE SMITH.  Thanks.  Jennifer. 
 JENNIFER SCHONBERGER.  Thank you, Chair Powell.  Jennifer Schonberger with 
-Yahoo Finance.  You say you expect growth of just ½ percent next year.  Given that you’ve said 
+Yahoo Finance.  You say you expect growth of just 0.5 percent next year.  Given that you’ve said 
 the process of raising rates and getting inflation back under control will be painful, have you had 
 discussions within the Committee and addressed how long and/or how deep of a recession you 
 would be willing to accept? 

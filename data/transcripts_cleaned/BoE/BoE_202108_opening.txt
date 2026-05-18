@@ -14,11 +14,11 @@ In some ways it is remarkable how little headline news there has been on activit
 May Monetary Policy Report. UK GDP in Q2 is expected to have risen slightly faster than expected, offset by 
 slowing momentum in Q3, as suggested by higher-frequency indicators of card spending, consumer confidence 
 and mobility, which have either levelled off or fallen slightly in recent weeks.  
-As a result, UK GDP is still expected to grow by 7¼% this year, with the economy recovering to its end 2019 
+As a result, UK GDP is still expected to grow by 7.25% this year, with the economy recovering to its end 2019 
 level towards the end of the year. Thereafter, growth is forecast to be 6% next year, and then reverts to a 
-trend rate of around 1½% in 2023. 
+trend rate of around 1.5% in 2023. 
 In the labour market, we now expect the unemployment rate to be around a quarter of a percentage point 
-lower in 2021 and 2022, declining to a level of 4¼% in 2022. This means that the profile for unemployment 
+lower in 2021 and 2022, declining to a level of 4.25% in 2022. This means that the profile for unemployment 
 now looks very different to that envisaged last year, with no spike up as support measures come to an end. 
 This points to the success of economic policy measures in avoiding a marked rise in unemployment in the face 
 of such a large downturn in economic activity.  
@@ -35,7 +35,7 @@ with both base and compositional effects. Our assessment is that after making th
 the higher numbers in unemployment and the furlough scheme, pay growth appears to have returned to near 
 pre-Covid levels. This may partly reflect frictions in the labour market.  
 The most substantial news since May has been in inflation – news which is marked by historical standards. We 
-now expect inflation to peak at 4% in Q4 of this year and Q1 of next year. It then falls back to around 2½% at 
+now expect inflation to peak at 4% in Q4 of this year and Q1 of next year. It then falls back to around 2.5% at 
 the end of 2022, returning to target in the second half of 2023.  
 More of the increase in inflation has come in prices of traded goods, reflecting a number of developments: 
 annual base effects, most notably in oil prices, a global upturn in the prices of basic commodities, and 

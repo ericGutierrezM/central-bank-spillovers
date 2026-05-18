@@ -1635,9 +1635,9 @@ Each of us today faces the challenge of pulling together a baseline outlook and 
 judgment about the balance of risks.  As much as I wanted to convince myself that the staff’s 
 baseline is too pessimistic, I confess that I found their analysis and the marshaling of evidence, 
 both economic and epidemiological, to be persuasive.  To review:  That baseline sees real GDP 
-declining by 4½ percent this year, compared with the 2.2 percent growth rate that we projected 
-as recently as January.  Sequentially, our forecast is for real GDP to decline 1½ percent in Q1 
-and 9½ percent in Q2 and then to rebound by 7½ percent in Q3 and 2.1 percent in Q4.  To be 
+declining by 4.5 percent this year, compared with the 2.2 percent growth rate that we projected 
+as recently as January.  Sequentially, our forecast is for real GDP to decline 1.5 percent in Q1 
+and 9.5 percent in Q2 and then to rebound by 7.5 percent in Q3 and 2.1 percent in Q4.  To be 
 clear:  These are actual—not annualized—growth rates, which are too depressing to quote—
 minus 38 percent in Q2, for example.  We project the unemployment rate to peak at 18 percent in 
 May, a full 8 percentage points higher than any U.S. unemployment rate recorded since the Great 
@@ -2287,7 +2287,7 @@ workaround.  To me, that suggests that if we were doing the health policy approp
 would see less than 50 percent of normal output being produced and, therefore, less than 
 50 percent of household income for some period.  I think that most of the disruption will occur in 
 the second quarter.  So if the shutdown lasted the whole second quarter, you’d be talking about 
-50 percent of a quarter’s output, something on the order of $2½ trillion. 
+50 percent of a quarter’s output, something on the order of $2.5 trillion. 
 Now, to the extent we’re not shutting down nearly all interaction in the economy, it 
 suggests that we’re really not doing what the health authorities would like..  I also recognize that 
 the shutdown will not exist in such a draconian fashion for the entire second quarter, so that 
@@ -2700,7 +2700,7 @@ from online school to tell me to take the car down to the gas station because sh
 would pay us to fill up our tank. 
 COVID-19 is sparing no one.  World trade is projected to decline more than 11 percent 
 for the year.  And since January, the IMF has revised down its 2020 growth forecast for 
-emerging markets, including China, by 5½ percentage points and for our North American trade 
+emerging markets, including China, by 5.5 percentage points and for our North American trade 
 partners by nearly 8 percent.  Emerging markets are facing a perfect storm.  There is a risk the 
 shock could tip some countries over the edge, with spillovers back into the United States.  With 
 growth revised downward by 8.7 percentage points, the capacity of the euro area to cushion 
@@ -3309,7 +3309,7 @@ WEI indicated that output was actually up about 1 percent over the preceding yea
 at the most recent reading of this index, it is now down minus 12 percent, meaning that GDP is at 
 a level 12 percent below that of a year ago.  So if you assume the WEI stays at its current level 
 through June, this implies an annualized real GDP growth rate in the first half of this year of a 
-staggering minus 23½ percent—which happens to be almost exactly the Board staff forecast for 
+staggering minus 23.5 percent—which happens to be almost exactly the Board staff forecast for 
 that period. 
 Survey data paint a similarly gloomy picture.  Like others, our surveys of firms in the 
 Second District showed unprecedented declines in regional business activity.  The headline 
@@ -3561,7 +3561,7 @@ April 28–29, 2020
 in Tealbook B, we did not assume any net asset purchases beyond the end of June, as 
 such decisions have not yet been made.  After June, we assume that maturing 
 Treasury securities and principal payments on agency MBS would be fully reinvested 
-until the funds rate reaches 1¼ percent in about May 2024.  Under these assumptions, 
+until the funds rate reaches 1.25 percent in about May 2024.  Under these assumptions, 
 securities holdings are projected to peak at around $6 trillion in September and 
 remain near that level until 2024. 
 The Desk surveys also asked respondents about their expectations for Federal 
@@ -3633,7 +3633,7 @@ consumption and investment spending fell sharply—a 7.6 percent decline in cons
 residential investment jumped 21 percent. 
 Compared with our expectations as of yesterday morning, the top-line number came in 
 pretty much exactly as we expected, but the categories were surprising.  Consumption growth 
-was 2¾ percentage points more negative than we’d expected.  That’s an extremely large miss, 
+was 2.75 percentage points more negative than we’d expected.  That’s an extremely large miss, 
 and it was concentrated in the services category.  We had written down large negative numbers 
 for leisure and travel and other services in March and those came in about as expected, but there 
 was also a large negative contribution in the health-care category, which by itself trimmed 
@@ -3671,7 +3671,7 @@ probably a higher-than-usual chance of big revisions.
 CHAIR POWELL.  Joe, do you have anything to add on that on the trade data?  It sounds 
 like net exports surprised. 
 MR. GRUBER.  Yes.  So I think that the net export contribution to real GDP growth was 
-actually considerably more positive than we thought it was going to be, at 1¼ percentage points.  
+actually considerably more positive than we thought it was going to be, at 1.25 percentage points.  
 But that’s really just that imports actually fell a lot steeper than we thought they were going to.  
 And services, both exports and imports, were down, close to 30 percent.  So that was quite a bit 
 weaker—and that’s travel for the most part, probably. 
@@ -4431,7 +4431,7 @@ proportions, and, in turn, we have acted with unprecedented force and flexibilit
 weeks, we cut the target range for the federal funds rate to its lower bound and pledged to keep it 
 there until we’re confidently on track to reach full employment and 2 percent inflation.  We 
 implemented significant liquidity-easing measures, including nearly $1.8 trillion of Treasury and 
-agency mortgage-backed securities purchases, swap lines that are now nearly $½ trillion, and a 
+agency mortgage-backed securities purchases, swap lines that are now nearly $0.5 trillion, and a 
 temporary repurchase agreement facility for foreign and international monetary authorities, or 
 FIMA, account holders.  And we stood up nine emergency facilities, five designed from scratch, 
 with more than $2 trillion capacity to support the flow of credit to businesses and households. 

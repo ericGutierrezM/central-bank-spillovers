@@ -19,7 +19,7 @@ Price stability is the responsibility of the Federal Reserve and serves as the b
 economy.  Without price stability, the economy does not work for anyone.  In particular, without 
 price stability, we will not achieve a sustained period of strong labor market conditions that 
 benefit all. 
-Today the FOMC raised its policy interest rate by ¾ percentage point, and we anticipate 
+Today the FOMC raised its policy interest rate by 0.75 percentage point, and we anticipate 
 that ongoing increases will be appropriate.  We are moving our policy stance purposefully to a 
 level that will be sufficiently restrictive to return inflation to 2 percent.  In addition, we are 
 continuing the process of significantly reducing the size of our balance sheet.  I will have more to 
@@ -52,7 +52,7 @@ participation rate showed a welcome uptick in August but is little changed since
 the year.  FOMC participants expect supply and demand conditions in the labor market to come 
 into better balance over time, easing the upward pressure on wages and prices.  The median 
 projection in the SEP for the unemployment rate rises to 4.4 percent at the end of next year, 
-½ percentage point higher than in the June projections.  Over the next three years, the median 
+0.5 percentage point higher than in the June projections.  Over the next three years, the median 
 unemployment rate runs above the median estimate of its longer-run normal level. 
 Inflation remains well above our 2 percent longer-run goal.  Over the 12 months ending 
 in July, total PCE prices rose 6.3 percent; excluding the volatile food and energy categories, core 
@@ -84,7 +84,7 @@ those least able to meet the higher costs of essentials like food, housing, and 
 are highly attentive to the risks that high inflation poses to both sides of our mandate, and we are 
 strongly committed to returning inflation to our 2 percent objective. 
 At today’s meeting, the Committee raised the target range for the federal funds rate by 
-¾ percentage point, bringing the target range to 3 to 3¼ percent.  And we are continuing the 
+0.75 percentage point, bringing the target range to 3 to 3.25 percent.  And we are continuing the 
 process of significantly reducing the size of our balance sheet, which plays an important role in 
 firming the stance of monetary policy. 
 Over coming months, we will be looking for compelling evidence that inflation is moving 

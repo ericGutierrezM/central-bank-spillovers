@@ -888,7 +888,7 @@ when there was an announcement of record production in the United States in Febr
 CHAIR YELLEN.  Other questions for Simon? President Evans. 
 MR. EVANS. In table 4, exhibit 1, you have expectations for inflation at liftoff, and it 
 looks like more people in the markets are thinking that we will lift off when the two-year-ahead 
-inflation outlook is under 1¾ percent.  It is a little out of order, but I was looking at the SEP 
+inflation outlook is under 1.75 percent.  It is a little out of order, but I was looking at the SEP 
 tables, and I noticed that there is an appendix to table 2 that shows our responses on the timing of 
 our liftoff and the economic conditions in the quarter that we do that.  And I was a little surprised 
 by the very low core PCE inflation numbers that everybody has in there.  I see 1.1, 1.2, 
@@ -2001,7 +2001,7 @@ your consideration.  The first option is to set a temporarily elevated initial c
 preferred setting of this cap might depend on your willingness to use term RRPs at 
 quarter-ends.  The staff suggested, for illustrative purposes, an ON RRP cap of 
 $800 billion.  This would be equivalent to double the take-up of both term and ON 
-RRPs that we saw at year-end 2014.  It would also be more than 3½ times the largest 
+RRPs that we saw at year-end 2014.  It would also be more than 3.5 times the largest 
 non-quarter-end take-up that we’ve had to date.  By picking this much larger cap than 
 we’ve had in testing and making clear that this initial setting is intended to be 
 temporary, you would send a message that you are committed to a successful liftoff, 
@@ -3043,7 +3043,7 @@ CHAIR YELLEN.  Thank you.  President Lacker.
 MR. LACKER.  Thank you, Madam Chair.  As I said just a few moments ago, I think the 
 question is, what size of an initial cap we are going to adopt?  To me, $800 billion seems like a 
 fine number.  I could support $1 trillion.  I could go up to the size of our Treasuries portfolio, 
-$2 trillion to $2½ trillion, whatever that calculation is that Simon alluded to.  Regarding how to 
+$2 trillion to $2.5 trillion, whatever that calculation is that Simon alluded to.  Regarding how to 
 scale back usage after liftoff, the case in which usage falls fairly rapidly of its own accord is 
 straightforward.  The harder case is one in which usage remains elevated and high. 
 As I reviewed the staff memo, my attention was immediately attracted to the phrase 
@@ -6564,7 +6564,7 @@ to finally top out and start moving downward.  But, assuming our forecast actual
 March 17–18, 2015
 74 of 239
 materializes, the broad real dollar, measured over the duration of the forecast period, 
-will average 6¼ percent above its level in the January Tealbook.  This is a historically 
+will average 6.25 percent above its level in the January Tealbook.  This is a historically 
 outsized revision to our projection.  Even so, I will agree in advance that, in view of 
 current market dynamics, there is a plausible risk that the dollar may rise considerably 
 higher than we are predicting. 
@@ -6745,7 +6745,7 @@ they would roughly tread water in the near term.  Adverse weather is the easy
 explanation, and, indeed, it probably helps to explain some of the recent weakness in 
 a range of these indicators, but we had been watching our weather metrics carefully 
 and had not anticipated very substantial effects.  As shown by the black dot in panel 
-2, we now estimate real GDP growth in the first quarter of 1¼ percent, and that was 
+2, we now estimate real GDP growth in the first quarter of 1.25 percent, and that was 
 prior to the news on housing starts and permits.  Folding in that news from the 
 5 The materials used by Mr. Wilcox are appended to this transcript (appendix 5). 
 
@@ -6867,7 +6867,7 @@ projection, the unemployment rate would have revised up another 0.2 percentage
 point or so over the medium term. 
 I should also briefly mention our deliberations over two other assumptions that we 
 use to calibrate the longer-term forecast.  First, we revised down our estimate of the 
-long-term equilibrium funds rate by ¼ percentage point.  As was reflected in the 
+long-term equilibrium funds rate by 0.25 percentage point.  As was reflected in the 
 discussion we provided in the Tealbook, the confidence intervals surrounding this 
 parameter are a mile wide, but we view the lower rate as better balancing the risks in 
 light of our judgment that probably not all of the extraordinarily low level of long­
@@ -6875,7 +6875,7 @@ term rates around the globe reflects low term premiums, and that lower equilibri
 interest rates may have been playing a larger role in driving the downtrend in recent 
 years than we previously thought. 
 We also debated whether to lower our estimate of the natural rate of 
-unemployment from its current level of 5¼ percent, which is the same level that we 
+unemployment from its current level of 5.25 percent, which is the same level that we 
 think prevailed just prior to the Great Recession. At least two factors militated 
 
 
@@ -8062,7 +8062,7 @@ March 17–18, 2015
 MR. WASCHER.  We put a lot of weight on that explanation. 
 MR. EVANS. Now I heard the discussion about the choice you made about the natural 
 rate, that after careful consideration it might be not the right time to move it down to 5 from 
-5¼ percent.  But if you made the judgment in the first quarter of 2014 that there was more of an 
+5.25 percent.  But if you made the judgment in the first quarter of 2014 that there was more of an 
 output gap than looking at unemployment, you might kind of go, “Well, a lower natural rate 
 would be more in line with a larger gap, too.”  I am just asking, upon further reflection, if you go 
 back, do you still have the same confidence in that? 
@@ -8130,7 +8130,7 @@ March 17–18, 2015
 90 of 239
 The unemployment rate was coming down.  You may not feel our pain, but we did.  I didn’t 
 know how to understand the world through that period if it were the case that we maintained an 
-assumption that potential GDP growth was increasing at something like 1¾ percent, which by 
+assumption that potential GDP growth was increasing at something like 1.75 percent, which by 
 the way is where we think the “uncontaminated” estimate of potential GDP really is. We put the 
 measurement in there, as Bill described, but as a matter of pragmatism and convenience, not as a 
 matter of conviction. 
@@ -8147,7 +8147,7 @@ neighborhood of the steepness of what we have seen recently, but obviously they 
 further. We did take note of the fact that our upward revision to the average level of the dollar 
 going forward was very large—more than 6 percent on a real basis. We looked at our data going 
 back to the global financial crisis, around early 2008, to see whether we had made other revisions 
-that size.  This 6¼ percent that we just did was the largest.  But there were a few in the 5 percent 
+that size.  This 6.25 percent that we just did was the largest.  But there were a few in the 5 percent 
 range, during the run-up of the dollar during the crisis, but basically we are in very unusual 
 outlier territory here. 
 
@@ -8303,7 +8303,7 @@ growth and stagnant labor force participation, as we will discuss in a minute, r
 faster sustained potential growth. 
 Since December, with a slower underlying pace of potential, I have also revised down my 
 forecast for average real GDP growth over this year and next year by a couple of tenths to 
-2½ percent.  My modal medium-term projections for unemployment and inflation, however, are 
+2.5 percent.  My modal medium-term projections for unemployment and inflation, however, are 
 little revised, as is my assumption of a June funds rate liftoff.  I should note that I now project 
 that the unemployment rate temporarily dips slightly below 5 percent as highly accommodative 
 monetary policy seeks to overcome the inflationary headwinds from a stronger dollar and lower 
@@ -8449,7 +8449,7 @@ sustained improvement in labor markets we have been seeing, there is a very good
 my unemployment rate forecast will prove to be pessimistic.  For example, let me do a little 
 simple math here.  The labor market improves over the next 12 months at the same pace that we 
 have seen over the past few years. Just assuming the same average pace we saw the past 24 
-months continues for 12 more months, the resulting U-3 unemployment rate will fall below 4½ 
+months continues for 12 more months, the resulting U-3 unemployment rate will fall below 4.5 
 percent, and the U-6 measure of underemployment will be closer to historical normal levels by 
 spring of next year. 
 The one labor statistic that hasn’t made obvious improvement is the labor force 
@@ -8855,10 +8855,10 @@ place more weight on the incoming wage and price data and less weight on models,
 when the incoming data do not conform to the forecast generated by our models. 
 As has been the case for some years, the most recent inflation data do not indicate that we 
 are likely to quickly return to our inflation target.  At our December meeting, the range for core 
-PCE inflation forecasts for the 2015 SEP submissions was 1½ to 2.2 percent.  However, the 
+PCE inflation forecasts for the 2015 SEP submissions was 1.5 to 2.2 percent.  However, the 
 incoming price data indicate that even the lowest forecast in the range for December will likely 
 be too high. The Tealbook has lowered its forecast for 2015 Q4-to-Q4 core PCE inflation from 
-1½ percent to 1.3 percent, and I have lowered mine to 1.2 percent.  While some may dismiss 
+1.5 percent to 1.3 percent, and I have lowered mine to 1.2 percent.  While some may dismiss 
 recent low-inflation readings as largely reflecting the indirect effects of lower oil prices seeping 
 into core inflation, my staff’s work on oil’s effect on core prices finds this effect to be, similar to 
 the Tealbook, quite small.  Similarly, my staff finds only a small effect for the indirect effect of 
@@ -8917,7 +8917,7 @@ non-oil import prices. In addition, market indicators of expected inflation outc
 us less confident that we are returning to 2 percent inflation over the next two years. Breakeven 
 inflation rates remain quite low, and inflation probabilities derived from inflation caps and floors 
 have recently implied a substantial increase in the probability that inflation remains below 
-1½ percent over the next 10 years. 
+1.5 percent over the next 10 years. 
 I do not expect that by June we will have enough data to make us reasonably confident 
 that we are returning to our inflation target over the next two years.  As a result, the appropriate 
 policy assumption in the Federal Reserve Bank of Boston’s SEP submission entails liftoff in 
@@ -8925,7 +8925,7 @@ September, and I remain uncertain about how much evidence of increasing inflatio
 available even by then.  In addition, even with a liftoff delayed until September, I expect only a 
 gradual increase in interest rates. In part, this reflects my expectation that progress on inflation 
 will likely be slow.  It also reflects that I’ve reduced my estimate of the longer-run real federal 
-funds rate to 1½ percent.  This, in turn, reflects the continued disappointing productivity numbers 
+funds rate to 1.5 percent.  This, in turn, reflects the continued disappointing productivity numbers 
 that, in part, account for the significant labor market tightening despite only lackluster real GDP 
 growth by historical standards. 
 Finally, among the risks that concern me are the continued weakness in China and the 
@@ -9224,7 +9224,7 @@ modal outlook for economic growth, unemployment, and inflation has changed littl
 January meeting, or since our most recent round of economic projections in December.  Some of 
 the most recent spending data have been on the soft side, but that is likely due to temporary 
 factors like the very cold winter.  Analysis by my staff using heating degree days suggests that 
-extreme weather is likely to shave about ¾ percentage point from first-quarter GDP growth.  I 
+extreme weather is likely to shave about 0.75 percentage point from first-quarter GDP growth.  I 
 think we should be cautious about reading too much into the most recent numbers, and I take less 
 signal from them for the outlook than the Tealbook appears to.  I continue to project GDP growth 
 to be about 3 percent this year and next.  Factors supporting above-trend growth include highly 
@@ -9293,10 +9293,10 @@ March 17–18, 2015
 openings rate is at a cyclical high.  We are nearing our goal of maximum employment.  With 
 output growth above trend, I expect continued job gains and reductions in unemployment and 
 underemployment.  I project that by the end of this year the unemployment rate will fall to 
-5.2 percent, which is below my 5½ percent estimate of the longer-run rate. 
+5.2 percent, which is below my 5.5 percent estimate of the longer-run rate. 
 Like the Board staff, I considered lowering my estimate of the longer-run rate, but I also 
 didn’t find the case for doing so compelling.  First, the estimate coming out of the Federal 
-Reserve Bank of Cleveland staff’s model of labor market flows points to a 5½ percent natural 
+Reserve Bank of Cleveland staff’s model of labor market flows points to a 5.5 percent natural 
 rate of unemployment.  Second, some indicators suggest we may be beginning to see some 
 strengthening in wage growth.  Third, the error band around any estimate of the natural rate is 
 very large. Of course, I will revisit this issue.  If the unemployment rate falls more sharply than I 
@@ -9312,7 +9312,7 @@ Headline inflation continues to come in below our 2 percent goal, reflecting the
 drop in oil prices as well as declines in import prices.  So far, there hasn’t been much pass-
 through to core measures of inflation, which have been relatively stable.  The Federal Reserve 
 Bank of Cleveland’s median CPI measure, which helps predict headline inflation over the 
-medium term, has remained near 2¼ percent since April of last year. In my view, inflation 
+medium term, has remained near 2.25 percent since April of last year. In my view, inflation 
 
 
  
@@ -9541,7 +9541,7 @@ multinationals. On the positive side, several contacts expect that positive effe
 prices on the U.S. economy will begin to show up later this year and into early 2016. 
 Nationally, a disturbing disconnect has developed between labor markets and the real 
 economy over the past six months.  Job growth has been quite strong, but the growth of the real 
-economy has slowed from roughly a 4¾ percent pace over the second and third quarters of 2014 
+economy has slowed from roughly a 4.75 percent pace over the second and third quarters of 2014 
 
 
  
@@ -9600,7 +9600,7 @@ economy has slowed from roughly a 4¾ percent pace over the second and third qua
   
 March 17–18, 2015
 109 of 239
-to what we estimate to be a 2¼ percent pace over the past two quarters, including the current 
+to what we estimate to be a 2.25 percent pace over the past two quarters, including the current 
 quarter. Except for labor markets, we think data flows have been weaker than expected, on net, 
 this year.  We believe that the slowdown is temporary, and that economic growth over the final 
 three quarters of 2015 will average a bit more than 3 percent.  Above-trend growth will keep job 
@@ -9739,7 +9739,7 @@ meeting.  Economic growth has obviously been a bit softer in the first quarter, 
  
 March 17–18, 2015
 111 of 239
-seems likely to be transitory.  I expect growth for this year and next to be around 2¾ percent.  
+seems likely to be transitory.  I expect growth for this year and next to be around 2.75 percent.  
 That’s actually a little slower than I was thinking at the previous meeting.  In addition to the 
 recent weaker data, the continued strengthening of the dollar has caused us to trim our outlook a 
 wee bit. Still, economic growth should be strong enough to bring unemployment down to 
@@ -11440,7 +11440,7 @@ confidence in the situation regarding inflation, but just to say I don’t think
 breakevens.  And I admit that’s far from certain and will need careful monitoring. 
 I have a couple of points on my SEP submissions.  I did lower my estimate of the natural 
 rate of unemployment to 5 percent.  I did reduce my estimate of the longer-run neutral federal 
-funds rate to 3½ percent.  My GDP forecast is very much in line with the Tealbook, but I think 
+funds rate to 3.5 percent.  My GDP forecast is very much in line with the Tealbook, but I think 
 there’s a reasonable likelihood that unemployment will decline more than the Tealbook forecast, 
 given the GDP and payroll forecasts.  So I have actually forecast that the headline unemployment 
 
@@ -11514,7 +11514,7 @@ how much uncertainty there is around the inflation creation process as well as t
 unemployment, both of which are tremendously important in the short term.  In fact, I would say 
 that I found some real attraction in the alternative scenario that the staff offered at our Board 
 meeting on Monday.  In that scenario—this echoes what Governor Fischer was talking about— 
-the natural rate declines further to 4¼ percent; productivity and economic growth are a little bit 
+the natural rate declines further to 4.25 percent; productivity and economic growth are a little bit 
 higher; and inflation is a little bit lower, thanks to the wider unemployment gap.  Now, that’s not 
 just a more pleasant way to align the output and unemployment gaps.  It is certainly that.  But it 
 also strikes me as not at all wildly implausible.  So I think that, as we get closer to full 
@@ -12099,7 +12099,7 @@ wages, I take that as some evidence of a good bit of remaining slack.  In additi
 slack is showing up in forms that are not included in U-3, particularly involuntary part-time 
 employment and depressed labor force participation.  The spread between the broadest measure 
 of labor market underutilization, the U-6 rate, and the conventional unemployment rate is 
-currently 1¾ percentage points higher than the average spread in the years preceding the 
+currently 1.75 percentage points higher than the average spread in the years preceding the 
 recession.  So even when the unemployment rate reaches its normal longer-run level, the labor 
 market will still be putting downward pressure on inflation until this spread is returned to 
 normal. 
@@ -12173,7 +12173,7 @@ If we adopt alternative B, one criterion for an initial tightening is that we ne
 reasonably confident that inflation will move back to 2 percent over the medium term.  For the 
 remainder of this year, my guess is that it will be hard to point to data demonstrating that 
 inflation is actually moving up toward our objective.  Measured on a 12-month basis, both core 
-and headline inflation will very likely be running below 1½ percent all year.  That means that if 
+and headline inflation will very likely be running below 1.5 percent all year.  That means that if 
 we decide to start tightening later this year, a development that I think is likely, we will have to 
 justify our inflation forecasts using indirect evidence, historical experience, and economic 
 theory. 
@@ -12550,9 +12550,9 @@ the right—the symbol 𝜋𝜋 denotes four-quarter core PCE inflation, and the
 stands for the unemployment rate.  In these calculations, I use your estimates of the 
 longer-run real federal funds rate as intercepts, the r*LR.  I then subtract these 
 prescriptions from your actual projections for the federal funds rate.  The median 
-difference between your projections and the rule’s prescriptions is close to minus 1½ 
+difference between your projections and the rule’s prescriptions is close to minus 1.5 
 percentage points in 2015 and 2016, as shown by the blue dots to the left; by 2017, it 
-narrows to about minus ½ percentage point.  The differences in 2015 are, on average, 
+narrows to about minus 0.5 percentage point.  The differences in 2015 are, on average, 
 slightly smaller than they were in your December projections, and in 2016 and 2017, 
 they are slightly larger. 
 Given these sizable differences, it might appear that your policy projections imply 
@@ -12656,8 +12656,8 @@ federal funds rate, as well as his or her estimate of the longer-run normal
 unemployment rate, and solve the equation for the implied value of the time-varying 
 r* at the end of each year. 
 These implied values are shown in the lower-left panel.  The median is close to 
-zero in both 2015 and 2016 and rises to a little above ½ percent by 2017, still well 
-below the longer-run median estimate of 1¾ percent.  These temporarily low levels of 
+zero in both 2015 and 2016 and rises to a little above 0.5 percent by 2017, still well 
+below the longer-run median estimate of 1.75 percent.  These temporarily low levels of 
 the implied equilibrium real rate reflect the fact that your projected paths for the real 
 federal funds rate run well below your longer-run normal values.  In such 
 circumstances, the IS equation, shown in the middle panel, would predict 
@@ -12674,7 +12674,7 @@ Taylor rule calculation shown in the upper-left panel after replacing your longe
 normal value for the real federal funds rate with the time-varying r* values.  The 
 median difference between your projected federal funds rates and those prescribed by 
 this version of the Taylor (1999) rule is close to zero at the end of both 2015 and 2016 
-and about ¼ percentage point in 2017, substantially narrower than the ones shown in 
+and about 0.25 percentage point in 2017, substantially narrower than the ones shown in 
 the upper-left panel. 
 The bullets in the upper panel of exhibit 2 mention a few caveats to this analysis.  
 The results are conditional on the specification of the IS equation.  A different model 
@@ -14308,7 +14308,7 @@ needle to get to 2 percent while only staying all the while below 2 percent. I c
 would be consistent with a symmetric 2 percent inflation objective.  In such a situation, if theory 
 and experience are going to be our guide while inflation is still too low, I strongly believe we 
 shouldn’t lift off until theory and experience tell us that we risk having inflation accelerate to, 
-say, 2½ percent or higher.  Nothing in the Tealbook or our other forecasts suggests to me that 
+say, 2.5 percent or higher.  Nothing in the Tealbook or our other forecasts suggests to me that 
 this is close at hand.  For me, that would be a stronger and more useful statement about our 
 confidence in theory and experience as being our guides. 
 My view of appropriate monetary policy continues to be that liftoff should be delayed 
@@ -15453,7 +15453,7 @@ may not have their greatest effect until 2017.  While we cannot now place much f
 forecasts for the state of the economy, it’s more likely than not that a smaller punch bowl will be 
 wholly appropriate for the tight labor market and rising inflation that we may well face a year or 
 two from now. 
-Second, we need a sense of proportion.  Raising the federal funds rate ¼ percent is not 
+Second, we need a sense of proportion.  Raising the federal funds rate 0.25 percent is not 
 akin to shifting monetary policy from accommodative to contractionary.  Rather, we’ll be 
 moving from an ultraexpansionary monetary policy to an extremely expansionary monetary 
 policy.  We’ll still have rates that are low enough to continue to support the recovery while 

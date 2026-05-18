@@ -7928,7 +7928,7 @@ we’re very optimistic if we think we can describe the scenarios under which we
 It is going to take a while until we get the balance sheet down to $1 trillion, at which point I 
 guess we’ll start possibly becoming able to see an end to this program, unless there is something 
 we’re missing about President Lacker’s position—namely, that we could do it all by IOER.  And 
-maybe there is something that says: that’s not true at $4 trillion, but it is true at $3½ trillion. If 
+maybe there is something that says: that’s not true at $4 trillion, but it is true at $3.5 trillion. If 
 so, then we can stage an early exit.  But I very much doubt that we can do that.  We need to think 
 about how we’re going to exit, but that shouldn’t be high on our list.  It would be nice if it was 
 high on our list of priorities, but I don’t think it will be. 
@@ -8290,7 +8290,7 @@ January 27–28, 2015
 already pretty complicated, and I’ve heard a number of other people talk about the virtue of 
 simplicity in execution.  So I don’t discount the possibility that when, at some future meeting, 
 rates are already—I can’t even remember what our ranges are now.  You can’t say 75 basis 
-points anymore.  You have to think, 12½ less than, 12½ more—up somewhat and we have this 
+points anymore.  You have to think, 12.5 less than, 12.5 more—up somewhat and we have this 
 discussion and people say, “Oh, gee, it would make it complicated to try to introduce a different 
 IOER spread or term RRPs.”  Again, if it’s thought through a bit beforehand, and it’s 
 communicated, including to the public, you then begin to alter the lay of the land, and maybe you 
@@ -8542,7 +8542,7 @@ telling us and what the tests seem to show, if the market perceives that the cap
 binding, then RRP will provide a good floor for our target range and rates will be close to the 
 middle of the range. I think that’s a great place to start. 
 So my prior is:  At liftoff, we should have not overwhelming force but overwhelming 
-headroom.  And, looking at the options, I guess I’m somewhere around “option 1½.” By that I 
+headroom.  And, looking at the options, I guess I’m somewhere around “option 1.5.” By that I 
 mean where I would be is, $400 billion or $500 billion overnight repo and term.  I would do term 
 at quarter-end, every quarter-end for a while, at around $200 billion.  That’s the way I would do 
 it. 
@@ -9161,10 +9161,10 @@ monetary policy.
 As before, our forecast of foreign growth strengthening to its potential pace of 
 about 3 percent rests on a number of difficult judgment calls.  First, in our projection, 
 China’s economic growth declines only gradually in the next few years, from 
-7¼ percent in 2014 to 6¾ percent in 2017, and the country avoids sharp disruptions 
+7.25 percent in 2014 to 6.75 percent in 2017, and the country avoids sharp disruptions 
 associated with the ongoing correction of its housing market.  Fourth-quarter GDP 
 came in at 7 percent, a touch lower than our projection in December, and we marked 
-down our outlook going forward by about ¼ percentage point, in part reflecting the 
+down our outlook going forward by about 0.25 percentage point, in part reflecting the 
 appreciation of the renminbi that has occurred as the currency followed the dollar up. 
 Second, in our forecast, Brazil and other ailing economies in South America pull 
 out of their recessions and eventually regain near-trend rates of growth.  The 
@@ -9176,7 +9176,7 @@ shaking off its malaise.  Despite the doom and gloom of much commentary, a numbe
 of recent indicators came in stronger than expected, and we’ve marked up our fourth-
 quarter GDP estimate to 1 percent, roughly its current rate of potential growth.  Going 
 forward, as shown by the solid black line in panel 2, GDP growth picks up to 
-2½ percent by 2017, driven, among other things, by the substantial monetary stimulus 
+2.5 percent by 2017, driven, among other things, by the substantial monetary stimulus 
 announced by the ECB last Thursday and described by Simon earlier today.  By our 
 5 The materials used by Mr. Kamin are appended to this transcript (appendix 5). 
 
@@ -9278,7 +9278,7 @@ up another 3 percent (panel 4), which adds another 0.1 percentage point to forei
 economic growth.   
 Finally, monetary policy is more accommodative than in the December Tealbook 
 not only in the euro area, but also in Canada, where the policy rate was cut to 
-¾ percent, and in the United Kingdom, where we now see liftoff being delayed to the 
+0.75 percent, and in the United Kingdom, where we now see liftoff being delayed to the 
 end of this year.  If these easing actions were in response to a weakening of economic 
 activity that was not already anticipated in our outlook, they would not necessarily 
 boost our economic growth forecast.  But, especially in the euro area, monetary 
@@ -10233,9 +10233,9 @@ real wages in your forecast.
 January 27–28, 2015
 116 of 361
 MR. WILCOX.  We have real compensation picking up over the course of the next 
-couple of years to, in real terms, about 1½ percent by 2017. 
+couple of years to, in real terms, about 1.5 percent by 2017. 
 MR. FISCHER.  Okay.  Thanks. 
-MR. WASCHER.  In Q4, it’s plus 2¼ percent, which reflects the sharp decline in oil 
+MR. WASCHER.  In Q4, it’s plus 2.25 percent, which reflects the sharp decline in oil 
 prices in the near term. And it’s then plus 7 percent at an annual rate in the first quarter.  But, 
 again, that’s mainly due to the big decline in consumer energy prices. 
 MR. FISCHER.  Yes. 
@@ -10332,7 +10332,7 @@ what assumption was being used about the slope of the Phillips curve in exhibit 
 MR. KAMIN. On exhibit 2, that’s total PCE prices.  And for core, the effect would 
 definitely be much more muted, because there is an awful lot of kick in the total happening from 
 the rise in oil prices. The total increment here to headline inflation is about 1 percentage point, 
-and it’s more like ½ or ¼ percentage point for the core prices. 
+and it’s more like 0.5 or 0.25 percentage point for the core prices. 
 And your other question, I think, is referring to the alternative scenario that pertains to 
 the domestic economy. 
 MR. KOCHERLAKOTA.  No, I’m sorry.  I complicated things. 
@@ -10487,14 +10487,14 @@ MR FISHER. And Al Gore was running the Internet.
 MR. EVANS.  More seriously, I’d like to ask David if he could make a few comments on 
 a couple of the alternative scenarios.  Picking up on Governor Fischer’s question about wages, I 
 couldn’t help but notice the “Weaker Wage Growth” simulations and how, when wage increases 
-are assumed to stay at their current low of 2 percent rate instead of picking up to that 3½ percent 
+are assumed to stay at their current low of 2 percent rate instead of picking up to that 3.5 percent 
 rate, total PCE inflation just goes to 0.9 percent in 2018.  What’s really interesting, of course, is 
 that the federal funds rate over this period is lifting off and going up to 3 percent.  During that 
 period, the economy is doing quite well, but there is a disengagement between economic activity 
 and inflation.  So a few comments on that would be good.  Also, against that, there is the “Faster 
 Recovery with Higher Inflation” scenario.  I confess I didn’t read that very carefully, but I did 
 notice that the numbers are quite different.  The funds rate is much higher at the end point, and 
-inflation only is at 2½ percent at the end of the simulation period. 
+inflation only is at 2.5 percent at the end of the simulation period. 
 It looks to me like this analysis is another piece of evidence that shows it’s a lot easier to 
 deal with rising inflationary pressures because we can increase the funds rate, but we have 
 trouble with these disinflationary periods in which—well, in this case, the funds rate is going up, 
@@ -10654,7 +10654,7 @@ MR. EVANS. That’s fine.  The more damaging response that I was hoping I wouldn
 get back from you, which I didn’t yet, is that, except for the 2018 time frame, that inflation rate 
 is actually still going up.  I would have guessed that it’s the inertia in inflation, so it’s actually 
 much worse.  I’m pointing to this and thinking, “That faster inflation, it’s really not that bad of 
-an outcome, because inflation is at 2½ percent.” But if you told me that that was on its way to 
+an outcome, because inflation is at 2.5 percent.” But if you told me that that was on its way to 
 3 percent, then I would say, “Okay, that’s more of a ‘symmetry of distaste’ across these 
 simulations.”  But your comment about uncertainty as to the mechanisms here also suggests 
 we’re in a different situation.  We’re in a situation right now in which inflation is below our 
@@ -11145,7 +11145,7 @@ which is in panel 2, and now it looks like you’re really not changing your wor
 appreciably, according to my reading of panel 1. 
 MR. KAMIN.  That’s essentially correct, although the unexpected part of the increment 
 to euro-area GDP growth that we have built in, in response to the announcement, was in the 
-neighborhood of ¼ percentage point per year for all of the next few years.  With the euro area in 
+neighborhood of 0.25 percentage point per year for all of the next few years.  With the euro area in 
 general having a weight in our foreign aggregate that’s less than 20 percent, or in that 
 neighborhood, it didn’t end up changing the foreign GDP line that much.  So before the 
 announcement, our current forecast, that black solid color line, was just a teeny bit below where 
@@ -11730,7 +11730,7 @@ growth of nonfarm employment will be crimped by job losses in this sector and in
 sectors.  And the widely quoted model by two of our economists, Mine Yücel and Michael 
 Plante, indicates a loss of 140,000 or so jobs both directly in this sector and due to knock-on 
 effects.  Netting out the benefits to consumers and business users of energy, the bottom line for 
-my District, for Texas, is that we presently expect job growth of 2 to 2½ percent in 2015.  Being 
+my District, for Texas, is that we presently expect job growth of 2 to 2.5 percent in 2015.  Being 
 half-Norwegian, I’ll say that this is not Edvard Munch’s portrait of The Scream as JP Morgan 
 and others have forecast. We are, however, going to see a slowdown in our employment growth 
 rate, but to the pace of the rest of the United States.  So we will have weaker but still positive 
@@ -12033,7 +12033,7 @@ With regard to national conditions, the key element in the Tealbook forecast is 
 trajectory of consumer spending.  The spending data we’ve received in the past few months of 
 2014 were quite strong on the whole, and the Tealbook has revised its projections of consumer 
 spending growth markedly higher.  The staff now expects consumption growth at about 4 percent 
-this year and 3½ percent for next year.  Compared with the 2¼ percent consumption growth we 
+this year and 3.5 percent for next year.  Compared with the 2.25 percent consumption growth we 
 saw for most of this expansion, this represents a noteworthy pickup, and I’m now convinced that 
 this is likely to persist. Falling gasoline prices have no doubt provided a significant boost to real 
 income and real spending, but this is a one-time level effect, and the growth effect is likely to 
@@ -12252,7 +12252,7 @@ MR. TARULLO. Undocumented.
 MR. EVANS.  Well, 11 out of 12 were deflated.  That’s not documented? [Laughter] 
 MR. WILLIAMS.  I do know that the defense in Seattle are buying many air pumps so 
 they’ll make sure that the balls are properly inflated for the Super Bowl. 
-In terms of the underlying trend in inflation, we’re only about ½ percentage point below 
+In terms of the underlying trend in inflation, we’re only about 0.5 percentage point below 
 our objective, but our continued progress toward that objective remains a forecast.  And like any 
 forecast, it is subject to uncertainty and risks.  Of course, the drop in energy prices has pushed 
 down headline year-over-year inflation numbers to zero and even into negative territory.  Even 
@@ -12636,9 +12636,9 @@ being dragged down by the unexpected decline in the prices of energy goods and s
 issue is that well after those oil price effects wane, Tealbook A, projects that inflation will still 
 rise very slowly, not returning to target until 2019. Furthermore, as the minutes from our 
 previous meeting note, the key assumption in the inflation forecast in Tealbook A, is that long-
-run inflation expectations, which the staff currently estimate to be 1¾ percent, will rise back to 
+run inflation expectations, which the staff currently estimate to be 1.75 percent, will rise back to 
 the Committee’s goal of 2 percent.  So a key underlying aspect of the staff’s forecast right now is 
-that longer-run inflation expectations are at 1¾ percent, but they will rise back to the 
+that longer-run inflation expectations are at 1.75 percent, but they will rise back to the 
 
 
  
@@ -13484,13 +13484,13 @@ while there hasn’t been a stable Phillips curve relationship between unemploym
 price inflation since the 1980s, there does seem to be a more stable Phillips curve relationship 
 linking unemployment gaps and nominal wage growth.  If the unemployment rate falls more 
 sharply than I currently anticipate and wage growth remains modest, perhaps I’ll need to rethink 
-my estimate of the longer-run unemployment rate, which I have at 5½ percent.  But for now that 
+my estimate of the longer-run unemployment rate, which I have at 5.5 percent.  But for now that 
 seems premature, and in light of the very large error bands around point forecasts of the natural 
 unemployment rate, I don’t feel compelled to make a change at this point. 
 The sharp drop in oil prices is showing up in much lower headline inflation numbers.  
 The appreciation of the dollar is showing up in lower input prices.  So far, there has been only 
 modest pass-through to core measures.  For example, the Federal Reserve Bank of Cleveland’s 
-median CPI inflation measure has remained near 2¼ percent since April of last year. I note that 
+median CPI inflation measure has remained near 2.25 percent since April of last year. I note that 
 research by my staff finds that the Cleveland measure appears to have some predictive power for 
 headline inflation over the medium term. My expectation is that inflation will gradually move 
 back up to 2 percent as economic activity continues to strengthen and oil prices stabilize.  This 
@@ -13814,7 +13814,7 @@ business “interlocutors”— I’m going to miss being able to say that with 
 indicated a similar outlook as at the time of our December meeting.  Most reports continue to be 
 positive about both current activity and the prospects for economic growth going forward.  
 Automakers, for example, enjoyed strong end-of-year sales.  For 2015, Ford told us that its 
-official forecast is for sales to continue near last year’s second-half pace of 16¾ million, but it 
+official forecast is for sales to continue near last year’s second-half pace of 16.75 million, but it 
 sees some upside to this number. Of course, there are some sector-specific challenges.  Orders 
 have dropped for construction equipment used in preparing fracking sites and for steel used in 
 drilling wells.  Farm machinery sales and orders also are down considerably, because of lower 
@@ -14611,7 +14611,7 @@ percentage point.
 The final factor that might be relevant is the fact that labor compensation and inflation 
 trends are unusually low at the current unemployment rate.  Real total compensation based on the 
 core PCE inflation rate and the employment cost index is only running at about an annual rate of 
-½ percent. Now, I’m not sure what this precisely means in terms of how much slack we have 
+0.5 percent. Now, I’m not sure what this precisely means in terms of how much slack we have 
 and what that means for the full-employment unemployment rate, but when the labor 
 compensation trends are this low, it would seem to allow us the ability to be somewhat more 
 patient. 
@@ -15587,7 +15587,7 @@ subtract nearly 2 percent from the level of GDP, and the contribution of net exp
  
 January 27–28, 2015
 185 of 361
-growth in the Tealbook averages a subtraction of about ½ percentage point over the next few 
+growth in the Tealbook averages a subtraction of about 0.5 percentage point over the next few 
 years. 
 The size and the open-ended nature of the ECB’s policy announcement on purchases of 
 sovereigns surprised markets and sent a definitive signal that the ECB is prepared to take the 
@@ -15753,7 +15753,7 @@ the implications of this type of view.
 Turning to recent developments in the broader economy, most of you seem reasonably 
 confident that real GDP will continue expanding at a solid pace, thereby enabling further 
 improvements in the labor market.  You noted that real GDP likely expanded at a rapid pace, 
-maybe about 3¾ percent or so, in the second half of last year, and that the growth of consumer 
+maybe about 3.75 percent or so, in the second half of last year, and that the growth of consumer 
 spending was quite brisk.  And many of you expect this strength in domestic spending to 
 continue this year, with household purchasing power having been markedly boosted by declining 
 
@@ -16081,7 +16081,7 @@ spending.  I worry that if wage growth doesn’t pick up, and it does pick up in
 that the strength of consumer spending we have assumed may not materialize. 
 I certainly haven’t given up on my forecast that, in an environment of diminishing slack, 
 inflation will move back to our 2 percent goal over the next two or three years.  But I am 
-concerned that, at midyear, PCE inflation will be running below 1½ percent on a 12-month basis, 
+concerned that, at midyear, PCE inflation will be running below 1.5 percent on a 12-month basis, 
 and that’s a fact we need to take into account when we consider the appropriate time to begin 
 tightening.  The stability of survey measures continues to reassure me that longer-run inflation 
 expectations remain reasonably well anchored, but I, too, am increasingly disturbed by the 
@@ -18281,8 +18281,8 @@ take the first liftoff step in the absence of clearly affirmative evidence on in
 there is not a troubling accumulation of contrary evidence.  While that is a minimalist take on 
 data dependency, I am comfortable with this approach, in light of the current apparent strength of 
 the real economy.  But I can imagine a framework of affirmative evidence—call this my ideal 
-framework.  Ideally, I’d like to see core inflation readings moving above 1½ percent.  I don’t 
-think a “run rate” of core inflation below 1½ percent is confidence-inspiring.  Ideally, I’d like to 
+framework.  Ideally, I’d like to see core inflation readings moving above 1.5 percent.  I don’t 
+think a “run rate” of core inflation below 1.5 percent is confidence-inspiring.  Ideally, I’d like to 
 see nominal wage growth increasing according to most measures of labor compensation.  And, 
 ideally, I’d like to see clearly anchored inflation expectations.  I would characterize those criteria 
 as affirmative evidence. As I said, I won’t hold out for that degree of data dependency.  At a 
@@ -19042,7 +19042,7 @@ are beginning to increase toward the 3 to 4 percent growth range that I associat
 pressures—that is, cost increases that would be more consistent with an underlying inflation rate 
 of 2 percent.  I would also expect to see at least the beginnings of an increase in year-over-year 
 core inflation.  I agree quite a lot with President Lockhart’s suggestion that if we’re below 
-1½ percent on core that is not encouraging.  I know this is difficult for many, but as raw 
+1.5 percent on core that is not encouraging.  I know this is difficult for many, but as raw 
 forecasting tools go, current core inflation is at the top of the list of useful inflation indicators.  
 Regarding yield-curve data, I would have to see one of the following two developments:  some 
 upward movement in nominal 10-year Treasury rates and inflation breakevens and other market-
@@ -19277,7 +19277,7 @@ However, I did go back and look at a past episode to show how quickly things act
 can turn.  Let me go through some data.  Now, these are the current data I pulled off Haver, but 
 I’ve done a research paper on this topic with Athanasios Orphanides using real-time data, and the 
 point is the same.  At this point in time—and I’ll tell you what the point is in a moment—core 
-PCE inflation on a four-quarter change basis was 1¼ percent.  Unemployment was 
+PCE inflation on a four-quarter change basis was 1.25 percent.  Unemployment was 
 0.6 percentage point above the prevailing view of natural rate.  Unit labor costs were growing at 
 about a 1 percent rate.  Looks pretty good to me. Eighteen months later, core inflation is 
 3.1 percent; unemployment now is well below the natural rate, at 3.8 percent; unit labor costs are 
@@ -19338,7 +19338,7 @@ about a 1 percent rate.  Looks pretty good to me. Eighteen months later, core in
  
 January 27–28, 2015
 231 of 361
-rising at a 4½ percent rate.  That’s the difference between June 1965, when the debate about 
+rising at a 4.5 percent rate.  That’s the difference between June 1965, when the debate about 
 tightening in that cycle was really starting to happen, and December 1966.  It’s just a reminder 
 that our ability to forecast is not that good.  The second is that wages can lag the cycle, as 
 President Mester said and I argued yesterday. Again, I think that the history on this is maybe not 
@@ -20411,7 +20411,7 @@ inflation back to target in Europe.  That’s a cautionary tale for us.  We don�
 problem too long.  We don’t want to make excuses for too long of a time.  I am sympathetic to 
 the arguments on this. 
 I want to make two points.  First, low inflation as it exists today cannot rationalize the 
-zero interest rate policy.  A gap in inflation of something on the order of ½ percentage point is 
+zero interest rate policy.  A gap in inflation of something on the order of 0.5 percentage point is 
 simply not large enough to rationalize a policy rate of zero.  It can rationalize a lower-than­
 normal policy rate, but not a zero policy rate. I understand that the natural rate of interest could 
 also be low, but, in my mind, that also is not low enough to rationalize the zero interest rate 
@@ -21326,7 +21326,7 @@ barrel or so later in the year.
 The question that I’d like to ask is if we relate to core inflation, when do we think we’ll 
 move?  It’s very unlikely we’re going to see very much by September, unless the price of oil 
 turns around, which seems to mean that we’d move in December if we’re waiting to see core 
-inflation, say, getting up to 1½ percent.  We need to think about whether that’s what we’d like to 
+inflation, say, getting up to 1.5 percent.  We need to think about whether that’s what we’d like to 
 do or whether we want to craft language that will give us some possibility of changing our mind 
 on having to have core inflation, let’s say, above 1.4 percent.  Now, there’s a range of views 
 about whether 1.5 percent is enough.  I, deep down, believe that the Phillips curve exists and has 
@@ -22554,7 +22554,7 @@ achieve a reasonable degree of confidence that inflation will move up to 2 perce
 two or three years, then it will be appropriate to raise the target range for the federal funds rate 
 later this year. 
 As I see it, liftoff could come as soon as the June meeting, even if backward-looking 
-measures of core inflation are still running in the neighborhood of 1½ percent at that time, and 
+measures of core inflation are still running in the neighborhood of 1.5 percent at that time, and 
 headline inflation is running much lower.  But I intend to be particularly alert for any incoming 
 evidence that serves to cast doubt on our projection that inflation will return to 2 percent, in 
 addition, of course, to evidence that might suggest that economic growth at home is faltering or 
@@ -22618,7 +22618,7 @@ sufficiently weak. The staff papers document that several other countries that l
 lower bound had to reverse course, and that could happen to us, too.  All that being said, based 
 on our December SEP submissions, it looks like most of us anticipate a fairly gradual pace of 
 normalization along our modal paths.  The median funds rate projection in the SEP increases 
-only 1¼ percentage points per year, on average, through 2017.  I think it’s worth reflecting on 
+only 1.25 percentage points per year, on average, through 2017.  I think it’s worth reflecting on 
 the reasons most of us have written down paths that largely entail only a gradual pace of 
 tightening if economic conditions evolve in line with our forecasts. 
 As far as my own submission is concerned, I would mention four factors I took into 

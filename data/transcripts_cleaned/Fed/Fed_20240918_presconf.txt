@@ -19,7 +19,7 @@ state.  Inflation has eased substantially from a peak of 7 percent to an estim
 August.  We’re committed to maintaining our economy’s strength by supporting maximum 
 employment and returning inflation to our 2 percent goal. 
 Today, the Federal Open Market Committee decided to reduce the degree of policy 
-restraint by lowering our policy interest rate by ½ percentage point.  This decision reflects our 
+restraint by lowering our policy interest rate by 0.5 percentage point.  This decision reflects our 
 growing confidence that with an appropriate recalibration of our policy stance, strength in the 
 labor market can be maintained in a context of moderate growth and inflation moving 
 sustainably down to 2 percent.  We also decided to continue to reduce our securities holdings.  I 
@@ -80,8 +80,8 @@ have diminished, and the downside risks to employment have increased.  We now se
 achieving our employment and inflation goals as roughly in balance, and we are attentive to the 
 risks to both sides of our dual mandate. 
 In light of the progress on inflation and the balance of risks, at today’s meeting, the 
-Committee decided to lower the target range for the federal funds rate by ½ percentage point to 
-4¾ percent to 5 percent.  This recalibration of our policy stance will help maintain the strength of 
+Committee decided to lower the target range for the federal funds rate by 0.5 percentage point to 
+4.75 percent to 5 percent.  This recalibration of our policy stance will help maintain the strength of 
 the economy and the labor market and will continue to enable further progress on inflation as we 
 begin the process of moving toward a more neutral stance.  We are not on any preset course.  We 
 will continue to make our decisions meeting by meeting. 
@@ -191,7 +191,7 @@ FINAL
 Page 7 of 26 
  
 We know—if you go back, we know that the policy stance we adopted in July of 2023 came at a 
-time when unemployment was 3½ percent and inflation was 4.2 percent.  Today, unemployment 
+time when unemployment was 3.5 percent and inflation was 4.2 percent.  Today, unemployment 
 is up to 4.2 percent; inflation’s down to a few tenths above 2.  So we know that it is time to 
 recalibrate our policy to something that is more appropriate given the progress on inflation and 
 on employment moving to a more sustainable level.  So the balance of risks are now even.  And 
@@ -441,7 +441,7 @@ it’s been a great ride down.  I mean, we’ve seen a lot of, of tightness come
 market in that form without it resulting in lower employment. 
 MICHELLE SMITH.  Edward. 
 EDWARD LAWRENCE.  Thanks, Chair Powell.  Edward Lawrence with Fox Business.  
-So we’ve heard some speculation that you may be going with the federal funds rate to 3½, 
+So we’ve heard some speculation that you may be going with the federal funds rate to 3.5, 
 maybe under 4 percent.  There’s basically an entire generation that has experienced zero or near-
 zero federal funds rate, and some think we’re heading in that direction again.  What’s the 
 likelihood that cheap money is now the norm?  

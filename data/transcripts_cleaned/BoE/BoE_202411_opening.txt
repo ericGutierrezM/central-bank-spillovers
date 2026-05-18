@@ -19,7 +19,7 @@ today’s monetary policy decision.
 Chart 1 shows the evolution of twelve-month consumer price inflation (purple line) 
 over the past year.  It has fallen a long way to an average of 2% over the past five 
 months and 1.7% in the latest data for September.  This is 0.4 percentage points 
-below our August projection (in orange) and in the order of 1½ percentage points 
+below our August projection (in orange) and in the order of 1.5 percentage points 
 below our projection from a year ago (in blue).  The disinflationary process has 
 progressed well, and faster than we had expected. 
  
@@ -69,7 +69,7 @@ falls back to the 2% target in the medium term.
 This is shown here in Chart 3.  The blue line is the projection for consumer price 
 inflation, conditional on the 15-day average of the market-implied path for interest 
 rates to 29 October – our usual convention.  Headline inflation increases to around 
-2¾% by the second half of 2025, before falling back to around the 2% target over the 
+2.75% by the second half of 2025, before falling back to around the 2% target over the 
 medium term. 
  
   
@@ -92,7 +92,7 @@ still projected to fall significantly over the forecast period.
  
  
 We provisionally expect the measures announced in the Autumn Budget to boost the 
-level of GDP by around ¾% at their peak in a year’s time.  This reflects the stronger, 
+level of GDP by around 0.75% at their peak in a year’s time.  This reflects the stronger, 
 and relatively front-loaded, paths for government consumption and investment more 
 than offsetting the impact on growth of higher taxes.  Overall, fiscal policy is still 
 expected to tighten over the forecast.  But all else equal, the changes announced in 
@@ -106,7 +106,7 @@ the forecast period.
 5 
  
 The marginal effects on our inflation projections from the Autumn Budget are shown 
-in Chart 5.  Combined, measures push up on inflation by just under ½ percentage 
+in Chart 5.  Combined, measures push up on inflation by just under 0.5 percentage 
 point at their peak (white line).  The extended freeze on fuel duty pushes down on 
 inflation over the next fiscal year (orange bars).  But as it is assumed to rise 
 thereafter in line with announced Government policy, fuel duty then pushes up on 

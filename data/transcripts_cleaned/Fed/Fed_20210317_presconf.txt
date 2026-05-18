@@ -112,7 +112,7 @@ persistently below 2 percent, we will aim to achieve inflation moderately above 
 some time so that inflation averages 2 percent over time and longer-term inflation expectations 
 remain well anchored at 2 percent.  We expect to maintain an accommodative stance of monetary 
 policy until these employment and inflation outcomes are achieved.  With regard to interest rates, 
-we continue to expect it will be appropriate to maintain the current 0 to ¼ percent target range 
+we continue to expect it will be appropriate to maintain the current 0 to 0.25 percent target range 
 for the federal funds rate until labor market conditions have reached levels consistent with the 
 Committee’s assessment of maximum employment and inflation has risen to 2 percent and is on 
 track to moderately exceed 2 percent for some time.  I would note that a transitory rise in 
@@ -146,7 +146,7 @@ JOE PAVEL.  Howard from Reuters.
 HOWARD SCHNEIDER.  Hi, Chair Powell, and, and thanks for that.  So could you talk 
 us through how the, the forecasts for 2021 map into the “substantial further progress” 
 definition—you know, 2.4 percent inflation—I understand that’s considered transitory.  That still 
-seems like some progress there, 4½ percent unemployment.  Is it time to start talking about 
+seems like some progress there, 4.5 percent unemployment.  Is it time to start talking about 
 talking about tapering yet? 
 CHAIR POWELL.  [Laughter]  Not yet.  So, as you—as you pointed out, we’ve said that 
 we would continue asset purchases at this pace until we see substantial further progress.  And 
@@ -661,7 +661,7 @@ MICHELLE SMITH.  Thank you.  Michael McKee.
 MICHAEL MCKEE.  Mr. Chairman, can you help me understand something about the, 
 the SEP and your forecasts?  The inflation that you’re talking about for this year, you say, is 
 “transitory.”  Then, by 2023, you’re back down to 2.1 percent.  There’s no forecast for a rate 
-increase for 2023.  If you get to 3½ percent unemployment but inflation is only at 2 or 
+increase for 2023.  If you get to 3.5 percent unemployment but inflation is only at 2 or 
 2.1 percent, are you willing to leave rates at zero going forward from there—or, roughly zero 
 going forward from there?  In other words, could we be in a Japan-like situation where rates just 
 stay low because inflation does? 

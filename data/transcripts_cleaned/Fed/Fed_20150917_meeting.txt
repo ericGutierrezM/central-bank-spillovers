@@ -2063,7 +2063,7 @@ polar case—shown by the green dash-dotted lines in panel A—in which the FOMC
 announces that the SOMA portfolio will be held constant at its current level for a very 
 long time.  In this case, the term premium drops about 40 basis points on the 
 announcement—the green line in panel B—and the unemployment rate, panel E, falls 
-about ¼ percentage point below baseline by 2018.  This example highlights the result 
+about 0.25 percentage point below baseline by 2018.  This example highlights the result 
 that reinvestment policy can have sizable effects, albeit under an extreme strategy. 
 Turning to your third exhibit, the stimulus from the alternative reinvestment 
 strategies can be offset by a somewhat higher funds rate than implied by the inertial 
@@ -2165,7 +2165,7 @@ accommodation in response to adverse shocks, particularly those shocks that woul
 drive the federal funds rate to the ELB.  To illustrate this, in exhibit 4 we consider a 
 recessionary shock that pins the federal funds rate at the ELB for three years under 
 the baseline reinvestment strategy—the solid black line in panel A—and results in the 
-unemployment rate—panel B—rising to 7½ percent.  Under the 2 percent trigger 
+unemployment rate—panel B—rising to 7.5 percent.  Under the 2 percent trigger 
 strategy, the red dotted line in panel A, the public expects that the federal funds rate 
 will remain below 2  percent until 2021.  Accordingly, SOMA holdings, panel C, are 
 expected to remain at their current level until the funds rate reaches 2 percent in 2021. 
@@ -2937,7 +2937,7 @@ large balance sheet, arguably even larger than what we have today, to provide in
 negative shocks.  Now, I’m picking up on something implied by Vice Chairman Dudley’s 
 comment because, according to the Board analysis we discussed, a large SOMA portfolio lowers 
 the term premium and effectively shifts the IS curve out, and this implies a higher equilibrium 
-federal funds rate—it’s about ½ percentage point higher than baseline for the constant portfolio. 
+federal funds rate—it’s about 0.5 percentage point higher than baseline for the constant portfolio. 
 What does that do?  It provides us with more buffer to use the federal funds rate as a policy 
 instrument to respond to negative shocks. 
 I see this memo not really being about this scenario or about the strategy for ending 
@@ -4451,8 +4451,8 @@ Second, the most recent indicators, including yesterday’s encouraging report o
 retail sales, suggest that some of that greater momentum has carried over into the 
 second half of this year.  In particular, taking on board the stronger retail sales news, 
 which is not reflected in your exhibit, we’ve marked up our forecast for current-
-quarter GDP growth about ½ percentage point relative to the July Tealbook and now 
-have it at about 2¼ percent. 
+quarter GDP growth about 0.5 percentage point relative to the July Tealbook and now 
+have it at about 2.25 percent. 
 Third, we interpreted the two labor market reports that were issued during the 
 intermeeting period to be a little stronger than we had expected.  The August 
 unemployment rate, at 5.1 percent, was 0.2 percentage point lower than we had 
@@ -4467,7 +4467,7 @@ economic activity, and we have tempered our GDP growth outlook in light of these
 changes. 
 All told, as Missaka showed in his pre-FOMC briefing yesterday, the adjustments 
 we made in response to these four sources of information result in an output gap that 
-is about ¾ percentage point tighter than before in the second quarter of this year, and 
+is about 0.75 percentage point tighter than before in the second quarter of this year, and 
 we have essentially carried that greater tightness into our projection through the next 
 two years.  By 2018, a faster pace of monetary normalization begins to gain some 
 traction and the delta in the GDP gap begins to narrow. 
@@ -4724,7 +4724,7 @@ Baa spread has increased about 75 basis points.  In the alternative scenario, we
 assume that it goes up in the fourth quarter by a further 200 basis points relative to 
 baseline and then gradually returns to a more normal level.  Real GDP contracts 
 sharply almost immediately, and as you can see in panel 6, the unemployment rate— 
-the blue dashed line—rises as much as ¾ percentage point above its baseline 
+the blue dashed line—rises as much as 0.75 percentage point above its baseline 
 trajectory, the black line.  As severe as these results are, they could have been worse.  
 The funds rate in the alternative scenario runs about 100 basis points below baseline, 
 a policy response that prevents the fallout from being even more serious.  This 
@@ -4747,7 +4747,7 @@ As in July, we expect that inflation will continue to run at a low level through
 end of this year.  At the time of your December meeting, the latest reading on PCE 
 prices that you will have in hand will be the one for October.  We now forecast that 
 topline prices over the three months ending in October will decline at an annual rate 
-of nearly ¾ percent.  Over the 12 months ending in October—the next pair of lines 
+of nearly 0.75 percent.  Over the 12 months ending in October—the next pair of lines 
 
 
  
@@ -4829,7 +4829,7 @@ of nearly ¾ percent.  Over the 12 months ending in October—the next pair of l
 September 16–17, 2015
 53 of 240
 down—we expect that topline prices will have been unchanged.  Core inflation is 
-expected to run below 1½ percent through this period, whether measured on a 
+expected to run below 1.5 percent through this period, whether measured on a 
 3-month or 12-month basis. 
 As for the labor market, we have revised down our forecast for the unemployment 
 rate and now expect that you will have a 5 percent print in hand at the time of the 
@@ -4839,7 +4839,7 @@ incorporates both the gain of 210,000 that we expect to be reported for Septembe
 itself, as well as the upward revision that we expect to be applied to the August 
 number. 
 As I mentioned earlier, we have nudged up our forecast of third-quarter real GDP 
-growth from the 1.9 percent figure shown in the exhibit to around 2¼ percent.  Steve 
+growth from the 1.9 percent figure shown in the exhibit to around 2.25 percent.  Steve 
 Kamin will now continue our presentation. 
 MR. KAMIN.4  Thank you, David.  I will be referring to the material titled “The 
 International Outlook.” 
@@ -4998,7 +4998,7 @@ restrain spending in oil exporters more than it boosts spending in oil importers
 Besides declines in oil prices, various other market movements have affected the 
 outlook, including widespread declines in equity prices, increases in credit spreads, 
 and, as shown in panel 5, a further appreciation of the dollar.  The modest devaluation 
-of the RMB by itself added only about ½ percent to the dollar’s value, but 
+of the RMB by itself added only about 0.5 percent to the dollar’s value, but 
 sympathetic depreciations of other Asian currencies, hits to so-called commodity 
 currencies, and general gloom about EME prospects, taken together, led the dollar to 
 
@@ -5242,7 +5242,7 @@ longer-run pace.  And almost all of you see real GDP growth picking up somewhat 
 2016 before slowing toward its longer-run rate in 2017 and 2018.  As shown in the 
 top panel, the medians of your projections of real GDP growth this year and during 
 the next two years are a bit above the 2 percent median of your projections of longer-
-run growth, but a bit below the 2½ percent growth rate recorded in 2013 and 2014.  
+run growth, but a bit below the 2.5 percent growth rate recorded in 2013 and 2014.  
 Most of you project that the unemployment rate, shown in the second panel, will 
 decline further this year and be at or below your estimate of its longer-run normal rate 
 from 2016 through 2018.  As shown in the third panel, the median of your projections 
@@ -5644,7 +5644,7 @@ mainly what’s generating this difference.
  
 September 16–17, 2015
 60 of 240
-MR. EVANS.  So the forecast was already pretty low in the June Tealbook at 1½ percent 
+MR. EVANS.  So the forecast was already pretty low in the June Tealbook at 1.5 percent 
 for 2017, but the differential data coming in seem to have moved it downward. 
 MR. WILCOX.  Yes.  My guess is that two things are going on there.  One—probably 
 the more material of the two—is the recent tranche of disappointing compensation news that we 
@@ -5798,7 +5798,7 @@ on financial stability.  After Black Monday in October 1987, the FOMC had daily 
 the end of that month to monitor financial and economic conditions and lowered interest rates.  
 Recent stock price movements have been much more modest.  On Black Monday, the stock 
 market fell 22 percent, whereas on August 24, the Dow opened with a decline of over 1,000 
-points, or about 6 percent, but ended the day down a bit over 3½ percent.  Nonetheless, the stock 
+points, or about 6 percent, but ended the day down a bit over 3.5 percent.  Nonetheless, the stock 
 price declines did receive significant attention. 
 It is certainly possible that some of the eye-catching declines have more to do with 
 problems related to financial market structure rather than a change in the economic outlook.  On 
@@ -6097,7 +6097,7 @@ to 5.1 percent in the latest reading, matching what the staff projected at the p
 would only happen two and a half years from now, at the end of 2017. 
 I appreciate that the staff has now added some downward tilt to its unemployment 
 projections, which have consistently been too pessimistic over the past several years. Still, it is 
-probably not enough, as the unemployment rate is likely to fall below 4½ percent over the 
+probably not enough, as the unemployment rate is likely to fall below 4.5 percent over the 
 forecast horizon with above-trend growth and no major negative shocks.  I think these outcomes 
 are already in train, as the Committee has already committed to a very easy monetary policy 
 during this coming phase of the business cycle. 
@@ -6396,7 +6396,7 @@ this year by what are now known to have been temporary factors, including unusua
 winter weather.  But with that pothole behind us, consumption growth has returned to a 3 percent 
 annual rate. 
 Reflecting the momentum in labor markets, real income growth is likely to continue at a 
-solid pace.  I expect real PCE growth to remain in the 2½ to 3 percent range, distinctly higher 
+solid pace.  I expect real PCE growth to remain in the 2.5 to 3 percent range, distinctly higher 
 than the average from 2010 through 2014.  This sustained step-up in the pace of consumption 
 growth is important to my thinking about interest rates. I’ll say more about this later, but, 
 broadly speaking, higher real consumption growth should be associated with higher real interest 
@@ -6481,7 +6481,7 @@ outpaced productivity.  So I don’t see the behavior of wage rates as providing
 is any remaining labor market slack. 
 The JOLTS data also seem to suggest that labor market slack is minimal.  Job openings 
 have been increasing more rapidly than hiring for several years now, but the divergence has 
-widened at an increasing pace this year.  As of July, job openings have increased by 12½ percent 
+widened at an increasing pace this year.  As of July, job openings have increased by 12.5 percent 
 from their average in the fourth quarter of 2014, while the hiring rate has been virtually flat.  The 
 natural interpretation would seem to be that employers are having an increasingly hard time 
 finding suitable workers to hire, and slack in any meaningful sense has been substantially 
@@ -6551,7 +6551,7 @@ while core PCE inflation has averaged 1.7 percent.
 One might argue that the strength in headline inflation was aided by the 7.8 percent 
 rebound in energy prices from January to July, but core inflation was relatively close to 2 percent 
 despite the continuing decrease in import prices this year.  I think our experience following the 
-previous disinflationary surprise is good evidence that the 1½ percent decline in the overall price 
+previous disinflationary surprise is good evidence that the 1.5 percent decline in the overall price 
 level over the six months prior to last January was transitory and left no lasting effect on trend 
 inflation.  Thus, to the extent that the current disinflationary impulse from energy prices and the 
 dollar resembles the previous one, it ought to bolster our confidence that inflation will rebound to 
@@ -6969,7 +6969,7 @@ large shocks, but we also should not overreact to such shocks.
 Finally, underlying my forecast is a funds rate path that incorporates a liftoff from the 
 zero lower bound this quarter and a gradual rise thereafter.  My path is more shallow than in my 
 previous SEP submission.  I revised down my long-run funds rate by 25 basis points to 
-3½ percent, and I anticipate the funds rate to be at that level by the end of 2017.  Thank you, 
+3.5 percent, and I anticipate the funds rate to be at that level by the end of 2017.  Thank you, 
 Madam Chair. 
 CHAIR YELLEN.  Thank you.  President Lockhart. 
 MR. LOCKHART.  Thank you, Madam Chair.  I’ll start with a few observations from 
@@ -7038,7 +7038,7 @@ requirements.  This was the fifth consecutive cycle of contacts in which we hear
 growing wage pressures for selected job categories or in selected geographies or both.  It was 
 noteworthy that, this past cycle, the District contacts yielded a more generalized sense of rising 
 wage pressures. 
-Turning to my outlook, my baseline forecast for growth falls in the 2½ to 3 percent range 
+Turning to my outlook, my baseline forecast for growth falls in the 2.5 to 3 percent range 
 over the next few years, which puts me on a stronger growth path than the current Tealbook.  My 
 growth outlook is accompanied by continued absorption of labor market slack, broadly defined, 
 and accelerating measured wage pressure.  I continue to have confidence that inflation will move 
@@ -7783,7 +7783,7 @@ more than 2 million barrels per day above global consumption.  And although rig 
 notably declined, this is more than offset, in our view, by a very large shadow inventory of 
 drilled but uncompleted wells that could be brought into production rapidly, depending on oil 
 prices.  We have accumulated this supply overhang even as supply outages outside the United 
-States have restricted world oil production by an estimated 3½ million barrels per day.  If any of 
+States have restricted world oil production by an estimated 3.5 million barrels per day.  If any of 
 these outages are resolved—for example, in Libya or Iran—the additional production could 
 easily offset supply declines expected in the United States in coming months. 
 In addition, much of the world’s marginal cost production is located in the United States, 
@@ -7861,7 +7861,7 @@ sometime in 2017 that global supply and demand get into some reasonable degree o
 With that backdrop, let me talk about the Eleventh District.  There certainly will continue 
 to be negative spillovers from all of this in the Eleventh District.  We see it in the manufacturing 
 survey, and, in fact, our most recent survey shows that the new orders component dropped 13 
-points to negative 12½ after having reached positive territory in July for the first time this year. 
+points to negative 12.5 after having reached positive territory in July for the first time this year. 
 The service sector is stronger and more resilient and still growing at close to its expansion 
 average, but we are seeing signs that retail sales are beginning to weaken.  In addition to the 
 effect of the energy sector, Beige Book contacts suggest some of this retail weakness is due to 
@@ -8081,7 +8081,7 @@ being about Spain.  The gains, though, are coming from low levels.  Not surprisi
 everyone was pessimistic about China, and there were some dire comments about Latin America, 
 especially Brazil, which one large manufacturer described as “going off a cliff.” 
 Turning to the national outlook, my own assessment has not changed a great deal.  I 
-expect growth will average about 2½ percent over the forecast period.  That is above the 
+expect growth will average about 2.5 percent over the forecast period.  That is above the 
 Tealbook, reflecting in part my somewhat higher path for potential output.  I expect the 
 unemployment rate will fall to 5 percent by the end of this year, which would match my 
 assessment for the current level of the natural rate.  I agree with the Tealbook that, on net, other 
@@ -8220,7 +8220,7 @@ before, our Chicago DSGE model also uses the SPF 10-year CPI expectations to inf
 September 16–17, 2015
 95 of 240
 inflation trend.  The declines in those long-term CPI expectations over the past year and a half as 
-well as other data keep the model’s core PCE inflation forecast down at only 1½ percent in 2018. 
+well as other data keep the model’s core PCE inflation forecast down at only 1.5 percent in 2018. 
 In a somewhat similar vein, the Board staff’s long-run inflation attractor is currently 
 anchored at 1.8 percent rather than 2 percent.  I still find that worrisome.  Taken together, these 
 results highlight that current survey inflation expectations could be less helpful than we think, 
@@ -8382,8 +8382,8 @@ was running at 1.6 percent, its softest six-month pace since 2011.  Most recentl
 six-month change is 2 percent.  The patterns are similar for durables and nondurables. 
 In general, there is a distinct bottom based on the six-month change in inflation since last 
 January.  Since that time, the broad components of core PCE inflation have all moved higher.  In 
-addition, the BEA revised up inflation in 2012 and 2013 by about ¼ percentage point each year, 
-which means that the price level is about ½ percent higher than we thought it was at the time of 
+addition, the BEA revised up inflation in 2012 and 2013 by about 0.25 percentage point each year, 
+which means that the price level is about 0.5 percent higher than we thought it was at the time of 
 our July meeting. 
 In terms of emergent risk, the recent concerns regarding global growth are worth keeping 
 in mind.  The downward trend in the New Export Orders Index from the ISM manufacturing 
@@ -8593,8 +8593,8 @@ latest unemployment reading was 9.8 percent and the staff’s nowcast for core i
 1.4 percent. The median participant’s assessment was that, under appropriate monetary policy, 
 the unemployment rate would still be 7 percent in three years. At the same time, the median 
 participant’s assessment was that, under appropriate monetary policy, PCE inflation would only 
-rise back to 1½ percent three years later.  So, three years later, we had unemployment at 
-7 percent and inflation at 1½ percent. 
+rise back to 1.5 percent three years later.  So, three years later, we had unemployment at 
+7 percent and inflation at 1.5 percent. 
 When I was reading these numbers, I found them quite surprising.  You can draw one of 
 two conclusions from them.  On the one hand, you can say that the Committee was willing, in 
 November 2009, to forgo the timely creation of hundreds of thousands, possibly millions, of jobs 
@@ -8604,7 +8604,7 @@ much about unemployment.  That is a view that has been expressed around this tab
 you can focus only on the price stability mandate and say that the Committee was willing to 
 make policy choices and put the credibility of its then-informal 2 percent target in jeopardy. 
 However you put it, it is hard to understand these projections—7 percent unemployment 
-and 1½ percent inflation three years later—as representing the outcome of appropriate monetary 
+and 1.5 percent inflation three years later—as representing the outcome of appropriate monetary 
 
 
  
@@ -10005,7 +10005,7 @@ higher payroll growth, lower productivity growth, and a substantially faster dec
 unemployment, what might be called the “more of the same” scenario, and that is, in fact, my 
 forecast. 
 With growth much like that in the Tealbook, I have the unemployment rate declining to 
-4½ percent, or perhaps even below, in 2017, well below my estimate of the natural rate of 
+4.5 percent, or perhaps even below, in 2017, well below my estimate of the natural rate of 
 4.9 percent.  By the way, I am number 2, as we are giving out our numbers [laughter].  And that 
 path is consistent with the idea that we ought to be prepared to let unemployment decline below 
 the natural rate to help lift trend inflation and support a more robust recovery from the ravages of 
@@ -10154,7 +10154,7 @@ three main margins of labor market slack.  Despite this, the ongoing diminution 
 to result in any noticeable acceleration in our three broad measures of wages. 
 Average hourly earnings through August as well as compensation per hour and the 
 employment cost index through the second quarter all suggest that nominal wage growth is only 
-in the 2 to 2¼ percent range, which is little different than the pace we have seen over the past 
+in the 2 to 2.25 percent range, which is little different than the pace we have seen over the past 
 several years. The absence of such acceleration suggests that resources still are not fully utilized, 
 and I think other data send a similar signal.  Participation for prime-age adults remains well 
 below pre-recession levels and below what pre-crisis trends in participation for this group would 
@@ -10230,7 +10230,7 @@ spending is rising at a welcome pace moving into the second half.  Continued job
 lower gas prices should continue to support this.  And the latest data on building permits and 
 starts continue to paint a picture of gradual recovery in housing. 
 Overall, despite an anemic contribution from government spending, domestic demand is 
-advancing. Domestic final sales rose 2½ percent in the first half of 2015, and the Tealbook 
+advancing. Domestic final sales rose 2.5 percent in the first half of 2015, and the Tealbook 
 expects similar growth in the second half.  By contrast, manufacturing exports are on the soft 
 side, and that brings me to the crosscurrents. 
 Looking back over the past year, it is very clear that foreign economic conditions are 
@@ -10320,7 +10320,7 @@ Moreover, my sense is that the effects of dollar appreciation, even the dollar a
 we have seen so far, are likely to be quite persistent, and those effects, if the dollar appreciates 
 further, are likely to lead to additional restraint both on real activity and on U.S. inflation. 
 That comes against a backdrop in which U.S. core PCE inflation remains quite subdued.  
-The underlying trend, as many have noted, remains between maybe 1¼ to 1½ percent, similar to 
+The underlying trend, as many have noted, remains between maybe 1.25 to 1.5 percent, similar to 
 the pace that we have seen in the past couple of years and noticeably below our target.  If you 
 
 
@@ -10542,7 +10542,7 @@ growth in real GDP.  My forecast is not too different from the one I had back in
 on spending and production received since then, in fact, have been somewhat stronger than I 
 expected and—I think this coincides with what I heard around the table—stronger than what 
 many of you expected.  Most prominently, real GDP growth in the first half of the year has been 
-revised up by more than 1 percentage point to 2¼ percent.  Readings on consumer spending and 
+revised up by more than 1 percentage point to 2.25 percent.  Readings on consumer spending and 
 residential construction into this summer have been solid, while the remarkable contraction in 
 drilling activity appears to have bottomed out. 
 Nonetheless, I would not describe overall growth as robust.  First, the strong growth in 
@@ -10621,7 +10621,7 @@ Turning to inflation, information received since our previous meeting, specifica
 oil prices and a higher dollar, suggests that the transitory factors currently holding down inflation 
 are likely to fade a bit more slowly than I previously judged.  For example, the Tealbook now 
 shows overall PCE inflation on a four-quarter basis running at only 1 percent through the first 
-three quarters of next year.  That’s down ¼ percent from the July Tealbook.  Nonetheless, I still 
+three quarters of next year.  That’s down 0.25 percent from the July Tealbook.  Nonetheless, I still 
 
 
  
@@ -11921,7 +11921,7 @@ assumption that is by no means obvious.
 The intercept in a Taylor rule is often identified with the natural rate of interest, and some 
 argue that if the natural rate has declined, we should make a corresponding downward 
 adjustment to the prescriptions of those rules.  I point out, however, that the Tealbook already 
-uses a lower natural interest rate assumption than it used to. Now it’s at 1¼ percent in the way it 
+uses a lower natural interest rate assumption than it used to. Now it’s at 1.25 percent in the way it 
 implements those rules. One would have to argue for a natural interest rate that’s far lower than 
 the estimates I cited—implausibly lower, I might argue—in order to rationalize the current real 
 federal funds rate in the usual Taylor (1993) or Taylor (1999) rule as well as in the inertial 
@@ -13399,15 +13399,15 @@ explicit in your own concern about overshooting, and I think others have been to
 I sense that many participants’ SEP forecasts are trying to thread the needle to get to 
 2 percent without any risk of overshooting.  With inflation so very low, that’s the only way I can 
 rationalize some of our SEP policy rate paths, at least given my outlook.  I infer that these paths 
-reflect a serious aversion to PCE inflation heading to, say, 2½ percent.  But after six or seven 
-years of inflation averaging 1½ percent, whether we briefly touch 2 percent during that time isn’t 
+reflect a serious aversion to PCE inflation heading to, say, 2.5 percent.  But after six or seven 
+years of inflation averaging 1.5 percent, whether we briefly touch 2 percent during that time isn’t 
 really relevant.  And with forecasts for several more years below target, we should be very 
-nervous about advocating policies that seek to eliminate any chance of 2½ percent inflation. 
+nervous about advocating policies that seek to eliminate any chance of 2.5 percent inflation. 
 Outsized concerns over exceeding 2 percent inflation will risk signaling that our price 
 objective is a ceiling and not a symmetric target.  It also risks us joining other central banks that 
 are struggling with the consequences of not sufficiently defending their inflation objectives from 
 below and of ignoring the added risk emanating from the zero lower bound. 
-Furthermore, I don’t see much risk of inflation running anywhere near 2½ percent over 
+Furthermore, I don’t see much risk of inflation running anywhere near 2.5 percent over 
 the forecast period.  To the contrary, the inflation risks largely seem to be to the downside.  The 
 Tealbook alternative scenarios highlight this.  Like President Kocherlakota, I can’t recall the last 
 time every alternative simulation was more pessimistic about inflation than the baseline scenario, 
@@ -13471,7 +13471,7 @@ funds rate in order to build up a buffer stock of inflation pressures.  In turn,
 reduce the risk of returning to the zero lower bound if these plausible shocks indeed come to 
 pass. 
 Another way to put this is that our policies should allow a higher probability of inflation 
-rising to the range of 2 to 2½ percent for a time.  To achieve a symmetric 2 percent objective in 
+rising to the range of 2 to 2.5 percent for a time.  To achieve a symmetric 2 percent objective in 
 the face of the likely asymmetric policy risks emanating from the nonlinearity of the zero lower 
 bound, we have to allow ourselves a reasonable chance of going above 2 percent.  Less bold 
 action could signal that we were content to have PCE inflation settle in at 1.5 to 1.9 percent, the 
@@ -13486,7 +13486,7 @@ funds rate range at 75 to 100 basis points.  From today, that’s a total of thr
 arrive at about the same rate by the end of 2018. 
 I believe that lower rates in the near term, followed by a bit faster ascent after we have 
 more confidence in the inflation outlook, would allow for better risk assessment and would be 
-appropriate as long as our inflation outlook is below 2½ percent.  Again, the way to get to 
+appropriate as long as our inflation outlook is below 2.5 percent.  Again, the way to get to 
 2 percent within a reasonable period of time, or at all, is to make sure you give yourself a 
 reasonable chance of getting to 2 percent. 
 
@@ -15135,7 +15135,7 @@ some slack remains on other margins, such as participation and involuntary part-
 employment. 
 By contrast, headline inflation has moved further away from our target during the 
 intermeeting period.  Market-based measures of inflation expectations have again drifted down, 
-and the 12-month change in core PCE inflation appears stubbornly mired at around 1¼ percent, 
+and the 12-month change in core PCE inflation appears stubbornly mired at around 1.25 percent, 
 where it has been for some years now. 
 These developments lead me to conclude we are likely still in the quadrant of inflation– 
 resource utilization space in which both our full employment and inflation objectives are 

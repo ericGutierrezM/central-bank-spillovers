@@ -1195,7 +1195,7 @@ discussion, the communication appeared to be well understood.
 In view of already high expectations for a rate hike at this meeting, market 
 participants widely interpreted the minutes to suggest that the possible technical 
 adjustment will be implemented in June.  Although the implied rate on the July 
-federal funds contract declined only 3½ basis points around the time of publication of 
+federal funds contract declined only 3.5 basis points around the time of publication of 
 the minutes, most contacts indicated that they expect that the effective rate will 
 remain 5 basis points below IOER, at least initially, following the implementation of 
 such an adjustment. 
@@ -1940,7 +1940,7 @@ Let’s turn to your first exhibit. In our projection, as shown to the left, out
 continues to expand at an above-trend pace through next year before slowing to its 
 potential growth rate in 2020, as monetary policy tightens further.  As shown in the 
 right panel, compared with the December Tealbook, real GDP growth is about 
-½ percentage point faster this year and next and about unrevised in 2020.  As shown 
+0.5 percentage point faster this year and next and about unrevised in 2020.  As shown 
 2 The materials used by Messrs. Morin and Kamin are appended to this transcript (appendix 2). 
 
 
@@ -3492,7 +3492,7 @@ also slightly increased your near-term core inflation projections.  All of you n
 headline and core inflation at, or modestly above, 2 percent in 2019 and 2020.  Most 
 participants continue to view three or four rate hikes this year as appropriate, with the 
 median of your projections for the federal funds rate at the end of 2018 edging up 
-¼ point.  The median of your projections for 2019 is also up ¼ point and implies 
+0.25 point.  The median of your projections for 2019 is also up 0.25 point and implies 
 three hikes next year.  Among those who provided a value for the longer-run federal 
 funds rate, all but two see the funds rate above that value by the end of 2020.  And 
 although your assessments of the uncertainty and balance of risks surrounding your 
@@ -3997,7 +3997,7 @@ additional downward movement in the implied natural rate of unemployment.  Moreo
 basis of this analysis and conditional on projected future changes in the composition of the labor 
 force, these should put little, if any, additional downward pressure on the natural rate. On the 
 basis of this analysis, my estimate of the natural rate is 4.6 percent, and I expect this to prevail 
-over the foreseeable future.  With the unemployment rate projected to reach 3½ percent by next 
+over the foreseeable future.  With the unemployment rate projected to reach 3.5 percent by next 
 
 
  
@@ -4068,8 +4068,8 @@ outlook as balanced.
 With regard to appropriate monetary policy, my SEP projection is four funds rate 
 increases this year and further increases in 2019.  This is the same path I penciled in back in 
 March and results by 2020 in a nearly 1 percentage point overshoot of the long-run nominal 
-funds rate, which I still view to be 2½ percent, as my estimate of the neutral real rate remains at 
-½ percent.  In my projection, this interest rate path does not produce an inversion of the yield 
+funds rate, which I still view to be 2.5 percent, as my estimate of the neutral real rate remains at 
+0.5 percent.  In my projection, this interest rate path does not produce an inversion of the yield 
 curve, and that is reassuring, because much evidence does suggest an inverted yield curve is a 
 pretty reliable predictor of recessions. 
 Now, my staff has continued to analyze this issue and confirms that this predictive power 
@@ -5367,14 +5367,14 @@ the basis of incoming information, I’ve edged up my growth and inflation forec
 down my unemployment rate forecast over the projection horizon.  My associated funds rate path 
 is slightly steeper than in my March projection.  Over the forecast horizon, I expect growth to be 
 above its longer-run trend, which I estimate at 2 percent, and the unemployment rate to fall 
-further and remain below its longer-run level, which I estimate at 4½ percent.  I expect inflation 
+further and remain below its longer-run level, which I estimate at 4.5 percent.  I expect inflation 
 to be sustainably at 2 percent by the end of this year and to remain there over the rest of the 
 forecast horizon. 
 Economic fundamentals remain healthy.  Personal incomes are rising, and household 
 balance sheets are healthy.  Monetary policy and financial conditions remain accommodative. 
 Fiscal policy will add to growth through the forecast horizon. As anticipated, the first quarter 
 slowdown in consumer spending was temporary, and real GDP growth appears to have 
-strengthened in the second quarter.  I expect real GDP to grow between 2½ and 2¾ percent this 
+strengthened in the second quarter.  I expect real GDP to grow between 2.5 and 2.75 percent this 
 year and next. 
 Labor markets have tightened further since the last FOMC meeting, and a range of 
 indicators show the economy is operating beyond maximum employment.  Payroll gains were 
@@ -5715,7 +5715,7 @@ For the national outlook, our views on growth haven’t changed much.  We still 
 GDP increasing 3 percent in 2018 and then slowing to a bit under 2 percent by 2020.  Like 
 President Williams, we did make a couple of modest changes to the supply side of our forecast.  
 My staff’s research on the effects of the increased educational attainment of the workforce led us 
-to take onboard a lower estimate of the long-run unemployment rate, going from 4½ percent to 
+to take onboard a lower estimate of the long-run unemployment rate, going from 4.5 percent to 
 
 
  
@@ -5870,7 +5870,7 @@ The 11th District economy remains strong and continues to expand at a very solid
 Our surveys suggest that economic activity actually accelerated in May.  This acceleration was 
 primarily due to improvements in energy, manufacturing, and construction industries.  Texas 
 added jobs at a 3.8 percent rate year-to-date, and we expect job growth in the State of Texas in 
-2018 to be 3½ percent despite tight labor markets and numerous reports of labor shortages.  Our 
+2018 to be 3.5 percent despite tight labor markets and numerous reports of labor shortages.  Our 
 surveys and discussions with our contacts, in particular, suggest building wage pressures for 
 workers in oil field production service as well as in construction and leisure and hospitality 
 
@@ -5932,7 +5932,7 @@ uncertainty regarding trade are certainly two key downside risks to economic gro
 Just a comment on energy:  The industry is booming.  Our economists and our industry 
 contacts expect crude oil production this year to increase in excess of 1 million barrels a day in 
 the United States. Crude oil production in the United States now stands at 10.7 million barrels a 
-day.  We expect to end the year in excess of 11¼ million barrels, and I will say, this compares 
+day.  We expect to end the year in excess of 11.25 million barrels, and I will say, this compares 
 with 5 million barrels a day of crude oil production in the United States in 2008.  So we have 
 really substantially ramped up.  By comparison, Saudi Arabia crude oil production is right now 
 9.9 million barrels a day, and Russian production is approximately 11 million barrels a day. 
@@ -5940,7 +5940,7 @@ On the supply–demand side in the United States—and I note the Tealbook box a
 effect of rising energy prices—part of the talk is the increasing self-sufficiency of the United 
 States.  And to that point, it is our estimate that the United States will consume approximately 
 20.6 million barrels a day of oil and other petroleum products in 2018.  On the supply side, we 
-estimate, as I mentioned, 11¼ million of crude oil production, another 4½ million barrels of 
+estimate, as I mentioned, 11.25 million of crude oil production, another 4.5 million barrels of 
 natural gas liquids, and another 1.2 million barrels per day from biofuels production, which is 
 obviously a rapidly growing area.  Now, these supply–demand numbers are not perfectly apples-
 to-apples because different products are refined and processed into different outputs, but you get 
@@ -6010,7 +6010,7 @@ losses on the part of Venezuela and Iran.  So we still think we’re roughly in 
 demand balance, despite these different changes, including what OPEC might do. 
 As we’ve said before, we still believe that by 2020 or 2021 we will see a real likelihood 
 of a global undersupply situation, particularly assuming global demand growth of 1 to 
-1½ million barrels a day.  Shale is going to grow substantially in the United States.  For example, 
+1.5 million barrels a day.  Shale is going to grow substantially in the United States.  For example, 
 the Permian Basin now generates about 3 million barrels a day.  We think that’s going to get to 
 8 million barrels a day over the next 17 years or so, but given the rapid decline characteristics of 
 shale and the lack of long-lived projects, we still think shale is not going to be able to keep up 
@@ -6086,7 +6086,7 @@ the next couple of years., depending on what else is going on with regard to eco
 in the United States.  We note this because it could come at a very inopportune time, when fiscal 
 stimulus is fading and in light of all the other parts of our projection. 
 Regarding our own projections for the United States, we continue to estimate real GDP 
-growth in the United States of 2¾ percent in 2018.  This is a modest firming in our outlook since 
+growth in the United States of 2.75 percent in 2018.  This is a modest firming in our outlook since 
 the previous FOMC meeting and the previous SEP exercise.  We continue to expect—like most 
 of you—growth to slow in ’19 and ’20 as fiscal stimulus fades and monetary policy 
 accommodation is removed.  We continue to expect the unemployment rate to decline to 
@@ -6264,10 +6264,10 @@ have increased at a robust pace of 6 percent at an annual rate, and it’s likel
 from the increase in oil prices, as we just heard.  Separately, as others have noted, tax and trade 
 policy may be exerting countervailing influences on cap-ex. 
 The latest data also suggest that net exports will make a positive contribution in the 
-current quarter, adding almost ½ percentage point to real GDP growth, after being a neutral 
+current quarter, adding almost 0.5 percentage point to real GDP growth, after being a neutral 
 factor in the first quarter.  With ample fiscal stimulus in train, it’s likely that growth will 
 continue above the trend rate over the next few years.  A variety of estimates suggest fiscal 
-impetus will contribute about ¾ percentage point to GDP growth this year and next, although 
+impetus will contribute about 0.75 percentage point to GDP growth this year and next, although 
 there is substantial uncertainty about the fiscal trajectory starting in 2020. 
 
 
@@ -6497,7 +6497,7 @@ leading up to the crisis, the ECI rose a bit more than 3 percent at an annual ra
  
 June 12–13, 2018
 68 of 185
-was around 2¼ percent.  I am also, like many of you, hearing anecdotes relating labor market 
+was around 2.25 percent.  I am also, like many of you, hearing anecdotes relating labor market 
 shortages in specific occupations and sectors, echoing a theme that was prominent in our recent 
 Beige Book surveys. 
 For inflation, the latest readings have been very encouraging.  With the May CPI data 
@@ -7590,10 +7590,10 @@ comments.  It’s been very much my pleasure to work with all of you, and to wor
  
 June 12–13, 2018
 81 of 185
-Committee over the past 11½ years.  I’m glad we’re not having those unscheduled meetings like 
+Committee over the past 11.5 years.  I’m glad we’re not having those unscheduled meetings like 
 we were in 2007, 2008, and 2009.  [Laughter] 
 Today you sort of added to my list of regrets.  It’s too bad these remarks won’t be 
-available in the transcript for another 5½ years.  [Laughter] My mom is 95 years old, and I’m 
+available in the transcript for another 5.5 years.  [Laughter] My mom is 95 years old, and I’m 
 sure she’d be delighted to hear what you’ve all said.  I’m going to have more to say at the 
 reception this evening, and tomorrow, as we wrap this meeting up. 
 I’m where pretty much everyone else is in terms of the outlook.  I don’t think it’s 
@@ -9699,7 +9699,7 @@ regarding alternative A.  Again, I do have concerns about this Committee being p
 being too “hawkish.” 
 That said, with the economy running as strong as it is, I believe, as does my team, that 
 our policy needs to not be accommodating and that we should get our policy position to neutral.  
-At present, my guess on the neutral policy rate is in the range of 2¼ to 3 percent.  After the move 
+At present, my guess on the neutral policy rate is in the range of 2.25 to 3 percent.  After the move 
 today, we will be very close to the bottom of that range. 
 Depending on how growth and inflation data play out in the coming months, I think it’s 
 at least as likely that we will proceed slower than what is in the dot plots as it is that we will raise 
@@ -10246,10 +10246,10 @@ levels of inflation expectations in household surveys and TIPS pricing remind us
 not quite done.  Policy needs to stay accommodative for a while longer.  This leads me to support 
 maintaining a strategy of gradual rate increases for the foreseeable future. In my SEP 
 submission, I assume today’s action and one more policy move this year, thus ending 2018 with 
-the funds rate target range at 2 to 2¼ percent.  In Governor Quarles’s spirit of full transparency, 
+the funds rate target range at 2 to 2.25 percent.  In Governor Quarles’s spirit of full transparency, 
 I’m Number Eight in the SEP. 
 I think the decision between three or four policy moves this year will be a close call, and 
-I may well support a fourth move, to 2¼ to 2½ percent, if inflation expectations firm more 
+I may well support a fourth move, to 2.25 to 2.5 percent, if inflation expectations firm more 
 noticeably as we move through the year.  But regardless of that exact choice, it’s likely we will 
 be nearing a neutral funds rate setting by early 2019.  I don’t think the rate decisions that get us 
 to that point will prove to be difficult.  However, I do think we will need to be careful to prevent 
@@ -10396,7 +10396,7 @@ strive to better describe our attitude toward symmetric 2 percent inflation, and
 Bullard’s comments on this also useful. 
 Yes, I recognize we would have to be vigilant against overshooting too much.  But our 
 view that the Phillips curve is no longer accelerationist limits the upside risk to inflation even 
-with an unemployment rate a little below 3½ percent. 
+with an unemployment rate a little below 3.5 percent. 
 In sum, I’m fine with today’s rate move.  I also suggest we change the language in 
 paragraph 3 of alternative B to describe policy as “modestly accommodative.”  Looking ahead, I 
 believe the gradual approach to policy normalization will remain appropriate, and I will be even 
@@ -10813,7 +10813,7 @@ recessions in the United States, with one false negative and one false positive 
 To put those numbers in perspective, the current spread is about 20 basis points narrower 
 than the average over the 45 years before the financial crisis.  Furthermore, it’s helpful to take 
 into account the very low level of the current 10-year yield by historical standards, which, 
-around 3 percent, is well below the average of 6¼ percent during the 20 years before the crisis. 
+around 3 percent, is well below the average of 6.25 percent during the 20 years before the crisis. 
 Of course, one important reason the 10-year Treasury yield may be unusually low is that market 
 expectations of interest rates in the longer run may be unusually low.  But a second reason may 
 be that the term premium has fallen to levels that are very low by historical standards. 
@@ -11554,9 +11554,9 @@ to communicate.  In fact, we’re probably already close to being there with our
 inflation target is symmetric.  We’ve already sort of moved a little bit in that direction. 
 Finally, I want to thank everybody for last night’s reception and all of the nice comments 
 from Chair Powell and President Rosengren.  I want to put a little bit of what I said last evening 
-on the record.  I mean, it’ll take 5½ years for the record to come out, but I still want it to be there. 
+on the record.  I mean, it’ll take 5.5 years for the record to come out, but I still want it to be there. 
 [Laughter] First of all, I want to thank everybody for being such good colleagues.  It’s really 
-been a pleasure for me to participate in all of these meetings over the past 11½ years and have 
+been a pleasure for me to participate in all of these meetings over the past 11.5 years and have 
 the opportunity to collaborate with every one of you.  I’m so impressed with the commitment of 
 everybody associated with the Fed to our mission. 
 Second, I’m confident that you’ll continue to do what will need to be done in the years 
@@ -11740,8 +11740,8 @@ MR. QUARLES.  Second.
 CHAIRMAN POWELL.  Without objection.  Finally, I need a motion from a Board 
 member to approve establishment of the primary credit rate by the Federal Reserve Banks of 
 Boston, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas 
-City, Dallas, and San Francisco at 2½ percent, effective June 14, 2018.  It will also encompass 
-approval by the Board of Governors of the establishment of a 2½ percent primary credit rate by 
+City, Dallas, and San Francisco at 2.5 percent, effective June 14, 2018.  It will also encompass 
+approval by the Board of Governors of the establishment of a 2.5 percent primary credit rate by 
 the remaining Federal Reserve Bank, effective on the later of June 14, 2018, and the date such 
 Reserve Bank informs the Secretary of the Board of such a request. The Secretary of the Board 
 would be authorized to inform such Reserve Bank of the approval of the Board of Governors on 

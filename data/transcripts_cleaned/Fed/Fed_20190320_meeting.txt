@@ -1427,7 +1427,7 @@ responded regarding the extension, and the final form of any deal remains unknow
 Consistent with ongoing investor uncertainty over the outcome, risk reversals on the 
 pound–dollar currency pair continue to point to higher demand for protection against 
 pound depreciation relative to the dollar, shown in the middle-right panel. 
-The broad dollar appreciated around ½ percent over the intermeeting period, 
+The broad dollar appreciated around 0.5 percent over the intermeeting period, 
 reflecting gains against the euro, the yen, and the Mexican peso, as shown in the 
 bottom-left panel, largely on concerns about the outlook for these economies.  The 
 most liquid emerging market currencies also depreciated slightly over the 
@@ -1998,7 +1998,7 @@ uniformly, surprised on the downside over the intermeeting period, leading us to
 revise down our foreign outlook once again.  Foreign real growth at the end of last 
 year is estimated to have been a disappointing 1.7 percent, a pace we expect to persist 
 through the current quarter.  We expect growth to pick back up toward our 
-2½ percent estimate of potential, in part as some temporary headwinds fade but also 
+2.5 percent estimate of potential, in part as some temporary headwinds fade but also 
 supported by accommodative policy.  Certainly, this pickup is far from assured, and 
 we remain attuned to a number of notable downside risks, particularly in China and 
 Europe. 
@@ -2353,7 +2353,7 @@ signal from that data as they would seem to want to give.
 Relative to my December SEP submission, I’ve marked down real GDP growth notably 
 for 2019.  I now expect the economy to slow to trend this year—which was different than I had 
 previously thought—and remain there for the next several years.  With real GDP growth close to 
-growth in potential, I expect the unemployment rate to hold steady at about 3¾ percent for the 
+growth in potential, I expect the unemployment rate to hold steady at about 3.75 percent for the 
 next couple of years.  And then, of course, that would spill over into an expectation about 
 inflation, I hope getting up to 2 percent but not rising much above that, or at all above that, in 
 2019 or 2020.  I’m going to discuss downside risk to inflation at the end.  Importantly, it’s worth 
@@ -2365,7 +2365,7 @@ different models designed to capture trends in two components of potential growt
 growth—total hours in the economy—and growth in output per hour.  If I start with total hours 
 growth:  Conditional on trends in labor force participation and incorporating some of the lift 
 we’ve seen of late in 2018 and in hours worked per worker, the models project that total 
-economy hours will increase at about ½ percent per year in the longer run over the next 5 to 10 
+economy hours will increase at about 0.5 percent per year in the longer run over the next 5 to 10 
 years.  This is quite consistent with forecasts produced by the Congressional Budget Office and 
 private forecasters.  Estimating trend productivity growth is harder.  There’s much more 
 uncertainty.  So we use a bottom-up approach using a sectoral methodology developed by John 
@@ -2380,7 +2380,7 @@ Projections of this model put trend productivity growth for the next 5 to 10 yea
 1.2 percent per year.  That is faster than we’ve seen since 2010 and only a bit faster than in the 
 past 15 years.  It is a slower productivity growth regime than in the 1990s or even in the ’50s and 
 some part of the ’60s, but it’s, on average, consistent with what we’ve seen in the other periods.  
-If you put these two projections together, ½ percent total hours’ growth and 1.2 percent 
+If you put these two projections together, 0.5 percent total hours’ growth and 1.2 percent 
 productivity growth, that gives you a g* estimate of 1.7 percent per year.  Of course, as many of 
 you know—and I’m at the low end of the real GDP growth projections in the SEP—there’s 
 substantial uncertainty around this estimate.  I thought it would be useful to go through where 
@@ -2723,7 +2723,7 @@ March 19-20, 2019
 
 
 percent.  An observer that came here from Mars and looked at the data would be forgiven if they 
-thought our inflation target was 1½ percent.  I think that has the potential to continue to drag 
+thought our inflation target was 1.5 percent.  I think that has the potential to continue to drag 
 inflation expectations lower. 
 I agree with Governor Clarida that the yield curve remains an issue.  I don’t think it’s an 
 acute issue right at this moment.  The spread between the 10-year Treasury rate and the 2-year 
@@ -2755,7 +2755,7 @@ spending.
 District labor market conditions remain strong.  Payroll employment has continued to 
 grow at a 1 percent pace, well above the Cleveland Bank staff’s estimate of the District’s longer-
 run trend growth rate.  For more than a year, the District’s unemployment rate has remained at 
-4½ percent, which is about ½ percentage point below our staff’s estimate of its longer-run 
+4.5 percent, which is about 0.5 percentage point below our staff’s estimate of its longer-run 
 normal level.  And it’s near the lowest levels the region has seen since the early 2000s. 
 Across various sectors, all of our contacts have consistently told us that their biggest 
 concern is the difficulty in finding workers, and this is beginning to affect the level of activity.  
@@ -2803,7 +2803,7 @@ March 19-20, 2019
 
 
 force.  So the unemployment rate will remain under 4 percent, well below its longer-run level, 
-which I put at 4½ percent. 
+which I put at 4.5 percent. 
 Now, if the economic expansion is to be sustained, it is unlikely job growth can stay as 
 strong as last year’s pace of over 220,000 jobs per month.  Conditional on demographic factors, 
 including the aging of the population already under way, most estimates of trend job growth fall 
@@ -2895,7 +2895,7 @@ First, with regard to the modal outlook:  Softer spending in the United States a
 slowdown abroad, together with some possible overhang on sentiment from earlier financial 
 volatility, are likely weighing on the modal outlook and could be a harbinger of slowing in the 
 underlying momentum of demand.  Real GDP growth slowed at the end of last year, with fourth-
-quarter growth estimated at only about 2¼ percent at an annual rate, compared with 3½ percent 
+quarter growth estimated at only about 2.25 percent at an annual rate, compared with 3.5 percent 
 in the previous quarter.  A variety of estimates have real GDP increasing closer to a 1 percent 
 annual rate in the current quarter. 
 I’ve been watching consumer spending carefully, starting with a sharp dropoff in retail 
@@ -3030,12 +3030,12 @@ expect a softer pricing environment in the second half of the year.
 Turning to the national outlook, we continue to face large uncertainties and a challenging 
 forecast environment.  Like the Tealbook, we expect real growth to recover after the current 
 quarter, though without any makeup for the first-quarter miss.  As a result, our GDP forecast for 
-this year is now at 1.8 percent.  This is ½ percentage point lower than our projection in the 
+this year is now at 1.8 percent.  This is 0.5 percentage point lower than our projection in the 
 December SEPs and a touch below our estimate of potential output growth.  In 2020 and ’21, 
 growth is projected to remain modestly below potential, little changed from our December path.  
 We now see the unemployment rate holding steady at 3.8 percent this year and next, before 
 starting to edge up in 2021.  In December, we thought unemployment would fall to around 
-3½ percent in 2019 and ’20.  This reduced degree of resource pressure is a downside factor in my 
+3.5 percent in 2019 and ’20.  This reduced degree of resource pressure is a downside factor in my 
 inflation outlook. 
 In addition, I continue to be concerned that inflation expectations are too low relative to 
 our objective.  Household survey measures have not moved up despite the stronger inflation data 
@@ -3087,7 +3087,7 @@ the year and then gradually easing to a longer-run rate that remains considerabl
 the staff’s forecast and most of the SEP numbers as well.  Relative to the staff outlook, my 
 relative optimism owes to two factors: investment and productivity growth.  On investment, the 
 staff forecast for equipment and intangibles expenditure has a relatively sharp deceleration from 
-7½ percent last year to only 2.7 percent this year and then lower still in the years after that.  In 
+7.5 percent last year to only 2.7 percent this year and then lower still in the years after that.  In 
 contrast, I expect investment—although this is a volatile number—to remain over the course of 
 time relatively robust, supported by the tax bill, profit growth, and a generally favorable business 
 environment. 
@@ -3166,7 +3166,7 @@ jobs report.  As with the incoming sales figures, sentiment from my contacts is 
 with a collapse in employment growth.  Most expected the pace of hiring to continue on a solid 
 rate.  Despite continuing indications that labor market conditions are tight, there has been little 
 change in firms’ collective appetite for raising wages.  Reported annual wage increases, on 
-average, remained around 3 to 3½ percent.  This is consistent with the flattening trajectory we 
+average, remained around 3 to 3.5 percent.  This is consistent with the flattening trajectory we 
 have seen in our Wage Growth Tracker. 
 It does appear that firms have stepped up their nonwage efforts.  Across the board, 
 businesses continue to fine-tune their suite of tools used to attract and retain workers.  This 
@@ -3439,7 +3439,7 @@ To align with the disappointing tone of the economic news here and abroad, I hav
 again revised down my 2019 growth forecast and now expect growth this year to come in at 
 1.9 percent, a bit above my 1.8 percent estimate for potential.  I’m SEP respondent number 8.  
 With growth expected to run around trend this year and next, I see the unemployment rate 
-staying close to its current level of around 3¾ percent. 
+staying close to its current level of around 3.75 percent. 
 The softness in recent readings of inflation and inflation expectations has caused me to 
 lower my forecast of core inflation this year to 1.9 percent, as in the Tealbook.  I now see 
 March 19-20, 2019
@@ -3507,7 +3507,7 @@ measures of inflation expectations or other things.
 At one level, this sounds like not a very satisfactory discussion, because it sounds like we 
 don’t really know what’s happening.  For example, if you look at a wide range of estimates 
 coming out of recent research by economists around the Fed, you can come to the view that the 
-natural rate of unemployment is somewhere between 4 and 4½ percent, and that seems like a 
+natural rate of unemployment is somewhere between 4 and 4.5 percent, and that seems like a 
 pretty large gap.  But it’s actually one that is not particularly important for our policy decisions.  
 Let me talk a little bit about that.  I have two hours, right?  [Laughter] 
 CHAIR POWELL.  Yes, you’re on a roll.   
@@ -3516,7 +3516,7 @@ the Board staff assumes and I have assumed in the past, but that inflation expec
 anchored below target.  In that case, the policy prescription is going to be to keep unemployment 
 well below u* in order to boost inflation as inflation is fighting upstream against these low 
 inflation expectations.  That is my interpretation of how the Tealbook forecast holds together.  
-So if you really think that u* is 4½ percent in the long run, but the inflation expectations are 
+So if you really think that u* is 4.5 percent in the long run, but the inflation expectations are 
 anchored too low, we still need to run a hot economy to get inflation consistently at our target.   
 On the other hand, some of this research that argues that u* is really 4 percent and 
 inflation expectations are essentially at target.  Well, that gives you the obvious answer.  Given 
@@ -3542,7 +3542,7 @@ up also because of Stacey’s comment about rethinking the policy rule in the Te
 the way you describe—I know because I did peek at the memo we’re about to hear about—this 
 idea of an asymmetric policy rule.  I think we should go back to maybe asking why we act like 
 there’s an asymmetry around u*.  It’s probably more of the story I just told: That some people 
-think that 4½ percent is the right number for the very long run unemployment rate.  But that’s 
+think that 4.5 percent is the right number for the very long run unemployment rate.  But that’s 
 not really the right number to think about in terms of our dual-mandate goals over the medium 
 term.  I just think that’s a conversation that we should have, or the subcommittee on 
 communications could include it in their framework discussions.  Thank you. 
@@ -3573,7 +3573,7 @@ reversed course in the face of disappointing data after moving to begin a tighte
 others noted, if Europe goes into recession, the ECB will have little policy space with which to 
 react. 
 The staff now expects U.S. GDP growth to be 1.8 percent this year, down 0.4 percentage 
-points since January and down ¾ percentage points since September.  I am slightly more 
+points since January and down 0.75 percentage points since September.  I am slightly more 
 optimistic, and many around the table seem to also have a base case with growth near or 
 March 19-20, 2019
 121 of 232
@@ -3599,7 +3599,7 @@ last year’s FOMC meeting, the Tealbook forecast for 2018 was for growth of 2.9
 unemployment to drop to 3.5 percent by year-end, and core inflation of 1.9 percent and rising 
 slowly.  An unprecedented full-employment fiscal stimulus package was coming through the 
 pipeline totaling $1.5 trillion between tax cuts and spending increases, and the target range for 
-the federal funds rate was 1¼ to 1½ percent. 
+the federal funds rate was 1.25 to 1.5 percent. 
 In this context, it seemed eminently sensible, at least to me, to move the federal funds 
 rate up closer to our estimates of neutral, and we did so over the course of the year.  The situation 
 March 19-20, 2019
@@ -3625,7 +3625,7 @@ rate as rates moved up closer to neutrality.  The experience of the past year te
 to me that we are now close to that rate.  The slowdown in real GDP growth since September 
 may be a coincidence, but it’s also consistent with approaching neutrality, and the performance 
 of inflation also points to policy being a bit tighter than I thought or a lower neutral rate.  So I’ve 
-lowered my estimate of neutral to 2½ percent.  I’ve also lowered my estimate of the natural rate 
+lowered my estimate of neutral to 2.5 percent.  I’ve also lowered my estimate of the natural rate 
 of unemployment to 4.0 percent, again, with both last year’s experience and the outlook in mind.  
 And I have an explanation similar to the one John just went through, only shorter.  [Laughter] 
 VICE CHAIR WILLIAMS.  You know, I have feelings.  [Laughter] 
@@ -4068,7 +4068,7 @@ wanted to weigh in that this is a very difficult subject for the FOMC to talk ab
 my opinion.  I am more sympathetic to thinking about financial stability issues when we’re at the 
 zero lower bound and we’re pursuing very aggressive monetary policies, because there’s 
 something else really clogging things up and we have to do more. 
-We’re now at a funds rate target range of 2¼ to 2½ percent.  We think that we might be 
+We’re now at a funds rate target range of 2.25 to 2.5 percent.  We think that we might be 
 at the natural rate.  So it’s not obvious that we’re goosing financial conditions with our monetary 
 policies.  There could be other reasons for why that is, but if we thought that when the funds rate 
 was close to zero and it might be too much to think of supervisory policies to do more in order to 

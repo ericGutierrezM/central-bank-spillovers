@@ -644,7 +644,7 @@ March 15, 2020
  
  
 Under appropriate policy, which I will discuss later, my baseline view is that a U.S. recession 
-can be averted and GDP growth for 2020 will come in around 1¼ percent, well below my 
+can be averted and GDP growth for 2020 will come in around 1.25 percent, well below my 
 forecast in December but positive.  As for inflation and unemployment, I agree with the baseline 
 Tealbook projections.  Specifically, on inflation, the net effect of the virus is likely to be 
 disinflationary, not inflationary.  COVID-19 may well disrupt some supply chains, but it 
@@ -3349,7 +3349,7 @@ the ability to increase the scale and scope of our response if circumstances war
 critical to provide support for businesses and households in affected communities to enable them 
 to weather temporary disruptions they are experiencing through no fault of their own, retain their 
 workforces, and return to work and business as quickly as possible once the epidemic slows.  By 
-lowering borrowing costs, the cumulative 1½ percentage point cut in the federal funds rate over 
+lowering borrowing costs, the cumulative 1.5 percentage point cut in the federal funds rate over 
 the past few weeks and today and the forward guidance that policy will remain at the lower 
 bound until we are confidently on track to reach full employment and 2 percent inflation are the 
 centerpiece of this pillar. 

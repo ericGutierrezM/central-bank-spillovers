@@ -1084,9 +1084,9 @@ from many of our speakers that the national employment statistics are not repres
 communities.  Various groups, including minorities, out-of-school youth, formerly incarcerated, 
 and the less educated continue to struggle.  As Juan Salgado (the Chancellor of the City Colleges 
 of Chicago) told us, “When I hear ‘full employment,’ that is not our reality.”  While the national 
-unemployment rate has been near 3½ percent for several months, the rate for African Americans 
-is 5½ percent.  The jobless rate for persons aged 25 and over with less than a high school 
-diploma is also 5½ percent, and for persons aged 16 to 24, it’s 8 percent.  Those groups also tend 
+unemployment rate has been near 3.5 percent for several months, the rate for African Americans 
+is 5.5 percent.  The jobless rate for persons aged 25 and over with less than a high school 
+diploma is also 5.5 percent, and for persons aged 16 to 24, it’s 8 percent.  Those groups also tend 
 to have lower participation. 
 Moreover, unstable earnings and disruptions associated with negative shocks are 
 especially hard on households that have thin financial buffers.  That turns out to be a strikingly 
@@ -2449,7 +2449,7 @@ participation rate has surprised us by moving up this year after moving roughly
 sideways since 2015.  The effect of aging is documented by the red line, which shows 
 the decline in overall participation since 1997 due solely to changing demographics—
 that is, the decreasing share of the population in prime working ages.  That downward 
-pull from aging amounts to about ¼ percentage point per year currently.  The blue 
+pull from aging amounts to about 0.25 percentage point per year currently.  The blue 
 line shows the participation rate after excluding this aging effect.  This age-adjusted 
 line shows that participation has been rising since 2015 about 0.4 percentage point per 
 year. 
@@ -2566,7 +2566,7 @@ The panel to the right displays three-year averages of our measures—done to
 further reduce the noise in these series.  I think there are two “takeaways.”  First, the 
 Dallas trimmed mean inflation rate has tended to run higher than the other two series.  
 Second, over the past three years, with unemployment averaging 4 percent, average 
-inflation has been about 1¾ percent by all of these measures if you account for the 
+inflation has been about 1.75 percent by all of these measures if you account for the 
 tendency for the Dallas trimmed mean to run high.  This has also been a period when 
 an appreciating dollar has been holding down inflation. 
 Let me now turn the floor over to Steve to discuss things international.  
@@ -3122,9 +3122,9 @@ and continued difficulty hiring workers in a very tight labor market.
 While the risks to the outlook have received much attention, outcomes over the past three 
 quarters have been surprisingly stable, and many forecasters expect that stability to continue.  
 For example, the unemployment rate was 3.6 percent in the second and third quarters and will 
-likely be either 3½ percent or 3.6 percent for this quarter.  The November Blue Chip forecast 
+likely be either 3.5 percent or 3.6 percent for this quarter.  The November Blue Chip forecast 
 expects the unemployment rate to remain near this level next year.  My own forecast, like the 
-Tealbook, has the unemployment rate ending next year at 3½ percent, still within its recent 
+Tealbook, has the unemployment rate ending next year at 3.5 percent, still within its recent 
 narrow band. 
 Similarly, real GDP for the past two quarters has been stable at 2 percent and 2.1 percent, 
 respectively.  My own forecast is that real GDP growth next year will average 2 percent, not far 
@@ -3216,7 +3216,7 @@ looking at the effects of employment and productivity in those sectors is insuff
 gather how much of an effect they are having not only on employment, but also on innovation 
 and productivity in other sectors. 
 If you take their model fully on board—and they’re using a combination of models and 
-data—their analysis would imply that over the next decade we’d shave another ½ percentage 
+data—their analysis would imply that over the next decade we’d shave another 0.5 percentage 
 point off potential growth in the United States.  Although I’ve stopped short of taking that 
 onboard—because, like we heard this spring, this work is early analysis—it does suggest an 
 additional downside risk to potential growth that bears further watching.  So I’m staying at 1.7 
@@ -3322,7 +3322,7 @@ may be more room to run, and that is relevant in thinking about growth projectio
 market is robust, but there is no evidence that rising wages are a source of excessive cost-push 
 pressure on price inflation.  Real wages continue to rise broadly in line with underlying 
 productivity, which itself has picked up to a 1.5 percent pace over the past three years—not 
-great, but up about ½ percent from the previous three years. 
+great, but up about 0.5 percent from the previous three years. 
 Indeed, if anything, the revised national income data show a noteworthy—and, to me, 
 welcome—increase in the labor share of national income in recent years, revealing that, as in 
 previous cycles, wage increases absorbed by margin compression are non-inflationary.  And we 
@@ -3477,13 +3477,13 @@ Mr. Chair, I want to thank you for taking the coffee break when you did.  It alm
 me forget about the most horrifying thing I’ve heard at this table in quite some time.  Did 
 everybody hear what President Daly was suggesting about evidence from Mark Watson and 
 company, that a reduction in manufacturing, in durables production, could be falling so much 
-that potential output growth could go down ½ point?  That’s a big, big effect, if that’s true.  I 
+that potential output growth could go down 0.5 point?  That’s a big, big effect, if that’s true.  I 
 certainly hope we understand that better before too long.  But I guess, with the coffee break, I 
 feel a little bit better at the moment.  [Laughter]  Thank, Mr. Chair. 
 CHAIR POWELL.  Thank you.  President Kaplan. 
 MR. KAPLAN.  Thank you, Mr. Chair. And thank you, President Evans, for that caution.  
 [Laughter] 
-MR. EVANS.  I mean, ½ point. 
+MR. EVANS.  I mean, 0.5 point. 
 December 10-11, 2019
 103 of 252
 
@@ -3662,7 +3662,7 @@ For the national economy, incoming information remains consistent with my outloo
 over the forecast horizon the most likely outcome is that output growth will remain near its trend 
 pace, which I estimate to be 2 percent, and employment growth will slow toward trend, with the 
 unemployment rate remaining below 4 percent, which is below my estimate of its longer-run 
-level of about 4¼ percent.  And then inflation will rise gradually to 2 percent.  Compared with 
+level of about 4.25 percent.  And then inflation will rise gradually to 2 percent.  Compared with 
 my September SEP submission, I have slightly higher output growth and a slightly lower 
 December 10-11, 2019
 109 of 252
@@ -3683,11 +3683,11 @@ suggests there may be stronger underlying positive momentum in the economy.  Pay
 have averaged more than 200,000 per month for the past three months and 180,000 so far this 
 year.  This is well above trend.  The coming benchmark revisions are likely to weaken these 
 numbers, but even so, labor market conditions remain solid.  We can see this in a number of 
-other labor market statistics.  The unemployment rate has been about 3½ percent for the past few 
+other labor market statistics.  The unemployment rate has been about 3.5 percent for the past few 
 months, its lowest level in about 50 years.  The employment-to-population ratio has risen to a 
 new peak for this expansion, and the labor force participation rate has been constant to up 
 slightly this year. 
-I’m estimating a longer-run unemployment rate of about 4¼ percent.  But the 
+I’m estimating a longer-run unemployment rate of about 4.25 percent.  But the 
 performance of the labor market and the fact that the acceleration in wages hasn’t been stronger, 
 with most measures remaining at about 3 percent this year, means I’m very open to the 
 possibility that the natural rate of unemployment is lower than my current estimate.  Another 
@@ -3892,10 +3892,10 @@ prime-age adults is just above 80 percent, equal to its pre-recession peak.  Des
 tightening, wage growth remains moderate.  Layoff indicators, including initial claims, remain at 
 low levels. 
 On the spending side, the incoming data surpassed my expectations, leading the staff to 
-revise its estimate of GDP growth in the second half from just above 1½ percent to almost 
+revise its estimate of GDP growth in the second half from just above 1.5 percent to almost 
 2 percent.  After accounting for a deceleration in government purchases and the GM strike, 
 growth in private domestic final purchases, which tends to provide a better signal of underlying 
-momentum, is projected to slow only ¼ percentage point in the second half.  Consumer spending 
+momentum, is projected to slow only 0.25 percentage point in the second half.  Consumer spending 
 increased at a robust 3 percent in the third quarter, and the latest indicators, which include an 
 upbeat preliminary December reading on sentiment, continue to point to solid growth despite 
 some deceleration in the October retail and motor vehicle sales. 
@@ -3912,7 +3912,7 @@ December 10-11, 2019
 October.  Market-based measures of inflation compensation have moved modestly higher, but 
 the latest survey measures sit at the low end of their recent ranges. 
 Business fixed investment is still expected to post a modest decline in the second half 
-after having increased at an anemic 1¾ percent rate in the first half.  Manufacturing PMIs remain 
+after having increased at an anemic 1.75 percent rate in the first half.  Manufacturing PMIs remain 
 downbeat, and net exports are expected to be roughly neutral for GDP growth in the second half, 
 reflecting weakness in both exports and imports likely due, at least in part, to previously 
 implemented tariffs. 
@@ -3971,7 +3971,7 @@ December 10-11, 2019
  
 U.S. unemployment—I’m not sure why we don’t look at the year-over-year rate.  We 
 look at the year-over-year rate for everything else.  Why not for jobs?  So the U.S. 
-unemployment rate moved again to 3.5 percent and has now been below 4½ percent for about 
+unemployment rate moved again to 3.5 percent and has now been below 4.5 percent for about 
 two and a half years.  Despite this extraordinary run, pressure on inflation remains muted, with 
 the Tealbook now projecting core PCE inflation of just 1.6 percent for 2019 and 1.9 percent for 
 2020.  In my view, this inflation outlook is unsatisfactory. 
@@ -4427,8 +4427,8 @@ attention to.
 To me, the job creation numbers are a useful gauge of momentum in the economy.  But, 
 ultimately, for estimating slack, I continue to want to focus on wages.  Real wage growth has 
 risen since around 2012, but even now, real wages are growing roughly on par with labor 
-productivity growth.  Nominal wage growth is 3 to 3½ percent.  Inflation is 1½ to 2 percent.  
-Therefore, real wage growth is around 1½ percent, which is consistent with productivity growth.  
+productivity growth.  Nominal wage growth is 3 to 3.5 percent.  Inflation is 1.5 to 2 percent.  
+Therefore, real wage growth is around 1.5 percent, which is consistent with productivity growth.  
 And real wage growth seems to have stagnated somewhat recently.  So, overall, I don’t see any 
 evidence that the tight labor market is putting upward pressure on inflation. 
 I will close with a quick anecdote.  I was recently in northwestern Wisconsin.  Charlie 
@@ -4517,12 +4517,12 @@ employed, so they are part of the employment number and not unemployment, but th
 maybe a hidden measure of additional supply in the labor market.  So more to come on this 
 research as it develops further. 
 In any case, my working assumption is that the current, very low level of the 
-unemployment rate of 3½ percent is consistent with the achievement of both of our dual-mandate 
+unemployment rate of 3.5 percent is consistent with the achievement of both of our dual-mandate 
 objectives, and we should aim to keep labor market conditions very strong.  So if you were to ask 
 me what my working definition of maximum employment is, I think the evidence would argue 
-that, at least for the next few years, 3½ percent is the right answer to that, even though my long-
+that, at least for the next few years, 3.5 percent is the right answer to that, even though my long-
 run view—and this gets back to the memo and the discussion we had—of the unemployment rate 
-is, I’m at 4 percent.  But I think that, given various disinflationary forces, a 3½ percent 
+is, I’m at 4 percent.  But I think that, given various disinflationary forces, a 3.5 percent 
 unemployment rate is most consistent with our dual-mandate objective based on where we stand 
 now. 
 December 10-11, 2019
@@ -4605,7 +4605,7 @@ Household spending continues at a solid pace, propelled by a strong job market a
 consumer confidence.  The pickup in housing activity is gaining traction, but manufacturing is 
 still in a recession, even excluding the effects of the GM strike, and business investment and 
 exports remain weak. 
-With the unemployment rate at 3½ percent, prime-age labor force participation on the 
+With the unemployment rate at 3.5 percent, prime-age labor force participation on the 
 rise, and payrolls running at 200,000 a month, the labor market is strong.  We have long 
 expected some slowing in labor market gains, partly because we didn’t think that the labor force 
 participation would continue to outperform our estimates of trend, but it has.  And with prime-
@@ -5192,7 +5192,7 @@ road.
 So that is my thinking.  And with that, let’s begin our go-round, starting with Governor 
 Clarida. 
 MR. CLARIDA.  Thank you, Chair Powell.  I support alternative B as written and the 
-policy decision to maintain the target range for the funds rate at 1½ to 1¾ percent.   
+policy decision to maintain the target range for the funds rate at 1.5 to 1.75 percent.   
 I note that in the statement, we continue to acknowledge that “measures of inflation 
 compensation remain low.”  While true, they remain at historically low levels relative to the pre-
 crisis experience when we were last in the neighborhood of maximum employment and price 
@@ -5225,7 +5225,7 @@ above—our 2 percent objective.  Thank you, Chair Powell.
 CHAIR POWELL.  Thank you.  President Rosengren. 
 MR. ROSENGREN.  Thank you, Mr. Chair.  After smoothing through the recent labor 
 strikes, it appears that employment remains quite strong, with payroll employment increasing by 
-205,000, on average, over the past three months, the unemployment rate returning to 3½ percent 
+205,000, on average, over the past three months, the unemployment rate returning to 3.5 percent 
 in November, and the trend in wage inflation up over the past two years.  The current Tealbook 
 forecast has tight labor markets, growth slightly above potential, and core inflation moving 
 within 0.1 percentage points of our inflation target by the end of 2020.  In addition, monetary 
@@ -5254,7 +5254,7 @@ hope that inflation will return more smartly to target.  A more vigorous approac
 inflation to its target may risk pushing the economy too hard and generating financial imbalances 
 that would be inconsistent with maximum employment over the cycle. 
 Finally, I’m a bit concerned that any further easing will place us in a precarious position 
-whenever the next downturn arrives.  With the funds rate at 1⅝ percent and the economy 
+whenever the next downturn arrives.  With the funds rate at 1.625 percent and the economy 
 performing quite well, I prefer to reserve some policy space for offsetting a recession rather than 
 buying additional insurance against events that, so far, have not proven sufficient to derail the 
 economic expansion.  Thank you, Mr. Chair.  
@@ -5296,7 +5296,7 @@ Now, why do I make more of a deal about this than others—1.8 percent versus 2 
 And, you know, I heard President Bostic and others speak quite well.  Is it false precision to want 
 2.0 percent as opposed to 1.8 percent?  We are in a good place—we clearly are.  I think an 
 unknown is, the language that we use is “current stance of monetary policy.”  This is a very 
-artful term.  The current setting of the federal funds rate target is 1½ to 1¾ percent, but what’s 
+artful term.  The current setting of the federal funds rate target is 1.5 to 1.75 percent, but what’s 
 December 10-11, 2019
 163 of 252
 
@@ -5320,7 +5320,7 @@ criticism, I would expect, of the optics.  And there’ll be concern about saver
 and things like that.  The Chair is going to get up at some point during that and say, “We are 
 providing a lot of accommodation, and we are going to get inflation up.  We’re going to get it up 
 to 2 percent.”  And I think a response could be, “They couldn’t get it up to 2 percent when 
-unemployment was at 3½ percent.  They were satisfied with 1.8 percent.” 
+unemployment was at 3.5 percent.  They were satisfied with 1.8 percent.” 
 I think if we think that we have enough accommodation to overshoot, we should support 
 that.  I really don’t see why it’s such a big deal to sort of say that we would return to 2 percent.  
 But, at any rate, that’s why I favor a little more precision, perhaps, in that regard.  But that’s my 
@@ -5355,7 +5355,7 @@ my team to further the debate and try to better understand how monetary policy i
 this secular trend. 
 Separately, regarding inflation, I would pick up on the comments of President Bostic and, 
 I think, President Barkin—and, previously, President Rosengren—about welcoming a further 
-discussion about the wisdom of an articulation of an inflation range from 1½ to 2½ percent, with 
+discussion about the wisdom of an articulation of an inflation range from 1.5 to 2.5 percent, with 
 a midpoint target of 2 percent over an averaging period.  I think this would be an excellent 
 December 10-11, 2019
 165 of 252
@@ -5546,7 +5546,7 @@ very cognizant.  And I’d like to hear arguments about what you think about the
 experience. 
 But most importantly, in my view, naming a zone now that captures the current reading 
 on inflation would signal satisfaction with the current level of inflation and inflation 
-expectations.  So if you said 1½ to 2½ percent today and you say, “Well, core inflation is at 
+expectations.  So if you said 1.5 to 2.5 percent today and you say, “Well, core inflation is at 
 1.6 percent,” that’s going to say that that’s okay.  And I think that that is likely to entrench us at 
 low levels in the current environment.  So one thing I would say about this is, now may not be 
 the time to do this.  If you did get to 2 percent and you wanted to acknowledge measurement 
@@ -5910,7 +5910,7 @@ below our target.  As Presidents Evans, Bullard, Daly, Kashkari, and others have
 means our job is not done.  Core inflation of 1.6 percent is not okay. 
 In recent months, the Committee has taken significant action to provide insurance against 
 the risks associated with trade conflict and weak foreign growth against a backdrop of muted 
-inflation.  Since July, we’ve lowered the target range for the federal funds rate by ¾ percentage 
+inflation.  Since July, we’ve lowered the target range for the federal funds rate by 0.75 percentage 
 point, which is a lot, given that the size of the overall buffer is much smaller.  The federal funds 
 rate is now well below the Committee’s median estimate of the long-run neutral rate.  It’ll take 
 some time for the full effect of this accommodation to work its way through economic activity, 
@@ -5977,7 +5977,7 @@ natural rate of unemployment, may be getting in the way of our thinking about re
 think our dual-mandate goals are. 
 Similarly with the natural rate—although I kind of feel like I should be in a race to the 
 bottom on r* estimates with President Kashkari here.  The idea that many of us, including 
-myself, are holding to an r* of ½ percent, real, or 2½ percent, nominal—but when you look at 
+myself, are holding to an r* of 0.5 percent, real, or 2.5 percent, nominal—but when you look at 
 December 10-11, 2019
 186 of 252
 
@@ -6000,7 +6000,7 @@ Committee participants see the funds rate as flat next year and there being, at 
 rate cuts in 2021 and 2022—which I think is probably just a statement about the economy getting 
 back to some kind of long run or steady state that we have out there. 
 So I think that the SEP, in this case, both the baseline forecast of what we think “good” 
-looks like—an unemployment rate around 3½ percent, inflation around 2 percent or maybe a bit 
+looks like—an unemployment rate around 3.5 percent, inflation around 2 percent or maybe a bit 
 above, and real interest rates that are very low—and the dot plot, is actually very helpful to 
 explain our thinking.  I know that the dots aren’t perfect, and Chairs have not always loved the 
 dots at every point in time, but I do think that these are capturing pretty well where many of the 

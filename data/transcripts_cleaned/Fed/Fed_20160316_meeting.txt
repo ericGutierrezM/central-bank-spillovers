@@ -527,7 +527,7 @@ more pessimistic about current-quarter growth during the second half of February
 the source of that pessimism was the higher-than-expected reading on the CPI, not the 
 gyrations in any of the financial variables that the model looks at.  Since then, the 
 late-February report on consumption expenditures and early-March employment 
-report boosted the model estimate to about 2½ percent.  For what it’s worth, this 
+report boosted the model estimate to about 2.5 percent.  For what it’s worth, this 
 model barely flinched in the face of this morning’s retail sales release and took its 
 projection down a mere 15 basis points. 
 2 The materials used by Mr. Wilcox are appended to this transcript (appendix 2). 
@@ -538,18 +538,18 @@ March 15–16, 2016
 On the judgmental side, in light of the retail sales release, we were a little more 
 taken aback by that news, and, in response, we have revised down our estimate of 
 GDP growth this quarter from about 2 percent—at the right end of the black line in 
-the panel—to 1½ percent.  As you can see from the chart, the 1 percentage point 
+the panel—to 1.5 percent.  As you can see from the chart, the 1 percentage point 
 discrepancy between the judgmental and model estimates is relatively wide and will 
 provide an excellent opportunity for growth and learning for at least one of us. 
 For now, we continue to expect real GDP growth at about a 2 percent annual rate 
 in the second quarter.  The main engine of growth in our near-term forecast continues 
 to be private domestic final demand, which we anticipate to increase at about a 
-2¾ percent annual pace over the first half of this year, supported by still-low interest 
+2.75 percent annual pace over the first half of this year, supported by still-low interest 
 rates, solid job gains, lagged effects of previous wealth gains, still-favorable readings 
 on consumer sentiment, and what we continue to estimate is a net boost from low 
 energy prices.  On the other side of the ledger, we expect a slowing pace of inventory 
-investment to subtract about ¼ percentage point from the growth of real GDP over 
-the first half of this year, and we expect net exports to subtract about ¾ percentage 
+investment to subtract about 0.25 percentage point from the growth of real GDP over 
+the first half of this year, and we expect net exports to subtract about 0.75 percentage 
 point over that period. 
 Fueled partly by the recent bout of turbulence in financial markets, concern has 
 increased during the past several months that the U.S. economy might be heading for 
@@ -695,7 +695,7 @@ negatively across global markets, and markets were calmed after the Chinese
 restabilized the renminbi against the dollar and, effectively, against the trade-
 weighted basket (the red line).  We had not bought into the view held by some that 
 the earlier renminbi weakening signaled a collapse in Chinese growth.  We do, 
-however, have Chinese growth slowing from almost 7 percent last year to 6¼ percent 
+however, have Chinese growth slowing from almost 7 percent last year to 6.25 percent 
 this year and 6 percent in 2018.  Over the next year, we assume the Chinese achieve a 
 relatively flat path for the renminbi against the dollar and the basket.  This currency 
 forecast reflects several factors:  recent communications by authorities that have 
@@ -852,14 +852,14 @@ Exhibit 3 provides an overview of your assessments of the appropriate level of t
 federal funds rate over the forecast horizon and in the longer run.  The medians of 
 your funds rate projections, indicated by the red lines in the top panel, stand at 
 0.9 percent at the end of 2016, 1.9 percent at the end of 2017, 3.0 percent at the end of 
-2018, and 3¼ percent in the longer run.  Since December, most of you have revised 
+2018, and 3.25 percent in the longer run.  Since December, most of you have revised 
 down your projected path for the federal funds rate over the next three years.  Seven 
 participants reduced their estimates of the longer-run federal funds rate by 
 March 15–16, 2016
 21 of 192
 
 
-¼ percentage point, and no participant raised his or her projection of the appropriate 
+0.25 percentage point, and no participant raised his or her projection of the appropriate 
 level of the federal funds rate for any forecast date.  Among the reasons you cited for 
 a more gradual pace of increases in the federal funds rate were a tightening in 
 financial conditions since December, lower energy prices, and reductions in your 
@@ -959,7 +959,7 @@ statistical event.
 The revisions were quite widespread across categories of spending.  They were in general 
 merchandise stores, in the personal and health-care areas, and in food services, so it wasn’t that 
 there was an anomaly in one particular area.  We took our judgmental estimate down about 
-½ percentage point, and the statistical black box model that I referenced took it down about 
+0.5 percentage point, and the statistical black box model that I referenced took it down about 
 15 basis points, so by about one-third as much. 
 We’re still, to be honest, gaining experience with how that model reacts.  One of the 
 reasons why I was interested to show it is that it does have a little greater variance, actually, as 
@@ -1084,8 +1084,8 @@ March 15–16, 2016
 sunnier.  It will help you there.  One of the scenarios that I was struck by in the Tealbook is 
 actually related to productivity growth.  You have productivity growth output per hour this year 
 of 1.7 percent.  I am just reading off the table.  Last year it was about—a little more than 1 
-percentage point slower than that, roughly ½ percentage point. 
-If we were to generate the 2 percent, 2¼ percent GDP growth that we are penciling in and 
+percentage point slower than that, roughly 0.5 percentage point. 
+If we were to generate the 2 percent, 2.25 percent GDP growth that we are penciling in and 
 we did a replay of productivity growth last year of about six-tenths—so 1 percentage point less 
 productivity growth than in the Tealbook—where would the unemployment rate be at the end of 
 the year, all else being equal?  I am just trying to think through—last year one of the big reasons 
@@ -1093,11 +1093,11 @@ the unemployment rate fell 0.6 percentage point is that we had essentially no pr
 growth.  And you all have a very big rebound in productivity growth coming this year. 
 MR. WASCHER.  So let me try to do this in my head. 
 MR. WILLIAMS.  Well, knock off 1 percentage point of productivity growth. 
-MR. WASCHER.  Let’s see.  I am guessing that would be roughly another ¼ percentage 
+MR. WASCHER.  Let’s see.  I am guessing that would be roughly another 0.25 percentage 
 point off the unemployment rate, if I am doing it in my head correctly.  So it would be down 
 about 4 percent—but not next year.  So next year we would be down around—we have 4.8 
-currently, so we would be down closer to 4½ percent on your counterfactual, I think. 
-MR. WILLIAMS.  So the total decline would be around ½ percentage point.  You have a 
+currently, so we would be down closer to 4.5 percent on your counterfactual, I think. 
+MR. WILLIAMS.  So the total decline would be around 0.5 percentage point.  You have a 
 little bit of pickup in— 
 MR. WILCOX.  I am going to be a little more disagreeable than that and question—the 
 math of what you suggest is absolutely correct.  I think the plausibility of the experiment—it 
@@ -1380,7 +1380,7 @@ important factor explaining why the ’90s and today are different.
 Now, the bottom line of their work is that mismeasurement of innovation accounts for 
 very little of the weakness in productivity growth that we have seen for, now, 11 years.  So, in 
 common with the finding in Bob Gordon’s work, they view the slow growth as actually being 
-real.  It’s genuine.  It’s not an issue of mismeasurement.  And the days of 2½ to 3 percent real 
+real.  It’s genuine.  It’s not an issue of mismeasurement.  And the days of 2.5 to 3 percent real 
 output growth on a sustainable basis are over, at least for now, and my longer-run projection of 
 productivity growth and potential output recognizes this lower benchmark for what our longer-
 run potential is. 
@@ -1388,10 +1388,10 @@ Also, on the basis of the fact that my view of potential output growth is lower 
 to be, and that this is not a reflection of mismeasurement, it also argues the case that r* is lower.  
 As in the Laubach-Williams model, there is roughly a one-to-one relationship with the neutral 
 real rate and potential output growth.  So my current estimate of r*, the equilibrium real interest 
-rate, is 1¼ percent, the same as it was back in December. 
+rate, is 1.25 percent, the same as it was back in December. 
 Looking ahead with above-trend GDP growth this year, my projection has the labor 
 market overshooting full employment by a substantial margin.  I expect we will see 
-unemployment at about 4½ percent by the end of the year.  But with monetary policy 
+unemployment at about 4.5 percent by the end of the year.  But with monetary policy 
 normalization occurring over the next few years, we are going to need to see output growth 
 somewhat below potential in 2017 and 2018 in order to bring the unemployment rate slowly 
 back to my 5 percent estimate of the natural rate by late 2018. 
@@ -1617,31 +1617,31 @@ March 15–16, 2016
 turnaround in the participation rate since last summer is particularly encouraging, as it suggests 
 the possibility that labor supply may be more responsive to improved conditions than previously 
 thought, and there may be reasons to believe there is some room for the labor market to improve 
-still further.  The employment-to-population ratio for prime-age workers remains 1¾ percentage 
+still further.  The employment-to-population ratio for prime-age workers remains 1.75 percentage 
 points below pre-crisis levels.  Involuntary part-time employment is still elevated, and wage 
 growth has shown little sign of acceleration. 
 Inflation has also moved closer to our goal recently.  The 12-month change in headline 
 PCE inflation moved up to 1.3 percent in January, while core PCE inflation moved up to 
 1.7 percent.  These moves are encouraging and, if sustained, would be highly reassuring.  
 However, the broader context suggests some caution.  The staff projects the 12-month change in 
-core prices to move back down to 1½ percent in coming months, and, of course, a reversal would 
-not be hard to imagine, as core inflation has remained stuck in the vicinity of 1¼ to 1½ percent 
+core prices to move back down to 1.5 percent in coming months, and, of course, a reversal would 
+not be hard to imagine, as core inflation has remained stuck in the vicinity of 1.25 to 1.5 percent 
 for the past three years. 
 Moreover, we can’t entirely rule out the risk that this lengthy underperformance of 
 inflation may be having some depressing effect on inflation expectations.  Although longer-term 
 inflation expectations of professional forecasters and market participants have remained steady, 
 household expectations have moved lower.  In February, 5-to-10-year-ahead inflation 
-expectations in the Michigan survey were 2.5 percent, ½ percentage point below the series 
+expectations in the Michigan survey were 2.5 percent, 0.5 percentage point below the series 
 longer-run average.  Three-year inflation expectations in the Federal Reserve Bank of New 
 York’s consumer expectations survey have also moved lower in recent quarters, reaching 2.6 
-percent last month, nearly ¾ percentage point below the level two years ago. 
+percent last month, nearly 0.75 percentage point below the level two years ago. 
 More notably, both the TIPS- and swaps-based measures of inflation compensation are 
 down about 1 percentage point from mid-2014 and remain at very low levels, with the five-year, 
 March 15–16, 2016
 49 of 192
 
 
-five-year-forward TIPS-based measures at around 1½ percent.  These indications that inflation 
+five-year-forward TIPS-based measures at around 1.5 percent.  These indications that inflation 
 expectations may be edging down are concerning and, together with the persistent 
 underperformance of inflation, imply that risks remain weighted to the downside. 
 With regard to economic activity, the recent data point to continued moderate growth on 
@@ -1650,7 +1650,7 @@ income growth, together with elevated readings on sentiment and the boost to hou
 purchasing power from low energy prices, should support consumption growth.  And the housing 
 sector has also contributed steadily to growth over the past year and should continue to do so. 
 In contrast, sectors of the economy exposed to the strength of the dollar or the fall in 
-energy prices have struggled.  Net exports subtracted about a ½ percentage point from GDP 
+energy prices have struggled.  Net exports subtracted about a 0.5 percentage point from GDP 
 growth in each of the past two years, and staff models suggest that net exports will be a source of 
 another sizable subtraction this year. 
 The extreme financial difficulties faced by some firms in the energy sector have spilled 
@@ -1697,8 +1697,8 @@ March 15–16, 2016
 Commodity producers and countries with strong trade ties to China face difficult 
 adjustments.  Growth in advanced economies remains extremely weak despite recent moves to 
 reinforce extraordinary monetary accommodation.  In Japan, activity contracted last quarter, and 
-growth for the year as a whole was only ¾ percent.  In the euro area, growth was only 
-1¼ percent last quarter, and the mixed financial market reaction to recent announcements of 
+growth for the year as a whole was only 0.75 percent.  In the euro area, growth was only 
+1.25 percent last quarter, and the mixed financial market reaction to recent announcements of 
 further accommodation by the BOJ, ECB, and Riksbank has contributed to questions about 
 whether foreign policymakers might confront limits, or at least tradeoffs, in their policy 
 responses upon reaching a policy-rate lower bound, if additional unexpected adverse 
@@ -2011,7 +2011,7 @@ December SEP, have been broadly in line with our earlier expectation that the la
 improved somewhat faster, but financial conditions are more restrictive.  Balancing these factors, 
 we left our forecast of real GDP growth in 2016 unchanged at 2.1 percent.  If you’re keeping 
 score, I’m number one in the SEP packet.  We’re also looking for growth in 2017 and 2018 to 
-average near this 2¼ percent pace.  However, our assumptions about potential output growth are 
+average near this 2.25 percent pace.  However, our assumptions about potential output growth are 
 March 15–16, 2016
 63 of 192
 
@@ -2158,12 +2158,12 @@ unemployment rate estimates had been on the high side of the FOMC projections.  
 of the combination of continued improvement in labor markets, moderate growth, and low 
 inflation, it seemed like it was time for me to move toward the consensus on these measures.  I 
 now project longer-run growth at 2 percent, the longer-run unemployment rate at 5 percent, and 
-the longer-run funds rate at 3¼ percent. 
+the longer-run funds rate at 3.25 percent. 
 In response to incoming data, I’ve made relatively minor adjustments to my projections 
 over the next three years, and the narrative underlying the forecast remains the same:  Namely, 
 growth slightly above trend will generate further improvement in the labor market, and inflation 
 will gradually return to our target of 2 percent over the forecast horizon.  My modal forecast has 
-growth picking up to the 2¼ to 2½ percent range this year and next and gradually returning to 
+growth picking up to the 2.25 to 2.5 percent range this year and next and gradually returning to 
 trend in 2018. 
 Despite the volatility in financial markets, consumer spending has held up, buoyed by 
 gains in the labor market, low energy prices, and highly accommodative monetary policy.  
@@ -2180,7 +2180,7 @@ March 15–16, 2016
 
 above trend, I see the unemployment rate falling below my longer-run rate of 5 percent this year 
 and next before gradually returning to that level by the end of 2018.  Since its low point last 
-September, the labor force participation rate has risen ½ percentage point.  It’s slightly above its 
+September, the labor force participation rate has risen 0.5 percentage point.  It’s slightly above its 
 longer-run trend, as estimated by the model developed by the Cleveland Federal Reserve and 
 Board staff.  Certain measures of underemployment, like the number of part-time workers who 
 would rather work full time, remain at higher levels than before the recession.  At the same time, 
@@ -2260,7 +2260,7 @@ March 15–16, 2016
 
 
 MR. LOCKHART.  Thank you, Madam Chair.  I haven’t materially changed my outlook 
-from my December submission.  I’m still expecting growth between 2 and 2½ percent for the 
+from my December submission.  I’m still expecting growth between 2 and 2.5 percent for the 
 year, and my submission for this meeting is at the high end of that range.  Although inflation 
 could soften a little over the next few monthly reports, I still expect both headline and core 
 inflation will be firmer in 2016 than 2015, and I expect further strengthening in 2017. 
@@ -2349,7 +2349,7 @@ also noted improving activity in automobile, chemical, and lumber shipments.
 On the national outlook, my forecast has changed little since our previous meeting.  
 Despite another bout of volatility in global financial markets, which has at least temporarily 
 dissipated, I expect growth to step up from about a 2 percent rate in the first half of the year to 
-2½ percent in the second half as the drags due to energy-related investment cuts and inventory 
+2.5 percent in the second half as the drags due to energy-related investment cuts and inventory 
 overhang run their course.  The outlook for consumer spending looks particularly solid to me in 
 light of the recent data on consumption and employment.  Hiring appears to have somewhat 
 more momentum than I expected, and there is now clearly some upside risk to my medium-term 
@@ -2555,10 +2555,10 @@ March 15–16, 2016
 So with that background, my modal forecast hasn’t changed much since the December 
 SEP round.  I see growth continuing at around 2 percent, modestly above potential.  I see 
 continued strong job growth.  The Tealbook calls for a sharp increase in labor productivity 
-growth from the five-year average of 0.5 percent to around 1½ percent in 2016.  And I have 
+growth from the five-year average of 0.5 percent to around 1.5 percent in 2016.  And I have 
 stuck with a more-of-the-same approach instead, with productivity increasing but on a more 
 gradual path.  As a result, with the continuation of strong job growth, my unemployment rate 
-falls to 4½ percent by the end of this year and edges down further in the out-years. 
+falls to 4.5 percent by the end of this year and edges down further in the out-years. 
 I’m also very encouraged by the welcome increase in labor force participation.  Looking 
 through the ups and downs, labor force participation has now been flat for two and a half years in 
 the face of an estimated trend decline of roughly 30 basis points annually.  Of course, these 
@@ -2723,7 +2723,7 @@ We’re in a global environment of persistently low inflation with some continui
 further disinflation.  In the United States, the combination of the slow waning of some factors 
 and the indeterminate pull of increasing capacity constraints may get us closer to 2 percent.  But 
 as I mentioned a moment ago, some further energizer is needed, at least in the staff projection, 
-for that final ¼ percentage point from 1.75 to 2 percent. 
+for that final 0.25 percentage point from 1.75 to 2 percent. 
 So those are the reasons why, at this point, I’m still not in the “reasonable confidence” 
 camp, though I may yet get there.  I thought it was useful, though, for my own thinking to 
 consider the other side.  What are the risks that inflation gets away from us if my absence of 
@@ -2739,15 +2739,15 @@ March 15–16, 2016
 90 of 192
 
 
-The results of the simulation?  First, total PCE inflation was about ½ percentage point 
+The results of the simulation?  First, total PCE inflation was about 0.5 percentage point 
 higher by the end of this year—that’s dominantly the effect of oil prices—and then about 
 20 basis points higher in each of the next two years, which is primarily the effect of the lower 
 dollar but also a little from overheating.  Second, core PCE inflation is only slightly above the 
 baseline in 2016 since oil doesn’t have that much effect, obviously, on the core.  But even in 
 2017 and 2018, core is less than 20 basis points higher, mostly attributable to the dollar and the 
 stronger economy.  In the simulation, just to give you some context on the real side, GDP was, 
-on average, ½ percentage point higher through the period, and the unemployment rate was about 
-½ percentage point below the baseline by the end of this year, remaining at that interval through 
+on average, 0.5 percentage point higher through the period, and the unemployment rate was about 
+0.5 percentage point below the baseline by the end of this year, remaining at that interval through 
 the next two years.  And, finally, the simulation pulled the federal funds rate up about 80 basis 
 points above the baseline by the end of 2018.  Now, actually, that looks like a rather nice 
 outcome, if we could get it.  But for me, the key point is that it’s hard to see inflation getting 
@@ -3023,7 +3023,7 @@ improvement since the December meeting.  Monthly payroll gains have averaged clo
 230,000 over the past three months.  The unemployment rate ticked down one-tenth and would 
 be lower, if not for a most welcome increase in the labor force participation rate.  U-6 is down 
 0.2 percentage point since our December meeting, and the employment-to-population ratio has 
-risen almost ½ percentage point. 
+risen almost 0.5 percentage point. 
 Some other cyclical indicators that I track also suggest that we’re more or less back to a 
 normal labor market.  The quits rate has returned to its pre-recession level, as have households’ 
 perceptions of job availability and firms’ assessments of the difficulty of filling jobs.  
@@ -3051,7 +3051,7 @@ revision to retail sales in January.  Still, retail sales were up modestly in Fe
 category used to compute PCE, and light motor vehicle sales have continued to run at a high 
 level. 
 Factoring in projected gains and outlays on services, the staff now estimates that 
-consumer spending is likely to increase at 2½ percent at an annual rate this quarter, which 
+consumer spending is likely to increase at 2.5 percent at an annual rate this quarter, which 
 remains a respectable pace.  In addition, residential investment continues along a path of gradual 
 recovery. 
 March 15–16, 2016
@@ -3086,7 +3086,7 @@ March 15–16, 2016
 
 
 But in other respects, recent global developments have left their mark.  In the Tealbook, 
-the projected level of trade-weighted foreign GDP at the end of 2016 is now almost ½ percent 
+the projected level of trade-weighted foreign GDP at the end of 2016 is now almost 0.5 percent 
 below the staff’s December forecast.  Risk premiums here and abroad have risen notably on net 
 in recent months, with the spread between the yield on triple-B corporate bonds and long-term 
 Treasury yields up about 30 basis points.  Analysts’ earnings expectations have been marked 
@@ -3216,8 +3216,8 @@ across respondents to the primary dealer survey of the probabilities they assign
 level of the federal funds rate at the end of 2017 under two scenarios—one in which 
 the federal funds rate returns to the lower bound at some point between 2016 and 
 2018, the blue bars, and one in which it does not, the tan bars.  The black dashed line 
-shows the probability distribution that results from assigning weights of ¼ and ¾, 
-respectively, to the blue and the tan bars, ¼ being the probability assigned by the 
+shows the probability distribution that results from assigning weights of 0.25 and 0.75, 
+respectively, to the blue and the tan bars, 0.25 being the probability assigned by the 
 median dealer to returning to the lower bound during the next three years.  When 
 pricing derivatives contracts, modest shifts in the weights on these two scenarios 
 could result in sizable shifts in the expected policy rate path.  Moreover, some 
@@ -3449,7 +3449,7 @@ March 15–16, 2016
 115 of 192
 
 
-expected.  We’d looked for a very sharp decline of 5½ percent.  They were down 6 percent.  
+expected.  We’d looked for a very sharp decline of 5.5 percent.  They were down 6 percent.  
 Food prices were one-tenth stronger than what we had expected. 
 The core CPI obviously is a piece that we focus on an awful lot—the bottom set of rows 
 in the table.  Those increased 0.3 percent, and, yes, it was a full 10 basis points stronger than we 
@@ -3482,8 +3482,8 @@ up from 0.9, and core PCE prices of 1.8, up from 1.7 in the Tealbook.
 Now, let me turn briefly to our estimate of GDP growth in the first quarter.  The figures 
 that I’m going to report here will all be in terms of their contributions to growth of real GDP.  
 And, in case there was any suspense, let me remove it.  I reported yesterday that we’d revised 
-our estimate of GDP growth to 1½ percent from 1.9.  There have been a bunch of puts and takes 
-since yesterday, but we’re still at 1½. 
+our estimate of GDP growth to 1.5 percent from 1.9.  There have been a bunch of puts and takes 
+since yesterday, but we’re still at 1.5. 
 As I reported yesterday, we revised down our estimate of the contribution to real GDP 
 growth from PCE, which is one of the pieces that’s informed by the retail sales release, and that 
 took 0.4 percentage point out of our GDP estimate.  Subsequent to my report yesterday, we’ve 
@@ -3496,7 +3496,7 @@ various categories of equipment investment and both residential and nonresidenti
 On the other hand, the higher prices in the CPI today imply yet weaker real growth of PCE, so 
 that’s going to take, on our estimates now, about one-tenth and a half or two-tenths out of GDP 
 from the higher prices deflating the nominals that we learned about.  All told, we’re at 
-1½ percent for Q1 and 2 percent for Q2, and, for those who are really keeping track of the 
+1.5 percent for Q1 and 2 percent for Q2, and, for those who are really keeping track of the 
 details, we’re up one-tenth in Q4, from 1.2 to 1.3.  So that’s where we are. 
 MR. FISCHER.  The last Q4? 
 March 15–16, 2016
@@ -3927,7 +3927,7 @@ was lacking was an estimate of what the sum of all of the foreign risks amounted
 their potential effect on us, whether we move in April—as I would, at this stage, believe 
 appropriate—or, rather, wait until June or even make no further moves this year.  I understand 
 from a conversation with the staff that the appreciation of the exchange rate since mid-2014 is 
-estimated to have reduced GDP by 1 percent in total so far and is expected to reduce GDP by 1¼ 
+estimated to have reduced GDP by 1 percent in total so far and is expected to reduce GDP by 1.25 
 percent in total by the end of next year. 
 March 15–16, 2016
 133 of 192
@@ -4136,7 +4136,7 @@ in our own views—where the main positive, outlook is actually one of continued
 continued job gains, continued movement of inflation toward 2 percent, and all of that.  In that 
 modal outlook, I think four rate increases actually are completely consistent.  I disagree a little 
 bit with what Governor Powell was saying.  I think that, if that outlook eventuates—if we add 
-over 2 million jobs this year and if unemployment gets down toward 4½ percent—three or four 
+over 2 million jobs this year and if unemployment gets down toward 4.5 percent—three or four 
 funds rate increases this year and movements of the 10-year Treasuries and things wouldn’t be 
 that surprising to markets.  It would be seen as a sign of strength.  So I think there’s a 
 consistency in the modal outlook.  I think the real issue, again, is how to incorporate the 
@@ -4304,7 +4304,7 @@ they both finally recommended a rate increase.  So it should be clear that we ne
 rates over the course of the year, and I didn’t hear much disagreement with that. 
 I recognize that a case can be made to adjust the intercept in such rules using the 
 estimates of a time-varying r*.  Such adjustments would fall well short of eliminating cause for 
-concern, however.  Current estimates of r* are at or above zero, as opposed to the 1¼ percent 
+concern, however.  Current estimates of r* are at or above zero, as opposed to the 1.25 percent 
 March 15–16, 2016
 147 of 192
 

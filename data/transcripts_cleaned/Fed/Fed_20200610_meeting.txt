@@ -279,7 +279,7 @@ policy rule.  The Tealbook projection, shown by the blue line in all the panels,
 includes such forward guidance—namely, that the federal funds rate will stay at the 
 ELB until the unemployment rate has fallen to 4.3 percent, which occurs in early 
 2023 in the baseline.  In this presentation, we consider an alternative unemployment 
-rate threshold of 3.8 percent, and core PCE inflation thresholds of 2 percent and 2¼ 
+rate threshold of 3.8 percent, and core PCE inflation thresholds of 2 percent and 2.25 
 percent that may provide further accommodation.  In our forward guidance 
  
 1 The materials used by Messrs. Paustian and Wood are appended to this transcript (appendix 1). 
@@ -298,7 +298,7 @@ black line, both prescribe departing from the ELB in early 2024—one year later
 in the April Tealbook, the solid blue line.  Because both policies use the same rule 
 after liftoff, the similar policy rate paths over the longer horizon yield similar 
 macroeconomic outcomes.  In particular, the inset box in the lower-left panel shows 
-that the longer ELB spell lowers the unemployment rate an extra ½ percentage point 
+that the longer ELB spell lowers the unemployment rate an extra 0.5 percentage point 
 by 2025 compared with the baseline.  The near-term effects on unemployment are 
 small, however, because real activity responds slowly to policy actions in the 
 FRB/US model.  Because we assume that price and wage setters are forward looking, 
@@ -307,7 +307,7 @@ results in upward near-term pressure on prices and wages.  The lower-right panel
 shows that core inflation under these two thresholds is a touch higher than in the 
 baseline in coming years, but it nonetheless does not return to 2 percent until 
 mid-2023. 
-Under a 2¼ percent core inflation threshold, the dashed yellow lines, the federal 
+Under a 2.25 percent core inflation threshold, the dashed yellow lines, the federal 
 funds rate stays at the ELB until early 2025—two years later than in the baseline.  
 The later ELB departure leads to a more pronounced decline in the unemployment 
 rate, to below 3 percent by 2024.  Core inflation returns to the 2 percent goal in 2022, 
@@ -340,7 +340,7 @@ June 9–10, 2020
  
  
 under LSAP program 1 over the next several years, while inflation runs modestly 
-higher, peaking at 2¼ percent in 2025.  Consistent with this stronger economic 
+higher, peaking at 2.25 percent in 2025.  Consistent with this stronger economic 
 outlook, the federal funds rate, not shown, departs the ELB half a year sooner than 
 under the April baseline.  
 Slide 4 presents some key messages and caveats.  To speed up the recovery, 
@@ -426,7 +426,7 @@ More broadly, as discussed in the final slide, by committing to manage yields on
 securities with particular maturities, the central bank allows its balance sheet to be 
 determined by market demand for those securities and by government issuance.  The 
 historical experience of the Federal Reserve during World War II demonstrates this 
-point.  The Federal Reserve established caps with a significant upward slope, from ⅜ 
+point.  The Federal Reserve established caps with a significant upward slope, from 0.375 
 June 9–10, 2020
 9 of 270
 
@@ -434,7 +434,7 @@ June 9–10, 2020
  
  
  
-percent at 3 months to 2½ percent at 25 years or longer.  With volatility held down, 
+percent at 3 months to 2.5 percent at 25 years or longer.  With volatility held down, 
 investors moved out of bills and into bonds to obtain higher yields, while the 
 Treasury issued securities across the curve.  Amid steady pressure on the bill rate cap, 
 the Federal Reserve absorbed 75 percent of Treasury bills by 1945. 
@@ -515,8 +515,8 @@ off from the ELB when the unemployment rate was in the neighborhood of the Commi
 estimate of long-run u*, but, of course, well before core PCE inflation had risen to 2 percent. 
 In this baseline, as was the case in 2015, the Fed begins to hike before core inflation 
 reaches 2 percent.  In other variants in the memo, the Committee would delay liftoff until an 
-inflation threshold of either 2 percent or 2¼ percent is reached.  The 2 percent threshold delays 
-liftoff by about a year in the simulations, and the 2¼ percent threshold delays liftoff by about 
+inflation threshold of either 2 percent or 2.25 percent is reached.  The 2 percent threshold delays 
+liftoff by about a year in the simulations, and the 2.25 percent threshold delays liftoff by about 
 two years—four years after hitting the ELB.  In the staff simulations, both inflation threshold 
 policies result in a modest overshoot of the 2 percent inflation target.  A notable feature of these 
 simulations is that the inflation thresholds have a material effect on actual inflation years before 
@@ -720,7 +720,7 @@ In conclusion, our long-run framework review will provide a solid foundation for
 policy actions.  When the time comes for us to adjust policy tools, I’m comfortable with our 
 ability to design a program of forward guidance and asset purchases appropriate to the situation.  
 I will note that the forward guidance threshold approach in which we keep the funds rate where it 
-is until inflation is above 2¼ percent, on page 2 of the handout, had the most prompt inflation 
+is until inflation is above 2.25 percent, on page 2 of the handout, had the most prompt inflation 
 overshoot of 2 percent to the forward guidance that we saw. 
 I could see rate caps at the shortest end of the curve playing a minor complementary role, 
 but I am less confident about designing an effective strategy for controlling endogenous market 
@@ -1489,7 +1489,7 @@ estimates of NAIRU, and inflation is back to 1.8 percent.
 The analysis in the memo shows that if we want a faster recovery, a combination of 
 explicitly establishing an asset purchase program roughly in line with the 2012–14 LSAP 
 program and a commitment to maintain the federal funds rate at the effective lower bound until 
-inflation reaches 2 percent would move unemployment to about 4½ percent early in 2022. 
+inflation reaches 2 percent would move unemployment to about 4.5 percent early in 2022. 
 Now, that may create a concern that we wouldn’t meet our employment mandate for two 
 years, but we have experienced an unprecedented shock.  And with the costs and uncertainties 
 associated with monetary policy at the lower bound, an even more aggressive LSAP or a new, 
@@ -3091,7 +3091,7 @@ June 9–10, 2020
  
  
  
-were forecasting a decline of 4½ million.  So we still missed by a mile, but we didn’t miss by 
+were forecasting a decline of 4.5 million.  So we still missed by a mile, but we didn’t miss by 
 two miles, I guess, is one way to think of it. 
 So, clearly, we were balancing a number of different indicators.  The ADP numbers were 
 on the positive side, but we were also continuing to see very large numbers of initial claims 
@@ -3107,10 +3107,10 @@ MS. BRAINARD.  Can I just do a very quick follow-up?  I presume we should be tak
 some signal from this.  What signal are you taking from this? 
 MR. WASCHER.  So, as Stacey mentioned, we basically assumed that the huge increase 
 we had expected in June, which was like 9 million in the Tealbook, came in May—or a bunch, 
-2½ million of it, came in May.  So we’re expecting another 2½ million increase in June, another 
-3½ million increase in July.  So we basically viewed most of this as a shift in timing, that the 
+2.5 million of it, came in May.  So we’re expecting another 2.5 million increase in June, another 
+3.5 million increase in July.  So we basically viewed most of this as a shift in timing, that the 
 rebound occurred a little earlier than we were expecting.  And I think the ADP numbers we’ve 
-seen since mid-May seem pretty consistent with the 2½ million that we’re expecting in the June 
+seen since mid-May seem pretty consistent with the 2.5 million that we’re expecting in the June 
 report, which would be for the week of June 12.  This week, in fact. 
 CHAIR POWELL.  Thanks.  President Evans. 
 June 9–10, 2020
@@ -4038,7 +4038,7 @@ June 9–10, 2020
  
  
 disruptions coming from Mexico and India continue to pose challenges and risks.  Still, the 
-firm’s overall employment is down just 4½ percent compared with last year.  One reason the 
+firm’s overall employment is down just 4.5 percent compared with last year.  One reason the 
 decline is so small is that they are keeping extra staff on hand to offset elevated absenteeism.  
 And one of my directors who runs a large manufacturing conglomerate said they had been able 
 to keep about 95 percent of their global capacity operational, but this has taken a significant 
@@ -4103,7 +4103,7 @@ than we had anticipated.  Like the Tealbook update, we think this largely reflec
 activity from Q3 into Q2.  But we added somewhat more to our GDP projection for 2020 as a 
 whole than the Tealbook update did. 
 My outlook for 2020 now has real GDP falling 7 percent and the unemployment rate 
-ending the year at 9½ percent.  In our forecast we assume that growth is held back by 
+ending the year at 9.5 percent.  In our forecast we assume that growth is held back by 
 intermittent, localized virus outbreaks, which might be made worse by the faster-than-expected 
 reopening.  In this environment, many resources will be devoted to health and safety.  We 
 assume a vaccine becomes widely available as we move through 2022, allowing for a return to 
@@ -4590,7 +4590,7 @@ of 2.5 million confounded market expectations for a decline of several million. 
 defied expectations with a 1.4 percentage point decline, despite a 0.6 percentage point increase in 
 the participate rate.  These developments are welcome, but they should not distract from a 
 13.3 percent unemployment rate, near its postwar highs, and a net decline in payroll employment 
-of 19½ million. 
+of 19.5 million. 
 On the other side of our dual mandate, inflation has receded farther below target, 
 reflecting weaker demand along with lower oil prices.  Both core and total PCE prices fell in 
 June 9–10, 2020
@@ -4823,7 +4823,7 @@ think we need 60 to 70 percent.  So this virus has a long way to go.
 The virus is still highly contagious.  You know, we had this conference, which you know 
 about, bringing health experts together with economists.  I thought Larry Summers had a good 
 way of looking at it.  He said that estimates are that R0—so, the average number of uninfected 
-people that one infected person passes the virus on to—was around 2½ in the unmitigated spread 
+people that one infected person passes the virus on to—was around 2.5 in the unmitigated spread 
 of the virus in February.  At the maximum lockdown in the United States, it was down around 
 0.8 or 0.9.  Our lockdown in America was much less onerous than in many other countries.  We 
 are not that locked down, relatively speaking.  And now we’ve been moving back.  So what’s R0 
@@ -4885,7 +4885,7 @@ The last thing I’ll just say is, I agree with Mary on her comments about labor
 slack and the natural rate of unemployment.  This is why I asked a question of Stacey when they 
 brought their natural rate up.  I’ll just confess, I was frustrated that it seemed like the Board staff 
 is very reluctant to bring down the natural rate year after year after year of low inflation, low 
-wage growth.  We had 3½ percent unemployment, and the Board staff still thought that the 
+wage growth.  We had 3.5 percent unemployment, and the Board staff still thought that the 
 natural rate was well above that.  But they’re very quick to ratchet it back up.  And so I’m 
 worried that once we get through this COVID-19 crisis, we’re going to be on another multiyear 
 journey of gradually ratcheting it back down.  So thank you, Mr. Chair. 
@@ -5149,7 +5149,7 @@ compose a larger share of employment compared with value-added, and, therefore, 
 unemployment rate to actually come down relatively gradually—say, compared with an Okun’s 
 law calculation—despite what I expect to see as a pretty robust rebound in GDP growth starting 
 in the second half of this year and extending to next year.  Specifically, I see the unemployment 
-rate ending this year at about 10 percent, declining to about 6½ percent by the end of next year, 
+rate ending this year at about 10 percent, declining to about 6.5 percent by the end of next year, 
 and only falling below 5 percent in late 2022.  You can learn more about my outlook in the SEP 
 submission, for which I’m participant number two. 
 Now, my forecast of a solid but gradual recovery hinges on a number of assumptions, and 
@@ -5197,7 +5197,7 @@ June 9–10, 2020
  
 In terms of the outlook for inflation, much like the Tealbook, I see core inflation coming 
 in very low this year, around 1 percent, but then starting the gradual march toward 2 percent over 
-the next few years.  I see core inflation at 1½ percent next year and around 1¾ percent in the 
+the next few years.  I see core inflation at 1.5 percent next year and around 1.75 percent in the 
 year after.  The uncertainty around this forecast is particularly large, given the enormous supply 
 and demand implications of the pandemic, and tilted to the downside, in line with the 
 prominence of downside risk to the outlook for economic activity. 
@@ -5242,7 +5242,7 @@ recovery are obviously highly uncertain.  In that way of thinking about things, 
 unemployment rate would have shown continued job losses as foreshadowed by still-high initial 
 claims, the ADP payroll report, and other indicators.  Instead, the May report will go on the 
 books as the biggest data surprise in memory—the private sector adding 3 million jobs, offset by 
-public-sector losses of about ½ million; employment gains were widespread, with the biggest 
+public-sector losses of about 0.5 million; employment gains were widespread, with the biggest 
 gains in sectors that had been most affected in March and April; 1.7 million people returned to 
 the labor force, the unemployment rate fell, and the employment-to-population rate rose. 
 A critical issue is how much signal to take from this surprisingly positive report.  Is this 
@@ -5383,7 +5383,7 @@ funds rate lifts off from the lower bound in the third quarter of 2022, with thi
 shown by the blue vertical lines.  As summarized in the first row of the top-right 
 table, liftoff occurs just after the unemployment rate reaches 5.2 percent—
 0.4 percentage point above the staff’s estimate of its natural rate at that time—and 
-just after core PCE inflation reaches 1½ percent.  However, the equal-weights loss 
+just after core PCE inflation reaches 1.5 percent.  However, the equal-weights loss 
 function may not precisely align with how policymakers weigh deviations from their 
 maximum-employment and price-stability objectives.  It may also fail to capture risk-
 management concerns, such as policymakers’ desire to insure against the possibility 
@@ -5409,7 +5409,7 @@ simulation, the federal funds rate lifts off from the lower bound in the third q
 row of the top-right table, liftoff occurs just after the unemployment rate reaches 
 3.2 percent and when core PCE inflation is 2.1 percent.  These paths of 
 unemployment and inflation bear a strong similarity to those that Matthias showed 
-this morning when discussing a forward-guidance specification that sets a 2¼ percent 
+this morning when discussing a forward-guidance specification that sets a 2.25 percent 
 threshold for core inflation.  This similarity reflects the possibility that, in some 
 circumstances, different forward guidance thresholds can correspond to different 
 policymaker loss functions. 
@@ -5425,9 +5425,9 @@ bottom row of charts report a similar simulation but with the loss function that
 an asymmetric weight on the unemployment rate gap.  The red vertical lines report 
 the timing of liftoff. 
 Note that, as shown in the top-right table, for the same loss function, liftoff for 
-simulations based around the “Second Waves” scenario occurs 5 to 5½ years later 
+simulations based around the “Second Waves” scenario occurs 5 to 5.5 years later 
 than for simulations based around the Tealbook baseline.  In addition, liftoff occurs 
-with unemployment rates that are 1¾ to 2 percentage points lower and inflation rates 
+with unemployment rates that are 1.75 to 2 percentage points lower and inflation rates 
 that are as much as 0.3 percentage point higher.  These large differences in timing and 
 outcomes highlight one of the challenges posed by the uncertainty that surrounds the 
 economic outlook. 
@@ -5664,8 +5664,8 @@ Given the empirical record of PCE inflation consistently falling short of our ob
 there’s a risk—and I think there’s a real risk—that inflation expectations could continue to drift 
 lower.  And I would point out that, in the staff’s estimate of expected inflation obtained from the 
 TIPS market—and this is after adjusting for liquidity and term premium effects—sort of their 
-pure read on expected inflation from TIPS for CPI inflation is running at about 1¾ percent, and 
-that’s down from about 2½ percent several months ago.  So that metric has moved down a lot.  
+pure read on expected inflation from TIPS for CPI inflation is running at about 1.75 percent, and 
+that’s down from about 2.5 percent several months ago.  So that metric has moved down a lot.  
 And in such circumstances, we might choose to offer guidance, as we discussed yesterday, that 
 rates are on hold until we actually achieve 2 percent inflation over some horizon.  If we went 
 down that road, I think it would be appropriate to refine and amend the consensus statement to 
@@ -6022,8 +6022,8 @@ uncomfortably low, with lower-for-longer rates.  And it’s easy to imagine fina
 concerns being raised early.  That was the case in 2013, for sure. 
 Will we be willing to call out an unemployment rate publicly that we will also continue 
 with until it is achieved?  When I asked Chair Janet Yellen why we couldn’t just extend our 
-6½ percent unemployment threshold to 6 percent back in March 2014, when we were on the 
-doorstep of 6½ percent, she asked me what I would do if we stalled at 6.2 percent—keep the 
+6.5 percent unemployment threshold to 6 percent back in March 2014, when we were on the 
+doorstep of 6.5 percent, she asked me what I would do if we stalled at 6.2 percent—keep the 
 funds rate at the lower bound forever?  So the FOMC immediately dropped the threshold 
 forward guidance in March 2014 and muddled along on the dimension of not describing how 
 long the funds rate would be at zero.  And asset purchases, tapering, and delay became our only 
@@ -6437,7 +6437,7 @@ despite very high unemployment.  The use of strong forward guidance addressed th
 then, and in the current episode, our words and actions will be vital to maintaining financial 
 conditions supportive of a strong recovery and 2 percent inflation. 
 When I look at the SEP—with an unemployment rate currently at 13.3 percent; a median 
-unemployment rate at 9.3 percent at the end of the year, 6½ percent next year, and 5½ percent 
+unemployment rate at 9.3 percent at the end of the year, 6.5 percent next year, and 5.5 percent 
 the year after; and inflation underrunning our target each consecutive year—I mean, it is hard for 
 me to think about how monetary policy could be doing too much in this circumstance.  I think 
 the risks are really that we won’t be able to do as much as we would like to do, given the lower 
@@ -6474,12 +6474,12 @@ that.  We did a lot of research on the issues of the structure of the labor mark
 curves, mismatch, and all of those issues.  And what we found from the previous recession is 
 that, as long as we can restore a strong labor market and as long as we can restore jobs, the 
 natural rate of unemployment doesn’t need to be higher.  In fact, as we saw, we were able to 
-bring the unemployment rate down to 3½ percent—very inclusive growth in jobs and higher 
+bring the unemployment rate down to 3.5 percent—very inclusive growth in jobs and higher 
 wage growth.  We were able to do that even though, at the time, we’d had the worst recession of 
 our lives. 
 So I just would caution all of us to remind ourselves where we were back in January and 
 February.  It does seem like a long time ago.  But we were in an economy that was growing over 
-2 percent and had an unemployment rate of 3½ percent.  I know inflation didn’t get to our target, 
+2 percent and had an unemployment rate of 3.5 percent.  I know inflation didn’t get to our target, 
 but we were pretty close.  We can get back to that.  We’ve proven we were able to do it last time.  
 June 9–10, 2020
 202 of 270

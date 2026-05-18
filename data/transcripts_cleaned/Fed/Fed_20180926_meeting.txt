@@ -467,14 +467,14 @@ my remarks run a little longer than usual.  [Laughter]  I’m going to review br
 current economic situation and then give you my interpretation of the yield-curve 
 inversion that features in the staff baseline projection. 
 As shown by the black line in your first panel, we continue to estimate that real 
-output is 2¼ percent above its potential level in the current quarter.  As shown by the 
+output is 2.25 percent above its potential level in the current quarter.  As shown by the 
 blue line, and not entirely by coincidence, our preferred model on this issue implies a 
 broadly similar view.  These assessments of resource utilization have not been much 
 affected by the indicators that have become available since the July meeting, 
 including the BEA’s comprehensive revision of the national income accounts. 
 We now anticipate that real GDP growth will average a little more than 3 percent 
 this year, well above our estimate of potential output growth.  As shown in panel 2, 
-we continue to see real output rising another 2½ percent in 2019—again, fast enough 
+we continue to see real output rising another 2.5 percent in 2019—again, fast enough 
 to imply a further tightening in resource utilization. 
 Regarding the news that has become available since the Tealbook forecast closed 
 12 days ago, the retail sales data were a good bit stronger than we expected, while 
@@ -515,8 +515,8 @@ ADP information—shown as the blue line—puts the increase in private payroll
 employment in August at 210,000, consistent with a further tightening in labor market 
 conditions.  In addition, ADP data for the first three weeks of September point to 
 another solid private payroll gain this month.  On the household side, the overall 
-unemployment rate was 3.9 percent in August—down ½ percentage point from a year 
-ago and about ¾ percentage point below our estimate of its natural rate. 
+unemployment rate was 3.9 percent in August—down 0.5 percentage point from a year 
+ago and about 0.75 percentage point below our estimate of its natural rate. 
 As you can see in panel 5, the continued improvement in labor market conditions 
 has been broadly shared across races and ethnicities, with each group’s 
 unemployment rate currently at or below the levels that were reached at the end of the 
@@ -536,7 +536,7 @@ unemployment rate would be even lower if we had not assumed that the tight labor
 market will also put upward pressure on the labor force participation rate. 
 Regarding inflation, as shown by the red line in panel 7 on your next page, PCE 
 prices excluding food and energy rose 2 percent over the next 12 months ending in 
-July, ½ percentage point faster than a year ago.  Of course, inflation can be quite 
+July, 0.5 percentage point faster than a year ago.  Of course, inflation can be quite 
 volatile, even on a 12-month change basis, so it’s worth asking how durable this 
 September 25–26, 2018
 13 of 153
@@ -575,7 +575,7 @@ growth is inching up, though it’s impossible to be sure, considering how diffe
 these various series can behave and how erratic they can be from year to year.  We 
 put the most weight on the ECI—the black line—partly because it’s less noisy than 
 the other available measures.  That measure now stands at just under 3 percent on a 
-12-month change basis, up from about 2½ percent a year ago.  As I’ve noted before, 
+12-month change basis, up from about 2.5 percent a year ago.  As I’ve noted before, 
 we don’t have much trouble explaining the recent evolution of the ECI, in conditions 
 of an increasingly tight labor market, relatively well-anchored inflation expectations, 
 and continued lackluster trend productivity gains. 
@@ -806,7 +806,7 @@ providing a basis for estimating the responsiveness of firm-level investment to 
 uncertainty.  By aggregating the firm-level responses, albeit with some fairly heroic 
 assumptions, they estimate that the current increase in trade policy uncertainty could 
 be reducing investment by up to 2 percent, with a corresponding reduction in real 
-GDP of about ¼ percent.  However, the plausible range of estimates is wide, and the 
+GDP of about 0.25 percent.  However, the plausible range of estimates is wide, and the 
 true effects could be either negligible or considerably larger, especially if tensions 
 were to intensify, cover a larger segment of trade, or persist.  At this point, we have 
 not incorporated any effects of trade policy uncertainty into our baseline forecast, but 
@@ -1010,7 +1010,7 @@ am asking for a lifeline, Thomas.
 MR. LAUBACH.  In the simple rules that we are simulating, we are using the 0.5 percent 
 longer-run assumption. 
 MR. WILCOX.  Yes, that’s right.  Thank you.  So in the staff projection, our r*—our 
-assumed level of the real neutral interest rate—is ½ percent, and so that’s what is used in that 
+assumed level of the real neutral interest rate—is 0.5 percent, and so that’s what is used in that 
 Taylor (1999) inertial rule that we use to derive the policy rate path. 
 MR. EVANS.  But with a flatter Phillips curve, and with more weight on the output gap, 
 you’re trying to push down inflation a bit more.  I just wonder if we’d made more progress, if 
@@ -1163,7 +1163,7 @@ up to 1.4 percent in July.  And over the past three months, job growth has been 
 since early 2016 and is well above the Cleveland staff’s estimate of the District’s longer-run 
 trend. 
 The District’s unemployment rate was 4.4 percent in July, near its lowest level since the 
-early 2000s and more than ½ percentage point below the Cleveland staff’s current estimate of the 
+early 2000s and more than 0.5 percentage point below the Cleveland staff’s current estimate of the 
 District’s natural rate of une.mployment.  Now more than half of the District contacts are 
 reporting their demand for workers is outstripping available supply, and these reports come from 
 a variety of industries, across skill levels, and from across the District. 
@@ -1222,8 +1222,8 @@ of measures, there is less slack in the labor market than at the peak of the pre
 Anecdotal reports of wage increases are widespread, and the aggregate measures of wages have 
 accelerated this year. 
 In my SEP submission, above-trend real GDP growth would be associated with further 
-tightening in the labor market, with the unemployment rate near 3½ percent over the next three 
-years and well below my 4½ percent estimate of its longer-run level.  I expect some further 
+tightening in the labor market, with the unemployment rate near 3.5 percent over the next three 
+years and well below my 4.5 percent estimate of its longer-run level.  I expect some further 
 appreciation in wages, but not to levels seen in previous expansions, unless we see a pickup in 
 the low productivity growth we’ve experienced over this expansion. 
 The inflation news remains positive.  The rates of both headline and core PCE inflation 
@@ -1276,7 +1276,7 @@ September 25–26, 2018
 sustain the expansion, prudently balancing the risk to the outlook for both parts of our dual 
 mandate, and help control rising risks of financial imbalances. 
 The median policy rate path in the set of simple monetary policy rules posted on the 
-Cleveland Fed website has the funds rate rising to about 3½ percent in the fourth quarter of next 
+Cleveland Fed website has the funds rate rising to about 3.5 percent in the fourth quarter of next 
 year, just a tad shallower than my appropriate path.  Now, I note that the policy rate path in the 
 Tealbook is quite a bit steeper than my path and the median path in the SEP, but the economic 
 outcomes in these forecasts are similar.  Of course, there are uncertainties regarding the 
@@ -1364,13 +1364,13 @@ September 25–26, 2018
  
  
 Regarding the national outlook, clearly, the economy has considerable momentum, and 
-we’re looking for GDP growth in the second half of 2018 to run at about 3¼ percent.  As we 
+we’re looking for GDP growth in the second half of 2018 to run at about 3.25 percent.  As we 
 move through the forecast period, we project that tighter monetary policy and waning fiscal 
-stimulus will steadily reduce growth to about 1½ percent by 2021.  This is roughly ½ percentage 
+stimulus will steadily reduce growth to about 1.5 percent by 2021.  This is roughly 0.5 percentage 
 point below what we think potential output growth will be at that time. 
-We expect unemployment to drop to just under 3½ percent by the end of next year and 
+We expect unemployment to drop to just under 3.5 percent by the end of next year and 
 then slowly edge up to 3.7 percent by the end of the projection period.  This is about 
-½ percentage point below our estimate of its natural rate.  A modestly restrictive monetary policy 
+0.5 percentage point below our estimate of its natural rate.  A modestly restrictive monetary policy 
 should close the remaining gap within two to three years beyond the forecast horizon. 
 With regard to inflation, I feel more comfortable about the outlook than I did for the June 
 SEP.  The post-benchmark revision data show year-over-year core inflation running steadily near 
@@ -1584,7 +1584,7 @@ several years.
 The Tealbook simulation gives us some idea of the quantitative magnitudes involved in 
 such a strategy.  The results on page 102 of Tealbook A are striking.  The policy rate would 
 essentially be unchanged from its current level during 2019 and 2020, and yet inflation would 
-average only about 2¼ percent—in my opinion, within measurement error of the Committee’s 
+average only about 2.25 percent—in my opinion, within measurement error of the Committee’s 
 2 percent target.  This could be a very successful strategy, should the Committee adopt it. 
 For those worried about an outbreak of inflation to the upside in such a scenario, the 
 Committee can continue closely monitoring TIPS-based expected inflation measures, adjusted 
@@ -1690,7 +1690,7 @@ September 25–26, 2018
  
  
  
-full percentage point of GDP this year, over 2 percentage points next year, and 1½ percentage 
+full percentage point of GDP this year, over 2 percentage points next year, and 1.5 percentage 
 points the following year.  That is a heck of a lot of stimulus, especially at this point in an 
 expansion. 
 These considerable tailwinds are occurring at a time of very accommodative financial 
@@ -1702,7 +1702,7 @@ increase in the 10-year Treasury yield and a 1 percent appreciation in the broad
 financial conditions little changed, on net, during the intermeeting period. 
 With fiscal and financial tailwinds reinforcing the strong underlying domestic momentum 
 in the economy, we can expect further tightening in resource utilization, starting from already 
-high levels.  The August unemployment rate was about ½ percentage point lower than the 
+high levels.  The August unemployment rate was about 0.5 percentage point lower than the 
 previous year.  If unemployment continues to decline at the same rate as we saw over the past 
 year, we’ll soon see unemployment rates not seen since the 1960s.  Historically, in the few 
 periods when resource utilization has been at similarly tight levels, we’ve tended to see elevated 
@@ -1913,7 +1913,7 @@ investment, and the capital deepening that we’re seeing will need to continue 
 productivity are to be sustained.  Thank you. 
 CHAIRMAN POWELL.  Thank you.  President Kaplan. 
 MR. KAPLAN.  Thank you, Mr. Chairman.  The 11th District economy continues to be 
-strong.  Texas job growth year-to-date is in excess of 3½ percent, annualized.  Our broad surveys 
+strong.  Texas job growth year-to-date is in excess of 3.5 percent, annualized.  Our broad surveys 
 across the board are strong.  The one sticking point, which a number of you have mentioned, is 
 that the manufacturing uncertainty index is higher due primarily to concerns regarding trade and 
 tariffs.  We do think this is having, among manufacturers, a chilling effect on their capital 
@@ -2242,8 +2242,8 @@ number, I see retail prices continuing to increase at about a 2 percent rate.  B
 the risks to that projection as being tilted to the upside.  Consistent with aggregate measures of 
 wage growth, reports received from my District suggest some firming in labor costs.  A growing 
 number of firms across the District report an uptick in merit increases, and these increases have 
-been occurring for a number of cycles, with merit averages reported in the range of 3 to 3½ 
-percent.  The formerly dominant 2 to 2½ percent range is now the exception.  But perhaps the 
+been occurring for a number of cycles, with merit averages reported in the range of 3 to 3.5 
+percent.  The formerly dominant 2 to 2.5 percent range is now the exception.  But perhaps the 
 biggest shift in contact and director sentiment this cycle concerned input cost increases and price 
 pressures.  As noted by President Rosengren initially but by many others around this table, there 
 has been a marked increase in the reported ability to pass on cost increases.  In the Sixth District, 
@@ -2352,9 +2352,9 @@ labor market already reaching or even surpassing most measures of full employmen
 has averaged over 190,000 jobs per month over the past six months, and that’s roughly double 
 the 75,000 to 100,000 job estimates of trend labor supply growth.  And with no signs of 
 significant slowing on the horizon, I expect real GDP growth to come in around 3 percent this 
-year and 2½ percent next year, well above my estimate of potential growth of 1¾ percent.  And 
+year and 2.5 percent next year, well above my estimate of potential growth of 1.75 percent.  And 
 with sustained above-trend growth ahead, I perceive the unemployment rate edging down 
-slightly below 3½ percent next year, significantly below my estimate of the natural rate of 
+slightly below 3.5 percent next year, significantly below my estimate of the natural rate of 
 unemployment at 4.5 percent.  And if that happens, that would be the lowest unemployment rate 
 we’ve seen in nearly 50 years. 
 I’d also mention this Conference Board survey that came out today.  And, you know, I 
@@ -2409,7 +2409,7 @@ September 25–26, 2018
  
 inflation expectations—a lesson we must not forget.  Taking all of this in, I envision only a 
 modest overshoot of inflation vis a vis the Committee’s longer-run 2 percent objective over the 
-next few years, with core inflation peaking at around 2¼ percent. 
+next few years, with core inflation peaking at around 2.25 percent. 
 And I see the risks to the outlook as balanced.  Now, I can list, as others have, the usual 
 suspects:  emerging market contagion; Brexit—which I’m not sure was mentioned yet, but I 
 would highlight that; trade wars; high-end rising asset prices; elevated debt and risk in the 
@@ -2423,7 +2423,7 @@ they may be unprepared for disappointment.  In the event of a surprise, we could
 negative reaction as a result.  And, two, we ourselves must guard against this type of 
 complacency.  I’ll reserve my remarks on policy till tomorrow.  In terms of my projection, I 
 penciled in gradual rate increases over the next two years, resulting in a funds rate target range 
-that eventually lies moderately above my long-run estimate, which stands firmly at 2½ percent.  I 
+that eventually lies moderately above my long-run estimate, which stands firmly at 2.5 percent.  I 
 am participant number 10 in the Summary of Economic Projections.  Thank you. 
 CHAIRMAN POWELL.  Thank you.  And thanks to everyone for really a very 
 interesting and thoughtful round of comments.  There is, indeed, a lot to like about this economy 
@@ -2813,7 +2813,7 @@ CHAIRMAN POWELL.  Thank you.  President Rosengren.
 MR. ROSENGREN.  Thank you, Mr. Chair.  While I support alternative B, I could also 
 have supported some of the language in alternative C for this meeting.  Removing the language 
 on monetary policy remaining accommodative could be interpreted quite dovishly.  That is, at a 
-rate of 2 to 2¼ percent, we’re moving out of accommodative rate territory. 
+rate of 2 to 2.25 percent, we’re moving out of accommodative rate territory. 
 While the uncertainty about r* admits this possibility, this is at the very lower end of 
 estimates of r* and is not consistent with most of the estimates presented in the SEP.  This 
 certainly would not be the message I would want to convey after a meeting at which the 
@@ -2893,7 +2893,7 @@ September 25–26, 2018
  
  
  
-roughly ½ percentage point lower growth this year than what one observes when looking at GDP 
+roughly 0.5 percentage point lower growth this year than what one observes when looking at GDP 
 expenditure on its own. 
 For these reasons, I have not penciled in another rate hike for this year and envision only 
 two rate hikes in each of the succeeding two years.  Of course, incoming data may cause me to 
@@ -2953,9 +2953,9 @@ September 25–26, 2018
  
  
  
-growth, surprised to the upside by about ½ percentage point over what we thought at that time, 
+growth, surprised to the upside by about 0.5 percentage point over what we thought at that time, 
 with 2018 now surprising by about 1 percentage point on the growth rate compared with that 
-time, and even 2019—another ½ percentage point on GDP growth.  So it has been a period of 
+time, and even 2019—another 0.5 percentage point on GDP growth.  So it has been a period of 
 upside surprise for the economy, and if you add all of that together, you get about 2 percent on 
 the level of real GDP.  That’s a substantial upside surprise.  In my view, this has justified some 
 policy rate increases during 2017 and 2018, and I’ve gone along with these as they have 
@@ -3357,9 +3357,9 @@ approving today.  I think it gives us maximum flexibility to send, with minimum 
 signals we will want to send when the time is right. 
 CHAIRMAN POWELL.  Thank you.  President Evans. 
 MR. EVANS.  Thank you, Mr. Chairman.  I support alternative B and increasing the 
-federal funds rate target range 25 basis points, to 2 to 2¼ percent.  I also support removing the 
-characterization of monetary policy as accommodative at 2 to 2¼ percent.  This is below my 
-long-run funds rate of 2¾ percent.  And I agree with Governor Clarida:  In the presence of all of 
+federal funds rate target range 25 basis points, to 2 to 2.25 percent.  I also support removing the 
+characterization of monetary policy as accommodative at 2 to 2.25 percent.  This is below my 
+long-run funds rate of 2.75 percent.  And I agree with Governor Clarida:  In the presence of all of 
 the uncertainties, it’s better to remove any suggestion that we have a precise characterization of 
 monetary policy today. 
 September 25–26, 2018
@@ -3369,9 +3369,9 @@ September 25–26, 2018
  
  
  
-My SEP submission envisions raising the funds rate to a range of 3 to 3¼ percent by the 
+My SEP submission envisions raising the funds rate to a range of 3 to 3.25 percent by the 
 end of 2019.  So I also support paragraph 2 language that includes “further gradual increases.”  
-By my long-run funds rate, a funds rate endpoint range of 3 to 3¼ percent is modestly restrictive 
+By my long-run funds rate, a funds rate endpoint range of 3 to 3.25 percent is modestly restrictive 
 in 2019 and through 2021.  I will monitor different assessments based on our shorter-run 
 assessment of the neutral funds rate, but for today, I don’t think that’s critical. 
 I see inflation slightly above our 2 percent objective, with core PCE inflation at 
@@ -3421,7 +3421,7 @@ next couple of months consistent with this new forecast, then I think it will be
 forward the timing of rate increases a bit, to four increases this year. 
 For me, this is about timing and is not a change in the overall strategy.  As before, 
 though, I would not advocate moving policy beyond the range of estimates for neutral, which I 
-have at between 2¾ and 3 percent, and I would not be in favor of moving us into a more 
+have at between 2.75 and 3 percent, and I would not be in favor of moving us into a more 
 September 25–26, 2018
 104 of 153
 
@@ -3528,7 +3528,7 @@ Uncertainty associated with my projections is aligned with historical norms.  An
 light of the sustained ongoing strength in the economy and the realized firming of inflation, our 
 strategy of gradually raising rates has served us well in the past and remains appropriate now and 
 for some time into the future.  I anticipate that it’ll be appropriate to raise the target funds rate to 
-a level moderately above my assessment of its longer-run value, which I continue to put at 2½ 
+a level moderately above my assessment of its longer-run value, which I continue to put at 2.5 
 percent.  Such a policy rate path is designed to support ongoing economic expansion while 
 minimizing the risks of overheating in terms of either inflation or risks and imbalances in 
 financial markets.  Although I am confident that we’re on the right path, it is worth reminding 

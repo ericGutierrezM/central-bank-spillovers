@@ -882,7 +882,7 @@ July 30-31, 2019
  
  
  
-range for inflation around 2 percent—say, between 1½ and 2½ percent.  The constraint that we 
+range for inflation around 2 percent—say, between 1.5 and 2.5 percent.  The constraint that we 
 always aim to hit the 2 percent target seems appropriate if there are reasons to believe that the 
 economy will hit the effective lower bound rarely and for a short time. 
 If, instead, effective lower bound episodes are more likely and potentially longer lasting, 
@@ -1095,7 +1095,7 @@ value of ambitious, aggressive, do-what-it-takes policymaking goes way up.  More
 conservative policymaking approaches will not get the job done. 
 I want to thank the staff for these informative and thought-provoking memos.  Many 
 interesting perspectives were offered.  Regarding the historical experience discussed in the first 
-memo, I found it particularly noteworthy that the ¾ percent annual pace of decline in the 
+memo, I found it particularly noteworthy that the 0.75 percent annual pace of decline in the 
 unemployment rate from 2009 to 2015, roughly, was typical of other recoveries.  I found this 
 noteworthy, because the FOMC needed to expand its balance sheet to $4.5 trillion and use 
 calendar-based and threshold forward guidance in order to achieve this normal outcome.  
@@ -1132,7 +1132,7 @@ the comments that Vice Chair Williams and Governor Clarida made earlier on that 
 what-it-takes, outcome-based policy should include an expected time-to-improvement. 
 The second memo stressed many challenges that the FOMC faces now and will likely 
 face in the future.  The economic environment is the main culprit, in my opinion.  Trend growth 
-of around 1¾ percent seems justified on the basis of low labor input growth and moderate 
+of around 1.75 percent seems justified on the basis of low labor input growth and moderate 
 productivity trends.  This, together with a global environment that is similar or worse, leads to 
 low equilibrium policy rates.  In this setting, the likelihood of revisiting the effective lower 
 bound is too high for comfort.  Even a modest downward shock could lead to a prolonged stay at 
@@ -1157,7 +1157,7 @@ definitely allows the FOMC to seek, affirmatively, an overshoot of our 2 percent
 objective.  I disagree with the roadmap memo’s characterization that it does not.  Recall that, in 
 December 2012, the FOMC adopted a threshold forward-guidance policy that indicated that the 
 federal funds rate would not be increased at least as long as the unemployment rate was above 
-6½ percent and inflation stayed below 2½ percent.  So, in the pursuit of lower unemployment, 
+6.5 percent and inflation stayed below 2.5 percent.  So, in the pursuit of lower unemployment, 
 the FOMC was willing to generate inflation above 2 percent. 
 Second, as the roadmap memo highlights, the sentence introduced into the Statement of 
 Longer-Run Goals and Monetary Policy Strategy in January 2016 on symmetry can be a 
@@ -1439,7 +1439,7 @@ mentioned, so the effective lower bound is a constraint that is much more likely
 future, hindering our ability to provide the appropriate level of accommodation to offset negative 
 shocks to the economy. 
 I was looking back—and people have mentioned this—for example, we lowered the 
-federal funds rate 5½ percentage points, on average, during the nine recessions since the mid-
+federal funds rate 5.5 percentage points, on average, during the nine recessions since the mid-
 1950s, and clearly we no longer have this amount of policy space should an average recession 
 July 30-31, 2019
 43 of 329
@@ -1852,7 +1852,7 @@ The first memo made it very clear that the Committee’s past use of forward gui
 pretty modest and confined to thresholds that were not likely to cause many questions about the 
 Committee’s commitment to hold steady until those thresholds were reached.  For example, it 
 seems unlikely that anyone in December 2013 doubted that the Committee would choose to hold 
-rates steady as long as the unemployment rate exceeded 6½ percent. 
+rates steady as long as the unemployment rate exceeded 6.5 percent. 
 An unanswered question in my mind is whether the current framework can be enhanced 
 or deployed to better effect.  If future statements like “We won’t raise rates until” are tied to 
 July 30-31, 2019
@@ -2013,7 +2013,7 @@ July 30-31, 2019
  
 prepares its analysis of potential makeup strategies, I would welcome thoughts on why a future 
 Committee would be more likely to stick to those strategies, which will call for low rates when 
-inflation is at 2½ percent or 3 percent, when we weren’t willing to keep rates low when inflation 
+inflation is at 2.5 percent or 3 percent, when we weren’t willing to keep rates low when inflation 
 was below target in this recovery. 
 And then, lastly, I just want to echo something President Evans said, which is us being 
 explicit about the costs of very low unemployment.  I think it’s enormously important that we be 
@@ -2134,7 +2134,7 @@ end-all of economic policy.  I know we know that here, but I think, for the publ
 emphasizing that.  There’s a danger, I think, of central banks trying to do too much and being 
 pressured to do too much and, by doing so, again, ultimately jeopardizing our ability to achieve 
 our dual-mandate objectives.  In this context, I’m very mindful of the fact that the bulk of federal 
-funds rate increases that got us to a target range of 2¼ percent to 2½ percent came in anticipation 
+funds rate increases that got us to a target range of 2.25 percent to 2.5 percent came in anticipation 
 of fiscal stimulus and in the aftermath of substantial fiscal stimulus.  And so I think we’d do well 
 just acknowledging that we are a key part of economic policy, but there are other elements that 
 are also critical that will allow us to achieve our dual-mandate objectives.  Thank you, Mr. 
@@ -2268,7 +2268,7 @@ which has informed my policy views over the past four years.  First, we are like
 frequent and prolonged episodes when the federal funds rate is pinned at its lower bound.  In 
 part, this reflects an equilibrium rate that’s much lower than in the decades before the crisis.  We 
 can see the evolution of that key conditioning assumption in the sharp decline in the SEP median 
-longer-run federal funds rate, which decreased from 4¼ percent in January of 2012, similar to the 
+longer-run federal funds rate, which decreased from 4.25 percent in January of 2012, similar to the 
 July 30-31, 2019
 71 of 329
 
@@ -2276,8 +2276,8 @@ July 30-31, 2019
  
  
  
-average value of 4½ percent in previous decades, to our most recent estimate that’s closer to the 
-2½ percent level. 
+average value of 4.5 percent in previous decades, to our most recent estimate that’s closer to the 
+2.5 percent level. 
 Considering that the FOMC has cut the federal funds rate, on average, about 450 basis 
 points in response to recessions over the past five decades, current estimates indeed suggest the 
 buffer is much smaller at only half that amount.  That is a large loss of policy space and could be 
@@ -2319,9 +2319,9 @@ pick up naturally where last July’s discussion left off.  They raise the possi
 be done with forward guidance, even without going so far as to embrace inflation overshooting.  
 Arguably, the most innovative use of forward guidance over the past decade was the adoption of 
 an unemployment threshold in late 2012.  Under that policy, the Committee pledged not to raise 
-the funds rate at least as long as the unemployment rate remained above 6½ percent.  In the end, 
+the funds rate at least as long as the unemployment rate remained above 6.5 percent.  In the end, 
 the Committee didn’t raise the funds rate until unemployment had fallen to 5 percent and, in fact, 
-didn’t raise the funds rate again after that until it had reached 4¾ percent.  I think this episode, 
+didn’t raise the funds rate again after that until it had reached 4.75 percent.  I think this episode, 
 more than anything else, illustrates the risk of relying on an unemployment target alone when 
 estimates of maximum employment change with the contours of the economy, and the 
 conventional implications for inflation through the Phillips curve are inoperative.  In short, even 
@@ -2357,7 +2357,7 @@ average size of our monetary policy buffer driven by an enduringly lower neutral
 seem irresponsible not to at least consider the pros and cons of raising the inflation target to 
 compensate by a modest amount.  I wouldn’t be inclined to consider a move to a 4 percent target, 
 for instance, but I think it would be valuable to discuss the risks and advantages of considering a 
-move to a more modest and perhaps more achievable range, perhaps 2½ to 3 percent. 
+move to a more modest and perhaps more achievable range, perhaps 2.5 to 3 percent. 
 July 30-31, 2019
 74 of 329
 
@@ -2369,9 +2369,9 @@ In fact, average inflation targeting may not look very different from a modest i
 the inflation target to most households and businesses of the sorts that were represented in our 
 Fed Listens panels.  For instance, if we were in an average inflation-targeting framework today, 
 how would we be talking about our inflation goal?  Wouldn’t we be saying that we’re targeting 
-average inflation of 2½ percent over the next five years in order to achieve our long-run average 
-inflation goal of 2 percent after many years with inflation averaging around 1½ percent?  In this 
-case, after several years of successfully achieving inflation of 2½ percent in order to make up for 
+average inflation of 2.5 percent over the next five years in order to achieve our long-run average 
+inflation goal of 2 percent after many years with inflation averaging around 1.5 percent?  In this 
+case, after several years of successfully achieving inflation of 2.5 percent in order to make up for 
 those past misses, we might want to simply lock in the modest increase in our buffer in a policy 
 that might be akin to opportunistic reflation. 
 In addition, the staff analysis of last year demonstrates that threshold-based asset 
@@ -2572,10 +2572,10 @@ July 30-31, 2019
  
  
  
-example, highlighted that he thought it means we would focus on 1½ percent.  If it’s 1½ to 2½ 
+example, highlighted that he thought it means we would focus on 1.5 percent.  If it’s 1.5 to 2.5 
 percent, and the way you thought about it was when you’re at or near full employment, you 
-actually want to be between 2 and 2½ percent, realizing that when you’re at the lower bound it’s 
-going to be hard to prevent inflation from drifting down, and you’re probably going to be 1½ to 2 
+actually want to be between 2 and 2.5 percent, realizing that when you’re at the lower bound it’s 
+going to be hard to prevent inflation from drifting down, and you’re probably going to be 1.5 to 2 
 percent.  And so a range actually gives you the flexibility to try to, on average, get to 2 percent 
 without having some of the time inconsistency problems that would otherwise occur.  But 
 whether you think that’s a good idea or a bad idea is, in part, dependent on whether you are a 
@@ -3119,7 +3119,7 @@ emphasis on the median as a summary measure, there is a reasonably wide
 distribution of households’ responses to questions about expected inflation.  And, 
 second, to illustrate that as the median declined a few tenths between 2014 and 2016, 
 the 75th percentile of the distribution declined more notably, from roughly 
-4½ percent to 3½ percent.  Fewer respondents report that they expect relatively high 
+4.5 percent to 3.5 percent.  Fewer respondents report that they expect relatively high 
 inflation rates of 5 percent or higher, and that’s bringing down the high end of the 
 distribution. 
 Knowing what to make of these developments is more difficult.  The behavior of 
@@ -3157,10 +3157,10 @@ the foreign economies are out of their soft patch.  On the second, though downsi
 risks have not intensified, they haven’t subsided much from their elevated level 
 either.  I will now turn to the details. 
 Indicators suggest a pickup in GDP growth abroad in the second quarter, to 
-2 percent at an annual rate from 1½ percent in the first, as shown in the left panel of 
+2 percent at an annual rate from 1.5 percent in the first, as shown in the left panel of 
 your first exhibit.  This growth is below the potential rate, and we expect it to remain 
 so for the rest of the year, but it should gradually pick up to about its potential pace of 
-2½ percent next year.   
+2.5 percent next year.   
 But several considerations give us some pause.  First, indicators on the whole 
 have come in a bit weaker than expected, and we have revised down a touch near-
 term aggregate foreign growth.  The right panel shows the evolution of the staff 
@@ -4091,7 +4091,7 @@ ratios have already declined from 12.9 percent to 12.2 percent.  This year, the 
 announced nearly $120 billion in planned share buybacks and plans to increase dividends.   
 If earnings hold steady at last year’s levels, those increased distributions would represent 
 a payout ratio significantly in excess of 100 percent and would further deplete capital ratios back 
-down to about 11½ percent, back down to the starting ratios in 2014.  If earnings are weaker, 
+down to about 11.5 percent, back down to the starting ratios in 2014.  If earnings are weaker, 
 capital ratios could decline by more.  History suggests that as the business cycle proceeds, both 
 market participants and regulators become increasingly complacent.  We are seeing complacency 
 currently among market participants, as reflected in high asset prices, weak lending standards, 
@@ -4102,7 +4102,7 @@ suggest that current levels of capital should be above their historical average,
 have been rising, not falling, over the past few years of solid growth and financial market gains.  
 Capital could then be released if the economy were to deteriorate, relieving what might 
 otherwise be a constraint on bank lending.  That raises the question whether current capital levels 
-at the large banks, which are moving down to the 11½ percent range, are indeed above the 
+at the large banks, which are moving down to the 11.5 percent range, are indeed above the 
 desired through-the-cycle average level of capital.  Board staff research assessing both the costs 
 and benefits found that regulatory capital ratios should be in the range of 13 to 25 percent on 
 average.  Other research has come to similar, or in some cases higher, levels. 
@@ -4283,7 +4283,7 @@ good as could be expected.  No additional tariffs were levied, and an agreement 
 resume negotiations.  While the outcome of trade talks remains uncertain and is clearly a 
 headwind for global growth and business fixed investment, this uncertainty is largely being 
 offset by other factors.  Thus, despite these headwinds, the Tealbook sees global real GDP 
-growth picking up to 2.2 percent in the second half of the year before rising to 2½ percent in the 
+growth picking up to 2.2 percent in the second half of the year before rising to 2.5 percent in the 
 following two years. 
 The effect of tariffs on trade is one part of the outlook.  We should ask whether trade 
 headwinds are large enough to depress the overall outlook.  At the time of the previous meeting, 
@@ -4554,10 +4554,10 @@ was also cited.  Although there’s continued uncertainty about trade policy, it
 a concern among our contacts than it did at the time of our June meeting, and few contacts 
 reported making material changes to their capital spending plans in response. 
 District labor market conditions remain strong.  The unemployment rate has moved down 
-½ percentage point since the start of the year and stood at 4 percent in June.  This is a new low 
+0.5 percentage point since the start of the year and stood at 4 percent in June.  This is a new low 
 for the unemployment rate this expansion and well below the Cleveland staff’s estimate of the 
 unemployment rate’s longer-run normal level.  Year-over-year growth in payroll employment in 
-the District was about ½ percent in June.  While somewhat lower than earlier in the year, payroll 
+the District was about 0.5 percent in June.  While somewhat lower than earlier in the year, payroll 
 growth remains above the Cleveland staff’s estimate of its longer-run trend. 
 July 30-31, 2019
 139 of 329
@@ -4951,7 +4951,7 @@ July 30-31, 2019
  
  
  
-monthly readings of core PCE are over, not below, our target, at 2½ percent.  The Dallas 
+monthly readings of core PCE are over, not below, our target, at 2.5 percent.  The Dallas 
 trimmed mean remains steady at 2 percent.  The Tealbook’s inflation forecast, I believe, still has 
 core inflation over 2 percent for the second half of the year, even with a flat federal funds rate 
 assumption.  The first-quarter slow readings had to be affected by the confidence shock we had 
@@ -5122,7 +5122,7 @@ least transportation logistics costs were not rising more.  So, all in all, I he
 contacts to suggest building wage or price pressures. 
 Regarding the national outlook, combining my contact reports with the incoming data, we 
 came up with a fairly decent outlook for growth this year.  The numbers we put together are 
-similar to those in the Tealbook, with real GDP rising a bit under 2½ percent in 2019 and the 
+similar to those in the Tealbook, with real GDP rising a bit under 2.5 percent in 2019 and the 
 unemployment rate ending the year around 3.6 percent.  This is a moderately stronger forecast 
 July 30-31, 2019
 158 of 329
@@ -5143,7 +5143,7 @@ does seem that important downside risks remain, but it’s hard to envision any 
 offsetting upside tailwinds. 
 What about inflation?  We have had a couple of good monthly readings on consumer 
 prices.  That’s encouraging.  The incoming data have pushed our time-series model forecast up 
-somewhat, but the model still generally projects inflation to be flat at around 1¾ percent, similar 
+somewhat, but the model still generally projects inflation to be flat at around 1.75 percent, similar 
 to the Tealbook’s low underlying trend.  And there simply isn’t any meaningful evidence of 
 building inflation pressures.  As I noted, wage growth is modest, and commodity prices are 
 restrained.  And TIPS breakevens and other indicators of inflation expectations have not moved 
@@ -5162,7 +5162,7 @@ July 30-31, 2019
  
  
 MR. KAPLAN.  Thank you, Mr. Chairman.  Our Dallas Fed base case for 2019 U.S. 
-GDP growth is now approximately 2 to 2¼ percent.  This forecast has been adjusted downward 
+GDP growth is now approximately 2 to 2.25 percent.  This forecast has been adjusted downward 
 over the past three months, primarily because of the effect of heightened trade tensions and 
 decelerating rates of global growth.  I would emphasize, though, that much of the deceleration in 
 growth from 2018 and 2019 was expected because of the waning of fiscal stimulus.  So even 
@@ -5253,14 +5253,14 @@ July 30-31, 2019
  
 Now, if I look at this a different way and just step back—with my team, we have gone 
 back and looked over the past number of years of economic growth, and we looked at pre-2017.  
-For a number of years we were basically in a 2 percent growth economy, maybe a 1¾ to 
+For a number of years we were basically in a 2 percent growth economy, maybe a 1.75 to 
 2 percent growth economy.  And what happened in 2017 is, we had the prospect of fiscal 
 stimulus; we had the actual passing of substantial fiscal stimulus.  Before that prospect of fiscal 
 stimulus, I have to remind myself that the target range for the federal funds rate was at 25 to 50 
-basis points.  We then had our increases in 2017 and 2018.  We got to a range of 2¼ to 2½ 
+basis points.  We then had our increases in 2017 and 2018.  We got to a range of 2.25 to 2.5 
 percent. 
 In my view, we are now—I am not thrilled with the way we have gotten here, because of 
-trade tensions, but—we may now well be in a 2 percent, maybe 2¼ percent growth economy.  
+trade tensions, but—we may now well be in a 2 percent, maybe 2.25 percent growth economy.  
 The question, then, before the house is, in that regard, and setting aside the fiscal stimulus that 
 we have experienced over the past couple of years, are market-determined rates out of alignment 
 with this growth potential of the U.S. economy? 
@@ -5506,7 +5506,7 @@ The 10-year TIPS yield declined from over 1 percent around the end of last year 
 30 basis points today.  This echoes comments from President Kaplan suggesting the neutral 
 interest rate is very low.  So if we take a 10-year neutral rate of around 25 or 30 basis points, that 
 says to me the neutral overnight real rate could be around 0 or maybe even negative.  If the 
-neutral overnight interest rate is 0, with inflation of around 1½ or 1¾ percent, that suggests that 
+neutral overnight interest rate is 0, with inflation of around 1.5 or 1.75 percent, that suggests that 
 monetary policy is maybe 75 basis points, contractionary at this point.  I don’t think that we 
 should be in a contractionary policy stance. 
 So, in summary, the U.S. economy seems to be doing okay overall, but businesses seem 
@@ -5555,7 +5555,7 @@ historic lows.  After fluctuations earlier in the year, financial markets curren
 conducive to near-term growth in economic activity than they were early in the year, with 
 borrowing rates low and the stock market at all-time highs.  And, as of late last week, equity 
 prices were up about 3 percent since our last meeting.  Spreads of corporate bond yields over 
-Treasury security yields were down 20 to 30 basis points, and the dollar had depreciated about ½ 
+Treasury security yields were down 20 to 30 basis points, and the dollar had depreciated about 0.5 
 percent.  The 10-year Treasury yield is little changed from the last time we met.   
 As we turn from the outlook to the distribution of risks, recent weeks have seen important 
 downside risks recede.  The recent G-20 summit provided a critical shift in the landscape of 
@@ -5787,7 +5787,7 @@ July 30-31, 2019
  
 of times the FOMC increased rates relative to expectations.  Did I slip into the policy discussion 
 right there?  Okay. 
-Regarding inflation, core PCE inflation is around 1½ percent.  It’s well below our goal.  
+Regarding inflation, core PCE inflation is around 1.5 percent.  It’s well below our goal.  
 And the recent annual revision to the data shows that underlying trend inflation is somewhat 
 lower than we thought.  Measures of wage inflation, as a number of people have already 
 commented, are quite muted.  And despite the tight labor market, wage growth remains below 
@@ -5795,7 +5795,7 @@ where it was prior to the recession.  And average hourly earnings growth, in fac
 since earlier this year. 
 And although indicators of inflation expectations have not changed substantially over the 
 first half of the year, on net, measures based on the Michigan survey and the market-based 
-measures are roughly ½ percentage point below the level that we saw around five years ago, a 
+measures are roughly 0.5 percentage point below the level that we saw around five years ago, a 
 time when we thought they were at a level consistent with a 2 percent longer-run goal.  And this 
 is something that I worry about in our discussions around measures of inflation expectations.  I 
 do feel that sometimes in our focus on the ups and downs that invariably happen in these 
@@ -6410,7 +6410,7 @@ inflation we deliver.  This is a challenge that Europe is currently facing, and,
 lost that battle and is now fighting a completely different war. 
 In more tangible terms, lower actual and expected inflation—even if just a few tenths—
 translates into less conventional policy space should a negative shock occur.  If, for example, 
-inflation expectations are ¼ percentage point below our target when the next downturn arrives, 
+inflation expectations are 0.25 percentage point below our target when the next downturn arrives, 
 and so are nominal interest rates, this translates into one rate cut fewer that we have at our 
 disposal.  When I look at that, it simply says that underrunning the inflation target on a consistent 
 basis limits our conventional policy space, making it more likely we will hit the ELB and then be 
@@ -7394,7 +7394,7 @@ important point.  A lot of people think, well, do we just want inflation to be h
 wanting a strong economy—sustain the expansion to support our dual-mandate goals.  So I think 
 all of the arguments for moving to a somewhat more accommodative policy are aligned.  We 
 want to offset some negative influences on the economy.  We want to keep growth around or a 
-little bit above trend.  We want unemployment to be roughly around 3½ to 3¾ percent.  We want 
+little bit above trend.  We want unemployment to be roughly around 3.5 to 3.75 percent.  We want 
 to see inflation moving up. 
 July 30-31, 2019
 233 of 329

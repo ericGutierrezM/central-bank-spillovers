@@ -65,7 +65,7 @@ The recovery in activity over the forecast horizon is also supported by substant
 monetary policy actions.  The recovery takes time, however, and the risks around the projection are 
 judged to be skewed to the downside.   
 In the MPC’s central projection, GDP does not exceed its level in 2019 Q4 until 2022 Q1. As a result, 
-unemployment is elevated, and is projected to peak at around 7¾% in 2021 Q2, before declining 
+unemployment is elevated, and is projected to peak at around 7.75% in 2021 Q2, before declining 
 gradually over the forecast period as GDP picks up. 
  
 Turning to the outlook for inflation. 

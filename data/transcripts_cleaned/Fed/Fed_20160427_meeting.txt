@@ -2533,7 +2533,7 @@ since the time of the March Tealbook.  These nowcasts include the Board staff’
 weekly judgmental forecast as well as various model-based estimates produced at the 
 Board and elsewhere in the System.  As you can see from the black line, we have 
 reduced our judgmental estimate of first-quarter real GDP growth to an annual rate of 
-just ½ percent, down from about 2 percent in the March Tealbook.  Nowcasts 
+just 0.5 percent, down from about 2 percent in the March Tealbook.  Nowcasts 
 generated using our dynamic factor model—the red line—have also drifted lower on 
 net, and the model’s point estimate is not very different from our Tealbook forecast.  
 There is, of course, still a considerable amount of uncertainty about what actually 
@@ -2544,7 +2544,7 @@ staff’s factor model estimate.  The BEA will publish its advance estimate of f
 quarter GDP growth on Thursday. 
 As we did in the previous two years, we have treated the weakness in first-quarter 
 GDP growth as largely temporary.  As you can see from the black line in panel 2, we 
-expect real GDP to rise at an annual rate of 2¼ percent in the second quarter, a pace 
+expect real GDP to rise at an annual rate of 2.25 percent in the second quarter, a pace 
 that is little different from our March forecast.  In coming to this assessment, we have 
 taken a strong signal from last month’s employment report, which indicates that the 
 labor market continued to improve at a pace that was closely in line with our 
@@ -2656,7 +2656,7 @@ April 26–27, 2016
 85 of 261
 
 
-run at or below 1 percent and core inflation to edge down to 1½ percent.  On the real 
+run at or below 1 percent and core inflation to edge down to 1.5 percent.  On the real 
 side, we expect that job gains will continue at a solid pace and that the unemployment 
 rate will remain around 5 percent.  Although revised estimates of Q1 GDP growth 
 will be available at each of the next two FOMC meetings, the BEA’s initial estimate 
@@ -2668,7 +2668,7 @@ the briefing.
 MR. KAMIN.4  Thank you, Bill.  I’ll be referring to the materials titled “The 
 International Outlook.” 
 Your first panel of that exhibit shows the results of a word search of FOMC 
-minutes over the past 1½ years and indicates the number of times that the words 
+minutes over the past 1.5 years and indicates the number of times that the words 
 “dollar,” “China,” or “global” appeared in the summary of your discussions.  
 Although we in the International Finance Division welcome the increasing attention 
 you’ve been giving international matters of late, we realize that this attention reflects 
@@ -2682,15 +2682,15 @@ For us to have some assurance that the drag arising from the foreign sector is
 easing, we first need to see some abatement in the dollar’s rise and some pickup in 
 the pace of foreign GDP growth.  Here we can check the “Yes” box.  As you are well 
 aware, the dollar has been declining since late January; I’ll be discussing its future 
-trajectory shortly.  And as shown in panel 3, after growing at a very subdued 1¾ 
-percent pace in 2015, foreign economic growth is estimated to have picked up to a 2¼ 
+trajectory shortly.  And as shown in panel 3, after growing at a very subdued 1.75 
+percent pace in 2015, foreign economic growth is estimated to have picked up to a 2.25 
 percent rate in the first quarter.  Much of that increase was concentrated in Canada, 
 which is starting to shake off some of its oil-induced woes and which has a very large 
 weight in our trade-weighted foreign GDP aggregate.  But economic growth appears 
 to have picked up in other economies, too, including in the euro area and emerging 
 Asia excluding China, and indications are that output at least stopped falling in Japan.  
 To be sure, Chinese economic growth fell, by our estimates, from 7 percent at an 
-annual rate through most of last year to 5½ percent in the first quarter, but we and 
+annual rate through most of last year to 5.5 percent in the first quarter, but we and 
 everyone else had largely anticipated that slowing.  And with indicators for March 
 coming in reasonably strong, we’re not taking a very strong negative signal from the 
 first-quarter slowing. 
@@ -2855,7 +2855,7 @@ percentile, with a reading of 100 corresponding to the maximum, 0 for the minimu
 and 50 for the median.  The Q1 estimate is near the median, down a bit from last fall, 
 consistent with our assessment that valuation pressures have eased. 
 The blue dashed line in the chart plots the number of asset classes whose 
-valuation metric is ½ standard deviation above its historical mean since 1975.  It 
+valuation metric is 0.5 standard deviation above its historical mean since 1975.  It 
 varies between 0, when none of the four components are elevated, and 4, when all 
 four are elevated.  The Q1 estimate shows that only one of the four categories, the 
 commercial real estate market, is notably high.  If we assumed the current stock price 
@@ -3032,7 +3032,7 @@ MR. BULLARD.  Absolutely.
 CHAIR YELLEN.  Further questions?  President Williams. 
 MR. WILLIAMS.  So this is for Bill Wascher.  Ready?  Okay.  [Laughter]  It’s no 
 surprise I’m going to revisit a topic.  As Governor Powell and I noted at our March meeting, 
-productivity growth has been surprisingly bad for the past five years, averaging about ½ percent.  
+productivity growth has been surprisingly bad for the past five years, averaging about 0.5 percent.  
 Tealbook puts it at minus 2.2 percent in the first quarter.  It’s a huge negative.  Yet in the 
 Tealbook forecast, productivity growth pops back up to 2 percent in the current quarter and stays 
 strong for the rest of the year.  So my question, as it was in March:  What makes you continue to 
@@ -3048,15 +3048,15 @@ April 26–27, 2016
 95 of 261
 
 
-productivity—only to, maybe, 1¼ percent, so it’s certainly not high relative to the post-2005 era.  
-In fact, I think the average over that 10-year period is about 1¼ percent.  So we’re not expecting 
+productivity—only to, maybe, 1.25 percent, so it’s certainly not high relative to the post-2005 era.  
+In fact, I think the average over that 10-year period is about 1.25 percent.  So we’re not expecting 
 a huge pickup in productivity. 
 I guess the other thing I would say is that we’re also nervous about it, and we see 
 downside risks.  There was an alternative view box in the Tealbook that I thought made a strong 
 case that we might not see a pickup like we have in the forecast.  And along with that alternative 
 view box, we included a couple of alternative simulations that illustrate how the economy might 
 respond to a weaker productivity path.  So in the baseline forecast, we have retained our 
-assumption that productivity will move back up to a modest 1¼ percent pace, but I certainly 
+assumption that productivity will move back up to a modest 1.25 percent pace, but I certainly 
 agree that there are downside risks to that, in light of what we’ve seen over the past five years. 
 MR. WILLIAMS.  Okay.  Thank you very much. 
 CHAIR YELLEN.  Vice Chairman. 
@@ -3111,7 +3111,7 @@ MR. BULLARD.  I see.  So if I put the two-step-ahead confidence bound mentally
 around the red line, I would get inside the black line. 
 MR. WASCHER.  Yes, maybe that would give you a better sense. 
 MR. RUDD.  So even if you look closely, I think that you might be slightly outside it and 
-that the Q1 confidence interval last round was probably ¾ percent on the low end.  As Bill said, 
+that the Q1 confidence interval last round was probably 0.75 percent on the low end.  As Bill said, 
 it’s something we weren’t expecting, and it was unexpectedly large. 
 MR. BULLARD.  You know, it would be interesting to me if you could provide in future 
 meetings a kind of index of how surprising the news was in between meetings from the 
@@ -3558,7 +3558,7 @@ April 26–27, 2016
 visible in the data.  While some wage measures, such as average hourly earnings or median 
 earnings growth, have firmed somewhat, other measures from the household survey that filter 
 out composition effects, such as those in the Atlanta Wage Growth Tracker, have accelerated 
-noticeably and are running at a rate of 2½ percent or 3 percent or higher.  That might not sound 
+noticeably and are running at a rate of 2.5 percent or 3 percent or higher.  That might not sound 
 like a lot of growth in nominal wages.  But in an environment with low labor productivity growth 
 and low price inflation, it implies meaningful growth in real wages.  In fact, over the past three 
 years, real wage growth has outpaced labor productivity growth, and, thus, real unit labor costs 
@@ -3584,9 +3584,9 @@ April 26–27, 2016
 
 I’d like to say a word or two about productivity.  As the Tealbook points out in its 
 alternative view box and as was discussed today, labor productivity growth has averaged less 
-than ½ percent per year over the past six years, clearly a subpar outcome compared with the 
+than 0.5 percent per year over the past six years, clearly a subpar outcome compared with the 
 period prior to the Great Recession.  The staff has been projecting an imminent return to a rate 
-above 1¼ percent for some time—a return that has not materialized—and the Tealbook is quite 
+above 1.25 percent for some time—a return that has not materialized—and the Tealbook is quite 
 candid about its forecasting record.  In their defense, though, there’s a compelling case for 
 expecting a return to more typical productivity growth rates in general, reversion to the mean and 
 all.  Nonetheless, as more time elapses with persistently low productivity growth in this 
@@ -3595,8 +3595,8 @@ some time to come.  Reasonable people can differ on how much more weight, but fo
 past six years have been pretty convincing.  So for the near term, I’m inclined to expect a 
 continuation of about the same rate of productivity growth we’ve seen since 2011. 
 Together with the fact that the working-age population is expected to grow at about 
-½ percent per year over the next few years, this suggests we should expect to transition to a new 
-trend growth rate for real GDP of less than 1½ percent.  It is true that lower productivity growth 
+0.5 percent per year over the next few years, this suggests we should expect to transition to a new 
+trend growth rate for real GDP of less than 1.5 percent.  It is true that lower productivity growth 
 is generally associated with lower real interest rates, but I don’t think the real economic growth 
 we’ve been seeing comes anywhere close to justifying the level of real rates we currently have.  
 Furthermore, there’s a consensus that labor market slack is gone, and in my view, real GDP and 
@@ -3673,7 +3673,7 @@ CHAIR YELLEN.  Thank you.  President Rosengren.
 MR. ROSENGREN.  Thank you, Madam Chair.  It was a puzzling dichotomy between 
 the spending and employment data in the first quarter.  The spending data were a 
 disappointment.  The Tealbook expects the first-quarter real GDP growth rate to be only 
-½ percent, which is slow even with diminished assumptions about potential real GDP growth.  
+0.5 percent, which is slow even with diminished assumptions about potential real GDP growth.  
 However, like the Tealbook, I am expecting the first quarter to be a lull rather than a trend, and 
 one major reason is the continued strength evident in the labor market.  We all know the 
 aggregate employment numbers have continued to expand rapidly.  Less-formal information 
@@ -3703,7 +3703,7 @@ likely encourage more people to reenter the labor force, benefiting themselves a
 economy. 
 In terms of prices, I am now a bit more confident that we’re moving toward our 2 percent 
 inflation target.  At the time of our December FOMC meeting, core PCE inflation had not yet 
-shown a clear positive trend and had been fluctuating somewhat below 1½ percent over much of 
+shown a clear positive trend and had been fluctuating somewhat below 1.5 percent over much of 
 the year.  However, with core PCE inflation currently at 1.7 percent, there is more evidence of a 
 positive trend.  This casual observation is confirmed by work by my staff that has used a monthly 
 error correction model that includes the gap between core CPI and core PCE inflation, along with 
@@ -3750,8 +3750,8 @@ be the case for much of the recovery.  If it continues, the prospects for growth
 would be somewhat more optimistic.  Most of the increase in participation since September has 
 been among prime-age individuals whose declining participation over the earlier part of the 
 recovery had been puzzling.  While recent increases have raised the prime-age employment-to-
-population ratio 1¾ percentage points above its trough in mid-2011, the prime-age EPOP ratio 
-still remains 1½ percentage points below the average level before the crisis.  This suggests some 
+population ratio 1.75 percentage points above its trough in mid-2011, the prime-age EPOP ratio 
+still remains 1.5 percentage points below the average level before the crisis.  This suggests some 
 slack remains, which is reinforced by the relatively elevated share of employees working part 
 time who want full-time work and the still-subdued pace of wage growth.  As Bill Wascher 
 pointed out earlier, the labor force participation rate for adult African Americans is about 
@@ -3965,12 +3965,12 @@ to maintain solid growth in consumption, and business investment should rebound 
 rising demand.  Thus, I have some confidence that spending indicators will strengthen in coming 
 months. 
 That said, recent spending data are indeed weak.  The Board’s staff now estimates that 
-real GDP increased at just a ½ percent rate in the first quarter after growing at only a 1.4 percent 
+real GDP increased at just a 0.5 percent rate in the first quarter after growing at only a 1.4 percent 
 rate in Q4.  Taken at face value, this could cause concern about prospects for economic growth, 
 particularly because much of the weakness is in consumption and investment, the two main 
 engines for growth.  However, some of the low reading for Q1 may reflect residual seasonality.  
-Indeed, analysts at the Board think residual seasonality may account for ½ percentage point of 
-the slowdown.  Other analysts estimate that it could be 1½ percent, which would put GDP 
+Indeed, analysts at the Board think residual seasonality may account for 0.5 percentage point of 
+the slowdown.  Other analysts estimate that it could be 1.5 percent, which would put GDP 
 growth in the range of 1 to 2 percent, a bit less worrisome. 
 Looking through these volatile and uncertain quarterly estimates as well as seasonality, 
 the four-quarter change in real GDP shows GDP growth running at about 2 percent through Q1, 
@@ -4016,12 +4016,12 @@ productivity that gets you to a 3.9 percent unemployment rate at the end of 2018
 baseline would be located somewhere between the two, probably closer to the “Weaker Labor 
 Productivity, Stronger Labor Market” scenario. 
 Accordingly, I continue to expect 2 percent GDP growth will be accompanied by 
-½ percent increase in productivity this year and 200,000 jobs per month.  If participation remains 
+0.5 percent increase in productivity this year and 200,000 jobs per month.  If participation remains 
 at 63 percent, that would imply a three-tenths decline in the unemployment rate by the end of the 
 year or a steeper decline if the participation rate begins to fall again.  This ongoing tightening in 
 resource utilization should put some additional upward pressure on wages and prices, and I 
 remain confident that inflation will rise, particularly as the effects of declines in oil and import 
-prices fade over time.  With core inflation now running at 1½ percent, the underlying core 
+prices fade over time.  With core inflation now running at 1.5 percent, the underlying core 
 inflation rate that looks through effects of the temporary swings in the dollar and energy prices is 
 actually much closer to 2 percent.  With the dollar and oil prices apparently having stabilized, the 
 fading of their influence should move core and total inflation up to 2 percent over the medium 
@@ -4109,7 +4109,7 @@ within three to four years and vulnerable to a price shock on the upside.  I kno
 change in perspective, but we think that is more likely than not as we work through increasing 
 shale supply and don’t have these long-lived projects to call on.  But maybe that’s wishful 
 thinking for people in the industry and it’s going to take a few years. 
-In terms of the 11th District, we now expect job growth in Texas to range between ½ and 
+In terms of the 11th District, we now expect job growth in Texas to range between 0.5 and 
 1 percent in 2016, down from 3.7 percent growth in 2014.  The change reflects job losses in 
 Houston while jobs continue to increase in Dallas, San Antonio, and Austin.  The service sector 
 in Texas continues to grow, while the manufacturing sector continues to be weak, although our 
@@ -4188,7 +4188,7 @@ potential downside risks.  So it seems there’s another factor beyond the dolla
 commodity prices weighing on capital spending—namely, business caution.  Firms’ baseline 
 sales expectations are modest, and they’re very attentive to what could go wrong. 
 With regard to the economic picture, the first quarter obviously was quite weak.  My 
-staff’s outlook is that economic growth will recover to average around 2½ percent over the rest 
+staff’s outlook is that economic growth will recover to average around 2.5 percent over the rest 
 of the year.  I can’t say that forecast is wrong.  I am not optimistic myself.  But if residual 
 seasonality remains anywhere, it would seem to be in our collective early-year optimism, which 
 is then followed by downward revisions to the outlook in the middle of the year.  I guess that’s 
@@ -4237,7 +4237,7 @@ how accurate the estimate of 0.4 percent turns out to be.  But there is broad co
 available tracking estimates that first-quarter GDP growth is likely to come in below 1.0 percent. 
 A slow first quarter was not my expectation at the time of the previous SEP submission.  
 I had marked in a first quarter that was close to my assumed run rate for the economy, between 2 
-and 2½ percent.  The facts in hand regarding spending growth present the problem of whether to 
+and 2.5 percent.  The facts in hand regarding spending growth present the problem of whether to 
 take the first-quarter data weakness as signaling a deceleration or to look through the apparent 
 weakness and treat it as anomalous in some respects.  So this could be a déjà vu moment all over 
 again.  In recent years, first-quarter real-time readings of the economy have tended to be 
@@ -4386,10 +4386,10 @@ April 26–27, 2016
 
 
 production to remain stable at high levels, with sales for the year matching last year’s pace of 
-nearly 17½ million.  The strength in autos led to more positive reports from freight transportation 
+nearly 17.5 million.  The strength in autos led to more positive reports from freight transportation 
 contacts who saw the volume of shipments increase. 
 District labor markets continue to show solid progress.  The Federal Reserve Bank of 
-Cleveland staff estimates that District employment grew 1½ percent over the year ending in 
+Cleveland staff estimates that District employment grew 1.5 percent over the year ending in 
 March; the District’s unemployment rate has remained low and stable, estimated to be 5.1 
 percent in March.  A variety of business contacts continue to report tighter conditions in labor 
 markets, including rising wage pressures for unskilled occupations in the retail sector and 
@@ -4445,7 +4445,7 @@ is behaving like the Committee expected:  As oil prices and the dollar have show
 the economy has continued to expand, and inflation expectations have remained reasonably well 
 anchored.  Rates of both core and headline inflation have increased over the past year and over 
 the past six months.  The Federal Reserve Bank of Cleveland staff nowcast for April put PCE 
-inflation at 1 percent and core PCE inflation at 1½ percent.  The PCE measure is up 80 basis 
+inflation at 1 percent and core PCE inflation at 1.5 percent.  The PCE measure is up 80 basis 
 points and the core PCE measure is up 20 basis points, compared with a year ago and compared 
 with six months ago.  Core CPI inflation, which helps to predict headline, has been running 
 above 2 percent this year.  The Cleveland Federal Reserve’s median CPI measure has also been 
@@ -4530,7 +4530,7 @@ An important aspect of the outlook is how the economy will continue to manage th
 the pivot away from manufacturing and energy activity to services.  One implication of this shift 
 is for productivity growth.  My staff estimates that the relative decline in manufacturing and 
 energy, which are significantly more productive than services industries, has cut overall 
-productivity growth by about ¾ percentage point over the past year.  Although this offers an 
+productivity growth by about 0.75 percentage point over the past year.  Although this offers an 
 explanation for soft productivity growth the past few years, it doesn’t explain the longer 
 downward trend in productivity growth.  Indeed, some portion of the recent weakness in 
 productivity seems structural, and I don’t believe monetary policy can do much to change that.  
@@ -4669,7 +4669,7 @@ there, at least in GDP.  That’s where we came up with the numbers I mentioned 
 was a bit of a surprise to us after the BEA had done this Manhattan Project, if you will, on this. 
 My other comment is, I tend to focus on four-quarter changes in GDP, just like I do on 
 PCE prices and other things, because I know there’s noise in the data.  In our view, GDP growth 
-on a four-quarter basis hasn’t moved around very much.  It’s 2 to 2¼ percent, and as I said, I’m 
+on a four-quarter basis hasn’t moved around very much.  It’s 2 to 2.25 percent, and as I said, I’m 
 at 2 percent now.  I think it’s probably the easier way to avoid some of these issues on a four-
 quarter basis.  But the answer to your question is how our thinking evolved on that.  We actually 
 thought that was probably going to go away, or at least mostly go away, and were somewhat 
@@ -4850,7 +4850,7 @@ looking for work—has continued to shrink.  These developments show that labor 
 continuing to rise. 
 That said, I still see some room for further improvement.  Involuntary part-time 
 employment has moved sideways since the fall and remains elevated relative to its pre-crisis 
-level.  Wage growth continues to be sluggish.  The unemployment rate is still ¼ percentage point 
+level.  Wage growth continues to be sluggish.  The unemployment rate is still 0.25 percentage point 
 above my estimate of its longer-run level.  And some undershooting would be highly desirable in 
 order to return inflation to 2 percent more quickly.  This is a point illustrated by the alternative 
 optimal policy simulations reported in the Tealbook.  These alternative simulations, unlike the 
@@ -4889,7 +4889,7 @@ spending may have increased somewhat, I see the risks relating to global economi
 conditions as having diminished. 
 One factor contributing to this improvement has been the downward shift in market 
 expectations concerning the likely pace of our own policy tightening.  Partly in response, 
-financial conditions have significantly improved with the dollar down about 2½ percent, longer-
+financial conditions have significantly improved with the dollar down about 2.5 percent, longer-
 April 26–27, 2016
 164 of 261
 
@@ -4901,7 +4901,7 @@ since the previous meeting.
 With regard to inflation, the data we have received since the March meeting suggest that 
 the March Tealbook was correct in viewing the unexpectedly high readings on inflation in 
 January as likely to be largely transitory.  The current Tealbook forecast that core PCE inflation 
-will come in at about 1½ percent on a four-quarter basis this year, with headline inflation running 
+will come in at about 1.5 percent on a four-quarter basis this year, with headline inflation running 
 closer to 1 percent, strikes me as entirely reasonable.  Absent further shocks to oil prices and the 
 dollar, I continue to expect that inflation will move up to 2 percent by late 2018 with some 
 further improvement in labor market conditions.  I also continue to view the risk to this outlook 
@@ -4998,7 +4998,7 @@ April 26–27, 2016
 
 
 forecast a bit.  So I guess at this point, I’d say our Q1 estimate for GDP growth is going to be 
-somewhere between ¾ percent and 1 percent, still up noticeably from the 0.4 percent that we had 
+somewhere between 0.75 percent and 1 percent, still up noticeably from the 0.4 percent that we had 
 in the Tealbook. 
 CHAIR YELLEN.  Are there any questions for Steve? 
 MR. FISCHER.  Doesn’t a decline in imports say something more than about capital 
@@ -5069,7 +5069,7 @@ intermeeting period will not materially reduce.  As highlighted in the alternati
 box presented in Tealbook A, the evolution of productivity during the current 
 expansion raises the possibility of a more sobering longer-run growth outlook than we 
 currently anticipate.  By current estimates, labor productivity has risen between 2011 
-and 2015 by just under ½ percent per year, on average, the worst five-year 
+and 2015 by just under 0.5 percent per year, on average, the worst five-year 
 performance in postwar U.S. history.  Whether continued weak productivity growth 
 would result in a commensurate slowdown in demand over the medium term or in a 
 faster take-up of resource utilization and attendant inflation pressures is a key 
@@ -5414,7 +5414,7 @@ MR. LOCKHART.  Thank you, Madam Chair.  I support the policy recommendation in
 alternative B and the statement as written. 
 Coming out of the March meeting, my position was that the April meeting should be kept 
 alive for a rate move if the incoming data proved to be largely confirming of a beginning-of-the-
-year real-side outlook of moderate economic growth between 2 and 2½ percent, provided that 
+year real-side outlook of moderate economic growth between 2 and 2.5 percent, provided that 
 growth momentum was accompanied by continuing strength in labor reports and evidence of 
 inflation firming.  The economic growth signals have not been confirming that outlook, although 
 the employment and inflation data have mostly cooperated.  So I have backed off any inclination 

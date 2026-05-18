@@ -26,11 +26,11 @@ strong labor market conditions that benefit all.
 From the standpoint of our Congressional mandate to promote maximum employment 
 and price stability, the current picture is plain to see:  The labor market is extremely tight, and 
 inflation is much too high.  Against this backdrop, today the FOMC raised its policy interest rate 
-by ½ percentage point and anticipates that ongoing increases in the target rate for the federal 
+by 0.5 percentage point and anticipates that ongoing increases in the target rate for the federal 
 funds rate will be appropriate.  In addition, we are beginning the process of significantly 
 reducing the size of our balance sheet.  I’ll have more to say about today’s monetary policy 
 actions after briefly reviewing economic developments. 
-After expanding at a robust 5½ percent pace last year, overall economic activity edged 
+After expanding at a robust 5.5 percent pace last year, overall economic activity edged 
 down in the first quarter.  Underlying momentum remains strong, however, as the decline largely 
 reflected swings in inventories and net exports—two volatile categories whose movements last 
 quarter likely carry little signal for future growth.  Indeed, household spending and business 
@@ -83,7 +83,7 @@ high inflation poses to both sides of our mandate, and we are strongly committed
 price stability. 
 Against the backdrop of the rapidly evolving economic environment, our policy has been 
 adapting, and it will continue to do so.  At today’s meeting, the Committee raised the target 
-range for the federal funds rate by ½ percentage point and stated that it “anticipates that ongoing 
+range for the federal funds rate by 0.5 percentage point and stated that it “anticipates that ongoing 
 increases in the target range will be appropriate.”  We also decided to begin the process of 
 reducing the size of our balance sheet, which will play an important role in firming the stance of 
 monetary policy.  We are on a path to move our policy rate expeditiously to more normal levels.  
@@ -620,7 +620,7 @@ field—and make estimates of what will be, how do you measure, you know, a cert
 balance sheet shrinkage compared to quantitative easing?  And, you know, these are very 
 uncertain.  I really can’t be any clearer.  There won’t be any clearer [estimates].  You know, 
 people estimate that, broadly, on the path we’re on—and this will be taken, probably, too 
-seriously—but sort of ¼ percent, one rate increase over the course of a year at this pace.  But I 
+seriously—but sort of 0.25 percent, one rate increase over the course of a year at this pace.  But I 
 would just say, with very wide uncertainty bands—very wide.  We don’t really know.  There are 
 other estimates that are much smaller than that, by the way.  And some of you may read about 
 that.  That’s kind of a mainstream estimate.  We know that it is part of returning to more normal, 

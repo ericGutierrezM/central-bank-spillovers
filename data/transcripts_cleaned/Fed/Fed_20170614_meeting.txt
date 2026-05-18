@@ -1013,8 +1013,8 @@ respondents expect holdings of MBS to decline to zero by that time, suggesting s
 expectation that there will be MBS sales. 
 The bottom-right panel drills down into expectations for specific liabilities. The 
 median expectation for Federal Reserve notes outstanding in 2025 is just under 
-$2 trillion, implying an average annual growth rate of approximately 3½ percent—a 
-notable slowing from the about 6½ percent growth rate seen over the past decade. 
+$2 trillion, implying an average annual growth rate of approximately 3.5 percent—a 
+notable slowing from the about 6.5 percent growth rate seen over the past decade. 
 The median expectation for the level of reserves is about $600 billion, with an 
 interquartile range of $400 billion to $1 trillion.  Median responses regarding the 
 TGA, foreign repo pool, and RRPs with private counterparties are all in line with 
@@ -2411,7 +2411,7 @@ which our decisions were a close call.  These decisions seem worth highlighting
 because we will surely be revisiting them again in the months ahead and also because 
 they may be areas in which the Committee disagrees with the Tealbook projection. 
 First for the overview.  As shown in the top-left panel of my first exhibit, we 
-currently project that real GDP growth will rise nearly 2½ percent this year, up from 
+currently project that real GDP growth will rise nearly 2.5 percent this year, up from 
 2 percent in 2016.  This may seem like a bold prediction, as the only GDP data we 
 have in hand showed about a 1 percent increase in the first quarter, but as we 
 described in both the April and June Tealbooks, there are a number of reasons to 
@@ -2514,7 +2514,7 @@ can account for the pickup this year.
 Much of this strength was unexpected six months ago.  The bars in panel 4 show 
 our real GDP growth projections compared with our forecast at the time of the 
 December Tealbook, with an adjustment made to keep the underlying fiscal policy 
-assumptions the same.  Our forecast for GDP growth in 2017 is about ½ percentage 
+assumptions the same.  Our forecast for GDP growth in 2017 is about 0.5 percentage 
 point stronger, and our outlook for 2018 is modestly higher.  Not surprisingly, we 
 have lowered our unemployment rate projection, both because of incoming news and 
 to keep it aligned with our more upbeat assessment of spending and production.  As 
@@ -2534,8 +2534,8 @@ typical during a period of tightening labor markets.
 With the labor market estimated to be tight and getting tighter, we would—all else 
 being equal—expect to see price pressures increasing, but that has not been the case, 
 as is shown on your next exhibit.  At the time of the December Tealbook, we had 
-expected core inflation to hold about steady this year, at 1¾ percent, but that forecast 
-has now been marked down to just 1½ percent, creating a tension with the labor 
+expected core inflation to hold about steady this year, at 1.75 percent, but that forecast 
+has now been marked down to just 1.5 percent, creating a tension with the labor 
 market data received for the first half of the year.  Among the possible ways to square 
 these seemingly divergent signals, one would be to lower the number we assume for 
 the natural rate of unemployment. 
@@ -2543,7 +2543,7 @@ As shown by the red lines in panel 2, the staff has edged down our estimate of t
 natural rate 0.1 percentage point since December, and we considered lowering it 
 again this round.  One point in favor of lowering our judgmental natural rate is that 
 the estimate from a state-space model that we often consult as we set our judgmental 
-forecast, the green lines, has revised down more than ¼ percentage point since 
+forecast, the green lines, has revised down more than 0.25 percentage point since 
 December. 
 
 
@@ -2926,8 +2926,8 @@ with a failure to reduce regulatory burdens leads to a broad policy disappointme
 that feeds through into much less optimism on the parts of businesses and households 
 than we are seeing this year.  As a result, financial conditions tighten materially.  If 
 that quite plausible scenario came to pass, our simulation points to an unemployment 
-rate that turns up modestly next year and ends the medium term at about 4½ percent, 
-about ¾ percentage point higher than in the baseline.  The federal funds rate would 
+rate that turns up modestly next year and ends the medium term at about 4.5 percent, 
+about 0.75 percentage point higher than in the baseline.  The federal funds rate would 
 rise much more slowly in this scenario.  I would note that if we were to remove just 
 the placeholder fiscal stimulus from the baseline projection and not the sentiment and 
 financial market effects, we would show much smaller effects than are featured in this 
@@ -2936,8 +2936,8 @@ MR. ERCEG. Thank you.  I’ll begin on exhibit 4.  The output expansion in the
 foreign economies has become more entrenched since your last chart show in 
 December and appears broad based across advanced and most emerging market 
 economies, panel 1.  We’re projecting that real GDP in the foreign economies will 
-expand over 2¾ percent this year, line 1 of the table, and then decelerate slightly to a 
-roughly 2½ percent pace over the remainder of the forecast period.  Our forecast is 
+expand over 2.75 percent this year, line 1 of the table, and then decelerate slightly to a 
+roughly 2.5 percent pace over the remainder of the forecast period.  Our forecast is 
 considerably stronger than in December, and the ongoing solid growth in the euro 
 area, Japan, and China through the first half of this year has reduced concerns about 
 downside risks facing the foreign economies. 
@@ -2957,7 +2957,7 @@ Regarding the EMEs, economic activity in China, line 9, has expanded robustly in
 the first half of this year, fueling strong import growth, the black line in panel 6, 
 which has contributed to some rebound in global trade.  Ongoing credit tightening, 
 the blue line, should help keep growth near potential over the forecast period, with 
-activity decelerating gradually to a still-healthy 5¾ percent pace by 2019.  However, 
+activity decelerating gradually to a still-healthy 5.75 percent pace by 2019.  However, 
 a more abrupt slowdown is a key risk.  Solid global growth and, in the case of oil, 
 supply limitations agreed to by OPEC members have helped oil and commodity 
 
@@ -3193,7 +3193,7 @@ To explain weak inflation, much attention has focused on nominal wage
 growth,which has run low even in economies in which the unemployment rate is low 
 by historical standards. Panels 3 through 5 show wage Phillips curves for the United 
 Kingdom, euro area, and Japan.  As seen in panel 3, U.K. wage growth has remained 
-flat at about 2¼ percent since 2015—the red dots, including a forecast for 2017— 
+flat at about 2.25 percent since 2015—the red dots, including a forecast for 2017— 
 even though U.K. unemployment is now running at its lowest level in 42 years.  The 
 current rate of wage growth is about 2 percentage points below the level implied by a 
 regression fitted over the 2000–14 period and appears unusually low even after 
@@ -3216,7 +3216,7 @@ depend on how wages evolve in relation to labor productivity.  In this vein, pan
 makes some attempt to adjust wages for productivity growth by reporting forecasts of 
 nominal unit labor cost growth for 2017, the red bars, next to their historical averages 
 in the pre-crisis period, the blue bars.  The forecast of unit labor cost growth is only 
-about 1¼ percent for the United Kingdom, 1 percent for the euro area, and just a tad 
+about 1.25 percent for the United Kingdom, 1 percent for the euro area, and just a tad 
 above zero for Japan—all well below historical averages except for Japan, whose 
 nominal unit labor costs actually declined prior to the crisis. While unit labor costs 
 have many shortcomings as an empirical predictor of inflation, the concern of central 
@@ -3356,7 +3356,7 @@ above target.  In particular, market participants surveyed by the Bank of Englan
 the May Inflation Report indicated an 80 percent likelihood the Bank Rate would 
 remain at or below 1 percent two years hence, even though they saw a roughly one-
 in-three chance that unemployment would remain below 5 percent or CPI inflation 
-would top 2½ percent at that time. Thank you.  Rebecca will conclude the 
+would top 2.5 percent at that time. Thank you.  Rebecca will conclude the 
 presentation. 
 MS. ZARUTSKIE.5  Thank you.  I will be referring to the packet labeled 
 “Material for Briefing on the Summary of Economic Projections.”  To summarize: 
@@ -4394,7 +4394,7 @@ fall in labor force participation. So the unemployment rate masks some of the we
 labor market that might still persist and has accounted for weak nominal wage growth.  The 
 Bank of England has similarly forecast for a long time a pickup in nominal wages that hasn’t 
 materialized.  They’ve progressively reduced their estimate of the natural rate. In consequence, 
-it now stands at 4½ percent. 
+it now stands at 4.5 percent. 
 MR. KAMIN.  If I could add just—one issue that your question raises is, what is the 
 factor that seems to be depressing wage growth in all of these countries?  You know, we don’t 
 have a single answer. We have some possibilities.  But one of them is certainly the damage done 
@@ -4940,7 +4940,7 @@ CHAIR YELLEN.  Thank you.  President Williams.
 MR. WILLIAMS.  Thank you, Madam Chair.  All signs point to an economy on a 
 moderate growth trajectory.  Output growth has rebounded sharply from its first-quarter lull, and 
 I expect real GDP growth to be slightly above 2 percent this year.  This is well above my 
-estimate of trend real GDP growth of 1½ percent.  I should note also that anecdotal reports 
+estimate of trend real GDP growth of 1.5 percent.  I should note also that anecdotal reports 
 received from my District this morning indicate there has been a surge in apparel sales with the 
 number 35.  [Laughter] Couldn’t stop myself. 
 The labor market has maintained its momentum as well.  Over the past six months, job 
@@ -5108,7 +5108,7 @@ First, I marked down my estimate of the natural rate of unemployment, or u*, fro
 hard to pin down, as our discussion earlier today indicated, and it can only be inferred indirectly.  
 Of course, we use a lot of different models in order to do that, including Phillips curve models 
 and models of demographics.  They generally suggest a value of the natural rate of 
-unemployment between 4½ and 5 percent—Stacey discussed this—as does the Tealbook. 
+unemployment between 4.5 and 5 percent—Stacey discussed this—as does the Tealbook. 
 Although this analysis is useful, as I have mentioned before, I do think there is a simpler 
 way to think about this question, and that is simply to ask people.  The Conference Board does 
 this.  They have been asking households, “How easy or hard is it to find a job?” every month 
@@ -5197,10 +5197,10 @@ decade of slow productivity growth and projections of very slow trend labor qual
 growth, so I think that, just from a bottom-up growth accounting view, that is a reasonable 
 benchmark. Second, statistical models like the one developed by Kathryn Holston, Thomas 
 Laubach, and myself and other time-series models that people have used also point to a roughly 
-1½ percent trend growth rate, and that’s what I put into my SEP submission. 
+1.5 percent trend growth rate, and that’s what I put into my SEP submission. 
 Getting to President Kashkari’s question, I have been reexamining the issue of r*, the 
-long-run value of the real federal funds rate, and I have lowered that again by ¼ percentage point 
-to ½ percent.  Because I am, again, on the bottom of the range here, I thought it was worth 
+long-run value of the real federal funds rate, and I have lowered that again by 0.25 percentage point 
+to 0.5 percent.  Because I am, again, on the bottom of the range here, I thought it was worth 
 explaining that a little bit. 
 For one thing, there has been a lot of research in the past few years, both at the Federal 
 Reserve and at other central banks, that has looked at the natural rate of interest, and they are 
@@ -5208,7 +5208,7 @@ using a variety of models and methods, and there is a growing consensus that r* 
 the past two decades. For example, I looked at an average of r* estimates coming from many 
 different models, including vector autoregression models, the Federal Reserve Bank of New 
 York’s DSGE model, and other models, and the average has fallen from around 2 percent in the 
-early 2000s to ½ percent in 2016, with a range of roughly 0 to 1 percent.  Estimates from other 
+early 2000s to 0.5 percent in 2016, with a range of roughly 0 to 1 percent.  Estimates from other 
 advanced economies, including the work by Kathryn Holston, Thomas Laubach, and myself, and 
 other work, also point to a significant decline in r* across the globe. 
 My staff has recently added to this evidence by developing a new approach to estimate 
@@ -5286,7 +5286,7 @@ slowdown not only in the United States, but in many advanced economies; the demo
 waves of longer life expectancy and lower birth rates; and the elevated demand for safe assets. 
 For all of these reasons, I fully abandon the “headwinds” story in which r* is temporarily 
 depressed and will eventually somehow recover with the passage of time.  I am convinced by the 
-evidence pointing to a persistently very low level of r* of around ½ percent. I am SEP 
+evidence pointing to a persistently very low level of r* of around 0.5 percent. I am SEP 
 Respondent Number 15.  Thank you. 
 CHAIR YELLEN.  Thank you.  President Bullard. 
 MR. BULLARD.  Thank you, Madam Chair.  Eighth District economic activity continues 
@@ -5378,7 +5378,7 @@ employment measured from one year earlier peaked in early 2015 at 2.3 percent an
 declining ever since.  It is currently about 1.6 percent.  The growth in the labor input measured 
 by total hours is increasing at about this pace as well. 
 One conclusion I draw is that the labor input is growing at a pace roughly consistent with 
-2 percent real GDP growth, if we assume a ½ percent annual labor productivity growth rate, 
+2 percent real GDP growth, if we assume a 0.5 percent annual labor productivity growth rate, 
 which is what it has been over the past several years.  Accordingly, I am hesitant to interpret 
 recent labor market data as indicating that the economy is growing faster than it ordinarily would 
 at the trend pace. 
@@ -6048,7 +6048,7 @@ This assessment is supported by almost all available indicators.  Unemployment i
 estimates of its natural rate. Labor force participation rates are above estimates of their long-run 
 trend, and we continue to hear reports from employers in our District that job openings are hard 
 to fill. So why then are wages not increasing at a faster rate?  Well, I agree with the staff that 
-compensation growth numbers between 2½ and 3½ percent are actually consistent with the tight 
+compensation growth numbers between 2.5 and 3.5 percent are actually consistent with the tight 
 labor market, as labor productivity growth is relatively low and inflation expectations are stable. 
 With employment growth continuing to run above growth in the working-age population, I 
 expect that labor markets will tighten even more. 
@@ -7083,7 +7083,7 @@ June 13–14, 2017
 74 of 194
 that if the 10-year rate stays where it is or even slips lower, this is going to likely flatten my 
 outlook for the path of the federal funds rate. In this regard, I did lower in my SEP my r* 
-estimate from 3 percent to 2¾ percent. 
+estimate from 3 percent to 2.75 percent. 
 Regarding the energy industry, we’ve seen recent weakness in the price of oil. I think 
 part of this, though, is due to uncertainty regarding continuance by OPEC of production cuts of 
 approximately 1.8 million barrels a day, particularly in 2018 and beyond.  In addition, all of our 
@@ -7399,7 +7399,7 @@ constructed, the declines in cell phone plans in mid-February weighed on inflati
 February, March, and April.  Depending on when in the month they occur, one-time price 
 changes like this can affect monthly inflation rates for up to three months.  It is still a transitory 
 effect, but it is a longer transition than one might have thought. 
-The published core PCE inflation measure stood at 1½ percent in April, down from 
+The published core PCE inflation measure stood at 1.5 percent in April, down from 
 1.8 percent in January and February.  The Federal Reserve Bank of Dallas trimmed mean 
 measure and a new median PCE measure constructed by the Federal Reserve Bank of Cleveland 
 staff are higher, at 1.8 percent and 2.2 percent, respectively, and each has declined only 0.1 
@@ -7415,7 +7415,7 @@ incorporates only a modest addition to growth from fiscal stimulus over the fore
 Growth somewhat above trend is sufficient to keep the unemployment rate below its 
 longer-run level over the forecast horizon.  Because inflation and nominal wage growth have 
 remained moderate even as labor markets continue to tighten, in this SEP I reduced my estimate 
-of the longer-run unemployment rate to 4¾ percent from 5 percent, although I recognize that 
+of the longer-run unemployment rate to 4.75 percent from 5 percent, although I recognize that 
 
 
  
@@ -7890,7 +7890,7 @@ availability, and moderate—and, in some cases, strong—wage growth.  As many 
 whenever I hear from business contacts that they can’t find workers, I always ask them, “Are you 
 raising wages?”  And the answer still most often is “no.” 
 Wage growth seems to be varying from around the 2 percent we’re hearing anecdotally in 
-food processing to around 3½ to 5 percent in construction, IT, and finance.  Notably, both St. 
+food processing to around 3.5 to 5 percent in construction, IT, and finance.  Notably, both St. 
 
 
  
@@ -8317,7 +8317,7 @@ tighten financial conditions somewhat both to restrain economic activity and als
 financial stability perspective—to lean against some of the “frothiness” that at least I see in 
 financial market valuations.  Looking at financial market valuations, I continue to be puzzled by 
 the low level of long-term Treasury yields. If you’d told me five years ago that we’d see a 10­
-year Treasury yield below 2¼ percent at a time that the economy is growing at an above-trend 
+year Treasury yield below 2.25 percent at a time that the economy is growing at an above-trend 
 pace, the unemployment rate was close to our estimates of the natural rate of unemployment, we 
 were tightening monetary policy, and it was broadly anticipated we’d soon begin to normalize 
 the balance sheet, I’d say that is not possible.  But that’s where we are. 
@@ -8395,11 +8395,11 @@ monetary policy setting, we might have to tighten much more aggressively later, 
 would increase the risk of a hard landing for the economy. So my bottom line is this: With 
 financial conditions extremely accommodative and few significant downside risks to growth 
 being visible, I don’t think a rate hike at this meeting significantly increases the risk of being 
-stuck in a world of 1½ percent inflation indefinitely. 
+stuck in a world of 1.5 percent inflation indefinitely. 
 In terms of our SEP submission, we haven’t made significant changes.  We’ve lowered 
 our unemployment rate path a little bit and our estimated level of the natural rate of 
 unemployment slightly.  We raised our long-run federal funds rate projection by 25 basis points.  
-We were at the low end, so we raised it 25 basis points to 2¾.  But our interest rate trajectory is 
+We were at the low end, so we raised it 25 basis points to 2.75.  But our interest rate trajectory is 
 unchanged from our March SEP submission:  We have one more rate hike this year—25 basis 
 points—not counting this meeting’s move, three in 2018, and three in 2019. 
 We made one other set of changes, though.  We moved our assessment of the level of 
@@ -8490,7 +8490,7 @@ In contrast to last year, business investment appears to be expanding at a solid
 has been boosted in part by the ongoing recovery in drilling activity, and the drag from net 
 exports during the first half now appears to be somewhat less than previously projected, although 
 international factors continue to restrain domestic activity. 
-All told, the staff estimates that real GDP this quarter will be up about 2¼ percent over a 
+All told, the staff estimates that real GDP this quarter will be up about 2.25 percent over a 
 year earlier, much like the average growth rate of the past three years.  I anticipate that growth 
 will probably remain moderate, as the fundamentals driving aggregate demand haven’t really 
 changed:  Population and productivity growth continue to be slow.  Access to mortgage credit 
@@ -8657,7 +8657,7 @@ different state-space models.  These models all incorporate a Phillips curve and
 decomposition techniques to infer changes over time in the natural rate and in potential output 
 from co-movements among a variety of output, labor, and inflation series. 
 Estimates of the current value of the natural rate vary across these models, with some as 
-low as 4 percent and as high as 5 percent.  But, in general, they are centered on 4½ percent.  This 
+low as 4 percent and as high as 5 percent.  But, in general, they are centered on 4.5 percent.  This 
 figure strikes me as more consistent with the subdued wage growth we continue to see as well as 
 with research suggesting that increases in the average age and education of the labor force have 
 pushed down the natural rate in recent years. 
@@ -8671,7 +8671,7 @@ medium-term policy implications of this alternative interpretation, however, are
 because the higher resource utilization implied by a higher natural rate would be needed to get 
 inflation back to 2 percent, taking into account the lower level of inflation expectations. 
 Based on these econometric results, I have lowered my SEP forecast of the longer-run 
-unemployment rate to 4½ percent.  As a result, I view 4 percent unemployment as indicative of a 
+unemployment rate to 4.5 percent.  As a result, I view 4 percent unemployment as indicative of a 
 merely “warm,” and not a “hot,” labor market.  With inflation still running noticeably below our 
 2 percent objective, I see such labor market conditions as appropriate, especially in view of that 
 progress on reaching our inflation objective has been slower than I anticipated earlier in the year. 
@@ -8762,7 +8762,7 @@ utilization, the emergence of a persistent inflation problem would likely be a s
 affording us ample time to take corrective action. We should also have time to take corrective 
 action if we see signs of rising leverage or other emerging financial vulnerabilities—again, 
 something I don’t expect.  We also have to bear in mind that a policy designed to keep 
-unemployment at 4½ percent or higher could pose its own risks, as the natural rate may well be 
+unemployment at 4.5 percent or higher could pose its own risks, as the natural rate may well be 
 lower.  Such a policy would not only unnecessarily harm many workers, it would also slow the 
 return to 2 percent inflation, and this might even cause inflation expectations to begin ratcheting 
 down. 
@@ -9971,7 +9971,7 @@ disruption, and let me try to give one piece of intuition for that.  A commonpla
 that business dynamism is down, and some metrics of that are that fewer new firms are being 
 created.  Job churn has trended down, so, in the labor market, it remains the case that an 
 astonishing number of jobs are both created and destroyed every month.  My recollection is, 
-something like 4½ or 5 million jobs are created or destroyed every month.  However, that’s 
+something like 4.5 or 5 million jobs are created or destroyed every month.  However, that’s 
 always been true, and it’s a little less true now than it was a decade or two ago. Because of the 
 prevalence of anecdotes in this regard, my conviction is, there’s got to be something to it, but it’s 
 pretty hard for us to get a handle on it. 
@@ -10409,7 +10409,7 @@ Now, it seems obvious that the Committee has a strong desire to take some action
 press conference meeting this year unless something goes awry.  As Vice Chairman Dudley has 
 spoken about several times, there’s a natural way to do this and still not move the funds rate 
 again until late in the year.  This would be to announce the implementation of balance sheet 
-normalization at our September meeting while keeping the funds rate target at 1 to 1¼ percent, 
+normalization at our September meeting while keeping the funds rate target at 1 to 1.25 percent, 
 which I assume will be the result after today’s action.  We can then wait for December, take a 
 hard look at the data available then, and make the important decision as to whether 2017 ends up 
 being a two- or three-rate-hike year. 
@@ -11434,7 +11434,7 @@ that came from that, we had maintained the price-level path. And, at least from 
 of these kinds of models, that would be optimal monetary policy. 
 Now, almost as soon as I gave that speech, we started to fall off the price-level path, and 
 it’s now been five years.  I’ve looked at it again in recent talks that I’ve given.  We’re about 
-4½ percent below that price-level path.  The forecasts that are available today, suggest that it 
+4.5 percent below that price-level path.  The forecasts that are available today, suggest that it 
 doesn’t look like we’re going to get back to that price-level path any time soon and perhaps ever.  
 We’re actually deviating from the 1995–2012 price-level path.  If you wanted to get back, you’d 
 have to run inflation somewhat over 2 percent for some time to make up for the period in which 
@@ -12859,7 +12859,7 @@ Thank you.
 CHAIR YELLEN.  We now have two sets of related matters that are under the Board’s 
 jurisdiction: the corresponding interest rates on reserves and discount rates. I first need a motion 
 from a Board member to increase the interest rates on required and excess reserve balances to 
-1¼ percent, effective June 15, 2017. 
+1.25 percent, effective June 15, 2017. 
 MR. FISCHER.  So moved. 
 CHAIR YELLEN.  Second? 
 MR. POWELL.  Second. 
@@ -12906,8 +12906,8 @@ June 13–14, 2017
 CHAIR YELLEN.  Without objection.  Finally, I need a motion from a Board member to 
 approve establishment of the primary credit rate by the Federal Reserve Banks of Boston, 
 Philadelphia, Cleveland, Richmond, Atlanta, Chicago, Kansas City, Dallas, and San Francisco at 
-1¾ percent, effective June 15, 2017.  It will also encompass approval by the Board of Governors 
-of the establishment of a 1¾ percent primary credit rate by each of the remaining Federal 
+1.75 percent, effective June 15, 2017.  It will also encompass approval by the Board of Governors 
+of the establishment of a 1.75 percent primary credit rate by each of the remaining Federal 
 Reserve Banks effective on the later of June 15, 2017, and the date such Reserve Bank informs 
 the Secretary of the Board of such a request.  The Secretary of the Board would be authorized to 
 inform such Reserve Banks of the approval of the Board of Governors upon such notification by 

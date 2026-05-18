@@ -21,7 +21,7 @@ state and remains solid.  Inflation has eased substantially from a peak of 7 p
 as of September.  We are committed to maintaining our economy’s strength by supporting 
 maximum employment and returning inflation to our 2 percent goal.  
 Today, the FOMC decided to take another step in reducing the degree of policy restraint 
-by lowering our policy interest rate by ¼ percentage point.  We continue to be confident that, 
+by lowering our policy interest rate by 0.25 percentage point.  We continue to be confident that, 
 with an appropriate recalibration of our policy stance, strength in the economy and the labor 
 market can be maintained, with inflation moving sustainably down to 2 percent.  We also 
 decided to continue to reduce our securities holdings.  I’ll have more to say about monetary 
@@ -61,7 +61,7 @@ Our monetary policy actions are guided by our dual mandate to promote maximum
 employment and stable prices for the American people.  We see the risks to achieving our 
 employment and inflation goals as being roughly in balance, and we’re attentive to the risks to 
 both sides of our mandate.  At today’s meeting, the Committee decided to lower the target range 
-for the federal funds rate by ¼ percentage point, to 4½ percent to 4¾ percent.  This further 
+for the federal funds rate by 0.25 percentage point, to 4.5 percent to 4.75 percent.  This further 
 recalibration of our policy stance will help maintain the strength of the economy and the labor 
 market and will continue to enable further progress on inflation as we move toward a more 
 neutral stance over time.    
@@ -522,7 +522,7 @@ that much of a discussion topic in their world, whereas two years ago, it was al
 about.  So they feel like the labor market’s in balance.  
 People feel good about where the economy is.  Demand is obviously pretty strong.  And, 
 you know, you’re seeing, what, 2.8 percent growth in the third quarter estimated.  Maybe the 
-year is 2½.  This is—this is—you know, this is a strong economy.  It’s actually remarkable how 
+year is 2.5.  This is—this is—you know, this is a strong economy.  It’s actually remarkable how 
 well the U.S. economy has been performing with, you know, strong growth, a strong labor 
 market, inflation coming down.  We’re, you know, really performing better than any of our 
 global peers.  And I think that is reflected in what you hear from—what I hear people hear from 

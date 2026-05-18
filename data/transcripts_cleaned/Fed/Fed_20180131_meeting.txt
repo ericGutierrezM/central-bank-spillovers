@@ -2371,7 +2371,7 @@ some cases, these other factors reflect idiosyncratic relative price changes tha
 little signal for future inflation.  For example, large and unusual movements in the 
 nonmarket component of PCE prices, which are typically not persistent, can often 
 help explain a portion of the other factors. 
-Last year, core PCE inflation was 1½ percent, about 0.2 percentage point lower 
+Last year, core PCE inflation was 1.5 percent, about 0.2 percentage point lower 
 than what the model can explain with fundamentals.  The magnitude of the other 
 factors in 2017 is not especially large—for example, it was larger in absolute value in 
 2016. In addition, the negative contribution of the other factors in 2017 follows a 
@@ -5901,7 +5901,7 @@ our target—and Jeff cites this often—to reduce the role of long-run inflatio
 January 30–31, 2018
 60 of 286
 independently, then unemployment could drop pretty low without inflation getting all that high. 
-For instance, suppose unemployment dropped to 3½ percent. Under a natural rate of 4½ percent, 
+For instance, suppose unemployment dropped to 3.5 percent. Under a natural rate of 4.5 percent, 
 it would be an unemployment gap of minus 1 percent, which would put us on the steep portion of 
 the Phillips curve.  Still, running the numbers through his model, inflation would go up to only 
 about 2.5 percent the way we calculated it.  That’s noticeable, but it sure isn’t 4 percent.  Indeed, 
@@ -5915,14 +5915,14 @@ equals the known constant long-run target plus the discounted sum of current and
 effects, like what Jeff has in his memo.  For beta, it equaled 0.95—this is an annual calculation.  
 And Jeff’s largest Phillips curve coefficient, a 1 percentage point unemployment rate gap for five 
 years, then reverting to zero after that, would get inflation up to 3.7 percent.  That’s a big 
-number.  If the unemployment gap lasted three years—three years at 3½ percent, that’s a long 
+number.  If the unemployment gap lasted three years—three years at 3.5 percent, that’s a long 
 time—inflation would rise to 3.1 percent.  Now, these quick reversions may be unrealistic 
-dynamics—3½, then up to 4½—but this is just illustrative.  And also, I haven’t taken into 
+dynamics—3.5, then up to 4.5—but this is just illustrative.  And also, I haven’t taken into 
 account any recession dynamics that might come about once you do that transition, which would 
 lower your inflation expectations. 
 The first-order point is this:  Under a non-accelerationist structure, with fixed long-term 
 inflation expectations, inflation just isn’t going to get out of hand.  That’s what I came away 
-with.  This is an environment without an accelerating vehicle. Of course, if I saw 2½ percent 
+with.  This is an environment without an accelerating vehicle. Of course, if I saw 2.5 percent 
 
 
  
@@ -7220,7 +7220,7 @@ So the mystery, if there is one, is not why inflation was low before 2017, only 
 seen an uptick in inflation lately.  If inflation doesn’t move up over the next few years, then I 
 think the mystery will deepen considerably. 
 Second, I think nominal wage growth has only moved up a small amount.  The current 
-trend seems to be around 2½ percent compared with the 2 percent trend a few years ago.  Even if 
+trend seems to be around 2.5 percent compared with the 2 percent trend a few years ago.  Even if 
 we had a tight relationship between wages and prices, such a modest move in nominal wage 
 growth would produce only a response of price inflation. 
 
@@ -7497,16 +7497,16 @@ the placeholder we were maintaining at the time, line 7.  But our latest assessm
 little larger still, partly because—on closer inspection—the tax cuts turned out to be 
 more front-loaded than we had anticipated. 
 As shown on line 1, we now think the tax cut will boost the level of GDP by 
-about 1¼ percent at the end of the medium term.  The resulting increase in the output 
-gap—line 8—is nearly 1 percentage point, which is roughly ½ percentage point larger 
+about 1.25 percent at the end of the medium term.  The resulting increase in the output 
+gap—line 8—is nearly 1 percentage point, which is roughly 0.5 percentage point larger 
 than the increment to the gap that we had projected in the December Tealbook. 
 In his pre-FOMC briefing last week, Travis Berge had a nice discussion of the 
 many sources of uncertainty surrounding our assessment of the effects of the act, and 
 we also included two alternative scenarios illustrating some aspects of this 
 uncertainty in the Risks and Uncertainty section of the Tealbook.   
-In total, we now have the level of real output about 3¼ percent above potential by 
+In total, we now have the level of real output about 3.25 percent above potential by 
 the end of the medium term.  As a result, the unemployment rate—shown in 
-panel 3—is projected to be 3.2 percent at the end of 2020, 1½ percentage points 
+panel 3—is projected to be 3.2 percent at the end of 2020, 1.5 percentage points 
 below our estimate of its natural rate. The last time the unemployment rate was as 
 low as 3.2 percent was in the early 1950s.   
 As we noted in the Tealbook, we tempered the extent of the decline in the 
@@ -7622,11 +7622,11 @@ inflation through December imply that the 12-month change in total PCE prices wa
 Both of these figures were a few basis points higher than our January Tealbook 
 estimates, in large part because of higher nonmarket prices. 
 As you can see from the red line in the panel, we expect the 12-month change in 
-core PCE prices to remain around 1½ percent in January and February.  In March, 
+core PCE prices to remain around 1.5 percent in January and February.  In March, 
 when the low reading from a year ago drops out of the calculation, we expect the 
 12-month change in the core index to step up to 1.8 percent; by June, we anticipate 
 that it will be running at 1.9 percent.  The 12-month change in total PCE prices—the 
-black line—is expected to reach 2¼ percent by June as higher consumer energy prices 
+black line—is expected to reach 2.25 percent by June as higher consumer energy prices 
 temporarily boost overall inflation above the core measure.  But given the downward-
 sloping futures curve for oil, we expect the total 12-month change to move back 
 down and to be in line with core by year-end. 
@@ -7644,7 +7644,7 @@ Panel 9 shows the unemployment rate once again.  Just before the financial crisi
 rate reached a low of 4.4 percent.  Over the next 29 months, it would rise to a peak of 
 10 percent—in percentage point terms, the largest run-up since the 1930s.  By the 
 time Janet took office four years ago, it had declined to 6.7 percent.  It’s since 
-declined another 2½ percentage points and now is at the 15th percentile of the rates 
+declined another 2.5 percentage points and now is at the 15th percentile of the rates 
 recorded over the series’ postwar history. 
 The next panel focuses on changes in payroll employment.  As shown by the 
 leftmost bar, payroll employment fell 8.7 million from its peak in January 2008 to its 
@@ -8052,7 +8052,7 @@ panel 4, rose to three-year highs on stronger global demand.  Taken together, th
 signals suggest more momentum than we anticipated back in December. We now 
 have total foreign growth, the black solid line in panel 3, rebounding to just over 
 3 percent in the first half of this year and edging down only gradually thereafter.  This 
-projection is revised up about ¼ percentage point in 2018 and a little less after that, 
+projection is revised up about 0.25 percentage point in 2018 and a little less after that, 
 partly because of the momentum I referred to earlier, but also reflecting the likely 
 spillovers of the U.S. fiscal package, which boosts U.S. demand and imports.  Of 
 course, having been repeatedly surprised by the strength of foreign growth in recent 
@@ -10819,7 +10819,7 @@ With regard to the national economy, incoming data have been consistent with my 
 that the economy entered 2018 with positive momentum.  For the first time in a while, there are 
 some more salient upside risks to the forecast.  According to the advance estimate, both 
 consumer and business spending expanded at solid rates in the fourth quarter of last year, and 
-GDP growth for the year was 2½ percent, above the projections of all participants in last March’s 
+GDP growth for the year was 2.5 percent, above the projections of all participants in last March’s 
 SEP and a noticeable improvement on the 2 percent growth we had in 2015 and 2016. 
 Earlier in the expansion, while consumer spending was relatively good, business 
 spending was weak and net exports were a drag on growth.  Last year, household spending and 
@@ -10882,7 +10882,7 @@ strong, maybe lower than when a tax package is enacted in a weak labor market, s
 side effect would be lower.  Full expensing provisions will increase investment, but the effects 
 on productivity may be small, due to the size of the capital stock, and the effects are likely to 
 take considerable time to be realized. 
-I projected that the package will add a ¼ to ½ percentage point to fourth-quarter-over­
+I projected that the package will add a 0.25 to 0.5 percentage point to fourth-quarter-over­
 fourth-quarter GDP growth this year and next year.  But I have been somewhat surprised by 
 firms’ reactions so far, so the effects could be larger, and I see that as an upside risk to my 
 forecast.  The ongoing trade talks pose some downside risks, but these may take longer to 
@@ -10953,7 +10953,7 @@ of its longer-run level.
 January 30–31, 2018
 117 of 286
 Aggregate measures of wages have accelerated from under 2 percent growth earlier in the 
-expansion to about 2½ percent more recently.  Given the tightness in labor markets, the 
+expansion to about 2.5 percent more recently.  Given the tightness in labor markets, the 
 acceleration to date looks relatively modest.  Anecdotal reports of rising wages may eventually 
 translate into higher wage growth in the aggregate measures, although how much remains to be 
 seen. Federal Reserve Bank of Cleveland staff research shows that, across industries, wage 
@@ -11379,7 +11379,7 @@ January 30–31, 2018
 and robust business both inside and outside the United States. District bankers report improving 
 conditions and are anticipating some improvement in profitability in 2018. For the national 
 outlook, real GDP growth printed softer than we had expected for the fourth quarter but still left 
-the year-over-year growth rate at about 2½ percent, a value that has steadily increased since 
+the year-over-year growth rate at about 2.5 percent, a value that has steadily increased since 
 2016. 
 Given that trend growth remains near 2 percent, a natural prediction at this point is that 
 the year-over-year growth rate will now gradually return to the 2 percent value. That remains 
@@ -11539,7 +11539,7 @@ this meeting:  express their gratitude to you for all you’ve done for the San 
 also for the Federal Reserve System and the country.  They very much appreciate everything 
 you’ve done. 
 You know, we’ve already gone over the statistics.  David went through the 9.7 million 
-jobs created during your time as Chair, the 2½ percentage point fall in the unemployment rate, 
+jobs created during your time as Chair, the 2.5 percentage point fall in the unemployment rate, 
 navigating the start of the monetary policy normalization process—and those were all obviously 
 really important things. I think the thing that you may actually underappreciate is the effect you 
 have on the people who work with you.  Your legacy, truly beyond these accomplishments, is 
@@ -11550,7 +11550,7 @@ I go back to June 2004 when you came to the San Francisco Fed, and you talked to
 research about how we can make a difference to contribute to the FOMC policy discussions in 
 Washington.  You know, we are 2,500 miles away, sometimes feeling distant from that, and I 
 think that you set a very high standard for all of us.  I’m very proud of our team in San Francisco 
-and what we’ve done in the last 13½ years to try to live up to those expectations, and I assure 
+and what we’ve done in the last 13.5 years to try to live up to those expectations, and I assure 
 
 
  
@@ -11929,7 +11929,7 @@ January 30–31, 2018
 global demand has strengthened—in contrast to sharp decreases in the previous period.  The 
 combination of higher oil prices and robust global demand is providing strong support to 
 business investment—in contrast to the sharp decline in the earlier period.  And today, from a 
-position close to full employment, the economy is poised to absorb $1½ trillion in front-loaded 
+position close to full employment, the economy is poised to absorb $1.5 trillion in front-loaded 
 fiscal stimulus, whereas in the earlier period, the economy was coming off a difficult adjustment 
 to a sharp withdrawal of fiscal support. 
 Let me touch on each of these items in turn.  This past week, for a third consecutive time, 
@@ -12009,14 +12009,14 @@ The labor market has continued to post solid readings.  Payrolls rose 148,000 in
 December, and payroll gains now have averaged about 160,000 over the most recent four 
 months, smoothing through the hurricane swings.  That’s certainly sufficient to keep the 
 unemployment rate moving lower from its 4.1 percent level that we’ve seen in recent months, 
-and as you know, the Tealbook now projects the unemployment rate to drop to 3½ percent by 
+and as you know, the Tealbook now projects the unemployment rate to drop to 3.5 percent by 
 late summer. On the other side, we do see some remaining slack.  The prime-age employment-
 to-population ratio remains more than 1 percentage point below its pre-crisis peaks, and readings 
 on wage growth show little signs of acceleration despite broad anecdotal evidence of labor 
 market tightening. 
 A number of factors should contribute to solid growth in the year ahead, first and 
-foremost, of course, the recently enacted stimulus on the order of 1½ percentage points.  The 
-staff estimates this could boost real GDP growth by ½ percent this year and next.  These 
+foremost, of course, the recently enacted stimulus on the order of 1.5 percentage points.  The 
+staff estimates this could boost real GDP growth by 0.5 percent this year and next.  These 
 projections are much greater than the preliminary estimates they provided in December.  Outside 
 estimates vary, but many estimate somewhat less of an effect on aggregate supply, and the 
 
@@ -12075,10 +12075,10 @@ estimates vary, but many estimate somewhat less of an effect on aggregate supply
  
 January 30–31, 2018
 131 of 286
-bullish outlook is supported by financial conditions, with the stock market up 6½ percent since 
+bullish outlook is supported by financial conditions, with the stock market up 6.5 percent since 
 we last met and a stunning 25 percent since the end of 2016. 
 Progress is slower on the second leg of our dual mandate.  Over the course of 2017, core 
-PCE prices rose only 1½ percent, and this follows a long period of underperformance.  The very 
+PCE prices rose only 1.5 percent, and this follows a long period of underperformance.  The very 
 latest data provide some evidence that inflation is moving back up to trend, with core PCE prices 
 posting an annualized 1.9 percent increase on a three-month basis.  But because high-frequency 
 price-level data can be volatile, we typically focus on changes over the year, and I will want to 
@@ -12708,7 +12708,7 @@ started their downward slide in 2014, and survey measures haven’t budged.
 We did not change our core PCE inflation forecast this round.  It has a slight overshoot in 
 2020, one similar to that in the Tealbook, but gets there more slowly.  Furthermore, in order to 
 get there at all, we think monetary policy will need to move more slowly.  We have only two rate 
-hikes this year and then a gradual path up to 2¾ percent in 2020.  We should not be in a hurry to 
+hikes this year and then a gradual path up to 2.75 percent in 2020.  We should not be in a hurry to 
 raise rates. Until we see inflation expectations actually move up, I don’t see how we can be 
 confident that the inflation outlook is solidly symmetrically situated around our 2 percent target.  
 And that is what’s required to achieve our inflation mandate.  Thank you, Madam Chair. 
@@ -12718,7 +12718,7 @@ and your service to our nation.  It’s been an honor and privilege to serve wit
 importantly, congratulations on a job well done. 
 CHAIR YELLEN.  Thanks so much.  I appreciate it. 
 MR. KAPLAN.  The Texas unemployment rate now stands at 3.8 percent, which is 
-approaching the lowest level since the 1970s.  We expect 2¾ percent job growth in Texas for 
+approaching the lowest level since the 1970s.  We expect 2.75 percent job growth in Texas for 
 
 
  
@@ -12851,7 +12851,7 @@ growth in alternative forms of energy.  So this is going to be an upside risk: p
 few years, but three to five years from now we could have a spike to the upside.  We still 
 believe that. 
 For the United States, we have marked up our first-half real GDP growth estimates to 
-about 2¾ percent and our full-year forecast to somewhere between 2½ and 2¾ percent. On the 
+about 2.75 percent and our full-year forecast to somewhere between 2.5 and 2.75 percent. On the 
 basis of this forecast, and as has been said by many others and the Tealbook, we expect headline 
 unemployment to dip below 4 percent sometime in the first half of this year. We would also note 
 that, in 2017, the number of new jobs created was slightly net lower than 2016.  The growth in 
@@ -13857,7 +13857,7 @@ continued improvement in labor force participation, while the unemployment rate 
 inflation and some evidence of a wealth pickup in market-based measures of inflation 
 expectations—I’m happy to see that.  I hope to see it sustained. Rising oil prices and a 
 weakening dollar are likely to offer a temporary boost to inflation.  Oil is up around 50 percent 
-from its recent low, and the broad dollar is down 8½ since its peak at the start in 2017. 
+from its recent low, and the broad dollar is down 8.5 since its peak at the start in 2017. 
 Now, how do we reconcile this real economy strength and nominal weakness?  As I said 
 in the inflation discussion earlier, I think there’s uncertainty about how much slack is still left in 
 the economy.  On the one hand, the unemployment rate is low.  On the other hand, the prime age 
@@ -14093,7 +14093,7 @@ January 30–31, 2018
 I anticipate that the momentum shown in the spending data will be significantly 
 reinforced by the recently enacted fiscal package.  In that regard, I found the staff analysis of the 
 economic effect of the package to be very helpful. The staff’s estimate is that the Tax Cuts and 
-Jobs Act will raise annual GDP by roughly ½ percent this year and next, mostly by inducing 
+Jobs Act will raise annual GDP by roughly 0.5 percent this year and next, mostly by inducing 
 higher spending by households and businesses.  This seems like a reasonable estimate, although, 
 of course, there’s high uncertainty.  I also agree that lower marginal tax rates and the move to 
 full expensing of some capital spending are likely to boost both the supply of labor and 
@@ -14616,7 +14616,7 @@ group of colleagues and staff members.
 To wrap up the round, I’d like to quickly reflect on the progress that has been made over 
 the past few years toward our goals and then consider some of the challenges this Committee 
 will face in sustaining and building on that progress.  Four years ago, the labor market was far 
-from having recovered from the Great Recession.  The unemployment rate was still high at 6¾ 
+from having recovered from the Great Recession.  The unemployment rate was still high at 6.75 
 percent, millions were working fewer hours than they desired, and depressed readings on quits, 
 job openings, and job availability showed that opportunities for finding work or better jobs were 
 quite poor. 
@@ -14849,7 +14849,7 @@ public statements.  Moreover, to the extent that inflation expectations have sli
 past few years, a modest overshoot for a time in actual inflation might serve to re-anchor 
 expectations at a level consistent with our 2 percent goal.  Finally, I view the welfare cost of 
 inflation running modestly above 2 percent for several years as small.  Of course, if the 
-sustainable long-run rate of unemployment is indeed about 4½ percent, as our SEP submissions 
+sustainable long-run rate of unemployment is indeed about 4.5 percent, as our SEP submissions 
 suggest, that will not be enough to stabilize the unemployment rate to stabilize inflation around 2 
 percent.  Eventually, labor market conditions will have to cool moderately, with the 
 unemployment rate moving higher. 
@@ -15149,7 +15149,7 @@ As shown in the middle-left panel, the probability distribution of the level of 
 federal funds rate at the end of 2018 implied by options quotes, assuming zero term 
 premiums, shifted to the right over the intermeeting period. That distribution now 
 indicates that market participants attach the highest odds to the federal funds rate 
-being in the 2 to 2¼ percent range at year-end.  The perceived probabilities of both 
+being in the 2 to 2.25 percent range at year-end.  The perceived probabilities of both 
 three and four 25 basis point hikes have increased noticeably, with the highest odds 
 now on three.  As Simon noted, averaging across respondents, the probability 
 distribution for the same horizon in the Desk’s January surveys also shifted to the 
@@ -16824,7 +16824,7 @@ employment, synchronized global growth, and a weakening dollar gives me greater 
 the outlook for inflation. 
 While the incoming data suggest the economy has been growing strongly and the recently 
 enacted tax cuts should impart still further stimulus, the strength on the real side isn’t reflected 
-yet in prior inflation.  Core PCE inflation moved down and was only 1½ percent in 2017.  
+yet in prior inflation.  Core PCE inflation moved down and was only 1.5 percent in 2017.  
 Moreover, as the data this morning again show, there has been little upward movement in wage 
 gains over the past year or so, and survey measures of inflation expectations remain subdued.  
 On balance, for those reasons, I think it’s appropriate to hold rates steady at this meeting, as in 
@@ -16914,7 +16914,7 @@ the future rate path signals clearly the upside risk to the rate path.  The chan
 emphasize that we now expect further gradual increases in the federal funds rate, not just once 
 but twice in both paragraphs 2 and 4, is significant and will be noted.  And, indeed, as we look to 
 coming quarters, the risks seem tilted to the upside.  Growth in private final domestic demand 
-looks likely to remain robust.  The sizable fiscal stimulus totaling 1½ percentage points of GDP 
+looks likely to remain robust.  The sizable fiscal stimulus totaling 1.5 percentage points of GDP 
 will likely give the economy a further boost.  Global growth looks likely to remain a tailwind, 
 and financial conditions are exceptionally supportive. 
 As I noted yesterday, the conjunctural mix today in many respects is the mirror image of 
@@ -17715,7 +17715,7 @@ January 30–31, 2018
 everything, and we may well face that eventuality at some point here.  It’s not a great 
 combination for out-year growth, even though, again, I think 2018 will be very strong. 
 So, for me, I would like to see us get to neutral.  For me, “neutral” probably is in the 
-neighborhood, as I said before, of 2½, or maybe it’s 2¾ percent.  I think we’ll wrestle with what 
+neighborhood, as I said before, of 2.5, or maybe it’s 2.75 percent.  I think we’ll wrestle with what 
 to do once we get there.  I do agree, as we approach it, depending on what we decide—I agree 
 with President Williams’s comments about flagging that in the language.  I’m just not sure 
 exactly how much beyond that we’re going to get. 
@@ -17904,7 +17904,7 @@ The Monetary Policy Strategies section of Tealbook A notes that the stronger out
 economic activity over the medium term has widened the projected output gap considerably and 
 contributed to noticeably higher funds rate prescriptions from both simple rules and optimal 
 control policies, as well as an upward shift in the Tealbook baseline funds rate assumption.  With 
-the unemployment rate in the Tealbook now projected to bottom out a full 1½ percentage points 
+the unemployment rate in the Tealbook now projected to bottom out a full 1.5 percentage points 
 below its estimate of the longer-run level and inflation projected to move above the longer-run 
 
 
@@ -19410,7 +19410,7 @@ Yes
 CHAIR YELLEN.  Now we have two sets of related matters under the Board’s 
 jurisdiction: corresponding interest rates on reserves and discount rates. I first need a motion 
 from a Board member to leave the interest rates on required and excess reserve balances 
-unchanged at 1½ percent. 
+unchanged at 1.5 percent. 
 MR. POWELL.  So moved. 
 CHAIR YELLEN.  Thank you.  Second? 
 

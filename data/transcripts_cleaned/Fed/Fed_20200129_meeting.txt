@@ -509,7 +509,7 @@ prefers inflation to be temporarily away from its objective, defining the scope 
 deviations.  For example, in order to communicate an intention to pursue an average 
 inflation-targeting strategy, the Committee could state that, in situations in which 
 inflation has been below 2 percent for an extended period, it would prefer for 
-inflation to run between 2 and 2½ percent until average inflation over several years is 
+inflation to run between 2 and 2.5 percent until average inflation over several years is 
 roughly 2 percent. 
 Finally, in the next slide, I present a third inflation range concept, the 
 “indifference range.”  An indifference range indicates to the public that monetary 
@@ -561,7 +561,7 @@ within the range could help pin down public beliefs.
 Finally, as described in the third column, an indifference policy would spare the 
 public costs associated with reacting to changes in the federal funds rate.  
 Furthermore, an indifference range extending further above the objective than 
-below—from 1¾ percent to 3 percent, for example—would raise average inflation, 
+below—from 1.75 percent to 3 percent, for example—would raise average inflation, 
 helping to offset any downward bias due to the ELB.  On the other hand, the absence 
 of a monetary policy response when within the range increases the dispersion and 
 persistence of inflation deviations, making it harder for the public to identify the long-
@@ -702,8 +702,8 @@ thought the memo was, at least to me, very informative and, I think, struck the 
 First of all, the historical connection between low policy rates or, potentially, even balance sheet 
 policies and financial stability is not either firmly established in the research literature or obvious 
 in the data.  I vividly remember that, during the internet boom, when Pets.com was using its IPO 
-to buy Super Bowl commercials, the funds rate was at 6½ percent.  We still had Pets.com at a 
-6½ percent funds rate.  So it’s definitely a relevant consideration. 
+to buy Super Bowl commercials, the funds rate was at 6.5 percent.  We still had Pets.com at a 
+6.5 percent funds rate.  So it’s definitely a relevant consideration. 
 Second, the macroprudential framework we’ve established, I think, is generally a better 
 approach most of the time to adjusting financial-stability risks.  Before I arrived at the Board 
 January 28–29, 2020
@@ -863,7 +863,7 @@ January 28–29, 2020
  
  
 Today, I think a plausible operational range that would accomplish these goals and would 
-span inflation rates from 2 to 2½ percent.  The hope would be that lifting inflation into this range 
+span inflation rates from 2 to 2.5 percent.  The hope would be that lifting inflation into this range 
 would sufficiently offset a period in which we have consistently been below our 2 percent target 
 so that expectations would re-center at 2 percent.  This strategy makes clear the limits to which 
 we will try to overshoot our target in circumstances like today’s, when we are beyond full 
@@ -927,7 +927,7 @@ Unfortunately, even if this is true, we will have a challenge in changing this p
 Simply increasing our target has credibility challenges in the messaging.  Abandoning the target 
 undermines our perceived level of commitment.  So I would like to make the case that one way 
 to raise the perceived level of normal price increases is to adopt a range.  Doing this puts a larger 
-number—say, 2½ or 3 percent—into the conversation in a more credible way.  It makes explicit 
+number—say, 2.5 or 3 percent—into the conversation in a more credible way.  It makes explicit 
 the commitment we will likely be making to tolerate a modest inflation overshoot. 
 Use of a range also acknowledges the very real challenges in our efforts to precisely hit a 
 particular inflation target with a necessarily imprecise metric and thereby helps our public 
@@ -935,7 +935,7 @@ communication.  For that reason, I would also favor using multiple metrics, as C
 I would keep 2 percent as the target and expect inflation to be moving toward target over time, so 
 I am making the case for an uncertainty range, not an indifference range.  I understand and 
 accept the perception challenges with declaring a range now, with inflation still below target.  So 
-I’d be comfortable with an unbalanced range—1½ to 3 percent or 1.75 to 2½ percent—to send 
+I’d be comfortable with an unbalanced range—1.5 to 3 percent or 1.75 to 2.5 percent—to send 
 the right message or in signaling that a range will be adopted once we achieve our symmetric 2 
 percent target or in other communications that send the right symmetric message. 
 And I’ll close by saying that most other central banks use a range combined with a target.  
@@ -1428,9 +1428,9 @@ January 28–29, 2020
  
 be much simpler to communicate and implement than a complicated and formal average-
 inflation-targeting regime. 
-For instance, we could explain that, because inflation has fallen between 1½ and 
+For instance, we could explain that, because inflation has fallen between 1.5 and 
 2 percent over the past five years, the Committee will target inflation outcomes in a range of 2 to 
-2½ percent for the next five years to achieve our objective.  I think that’s similar to what 
+2.5 percent for the next five years to achieve our objective.  I think that’s similar to what 
 President Rosengren suggested earlier.  In this way, the Committee would make clear that it 
 would accommodate, rather than offset, modest upward pressures on inflation—what could be 
 described as a process of opportunistic reflation to compensate for previous shortfalls. 
@@ -1614,8 +1614,8 @@ policy should be milder in trying to nudge inflation back down into the range.  
 asymmetric policy would lead to extended periods of above-target inflation that offset the 
 deflationary forces of the effective lower bound. 
 The second approach is to adopt an asymmetric range with a wider band above target 
-than below it.  An example might be an asymmetric inflation range with 1¾ percent at the 
-bottom and 2½ percent at the top.  With such an asymmetric range, policymakers could then 
+than below it.  An example might be an asymmetric inflation range with 1.75 percent at the 
+bottom and 2.5 percent at the top.  With such an asymmetric range, policymakers could then 
 react symmetrically to inflation deviations above and below the target range and still achieve 
 2 percent inflation on average. 
 Let me be clear.  I prefer a point inflation target like our 2 percent objective.  I’m not 
@@ -1650,7 +1650,7 @@ we’re not going to get inflation up to 2 percent.
 So I think that’s really problematic if we were to—depending on how the Committee 
 likes commentary about the financial-stability initiative, I think it would be very important to 
 mock up some language about how we would describe the most recent increase in the federal 
-funds rate, with the unemployment rate at 7½ percent and inflation undershooting “is 
+funds rate, with the unemployment rate at 7.5 percent and inflation undershooting “is 
 unbelievably necessary because of—fill-in-the-blank.” 
 We’re stuck with a 2 percent inflation objective that might have been a good idea in the 
 past, but it’s not ideal today, in light of the greater risk associated with the ELB and our stronger 
@@ -1729,7 +1729,7 @@ broader economic conditions, including employment and output growth.
 Adopting an operational range, on the other hand, raises questions about how it would 
 interact with other aspects of our monetary policy strategy and communication.  For example, if 
 we were to adopt a makeup strategy, would we need to consider an asymmetric target range for 
-inflation of, say, 2 to 2½ percent over the medium term?  Could we have confidence that the 
+inflation of, say, 2 to 2.5 percent over the medium term?  Could we have confidence that the 
 public would view it as a credible commitment and, in turn, increase their inflation expectations?  
 Or would we risk locking ourselves into ever more accommodative policies in an effort to build 
 credibility for a target that may prove difficult to achieve without causing adverse consequences 
@@ -2155,7 +2155,7 @@ Now, let’s be honest—and here I’m picking up on comments of President Daly
 others.  The problem we’re trying to solve is to make clear that our inflation goal is truly 
 symmetric around, and firmly anchored at, 2 percent and not lower.  In that respect, it’s not 
 obvious to me what a range is supposed to convey at this time.  Is it a range of indifference or 
-inaction?  Does it mean that we’re moving the goalpost, as President Daly said, to saying that 1½ 
+inaction?  Does it mean that we’re moving the goalpost, as President Daly said, to saying that 1.5 
 percent, or maybe some number like that meets the test? 
 And what does a range mean for how we behave, in terms of our policy decisions?  Is it 
 something that’s different from how we behaved before?  Does it mean that we’re going to react 
@@ -2365,7 +2365,7 @@ modest fluctuation centered on 2 percent.  Some range-like language might help c
 message, as a way of just naturally emphasizing a range of natural variation centered on 
 2 percent. 
 I will say that the idea of an asymmetric range, particularly one whose low end is 2 
-percent—the 2 to 2½ percent range is something that I want to think about more.  And that 
+percent—the 2 to 2.5 percent range is something that I want to think about more.  And that 
 would seem to address some of the concerns that have been expressed.  Again, I think, with all of 
 these things, it’s wise to take our time and let these ideas rise to the top.  So I view this as a 
 question that we need to do more thinking about.  And, with that, thank you very much for a 
@@ -3051,7 +3051,7 @@ November Tealbook, however, we pushed up our real GDP growth forecast to reflect
 the more-supportive financial conditions—primarily higher stock prices and a weaker 
 dollar—along with a boost to U.S. exports that we think will result from the recent 
 trade deal with China.  Combined with our changes to the near term, these revisions 
-yield an output gap that averages 2¼ percent over the next few years, ½ percentage 
+yield an output gap that averages 2.25 percent over the next few years, 0.5 percentage 
 point wider than in our November projection. 
 With output expected to outpace potential through next year, the unemployment 
 rate, panel 4, edges down further and remains about a percentage point below our 
@@ -3102,7 +3102,7 @@ agreement will provide more impetus to real GDP growth than we have projected.
 Panel 8 highlights such a risk using an alternative simulation that illustrate the 
 possible effects of a substantial reduction in trade policy uncertainty, as viewed 
 through the lens of one of our DSGE models.  The effect in that model is to raise the 
-level of real GDP by ½ percent, with most of that coming in 2020.  Of course, we’ll 
+level of real GDP by 0.5 percent, with most of that coming in 2020.  Of course, we’ll 
 continue to monitor indicators of business sentiment and reports from our Beige Book 
 contacts on this issue. 
 Your next exhibit summarizes the inflation outlook.  As you can see in panel 9, 
@@ -3930,7 +3930,7 @@ Banks have historically-high levels of capital.  A couple of points illustrative
 you look at our pre-crisis capital framework, you had 8 percent total capital to be well 
 capitalized, and 4 percent of that needed to be tier 1.  We only required half of that tier 1 capital 
 to be common equity.  So our actual requirements were that banks had to have 2 percent of 
-common equity tier 1 capital.  Currently, banks have about 12½ percent or so of common equity 
+common equity tier 1 capital.  Currently, banks have about 12.5 percent or so of common equity 
 tier 1 capital.  That’s over six times as much common equity, strong capital, as we required 
 before the crisis. 
 Another illustration:  In an earlier round, I mentioned our high capital levels relative to 
@@ -4584,7 +4584,7 @@ for the economy’s longer-run growth potential.
 The labor market remains strong.  Payroll gains averaged over 180,000 over the last three 
 months of last year and just over 175,000 per month in 2019.  The upcoming benchmark 
 revisions will lower these numbers, but even so, job growth will be well above trend.  The 
-unemployment rate stood at 3½ percent in December, down 40 basis points from its year-ago 
+unemployment rate stood at 3.5 percent in December, down 40 basis points from its year-ago 
 level.  And the broader U-6 measure fell to 6.7 percent, its lowest level since the start of the 
 series in January 1994. 
 Despite demographic forces putting downward pressure on the overall rate of labor force 
@@ -4607,7 +4607,7 @@ January 28–29, 2020
  
 using the best available techniques, there is considerable uncertainty associated with estimates of 
 this rate.  I am very open to the possibility that the natural rate of unemployment is lower than 
-the 4¼ percent estimate that I have in my December SEP for the longer-run unemployment rate, 
+the 4.25 percent estimate that I have in my December SEP for the longer-run unemployment rate, 
 and I think the work that the Board staff is doing and the Federal Reserve Bank of San Francisco 
 staff is doing is helpful in helping us resolve some of the puzzling aspects in the labor market. 
 There has been little change in the inflation outlook over the past few meetings.  Core 
@@ -4645,7 +4645,7 @@ monetary policy seems well calibrated to achieving our dual-mandate goals.  Than
 Mr. Chair. 
 CHAIR POWELL.  Thank you.  President Kaplan. 
 MR. KAPLAN.  Thank you, Mr. Chairman.  Federal Reserve Bank of Dallas economists 
-expect 2020 real GDP growth to be approximately 2¼ percent.  Our expectation is that global 
+expect 2020 real GDP growth to be approximately 2.25 percent.  Our expectation is that global 
 growth will be sluggish but will stabilize consistent with the Board staff analysis.  We expect 
 manufacturing again to be sluggish but also stabilize, and we think business fixed investment 
 should remain, again, sluggish but stabilized from 2019 levels.  In this forecast, it is assumed that 
@@ -4853,10 +4853,10 @@ sizable pay increases my previous employer gave our staff in the tight labor mar
 2007.  But I wonder if our debate on this topic properly accounts for how today is different.  I 
 may be looking at the data differently than President Daly, and I have plans to reconcile our 
 views in the hotel lobby tonight.  [Laughter] 
-In rough numbers, trend productivity growth was 1½ percentage points higher in 1999 
+In rough numbers, trend productivity growth was 1.5 percentage points higher in 1999 
 and 1 point higher in 2007 than it is today.  Inflation was 1 full point higher in 2007.  As a 
 consequence, the similar level of tightness supported higher wage growth in those years than it 
-does now.  In my mind, 3 percent wage increases today are consistent with 4½ to 5 percent 
+does now.  In my mind, 3 percent wage increases today are consistent with 4.5 to 5 percent 
 increases then.  All three represent really tight labor markets, and that’s how I see today’s labor 
 market. 
 More broadly, I remain patient on inflation.  Our rate cuts will take some time to work 
@@ -4978,7 +4978,7 @@ potential economic effects.  As President Kaplan noted, the SARS outbreak was as
 had significant but short-lived economic effects on China and economies in its region, but only a 
 small effect on the U.S. economy.  On the opposite side of the risk ledger, upside risks have 
 appeared.  First and perhaps most notably, the agreement by China to increase imports from the 
-United States by $200 billion, if implemented faithfully, could imply a ¾ percentage point boost 
+United States by $200 billion, if implemented faithfully, could imply a 0.75 percentage point boost 
 to our GDP.  Of course, the actual amount of purchases could come in somewhat below that.  
 Over the past few months we have taken significant action to buffer the economy, and it may 
 take some time for us to see the full effect of this shift.  I look forward to discussing the stance of 
@@ -5132,7 +5132,7 @@ to reenter the workforce and others to delay retirement.
 Fourth-quarter data suggest that consumer spending growth has stepped down.  However, 
 the soft pace in recent months should be viewed in the context of the unusually rapid rates of 
 spending growth seen in the second and third quarters of 2019.  And, averaging over last year’s 
-quarterly data, the staff now estimates that consumption growth was around 2½ percent, a solid 
+quarterly data, the staff now estimates that consumption growth was around 2.5 percent, a solid 
 increase similar to 2018.  In looking ahead, I expect that ongoing gains in labor income and 
 wealth will lead to moderate consumer spending growth again this year.  Consumer confidence 
 surveys have remained very upbeat, a pattern that supports a favorable spending outlook over the 
@@ -5453,10 +5453,10 @@ should finally start to recover in light of diminished policy uncertainty.  I se
 strengthening of the labor market, with the unemployment rate declining a few tenths this year 
 and labor force participation remaining near its current level despite the downward drag coming 
 from demographic trends.  And I agree completely with President Kashkari’s remarks regarding 
-whether a 3¼ percent unemployment rate is a tight labor market.  I think that whether you take 
+whether a 3.25 percent unemployment rate is a tight labor market.  I think that whether you take 
 the Board staff model’s view that you need a 3.2 percent unemployment rate to get inflation back 
 to 2 percent, or whether you just take the view that that is what maximum employment is—either 
-way, however you slice the data, I think seeing unemployment in this 3¼ percent range is 
+way, however you slice the data, I think seeing unemployment in this 3.25 percent range is 
 definitely consistent with our dual-mandate goals. 
 Trade policy developments and signals of stabilization in the global outlook suggest some 
 reduction to major sources of uncertainty, and downside risks have persisted through last year.  
@@ -5713,7 +5713,7 @@ January 28–29, 2020
  
  
 in the middle-right panel, when presented with the higher inflation scenario, the 
-majority of respondents who revised up their expectations did so by no more than ¾ 
+majority of respondents who revised up their expectations did so by no more than 0.75 
 percentage point.  In contrast, the red bars in the lower left show that, in the downside 
 scenario, the majority of those who revised down their expectations tended to make 
 larger revisions.  The authors’ conclusion was that the risk of unanchoring seems to 
@@ -5807,7 +5807,7 @@ January 28–29, 2020
  
  
 Well, thank you, Chair Powell.  I support alternative B as written and the policy decision 
-to maintain the target range for the funds rate:  1.5 to 1¾ percent.  I also enthusiastically support 
+to maintain the target range for the funds rate:  1.5 to 1.75 percent.  I also enthusiastically support 
 the new language in the statement that was suggested at the last meeting by President Evans, 
 which says that we believe our policy is calibrated for inflation to “return to,” and not just be 
 “near,” our 2 percent objective. 
@@ -6294,7 +6294,7 @@ below 2 percent, and both survey- and market-based measures suggest inflation ex
 running somewhat below our target. 
 Last year, the Committee took significant action to ensure against the risks associated 
 with trade conflicts and weak foreign growth, against a backdrop of muted inflation.  Since last 
-summer, we have lowered the target range ¾ percentage point, and the federal funds rate is now 
+summer, we have lowered the target range 0.75 percentage point, and the federal funds rate is now 
 well below the Committee’s median estimate of the long-run neutral rate.  Market expectations 
 assign a quite high bar for a rate hike, and markets see our reaction function as quite asymmetric. 
 Given the necessity of providing accommodation over a prolonged period to nudge 

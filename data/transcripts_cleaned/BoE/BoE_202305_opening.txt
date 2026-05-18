@@ -28,7 +28,7 @@ The economic outlook
 In the Monetary Policy Report we present today, we have revised up our projections 
 for growth in the UK economy.  In the MPC’s central projection, shown in Chart 1, 
 the UK economy grows at a moderate pace over the next three years, with calendar-
-year growth expected to be ¼% this year, and ¾% in 2024 and 2025.  This is still not 
+year growth expected to be 0.25% this year, and 0.75% in 2024 and 2025.  This is still not 
 a strong forecast, and we still expect a degree of economic slack to emerge from the 
 end of this year, but the growth outlook is less weak than in the MPC’s recent 
 projections.  
@@ -48,7 +48,7 @@ prices, reversing some of the terms of trade shock that has been the primary cau
 of falling real incomes.  But there has also been greater resilience in the economy 
 than we had expected – as seen, for example, in strong employment numbers.   
 Fiscal policy is also expected to boost GDP over the forecast, building to a peak 
-impact of around ½%.  Both the temporary 100% capital allowances for qualifying 
+impact of around 0.5%.  Both the temporary 100% capital allowances for qualifying 
 business investment and measures aimed at increasing labour market participation 
 are assumed to have positive effects on potential supply. 
 The outlook for inflation  
@@ -156,7 +156,7 @@ albeit at a somewhat slower pace than projected in February given the near-term
 outlook for food prices, the outlook for inflation further out is more uncertain and 
 depends on the extent of persistence in wage and price setting.   
 As shown in Chart 8, in the MPC’s baseline modal projection, which is conditional on 
-a market-implied path for Bank Rate that peaks at 4¾% in the fourth quarter of this 
+a market-implied path for Bank Rate that peaks at 4.75% in the fourth quarter of this 
 year, an increasing degree of economic slack, combined with declining external 
 pressures, lead inflation to fall materially below the 2% target in the medium term. 
 

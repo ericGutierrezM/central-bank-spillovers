@@ -1841,7 +1841,7 @@ normalization proceeds.  Let’s assume for a moment that we would need about $1
 reserves in an abundant-reserves system, including the buffer, in keeping with market surveys 
 and the staff estimate.  That would mean a further reduction in reserves of roughly $800 billion, 
 which would be complete within about two years.  The total balance sheet size, at that point, 
-would be almost $3½ trillion—a substantial reduction of about $1 trillion from its peak size.  
+would be almost $3.5 trillion—a substantial reduction of about $1 trillion from its peak size.  
 Now, that’s a pretty big balance sheet.  I think we could get that thing into the garage [laughter], 
 but I would prefer a smaller model, if possible.  And I’d like to see us explore ways to reach an 
 even smaller balance sheet.  But I would say, if we used all of our tools and that’s as small as it 
@@ -2263,7 +2263,7 @@ economic activity is running above its sustainable level, and that output will m
 further above potential over the next couple of years. 
 As shown in panel 1 of the forecast summary exhibit, the October Tealbook 
 projection of real GDP growth of 3 percent this year is a pace little revised from our 
-September forecast and is about 1¼ percentage points faster than our estimate of 
+September forecast and is about 1.25 percentage points faster than our estimate of 
 potential.  After the Tealbook was closed, we received the BEA’s advanced estimate 
  
 3 The materials used by Mr. Engen are appended to this transcript (appendix 3). 
@@ -2304,7 +2304,7 @@ differentials across groups despite the tight labor market.
 I noted earlier that our view of the economy’s current cyclical position is little 
 revised from the September Tealbook.  In particular, our judgmental estimate of the 
 output gap—the black line in panel 4—implies a level of actual output in the fourth 
-quarter that is nearly 2½ percent above its potential.  This assessment is corroborated 
+quarter that is nearly 2.5 percent above its potential.  This assessment is corroborated 
 by the blue line in the panel, which gives the output gap estimate obtained from one 
 of our statistical filtering models. 
 Returning to panel 1 up top, our medium-term forecast for real GDP is only a 
@@ -2335,7 +2335,7 @@ creeping up, although it’s difficult to be certain, in view of how differently
 various series can behave and how volatile they can be from year to year.  As you 
 know, we tend to put the most weight on the ECI, the black line, in part because it is 
 less noisy than the other available measures.  The ECI rose 2.9 percent over the 
-12 months ending in September—almost ½ percentage point faster than a year 
+12 months ending in September—almost 0.5 percentage point faster than a year 
 earlier—which is broadly consistent with our view that increases in compensation are 
 evolving about as one would expect, in conditions of an increasingly tight labor 
 market, relatively well-anchored inflation expectations, and lackluster trend 
@@ -2343,7 +2343,7 @@ productivity growth.
 The first four panels on the next exhibit summarize the inflation outlook.  After 
 the Tealbook closed, we received the monthly PCE price data through September.  
 Over the 12 months ending in September, PCE prices excluding food and energy, the 
-red line in panel 7, rose 2 percent, up ½ percentage point from a year ago. 
+red line in panel 7, rose 2 percent, up 0.5 percentage point from a year ago. 
 To provide some additional perspective on recent inflation developments, panel 7 
 also plots updated estimates of two other measures of underlying PCE price inflation:  
 The orange line gives the Dallas Fed’s trimmed mean measure, while the blue line 
@@ -2498,7 +2498,7 @@ our baseline forecast.  Moreover, with plausible increases in interest rates or 
 in growth, the debt trajectory starts to look unsustainable. 
 This would not only be dangerous in its own right, but also because Italian banks, 
 which are none too strong to begin with, own one-fifth of the country’s over 
-$2½ trillion stock of government securities and would suffer greatly if those assets 
+$2.5 trillion stock of government securities and would suffer greatly if those assets 
 were compromised.  Indeed, likely reflecting these fears, domestic political 
 developments since the Italian election have driven Italian banks stocks down and 
 notably widened bank CDS spreads. 
@@ -2527,7 +2527,7 @@ charts, tariffs implemented to date, the orange area, affect roughly one-half of
 Chinese exports to the United States and three-fourths of imports.  These tariffs by 
 themselves should only slightly lower Chinese output.  Should measures expand to 
 encompass all Chinese exports to the United States, as threatened, we could expect 
-¾ percentage point hit to the level of GDP.  And as Simon just discussed, such fears 
+0.75 percentage point hit to the level of GDP.  And as Simon just discussed, such fears 
 are putting downward pressure on the Chinese currency and stock market. 
 Slide 7 shows that even without the negative effect of broader tariffs, we see 
 Chinese growth slowing in our baseline.  Should a trade shock hit, with the increasing 
@@ -2549,7 +2549,7 @@ cycles.  A careful review of the historical evidence, as was done in the memo ju
 to the FOMC, suggests two important factors mitigate the effects of Fed tightening 
 abroad:  first, if rising U.S. interest rates are in response to strong U.S. growth and, 
 second, if EMEs are relatively sound. 
-That said, in the Tealbook we have the policy rate rising to 4¾ percent by the end 
+That said, in the Tealbook we have the policy rate rising to 4.75 percent by the end 
 of the forecast period, about 150 basis points above that of the median SEP projection 
 and the Blue Chip consensus.  So, as raised in the next slide, it is worth asking what 
 effect the Tealbook interest rate path might have on EMEs. 
@@ -2796,7 +2796,7 @@ and it’s still not at 2.5 percent, and if you extend that a few years, does it
 level off? 
 MR. ENGEN.  No, it would level off.  And eventually, in the out years, it would come 
 back to 2 percent. 
-MR. EVANS.  Does it get to 2½?  Do you remember? 
+MR. EVANS.  Does it get to 2.5?  Do you remember? 
 MR. ENGEN.  I don’t know where it gets beyond 2024 there. 
 MR. EVANS.  I mean, it just looks like it’s still going up at this point—off and it kind 
 of— 
@@ -3024,7 +3024,7 @@ financial crises.  While there may be good reasons for cross-country divergence 
 rates, it may be worth considering whether this could become a problem in a future crisis. 
 My second observation is that the cap rate on multifamily real estate is currently 
 5.36 percent, according to Real Capital Analytics.  The Tealbook has the 10-year Treasury rate 
-rising to 4¼ percent over the forecast horizon, which would produce an increasingly narrow 
+rising to 4.25 percent over the forecast horizon, which would produce an increasingly narrow 
 spread relative to multifamily real estate cap rates.  If one assumes the Tealbook baseline is 
 reasonable, there’s a significant chance that the multifamily cap rate will rise with the rising 
 Treasury rate.  Of course, the main way that the cap rate would adjust to a rising-rate 
@@ -3475,13 +3475,13 @@ output growing at an average pace of 3.9 percent through the third quarter.  Not
 to the Bureau of Labor Statistics (BLS), productivity growth in the business sector, output per 
 hour, is averaging 2 percent through the first three quarters of the year, while aggregate hours 
 worked are up by 1.9 percent.  Now, of course, these numbers are well above longer-run 
-estimates.  The staff estimates that the long-run trend in hours growth is running at about ½ 
+estimates.  The staff estimates that the long-run trend in hours growth is running at about 0.5 
 percent and productivity perhaps at 1.4 percent.  Obviously, in 2018 we have extra growth in 
 both supply and productivity, but it’s important to note that we’re operating in an environment 
 now with stable inflation, and so the actual growth in supply this year through hours worked on 
 the employment side and productivity is certainly in line with the robust demand in the economy. 
 Now, ultimately, of course, once the participation rate and unemployment rate stabilize at 
-some point in the future, this ½ percent speed limit on aggregate hours growth will become 
+some point in the future, this 0.5 percent speed limit on aggregate hours growth will become 
 binding, but I think how quickly this happens will depend in part on labor force participation.  
 November 7–8, 2018
 101 of 236
@@ -3953,7 +3953,7 @@ new entrants into the labor force.  The unemployment rate remains at 3.7 percent
 level in almost 50 years, and participation continues to show cyclical gains. 
 There are a variety of signals that I consult in gauging how tight the labor market might 
 be.  The employment-to-population ratio among prime-age workers has risen and now is only 
-about ½ percentage point below its previous cyclical peak.  And while it’s been nearly 50 years 
+about 0.5 percentage point below its previous cyclical peak.  And while it’s been nearly 50 years 
 since we saw unemployment as low as it is today, the working-age population is much more 
 November 7–8, 2018
 117 of 236
@@ -3983,7 +3983,7 @@ softness to be transitory.  Business investment can be quite volatile, and we’
 during the current expansion when weak quarterly growth proved to be transitory. 
 Business sentiment is ebullient, and we likely have not yet seen the full effects of the 
 recent corporate tax cuts.  For these reasons, the baseline forecast seems reasonable to me.  It has 
-business investment rebounding in the fourth quarter and growing at a robust 4½ percent pace in 
+business investment rebounding in the fourth quarter and growing at a robust 4.5 percent pace in 
 the first half of next year.  Nonetheless, actual and threatened trade measures are creating 
 November 7–8, 2018
 118 of 236
@@ -3999,7 +3999,7 @@ sensitivity.  Here, too, I’m watching developments very closely, but residenti
 less of an engine of overall growth in this expansion compared with previous expansions, so we 
 might expect a commensurately smaller overall effect due to its softening. 
 Financial conditions tightened last month.  As of yesterday, from the last time we met in 
-September, the dollar has appreciated about 1½ percent.  The 10-year Treasury yield is 12 points 
+September, the dollar has appreciated about 1.5 percent.  The 10-year Treasury yield is 12 points 
 higher.  Spreads on corporate bonds are wider by 20 basis points for triple-B-rated bonds and 
 almost 50 basis points for high-yield bonds.  Equity prices are also down, but that is changing by 
 the minute. 
@@ -4103,7 +4103,7 @@ but we’re going to continue to watch it closely.  I would also note that this 
 weakness is off a very high sales base and may be evidence of a temporary pause versus a more 
 sustained decline, but time will tell, and we need to watch this carefully. 
 Regarding the United States, our Dallas Fed economists expect 3 percent real GDP 
-growth for 2018 but expect a slowing to 2¼ to 2½ percent in 2019, trending toward 2 percent in 
+growth for 2018 but expect a slowing to 2.25 to 2.5 percent in 2019, trending toward 2 percent in 
 November 7–8, 2018
 122 of 236
 
@@ -4238,8 +4238,8 @@ and trade policy may be constraining more robust capital expenditures, but that 
 be using internal cash flow rather than bank lending to fund projects.  The bankers also indicate 
 that labor shortages, particularly in the area of skilled labor, may be constricting expansion.  
 Indeed, District labor market conditions remain strong, and companies continue to say it’s hard 
-to find workers.  The District’s unemployment rate was 4½ percent in September, near its lowest 
-level since the early 2000s and about ½ percentage point below the Cleveland staff’s current 
+to find workers.  The District’s unemployment rate was 4.5 percent in September, near its lowest 
+level since the early 2000s and about 0.5 percentage point below the Cleveland staff’s current 
 estimate of the District’s longer-run normal rate of unemployment. 
 In September, year-over-year growth in payrolls picked up to 1.7 percent, well above the 
 Cleveland staff’s estimate of its longer-run trend.  Firms across a range of industries continue to 
@@ -4295,7 +4295,7 @@ Governor Brainard discussed.  I found your comments about the fact that there ar
 educated people in the labor force interesting.  But a lot of people tell me that a high-school 
 diploma back in the day is the equivalent of a college diploma today, so I guess maybe we need 
 to adjust for educational unit.  Anyway, the current unemployment rate is below the SEP median 
-estimate of the longer-run normal rate of 4½ percent, which is also my own estimate. 
+estimate of the longer-run normal rate of 4.5 percent, which is also my own estimate. 
 The labor force participation rate has remained broadly stable despite a declining longer-
 run trend due to the aging of the population.  The prime-age participation rate has moved up this 
 year.  While it has not reached its pre-recession level, it is at or above its trend level estimated by 
@@ -4509,7 +4509,7 @@ committee last month.  Frankly, we’re going to be hearing this complaint for a
 Business economic analysis indicates that trend growth is being held back in part by slower labor 
 force growth.  But many Main Street and corporate businesspeople do not fully appreciate that 
 this means business expansion activity is going to be more difficult in a world in which 
-underlying growth in available labor input is more like ½ percent per year rather than 1 percent.  
+underlying growth in available labor input is more like 0.5 percent per year rather than 1 percent.  
 And the loudest complainers may be those with weaker business propositions than margins and 
 an inability to pay up for talent.  That means we need to be careful not to interpret all business 
 reports of labor shortages as indicating that we are operating at more than full employment.  It 
@@ -4525,8 +4525,8 @@ November 7–8, 2018
  
  
  
-potential in 2021.  Our unemployment rate projection falls to 3½ percent by the end of next year, 
-then edges up to 3¾ percent by the end of the forecast period.  This compares with my own 
+potential in 2021.  Our unemployment rate projection falls to 3.5 percent by the end of next year, 
+then edges up to 3.75 percent by the end of the forecast period.  This compares with my own 
 natural rate assumption of 4.3 percent.  Core inflation is projected to move up to 2.2 percent in 
 2020 and ’21.  The rate path underlying this projection is also unchanged from last round.  It has 
 a gradual increase in the funds rate to a mildly restrictive stance over the course of the next year 
@@ -4646,7 +4646,7 @@ November 7–8, 2018
  
 conditions paint a picture of further tightening but not a significant overheating.  Consistent with 
 aggregate measures of wage growth, reports suggest some firming in labor costs, with most 
-reports citing merit increases in the 3 to 3½ percent range. 
+reports citing merit increases in the 3 to 3.5 percent range. 
 Firms in my District continue to voice their concerns regarding rising nonlabor input 
 costs.  These views were particularly salient in industries affected by increased tariffs and in 
 industries that incur significant costs related to transportation.  As was the case last cycle, these 
@@ -4783,7 +4783,7 @@ have been mixed across the District.
 Regarding the national economy, recent expenditure data—in particular, the consumer 
 spending data—have generally been stronger than I expected, leading to a modest increase in my 
 real GDP growth projection for the second half of the year.  Labor market indicators continue to 
-be very positive.  The unemployment rate is down nearly ½ percentage point over the past year, 
+be very positive.  The unemployment rate is down nearly 0.5 percentage point over the past year, 
 and much has been made of the fact that this is the lowest unemployment rate in nearly 50 years.  
 November 7–8, 2018
 145 of 236
@@ -4912,7 +4912,7 @@ November 7–8, 2018
  
  
  
-3½ percent is pretty high.  I think I would take the “under” if we have that kind of growth, so 
+3.5 percent is pretty high.  I think I would take the “under” if we have that kind of growth, so 
 we’ll see. 
 Despite this tight labor market, these forecasts also show inflation remaining near 
 2 percent throughout the forecast horizon.  Let’s face it.  This is a great baseline outlook.  But, as 
@@ -4944,7 +4944,7 @@ November 7–8, 2018
  
 increase.  In addition, the balance sheet will have shrunk by $500 billion from its peak by year-
 end 2018, a significant further tightening.  All told, that’s a lot of removal of accommodation for 
-a world in which we think the neutral nominal interest rate might be in the range of 2½ to 3½ 
+a world in which we think the neutral nominal interest rate might be in the range of 2.5 to 3.5 
 percent.  And there’s another $500 billion or so in balance sheet shrinkage coming in 
 expectation. 
 As we love to remind the public, and often do, our policy works with a lag, and the 
@@ -5001,7 +5001,7 @@ middle-right panel shows the subjective probabilities of various year-ahead outc
 for core PCE inflation as given in  the Survey of Professional Forecasters.  The 
 darkest blue bars plot the most recently available data, while the lighter blue bars 
 show results for one and two years earlier.  The probabilities for year-ahead core 
-inflation outcomes above 2½ percent have moved up significantly over this period.  
+inflation outcomes above 2.5 percent have moved up significantly over this period.  
 While these probabilities are not alarming at present, they do indicate an upward shift 
 in the balance of risks for inflation. 
 In contrast, alternative A, outlined in the lower-left panel, is motivated by the 
@@ -5484,8 +5484,8 @@ unemployment may be drifting down.
 So then, what is neutral?  I appreciate the Chair’s admonition to not worry about point 
 estimates, but I did prepare this in advance, so I ask for his forbearance.  [Laughter]  We know 
 that r* is uncertain.  All of our favorite estimates have large confidence intervals.  My SEP 
-estimate of r* is the highest around the table at 3½ percent, representing productivity growth of 
-1 percent and labor force growth of ½ percent.  I do see the past 10 years of productivity and real 
+estimate of r* is the highest around the table at 3.5 percent, representing productivity growth of 
+1 percent and labor force growth of 0.5 percent.  I do see the past 10 years of productivity and real 
 rates as abnormally depressed by what was, I hope, a once-in-our-lifetime financial market 
 failure—in other words, not a normal set of data.  While business dynamism may indeed be 
 persistently lower, I am hopeful that business confidence will be driving investment and will 
@@ -5599,8 +5599,8 @@ for today.  I support “no change” today, and alt-B sums it up pretty well.  
 Tealbook B and Trevor’s briefing remind us that we have some work ahead in deciding how to 
 change the statement’s guidance about the funds rate. 
 My view of appropriate policy is pretty close to the September SEP median.  I see 
-moving the funds rate target range to 3 to 3¼ percent by late 2019.  That would be mildly 
-restrictive under my estimate of 2¾ percent for the long-run neutral rate. 
+moving the funds rate target range to 3 to 3.25 percent by late 2019.  That would be mildly 
+restrictive under my estimate of 2.75 percent for the long-run neutral rate. 
 My outlook is premised on no additional shocks and holding the funds rate at this range 
 through the remainder of the projection period and perhaps beyond.  Because my baseline path 
 contains four more quarter-point increases, my immediate policy views are well described by the 
@@ -5609,7 +5609,7 @@ be appropriate.  But this language won’t work after the next couple of moves. 
 no surprises in the incoming data, our uncertainty over r* means it will be prudent to continue 
 assessing conditions carefully to gauge the stance of policy. 
 If financial conditions end up imparting more restraint than expected today, this could 
-well mean that our rate cycle tops out in June at 2¾ to 3 percent.  Or if the economy is still 
+well mean that our rate cycle tops out in June at 2.75 to 3 percent.  Or if the economy is still 
 roaring along, we may need to prepare the public for several additional policy moves.  Before we 
 get to such decision points, we’re going to need a more flexible policy statement that 
 communicates this data dependence. 
@@ -5873,7 +5873,7 @@ be prudent to raise the IOER just 20 basis points in December, assuming that we 
 rate target range 25 basis points. 
 Assuming that we do raise the target funds rate in December, we will—I’m just going to 
 say something that many people have already said—be drawing very close to estimates of the 
-neutral rate, in particular my estimate of neutral, which is ½ percent in real terms.  We’ll also be 
+neutral rate, in particular my estimate of neutral, which is 0.5 percent in real terms.  We’ll also be 
 only 100 basis points short of the median projection of the funds rate in 2020, according to the 
 most recent SEP. 
 And I’m going to pick up on a theme that President Evans made.  I mean, my remarks are 

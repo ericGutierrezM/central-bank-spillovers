@@ -415,7 +415,7 @@ October 29-30, 2019
  
 about the scenarios that we should be worried about:  We’re in a world in which many European 
 countries and Japan have zero across the yield curve.  We have a 10-year Treasury rate in the 
-United States that got as low as 1½ percent in an environment of 2 percent real GDP growth.  So 
+United States that got as low as 1.5 percent in an environment of 2 percent real GDP growth.  So 
 what probability would you attach to actually having the long rate at zero by the time we have 
 negative GDP growth?  And, if so, do we need more of a discussion about what we do? 
 A lot of these things assume there’s enough room, that there’s a bunch of actions we can 
@@ -848,7 +848,7 @@ the guidance as necessary depending on the evolution of the economy.  My prefere
 to combine outcome-based and date-based guidance.  Outcome-based forward guidance links 
 policy to the achievement of certain goals, which is desirable. 
 Now, when choosing the outcome setting, some judgment needs to be applied.  In the 
-December 2012 outcome-based forward guidance, the 6½ percent unemployment rate threshold 
+December 2012 outcome-based forward guidance, the 6.5 percent unemployment rate threshold 
 turned out not to be ambitious enough.  But, remember, that’s partly because u* was changing as 
 well.  If structural changes to the economy are occurring in addition to cyclical changes, there’s 
 going to be an element of art as well as science in choosing appropriate outcomes to put into 
@@ -1110,9 +1110,9 @@ The second challenge was the focus of our discussion in July.  We may need to su
 inflation above 2 percent for some of the period when the economy is away from the effective 
 lower bound in order to compensate for periods below 2 percent.  That’s why we should clarify 
 in the Statement on Longer-Run Goals and Monetary Policy Strategy that we aim for inflation to 
-average around 2 percent over time.  That could mean targeting inflation in the range of 2 to 2½ 
+average around 2 percent over time.  That could mean targeting inflation in the range of 2 to 2.5 
 percent over the next five years to make up for the past five years when inflation has been in the 
-range of 1½ to 2 percent. 
+range of 1.5 to 2 percent. 
 We might also want to review that after we’ve had some experience at the top of the 
 range.  That is one of the few ways in which we would partially reclaim some of the lost 
 conventional policy space associated with the decline in the real equilibrium rate and get at the 
@@ -3341,7 +3341,7 @@ Now, for the second off-script comment—I almost asked this question but didn�
 if, when we were thinking about what policy tool we were going to choose, instead of the federal 
 funds rate target range, we decided on “Let’s set the IOER rate”?  It’s an administered rate.  We 
 can hit that every—[laughter].  There’s a governance issue as to who gets to decide it.  What if 
-that wasn’t an issue?  What if we just said, “The IOER rate is going to be 1¾,” whatever it would 
+that wasn’t an issue?  What if we just said, “The IOER rate is going to be 1.75,” whatever it would 
 be right now?  How would I think about money market rates?  Why would I care about repo? 
 If I’ve got a financial stability argument for money market rates, I guess I would pay 
 attention to it, but everything that we’re talking about here is providing ample reserves—doing 
@@ -4269,7 +4269,7 @@ solid lines indicate the median estimate for each quarter.  The lighter shaded a
 denote the range of estimates, while the darker shaded areas highlight the middle 
 70 percent. 
 As shown in panel 8, estimates of LRUs decline gradually from around 6 percent 
-in the mid-1990s to around 4½ percent in recent years.  Estimates of SPUs, shown in 
+in the mid-1990s to around 4.5 percent in recent years.  Estimates of SPUs, shown in 
 panel 9, also decline, on net, but the most noticeable feature is the hump from about 
 2009 to 2014.  Finally, you can see that the range of estimates is wide for both 
 benchmark categories.  Although the central tendency for the LRU narrows 
@@ -4277,7 +4277,7 @@ considerably after 2010, it remains sizable for the SPU.
 Where does this leave us at present?  The upper portion of panel 10 is a histogram 
 of the most recent values from the time-series plots above, along with the median or 
 mean forecast from several surveys of professional forecasters.  The height of a bar 
-corresponds to the number of estimates in each ¼ percentage point interval.  The 
+corresponds to the number of estimates in each 0.25 percentage point interval.  The 
 lower portion of panel 10 reports the distribution of longer-run unemployment rate 
 projections from the September SEP. 
 As you can see by the light blue shaded area, the central tendency of the SEP sits 
@@ -5092,7 +5092,7 @@ expected.
 Despite the caution, District labor market conditions remain strong.  The unemployment 
 rate edged up to 4.2 percent in September, but it’s still well below the Cleveland staff’s estimate 
 of its longer-run normal level.  Year-over-year growth in payroll employment in the District has 
-remained near ½ percent over the past few months, in line with the Cleveland staff’s estimate of 
+remained near 0.5 percent over the past few months, in line with the Cleveland staff’s estimate of 
 its longer-run trend.  The expected benchmark revisions will make this a tad slower but still in 
 line with trend growth. 
 Contacts in a wide variety of sectors continue to report that it’s hard to find and retain 
@@ -5124,12 +5124,12 @@ of my focuses has been whether there are signs that the softness in the business
 over to the consumer sector and labor markets.  The good news is that, so far, there are few signs 
 of broader weakness.  The consumer side of the economy continues to do well.  Although 
 consumer spending has moderated from its strong second-quarter pace, it remains solid, and the 
-underlying fundamentals supporting it are sound.  Personal income growth has been between 4½ 
+underlying fundamentals supporting it are sound.  Personal income growth has been between 4.5 
 and 5 percent this year, household debt levels have risen with income and are not excessive, and 
 consumer confidence remains at a high level. 
 While business spending and sentiment have deteriorated this year amid concerns about 
 tariff and trade policy and risks to the outlook, this has yet to affect hiring.  Labor market 
-conditions remain strong.  In September, the unemployment rate fell to 3½ percent, the lowest 
+conditions remain strong.  In September, the unemployment rate fell to 3.5 percent, the lowest 
 October 29-30, 2019
 157 of 308
 
@@ -5735,7 +5735,7 @@ October 29-30, 2019
  
 exceptionally low.  Five-year TIPS break even at about 1.56, which seems crazy low to me.  
 That’s a CPI-based measure.  If you subtract 30 basis points from that, it means markets are 
-expecting only about 1¼ percent inflation over the next five years.  I think that should be a major 
+expecting only about 1.25 percent inflation over the next five years.  I think that should be a major 
 concern for the Committee.  Staff estimates taken at face value suggest the FOMC will not attain 
 its inflation target over the forecast horizon. 
 We have been cognizant of these risks as a committee.  We have taken action during 
@@ -5897,7 +5897,7 @@ point to modest declines in the second half, while manufacturing suggests that a
 move about sideways.  Net of transitory factors, including the GM strike, my modal outlook is 
 for GDP to grow at a near potential pace in the second half.  
 Internationally, the outlook hasn’t changed materially since we last met.  Growth in 
-China slowed to a weak 5½ percent in the third quarter, but some of this reflects temporary 
+China slowed to a weak 5.5 percent in the third quarter, but some of this reflects temporary 
 factors.  In the euro area, manufacturing output declined further, and services activity has also 
 turned down, raising concerns that manufacturing weakness might be spreading, but the 
 unemployment rate has continued to decline, nominal wage growth has been trending up, and 
@@ -6103,7 +6103,7 @@ near its long-run trend rate.
 On the labor market side, I expect employment to remain healthy, but with the pace of 
 payroll growth slowing for the rest of this year and into next, yet still at a pace able to 
 accommodate new entrants into the labor force without putting upward pressure on the 
-unemployment rate.  The current national unemployment rate of 3½ percent is extremely low, 
+unemployment rate.  The current national unemployment rate of 3.5 percent is extremely low, 
 and my expectation is that it will hold steady or even decline over the next year.  Many factors 
 lead me to this view, but in particular, I just don’t see that the interaction between wages and 
 unemployment is functioning in a way that in the past would indicate the bottom of the 
@@ -6399,7 +6399,7 @@ Series.  [Laughter]
 Although the Nationals have never played in a World Series before, the Washington 
 Senators did play in two, back in 1924 and 1933.  Careful historical and econometric analysis 
 reveals that when the Washington team won the series, the following year, the economy grew 
-around 2½ percent.  That’s based on Christy Romer’s very careful study.  That’s a good number 
+around 2.5 percent.  That’s based on Christy Romer’s very careful study.  That’s a good number 
 that would, I think, be an improvement, actually, on the Tealbook forecast.  However, when the 
 Senators lost, the economy soared a staggering 10.8 percent in the following year.  And this is 
 one source of uncertainty that will be resolved very soon—probably tonight.  [Laughter]  Ouch.  
@@ -6492,7 +6492,7 @@ that we’ve made over the course of the year.
 While the outlook remains favorable, both the slowing in activity and the downside risks 
 continue to call for caution and careful monitoring.  Real GDP has slowed significantly since last 
 year and is growing at about trend, or 2 percent, for the year, although it’s worth noting that 
-growth was 2½ percent in the first half and is expected to be 1½ percent in the second half. 
+growth was 2.5 percent in the first half and is expected to be 1.5 percent in the second half. 
 Household spending continues at a solid pace, propelled by a strong job market and solid 
 consumer confidence.  More signs are emerging that lower interest rates are supporting consumer 
 demand. 
@@ -6507,7 +6507,7 @@ Business investment, manufacturing, and exports remain weak, restrained by the
 synchronized global slowdown and trade uncertainty.  A major risk is that the weakness in 
 manufacturing, investment, and exports will begin to undermine household confidence and 
 spending, the engine that has been driving the expansion. 
-With the unemployment rate at 3½ percent and prime-age labor force participation 
+With the unemployment rate at 3.5 percent and prime-age labor force participation 
 having risen, the labor market is in a strong position.  The unemployment rate has declined, and 
 the household survey has been strong—stronger than the establishment survey.  Payroll jobs 
 have slowed from about 190,000 jobs per month in 2018 to slightly above breakeven at 135,000 
@@ -6642,7 +6642,7 @@ premiums.  Alas, both of these measures also suggest that long-term inflation
 expectations have eroded this year and account for the bulk of the decline in inflation 
 compensation.  Of note, these expectations are of CPI inflation 5 to 10 years into the 
 future; the corresponding expectations regarding PCE inflation are presumably at 
-least ¼ percentage point lower.  Somewhat in contrast, most survey-based measures 
+least 0.25 percentage point lower.  Somewhat in contrast, most survey-based measures 
 October 29-30, 2019
 207 of 308
 
@@ -7013,7 +7013,7 @@ you speak.  We’ve put a lot of stimulus behind risk and uncertainty already, a
 prefer to put more weight on data as we go forward.  Thank you, Mr. Chair. 
 CHAIR POWELL.  Thank you.  President Evans. 
 MR. EVANS.  Thank you, Mr. Chair.  I support the 25 basis point rate cut in 
-alternative B, setting the target funds rate range at 1½ to 1¾ percent.  I have strongly supported 
+alternative B, setting the target funds rate range at 1.5 to 1.75 percent.  I have strongly supported 
 our rate cuts this year for two reasons:  risk management against the downside threats to growth 
 October 29-30, 2019
 219 of 308
@@ -7069,11 +7069,11 @@ which I see no resolution to in the near term; a slowing global economy; a weak 
 sector; and weak business investment in the United States. 
 The slowing economy has now come to 1.9 percent for the third-quarter GDP growth 
 number, which we just got.  That’s very close to what most people around the table here have as 
-trend.  I actually would put the trend somewhat higher—2 to 2¼ percent.  I do think productivity 
+trend.  I actually would put the trend somewhat higher—2 to 2.25 percent.  I do think productivity 
 has been improving and will continue to improve.  So you could argue that we’re right at the 
 cusp of possibly falling below trend growth.  We’ll see what happens. 
 I still have the idea that we’re at the low point here, and that real GDP growth in the first 
-half of 2020 will be stronger—2¼ percent, or maybe better than that.  That would be great.  That 
+half of 2020 will be stronger—2.25 percent, or maybe better than that.  That would be great.  That 
 October 29-30, 2019
 221 of 308
 
@@ -7085,7 +7085,7 @@ would be a great outcome.  And, if that happens, then we could think about takin
 insurance cuts back in 2020 or 2021. 
 We also have low inflation and inflation expectations.  I’m going to echo some of 
 President Evans’s comments here and Governor Clarida’s comments.  A TIPS-based five-year 
-inflation expectation adjusted to PCE inflation—my reading is, it’s only 1¼ percent over the next 
+inflation expectation adjusted to PCE inflation—my reading is, it’s only 1.25 percent over the next 
 five years.  It makes me very nervous about our ability to stay off the effective lower bound, 
 which is, I think, the critical thing for our era—to keep the United States off the effective lower 
 bound. 
@@ -7098,7 +7098,7 @@ government work.  The cumulative miss since 2012 is substantial.  In my view, we
 You know, we’re more than 5 percent off that price-level path today.  And in a lot of models and 
 our own models that we use here, price-level targeting is close to optimal, so I think that does 
 represent some suboptimal policy since 2012.  If you wanted to get back on the price-level path, 
-you could run a 2½ percent inflation policy for the next 10 years, and that would just get you 
+you could run a 2.5 percent inflation policy for the next 10 years, and that would just get you 
 back to that 1995–2012 path. 
 So I do think it’s been substantial cumulatively.  I think that’s because some inside and 
 outside the Committee are viewing the 2 percent inflation objective as a ceiling, not as a target 
@@ -7115,8 +7115,8 @@ the longer-run inflation expectation down to 1.8 percent.
 So, again, if you’re trying to stay off the effective lower bound, none of this sounds very 
 good.  What I’d really like to see in the current situation, in which the expansion has been going 
 on for a long time—we have very strong labor markets—I’d like inflation to be above 2 percent, 
-even as high as 2½ percent, during this period.  So if you think of it that way, we’re missing a 
-long ways below where we should be.  If we’re at 2½ percent, then, when some recession or big 
+even as high as 2.5 percent, during this period.  So if you think of it that way, we’re missing a 
+long ways below where we should be.  If we’re at 2.5 percent, then, when some recession or big 
 shock comes in the future, we’ll average out to 2 percent, we’ll be able to hit our 2 percent target, 
 and that will keep inflation expectations centered where we’d like them to be. 
 We’re not doing that now.  You know, that’s my assessment of the current situation.  I do 
@@ -7206,7 +7206,7 @@ reflect a more balanced view of the risks to the outlook and to convey our curre
 that no further moves will be needed unless the outlook deteriorates.  Thank you, Mr. Chair. 
 CHAIR POWELL.  Thank you.  President George. 
 MS. GEORGE.  Thank you, Mr. Chairman.  Incoming data continue to support an 
-outlook for growth at or above potential, with record-low unemployment at 3½ percent and low 
+outlook for growth at or above potential, with record-low unemployment at 3.5 percent and low 
 and stable core inflation currently at 2.2 percent. 
 In the face of downside risks to the outlook, the Committee has provided significant 
 accommodation in the form of a lower projected path since last year and reductions in the federal 
