@@ -1,5 +1,5 @@
 """
-Copy Fed and BoE transcripts into data/transcripts_cleaned/, filtered to
+Copy Fed and BoE transcripts into data/transcripts_normalized/, filtered to
 the study window 2015-01-01 -- 2025-12-31, with consistent naming.
 
 Output naming
@@ -117,7 +117,7 @@ def process_boe(out_root: Path) -> None:
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    out_root = ROOT / "data" / "transcripts_cleaned"
+    out_root = ROOT / "data" / "transcripts_normalized"
     process_fed(out_root)
     process_boe(out_root)
 

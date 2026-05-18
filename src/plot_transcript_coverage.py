@@ -11,7 +11,7 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data" / "transcripts_cleaned"
+DATA_DIR = ROOT / "data" / "transcripts_normalized"
 OUTPUT_PATH = ROOT / "output" / "coverage_timeline.png"
 
 BANKS = ("Fed", "ECB", "BoE")
@@ -65,7 +65,7 @@ def build_month_index(series_list: list[BankSeries]) -> pd.DatetimeIndex:
         for (year, month) in series.monthly_counts
     ]
     if not all_keys:
-        raise ValueError("No transcript files found in data/transcripts_cleaned.")
+        raise ValueError("No transcript files found in data/transcripts_normalized.")
 
     start = min(all_keys)
     end = max(all_keys)

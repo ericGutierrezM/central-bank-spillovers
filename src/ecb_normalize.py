@@ -2,7 +2,7 @@
 Normalize ECB press conference transcripts.
 
 Reads from:  data/transcripts/ECB/
-Writes to:   data/transcripts_cleaned/ECB/
+Writes to:   data/transcripts_normalized/ECB/
 
 Output filename: ECB_YYYYMMDD.txt  (raw text, no added headers)
 Study window:    2015-01-01 to 2025-12-31
@@ -46,7 +46,7 @@ def parse_date(filename: str) -> date | None:
 
 def main() -> None:
     ecb_dir = Path(__file__).parent.parent / "data" / "transcripts" / "ECB"
-    out_dir  = Path(__file__).parent.parent / "data" / "transcripts_cleaned" / "ECB"
+    out_dir  = Path(__file__).parent.parent / "data" / "transcripts_normalized" / "ECB"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     files = sorted(ecb_dir.glob("*.txt"))

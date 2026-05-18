@@ -45,7 +45,7 @@ The sequence of β_h coefficients forms the Impulse Response Function. Run for b
 
 | Type | Source | Variables | Status |
 |------|--------|-----------|--------|
-| Text | Fed, ECB, BoE websites | FOMC / ECB / BoE press conference transcripts (~261 docs, 2015–2025) | Converted to txt — `data/transcripts_cleaned/` |
+| Text | Fed, ECB, BoE websites | FOMC / ECB / BoE press conference transcripts (~261 docs, 2015–2025) | Converted to txt and normalized — `data/transcripts_normalized/` |
 | Equities | Yahoo Finance | S&P 500, Euro Stoxx 50, FTSE 100 (daily) | Collected — `data/controls/global_indices_daily.csv`; 1 missing value (Euro Stoxx 50) |
 | Risk | Yahoo Finance | VIX (daily) | Collected — `data/controls/vix_daily.csv`; calendar alignment vs. equity file TBD |
 | Rates | Yahoo Finance / FRED | 10Y US Treasury, German Bund, UK Gilt | Not yet collected |

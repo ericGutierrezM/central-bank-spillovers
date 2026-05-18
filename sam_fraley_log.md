@@ -18,7 +18,7 @@ Author: Samuel Fraley (BSE 2025–2026)
 - Built `src/boe_pdf_to_txt.py` — converts 84 BoE PDFs to `BoE_YYYYMM_{type}.txt` in `data/transcripts/BoE/raw/`
   - Collapses three legacy naming conventions (inflation-report, press-conference, mpr) into `transcript` / `opening` types
   - Skips 15 slide-deck PDFs (near-zero prose)
-- Built `src/ecb_normalize.py` — renames 89 ECB `.txt` files to `ECB_YYYYMMDD.txt` in `data/transcripts_cleaned/ECB/`
+- Built `src/ecb_normalize.py` — renames 89 ECB `.txt` files to `ECB_YYYYMMDD.txt` in `data/transcripts_normalized/ECB/`
   - Filters to 2015–2025 study window (drops 206 pre-2015 files)
   - Handles old `is*`, modern `ecb.is*`, hash suffixes, and one-off `ecb.sp*` special presser
 
@@ -28,22 +28,22 @@ Author: Samuel Fraley (BSE 2025–2026)
 |------|----------|-------|----------|
 | Fed | `data/transcripts/Fed/raw/` | 174 | 2007–2026 (meeting + confcall + presconf) |
 | BoE | `data/transcripts/BoE/raw/` | 84 | 2015–2026 (transcript + opening) |
-| ECB | `data/transcripts_cleaned/ECB/` | 89 | 2015–2025 |
+| ECB | `data/transcripts_normalized/ECB/` | 89 | 2015–2025 |
 
 **Open questions / next steps:**
 - Fed files include pre-2015 meetings and confcalls — will need to filter to study window before scoring
 - BoE has no exact day in filenames (only YYYYMM) — need to look up exact MPC meeting dates for event-study alignment
-- Fed and BoE not yet moved to `transcripts_cleaned/` — consider doing that before LLM scoring
+- Fed and BoE not yet moved to `transcripts_normalized/` — consider doing that before LLM scoring
 - Next milestone: write and test the LLM scoring prompt (Hawkishness 1–10, Uncertainty 1–10) on a small batch
 
 ---
 
 ## Session 2 — 2026-05-09
 
-**Goal:** Standardize Fed and BoE into `transcripts_cleaned/`, set up session logging, and plan coverage visualization.
+**Goal:** Standardize Fed and BoE into `transcripts_normalized/`, set up session logging, and plan coverage visualization.
 
 **Completed:**
-- Built `src/standardize_cleaned.py` — copies Fed and BoE processed files into `data/transcripts_cleaned/`, filtered to 2015–2025 study window, with consistent naming:
+- Built `src/standardize_normalized.py` — copies Fed and BoE processed files into `data/transcripts_normalized/`, filtered to 2015–2025 study window, with consistent naming:
   - Fed: `Fed_YYYYMMDD_{meeting|confcall|presconf}.txt` (90 files; 84 pre-2015 dropped)
   - BoE: `BoE_YYYYMM_{transcript|opening}.txt` (82 files; 2 post-2025 dropped)
 - Created `sam_fraley_log.md` (this file) for session-by-session research logging
@@ -54,9 +54,9 @@ Author: Samuel Fraley (BSE 2025–2026)
 
 | Bank | Location | Files | Coverage |
 |------|----------|-------|----------|
-| Fed | `data/transcripts_cleaned/Fed/` | 90 | 2015–2025 |
-| BoE | `data/transcripts_cleaned/BoE/` | 82 | 2015–2025 |
-| ECB | `data/transcripts_cleaned/ECB/` | 89 | 2015–2025 |
+| Fed | `data/transcripts_normalized/Fed/` | 90 | 2015–2025 |
+| BoE | `data/transcripts_normalized/BoE/` | 82 | 2015–2025 |
+| ECB | `data/transcripts_normalized/ECB/` | 89 | 2015–2025 |
 
 **Open questions / next steps:**
 - BoE counts 2 files per meeting (transcript + opening) — decide whether coverage plot shows files or meetings
