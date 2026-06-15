@@ -218,9 +218,10 @@ PATTERNS: list[tuple[re.Pattern, str | None]] = [
 # Matches timestamps like "0:00:58" or "1:23:45" (2025 transcripts)
 _TIMESTAMP_RE = re.compile(r"^\d+:\d{2}:\d{2}$")
 
-# Matches a speaker label at the start of a line: "Name:" or "Name, Outlet:"
+# Matches a speaker label at the start of a line: "Name:", "Name, Outlet:", or "Name (XX):"
+# The optional (XX) handles 2017-era BoE transcripts where speakers have initials e.g. "Mark Carney (MC):"
 # Used for 2015-2019 era where there is no bold.
-_SPEAKER_INLINE_RE = re.compile(r"^([A-Z][A-Za-z\s\-\'\.]+(?:,\s*[^:]+)?):\s{1,}")
+_SPEAKER_INLINE_RE = re.compile(r"^([A-Z][A-Za-z\s\-\'\.]+(?:,\s*[^:(]+)?(?:\s*\([A-Z]{1,4}\))?):\s{1,}")
 
 # Matches legacy page header lines to skip: "Page  2" or "Report Q&A - DD.MM.YY"
 _PAGE_HEADER_RE = re.compile(r"^Page\s+\d+$|Q&A\s*[-–]\s*\d{1,2}\.\d{1,2}\.\d{2}")

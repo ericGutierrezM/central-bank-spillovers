@@ -205,7 +205,8 @@ IN_DIR = ROOT / "data" / "transcripts" / "BoE" / "raw"
 OUT_PATH = ROOT / "data" / "corpus" / "BoE.csv"
 
 # Speaker role lists (expand as needed)
-GOVERNORS  = {"mark carney", "andrew bailey"}
+# Full names and first-name-only variants (2021 transcripts use first names only)
+GOVERNORS  = {"mark carney", "andrew bailey", "mark", "andrew"}
 OFFICIALS  = {"ben broadbent", "dave ramsden", "david ramsden", "jon cunliffe",
               "minouche shafik", "sam woods", "clare lombardelli", "sarah breeden"}
 MODERATORS = {"katie martin", "sebastian walsh", "james bell", "jamie bell"}
@@ -284,12 +285,22 @@ def process_file(path: Path) -> list[dict]:
 
     _, yyyymm, doc_type = parts
 
+    # Keep only transcript files — opening doc_type is excluded
+    if doc_type != "transcript":
+        return []
+
     raw = path.read_text(encoding="utf-8")
     text = _clean_text(raw)
     turns = _parse_turns(text, doc_type)
 
     rows = []
     for turn_idx, (speaker, turn_text) in enumerate(turns):
+        role = _speaker_role(speaker, doc_type)
+
+        # Keep only governor Q&A turns
+        if role != "governor":
+            continue
+
         turn_text = _ANY_WS.sub(" ", turn_text).strip()
         if turn_text:
             rows.append({
@@ -297,7 +308,7 @@ def process_file(path: Path) -> list[dict]:
                 "date":         yyyymm,
                 "doc_type":     doc_type,
                 "speaker":      speaker,
-                "speaker_role": _speaker_role(speaker, doc_type),
+                "speaker_role": role,
                 "turn_idx":     turn_idx,
                 "text":         turn_text,
             })
@@ -309,14 +320,25 @@ def main_boe() -> None:
         sys.exit(f"No files found in {IN_DIR}")
 
     all_rows = []
+    warnings = []
     for f in files:
         rows = process_file(f)
+        if not rows and f.stem.endswith("_transcript"):
+            warnings.append(f.stem)
         all_rows.extend(rows)
 
     df = pd.DataFrame(all_rows)
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(OUT_PATH, index=False)
-    print(f"\nBoE done.")
+
+    transcript_files = [f for f in files if f.stem.endswith("_transcript")]
+    print(f"\nBoE done — {len(transcript_files)} transcript docs, {len(all_rows)} governor Q&A turns kept")
+    if warnings:
+        print(f"  [WARN] {len(warnings)} transcript(s) produced no governor turns:")
+        for w in warnings:
+            print(f"    {w}")
+    else:
+        print(f"  [OK] All {len(transcript_files)} transcripts produced governor turns")
 
 main_boe()
 
@@ -635,6 +657,12 @@ def process_file(path: Path) -> list[dict]:
 
     rows = []
     for turn_idx, (speaker, doc_type, turn_text) in enumerate(turns):
+        role = _speaker_role(speaker)
+
+        # Keep only president Q&A turns (presser section, not opening)
+        if not (role == "president" and doc_type == "presser"):
+            continue
+
         turn_text = _WHITESPACE.sub(" ", turn_text).strip()
         if turn_text:
             rows.append({
@@ -642,7 +670,7 @@ def process_file(path: Path) -> list[dict]:
                 "date":         yyyymmdd,
                 "doc_type":     doc_type,
                 "speaker":      _normalize_speaker(speaker),
-                "speaker_role": _speaker_role(speaker),
+                "speaker_role": role,
                 "turn_idx":     turn_idx,
                 "text":         turn_text,
             })
@@ -654,13 +682,23 @@ def main_ecb() -> None:
         sys.exit(f"No ECB_*.txt files found in {IN_DIR}")
 
     all_rows = []
+    warnings = []
     for f in files:
         rows = process_file(f)
+        if not rows:
+            warnings.append(f.stem)
         all_rows.extend(rows)
 
     df = pd.DataFrame(all_rows)
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(OUT_PATH, index=False)
-    print(f"\nECB done.")
+
+    print(f"\nECB done — {len(files)} docs, {len(all_rows)} president Q&A turns kept")
+    if warnings:
+        print(f"  [WARN] {len(warnings)} doc(s) produced no president Q&A turns:")
+        for w in warnings:
+            print(f"    {w}")
+    else:
+        print(f"  [OK] All {len(files)} docs produced president turns")
 
 main_ecb()
