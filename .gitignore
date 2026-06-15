@@ -1,1 +1,13 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
 .env
+
+# PDFs — reproducible via src/text-pipeline/data-collection.py
+data/transcripts/**/*.pdf
+data/transcripts/*.pdf
+
+# IDE / OS
+.DS_Store
+*.DS_Store
