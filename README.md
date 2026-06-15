@@ -45,11 +45,76 @@ The sequence of β_h coefficients forms the Impulse Response Function. Run for b
 
 | Type | Source | Variables | Status |
 |------|--------|-----------|--------|
-| Text | Fed, ECB, BoE websites | FOMC / ECB / BoE press conference transcripts (~261 docs, 2015–2025) | Converted to txt and normalized — `data/transcripts_normalized/` |
+| Text | Fed, ECB, BoE websites | FOMC / ECB / BoE press conference transcripts (2015–2025) | Pipeline complete — `data/corpus/{Fed,BoE,ECB}.csv` |
 | Equities | Yahoo Finance | S&P 500, Euro Stoxx 50, FTSE 100 (daily) | Collected — `data/controls/global_indices_daily.csv`; 1 missing value (Euro Stoxx 50) |
-| Risk | Yahoo Finance | VIX (daily) | Collected — `data/controls/vix_daily.csv`; calendar alignment vs. equity file TBD |
+| Risk | Yahoo Finance | VIX (daily) | Collected — `data/controls/vix_daily.csv` |
 | Rates | Yahoo Finance / FRED | 10Y US Treasury, German Bund, UK Gilt | Not yet collected |
 | Macro | FRED | CPI/HICP, Unemployment (US, Eurozone, UK) | Not yet collected |
+
+### Corpus Coverage
+
+| Bank | Meetings | Q&A turns | Date range | Notes |
+|------|----------|-----------|------------|-------|
+| Fed | 73 | 1,914 | 2015-03 to 2025-12 | Chair Q&A turns only |
+| BoE | 44 | 910 | 2015-02 to 2025-11 | Governor Q&A turns only; 2020 has 5 meetings (inc. Mar 11 emergency) |
+| ECB | 89 | 856 | 2015-01 to 2025-12 | President Q&A turns only |
+
+See `data/corpus/KNOWN_ISSUES.md` for files with parsing edge cases and how they were resolved.
+
+---
+
+## Text Pipeline
+
+Focus is **press conference Q&A only** — opening statements and non-chair/governor/president speakers are excluded. The pipeline produces turn-level CSVs under `data/corpus/` — one per bank.
+
+### Coverage
+
+| Bank | Docs | Date range | Frequency |
+|------|------|------------|-----------|
+| Fed | 73 | 2015-03 to 2025-12 | Quarterly 2015–2018, every meeting 2019+ |
+| BoE | 44 | 2015-02 to 2025-11 | Quarterly (Feb, May, Aug, Nov) + 2 emergency meetings in 2020 |
+| ECB | 89 | 2015-01 to 2025-12 | ~8 per year |
+
+### Running from scratch
+
+All scripts run via `uv run <script>` from the repo root.
+
+**Step 1 — Download raw source files**
+
+```powershell
+uv run src/text-pipeline/A_data-collection.py
+```
+
+Downloads Fed press conference PDFs, ECB HTML transcripts, and BoE PDFs into `data/transcripts/{Bank}/`. Skips files already present. ECB uses Playwright — run `uv run python -m playwright install chromium` first if needed. Includes hardcoded fallbacks for 3 BoE 2020 meetings that used one-off URL structures (Mar 11 emergency, May, August joint MPR+FSR releases).
+
+**Step 2 — Convert to tagged text**
+
+```powershell
+uv run src/text-pipeline/B_data-cleaning.py
+```
+
+Converts PDFs to speaker-tagged `.txt` files. Fed uses ALL-CAPS label detection; BoE uses bold spans (2020+) or `Name:` regex (2015–2019); ECB copies normalized HTML. Prints a per-bank meeting count by year for coverage verification.
+
+**Step 3 — Build turn-level corpus CSVs**
+
+```powershell
+uv run src/text-pipeline/C_build-corpus.py
+```
+
+Parses speaker tags, filters to Q&A turns by the chair/governor/president only, writes `data/corpus/{Fed,BoE,ECB}.csv`. Prints health checks per bank — warnings if any document produces no chair turns.
+
+### CSV schema
+
+| Column | Description |
+|--------|-------------|
+| `doc_id` | e.g. `FOMCpresconf20240131`, `BoE_202408_transcript`, `ECB_20240912` |
+| `date` | `YYYYMM` (BoE) or `YYYYMMDD` (Fed, ECB) |
+| `doc_type` | Fed: `presconf` — BoE: `transcript` — ECB: `presser` |
+| `speaker` | Name string extracted from speaker tags |
+| `speaker_role` | `chair` (Fed) / `governor` (BoE) / `president` (ECB) |
+| `section` | `qa` (Fed only — opening statements excluded upstream) |
+| `turn_idx` | Integer position within the document |
+| `text` | Cleaned turn text |
 
 ---
 
