@@ -548,23 +548,21 @@ def _parse_alternating_qa(qa_text: str, president: str) -> list[tuple[str, str]]
     qa_text = _QA_SEP.sub("", qa_text)
     paras = _paragraphs(qa_text)
 
-    has_markers = any(p.startswith(("[Q] ", "[A] ")) for p in paras[:10])
+    has_markers = any(re.match(r"^\[([QA])\]", p) for p in paras[:10])
 
     if has_markers:
         current_speaker: str | None = None
         current_parts: list[str] = []
         turns: list[tuple[str, str]] = []
         for para in paras:
-            if para.startswith("[Q] "):
+            m = re.match(r"^\[([QA])\]\s*", para)
+            if m:
+                tag = m.group(1)
+                rest = para[m.end():]
                 if current_speaker and current_parts:
                     turns.append((current_speaker, " ".join(current_parts)))
-                current_speaker = "Question"
-                current_parts = [para[4:]]
-            elif para.startswith("[A] "):
-                if current_speaker and current_parts:
-                    turns.append((current_speaker, " ".join(current_parts)))
-                current_speaker = president
-                current_parts = [para[4:]]
+                current_speaker = "Question" if tag == "Q" else president
+                current_parts = [rest] if rest else []
             elif current_speaker:
                 current_parts.append(para)
         if current_speaker and current_parts:

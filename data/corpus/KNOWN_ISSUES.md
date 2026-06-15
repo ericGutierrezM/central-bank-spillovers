@@ -34,6 +34,6 @@ Files flagged during pipeline health checks, with notes on how they were address
 
 | File | Issue | Fix Applied | Manual Check |
 |------|-------|-------------|--------------|
-| `ECB_20230504` | Q&A section has `De Guindos:` label but Lagarde's answers are unlabeled — labeled parser runs but misses Lagarde | Not yet fixed | |
-| `ECB_20231026` | Same issue | Not yet fixed | |
-| `ECB_20250130` | Same issue | Not yet fixed | |
+| `ECB_20230504` | `ecb_remark.py` failed to add `[Q]/[A]` markers (ECB changed bold HTML formatting); `De Guindos:` label triggered labeled parser which missed unlabeled Lagarde turns | Manually added `[Q]`/`[A]`/`[Q-O]` markers to cleaned file; updated C to accept markers with or without trailing space | Spot-check Lagarde turns appear in ECB.csv |
+| `ECB_20231026` | Same root cause as above | Same manual fix | Spot-check Lagarde turns appear in ECB.csv |
+| `ECB_20250130` | Same root cause as above; no De Guindos label but alternating parser also failed (first journalist paragraph starts "The first question is..." not matching `_JOURN_START`) | Same manual fix | Spot-check Lagarde turns appear in ECB.csv |
