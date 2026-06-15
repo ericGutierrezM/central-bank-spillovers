@@ -250,6 +250,26 @@ def download_boe_transcripts():
                     continue                
                 time.sleep(1)
 
+    # 2020 releases that used one-off URL structures (joint MPR+FSR and emergency meetings)
+    hardcoded_pdfs = [
+        "https://www.bankofengland.co.uk/-/media/boe/files/news/2020/march/interest-rate-cut-11-march-2020-transcript.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2020/may/mpr-fsr-press-conference-transcript-may-2020.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2020/august/mpr-fsr-press-conference-transcript-august-2020.pdf",
+    ]
+    for full_url in hardcoded_pdfs:
+        filename = full_url.split('/')[-1]
+        if filename not in downloaded_files:
+            try:
+                pdf_response = session.get(full_url, timeout=15)
+                pdf_response.raise_for_status()
+                with open(os.path.join(output_dir, filename), 'wb') as f:
+                    f.write(pdf_response.content)
+                downloaded_files.add(filename)
+                new_downloads_count += 1
+                print(f"  [hardcoded] Downloaded {filename}")
+            except requests.exceptions.RequestException as e:
+                print(f"  [hardcoded] FAILED {filename}: {e}")
+
     print(f"\nSuccess! Downloaded {new_downloads_count} new BoE documents. Your '{output_dir}' directory now has a total of {len(downloaded_files)} files.")
 
 
