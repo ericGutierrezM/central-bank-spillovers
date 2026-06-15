@@ -40,7 +40,7 @@ _SPEAKER_SPLIT_RE = re.compile(
     r"\s+[A-Z][A-Z\-]+(?:\s+[A-Z][A-Z\-]+)*"       # title + surname(s)
     r"|[A-Z]{2,}(?:\s+[A-Z]{2,})+"                 # two+ standalone ALL-CAPS words
     r")"
-    r"\.\d*"                                        # period + optional footnote digit
+    r"[.:\-]\d*"                                    # period, colon, or dash + optional footnote digit
     r"\s+"                                          # 1+ whitespace
 )
 
