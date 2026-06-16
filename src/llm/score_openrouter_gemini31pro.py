@@ -1,12 +1,12 @@
 """
 Zero-shot stance classification of central bank press-conference chunks
-via OpenRouter (DeepSeek V4 Pro), using a 5-class scheme:
+via OpenRouter (Gemini 3.1 Pro), using a 5-class scheme:
 dovish / mostly dovish / neutral / mostly hawkish / hawkish.
 
 Resumable: re-running this script picks up where it left off (checks
 the existing prediction column in CHUNK_OUT and skips completed rows).
 
-Run from the `src/` directory: python score_openrouter_deepseekv4pro.py
+Run from the repo root: uv run python src/llm/score_openrouter_gemini31pro.py
 """
 
 import pandas as pd
@@ -17,16 +17,17 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 from openai import OpenAI
 
-load_dotenv('../.env', override=True)
+ROOT = Path(__file__).resolve().parents[2]
+load_dotenv(ROOT / '.env', override=True)
 
-CHUNKS_DIR = Path('../data/csv/chunks')
-OUT_DIR    = Path('../output/stance')
+CHUNKS_DIR = ROOT / 'data' / 'csv' / 'chunks'
+OUT_DIR    = ROOT / 'output' / 'stance'
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # --- only block that differs between the per-model scripts ---
-MODEL_KEY  = 'deepseekv4pro'
-MODEL_SLUG = 'deepseek/deepseek-v4-pro'        # EDIT if OpenRouter naming differs
-MODEL_TAG  = 'DEEPSEEKV4PRO'
+MODEL_KEY  = 'gemini31pro'
+MODEL_SLUG = 'google/gemini-3.1-pro-preview'        # EDIT if OpenRouter naming differs
+MODEL_TAG  = 'GEMINI31PRO'
 # ----------------------------------------------------------------
 
 CHUNK_OUT = OUT_DIR / f'chunk_predictions_{MODEL_KEY}.csv'

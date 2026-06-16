@@ -6,7 +6,7 @@ dovish / mostly dovish / neutral / mostly hawkish / hawkish.
 Resumable: re-running this script picks up where it left off (checks
 the existing prediction column in CHUNK_OUT and skips completed rows).
 
-Run from the `src/` directory: python score_openrouter_qwen35max.py
+Run from the repo root: uv run python src/llm/score_openrouter_qwen35max.py
 """
 
 import pandas as pd
@@ -17,10 +17,11 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 from openai import OpenAI
 
-load_dotenv('../.env', override=True)
+ROOT = Path(__file__).resolve().parents[2]
+load_dotenv(ROOT / '.env', override=True)
 
-CHUNKS_DIR = Path('../data/csv/chunks')
-OUT_DIR    = Path('../output/stance')
+CHUNKS_DIR = ROOT / 'data' / 'csv' / 'chunks'
+OUT_DIR    = ROOT / 'output' / 'stance'
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # --- only block that differs between the per-model scripts ---
