@@ -98,10 +98,15 @@ def merge_chunks(chunks, sentence_embeddings, min_size=3, sim_threshold=0.85):
 
 def meta_chunk_records(
         records,
-        context_window=4,
-        smooth_window=4,
+        context_window=2,
+        smooth_window=None,
         peak_prominence=0.02,
     ):
+    # smooth_window tracks context_window by default and passes an explicit value to 
+    # decouple them.
+    if smooth_window is None:
+        smooth_window = max(2, context_window)
+
     texts = [str(r["text"]).strip() for r in records]
 
     # Documents too short to form valid windows returned as a single chunk
@@ -161,15 +166,9 @@ def chunk_to_record(chunk, chunk_id):
 
 # ─── Document-level processors ────────────────────────────────────────────────────────
 # Routing is on turn_type, not doc_type.
-# turn_type == "opening" → continuous monologue, chunk at document level
-# turn_type == "answer"  → Q&A turn, chunk per turn (only if >= 10 sentences)
+# Only turn_type == "answer" is processed (Q&A turn, chunk per turn, 
+# only if >= 10 sentences).
 # This works correctly across BoE, ECB, and Fed which use different doc_type strings.
-
-def process_opening(group):
-    records = group.sort_values("sent_idx").to_dict("records")
-    chunks, _, _ = meta_chunk_records(records)
-    return [chunk_to_record(c, i) for i, c in enumerate(chunks)]
-
 
 def process_answers(group):
     output, chunk_counter = [], 0
@@ -197,9 +196,6 @@ def process_corpus(files):
     for doc_id, group in df.groupby("doc_id"):
         # Route on turn_type, which is consistent across all three banks
         turn_types = group["turn_type"].unique()
-        if "opening" in turn_types:
-            opening_group = group[group["turn_type"] == "opening"]
-            all_chunks.extend(process_opening(opening_group))
         if "answer" in turn_types:
             answer_group = group[group["turn_type"] == "answer"]
             all_chunks.extend(process_answers(answer_group))
@@ -210,26 +206,23 @@ def process_corpus(files):
 # ─── Files ────────────────────────────────────────────────────────────────────────────
 
 files = [
-    "../data/csv/BoE_opening_sentence.csv",
     "../data/csv/BoE_sentence.csv",
-    "../data/csv/ECB_opening_sentence.csv",
     "../data/csv/ECB_sentence.csv",
-    "../data/csv/Fed_opening_sentence.csv",
     "../data/csv/Fed_sentence.csv",
 ]
 
 
 # ─── Tuning block ─────────────────────────────────────────────────────────────────────
-# Inspect boundary quality on opening remarks before running the full corpus.
+# Inspect boundary quality on answer turns before running the full corpus.
 
-# sample = pd.read_csv("../data/csv/BoE_opening_sentence.csv")
+# sample = pd.read_csv("../data/csv/BoE_sentence.csv")
 # results = {}
 
 # for doc_id, group in sample.groupby("doc_id"):
-    # opening_rows = group[group["turn_type"] == "opening"]
-    # if opening_rows.empty:
+    # answer_rows = group[group["turn_type"] == "answer"]
+    # if answer_rows.empty:
         # continue
-    # records = opening_rows.sort_values("sent_idx").to_dict("records")
+    # records = answer_rows.sort_values(["turn_idx", "sent_idx"]).to_dict("records")
     # chunks, signal, boundaries = meta_chunk_records(records)
     # if signal is not None:
         # results[doc_id] = (chunks, signal, boundaries)
@@ -249,7 +242,7 @@ files = [
 
 # os.makedirs("../output", exist_ok=True)
 # plt.tight_layout()
-# plt.savefig("../output/boe_chunks_opening_signals.png", dpi=150)
+# plt.savefig("../output/boe_chunks_answer_signals.png", dpi=150)
 # plt.show()
 
 
@@ -263,10 +256,6 @@ for filepath in files:
 
     for doc_id, group in df.groupby("doc_id"):
         turn_types = group["turn_type"].unique()
-
-        if "opening" in turn_types:
-            opening_group = group[group["turn_type"] == "opening"]
-            all_chunks.extend(process_opening(opening_group))
 
         if "answer" in turn_types:
             answer_group = group[group["turn_type"] == "answer"]

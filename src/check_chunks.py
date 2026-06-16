@@ -2,11 +2,8 @@ import os
 import pandas as pd
 
 files = [
-    "../data/csv/BoE_opening_sentence.csv",
     "../data/csv/BoE_sentence.csv",
-    "../data/csv/ECB_opening_sentence.csv",
     "../data/csv/ECB_sentence.csv",
-    "../data/csv/Fed_opening_sentence.csv",
     "../data/csv/Fed_sentence.csv",
 ]
 
@@ -30,10 +27,10 @@ for filepath in files:
     print(f"  docs with 1 chunk: {(chunks_per_doc == 1).sum()} ({100*(chunks_per_doc == 1).mean():.1f}%)")
     print(f"  n_sentences — mean: {chunks_df['n_sentences'].mean():.1f}, median: {chunks_df['n_sentences'].median():.1f}, min: {chunks_df['n_sentences'].min()}, max: {chunks_df['n_sentences'].max()}")
 
-# ─── BoE opening diagnostic ───────────────────────────────────────────────────────────
+# ─── BoE answers diagnostic ───────────────────────────────────────────────────────────
 
-print("\n─── BOE OPENING: SINGLE VS MULTI-CHUNK DOCS ─────────────────────────────────")
-chunks_df = pd.read_csv("../data/csv/BoE_opening_chunks.csv")
+print("\n─── BOE ANSWERS: SINGLE VS MULTI-CHUNK DOCS ─────────────────────────────────")
+chunks_df = pd.read_csv("../data/csv/BoE_chunks.csv")
 chunks_per_doc = chunks_df.groupby("doc_id")["chunk_id"].count()
 
 single_chunk_docs = chunks_per_doc[chunks_per_doc == 1].index.tolist()
@@ -41,9 +38,9 @@ multi_chunk_docs = chunks_per_doc[chunks_per_doc > 1].index.tolist()
 print(f"\nSingle-chunk docs: {len(single_chunk_docs)}")
 print(f"Multi-chunk docs:  {len(multi_chunk_docs)}")
 
-boe = pd.read_csv("../data/csv/BoE_opening_sentence.csv")
-boe_open = boe[boe["turn_type"] == "opening"]
-sents = boe_open.groupby("doc_id").size()
+boe = pd.read_csv("../data/csv/BoE_sentence.csv")
+boe_answers = boe[boe["turn_type"] == "answer"]
+sents = boe_answers.groupby("doc_id").size()
 
 print("\nSentence counts for single-chunk docs:")
 print(sents[sents.index.isin(single_chunk_docs)].describe())
