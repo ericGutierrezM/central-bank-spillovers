@@ -103,6 +103,14 @@ uv run src/text-pipeline/C_build-corpus.py
 
 Parses speaker tags, filters to Q&A turns by the chair/governor/president only, writes `data/corpus/{Fed,BoE,ECB}.csv`. Prints health checks per bank — warnings if any document produces no chair turns.
 
+**Step 4 — Build sentence chunks for scoring**
+
+```powershell
+uv run src/text-pipeline/D_build-chunks.py
+```
+
+Reads `data/csv/{BoE,ECB,Fed}_sentence.csv`, applies semantic chunking to answer turns, and writes `data/csv/{BoE,ECB,Fed}_chunks.csv`.
+
 ### CSV schema
 
 | Column | Description |
