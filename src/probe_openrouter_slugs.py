@@ -1,39 +1,36 @@
 """
-One-off probe: confirm each OpenRouter model slug used by the
-score_openrouter_*.py scripts actually resolves, with a minimal/cheap
-request. Does not touch any of the real chunk/output CSVs.
+One-off probe: confirm each OpenRouter model slug in the shared registry
+actually resolves, with a minimal/cheap request. Does not touch any of
+the real chunk/output CSVs.
 
-Run from the `src/` directory: python probe_openrouter_slugs.py
+Run from the repo root: uv run python src/probe_openrouter_slugs.py
 """
 
 import os
+from pathlib import Path
+
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv('../.env', override=True)
+from llm.openrouter_models import MODEL_SPECS
 
-client = OpenAI(base_url='https://openrouter.ai/api/v1', api_key=os.environ['OPENROUTER_API_KEY'])
+ROOT = Path(__file__).resolve().parents[1]
+load_dotenv(ROOT / ".env", override=True)
 
-MODELS = {
-    'gpt55':         'openai/gpt-5.5',
-    'gemini31pro':   'google/gemini-3.1-pro-preview',
-    'mistrallarge3': 'mistralai/mistral-large-2512',
-    'deepseekv4pro': 'deepseek/deepseek-v4-pro',
-    'qwen35max':     'qwen/qwen3-max',
-}
+client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=os.environ["OPENROUTER_API_KEY"])
 
-PROMPT = 'Reply with exactly one word: ok'
+PROMPT = "Reply with exactly one word: ok"
 
-print(f'{"model_key":<16} {"slug":<28} {"result"}')
-for key, slug in MODELS.items():
+print(f'{"model_key":<16} {"slug":<36} {"result"}')
+for key, spec in MODEL_SPECS.items():
     try:
         resp = client.chat.completions.create(
-            model=slug,
-            messages=[{'role': 'user', 'content': PROMPT}],
+            model=spec.slug,
+            messages=[{"role": "user", "content": PROMPT}],
             max_tokens=20,
             temperature=0.0,
         )
-        text = (resp.choices[0].message.content or '').strip()
-        print(f'{key:<16} {slug:<28} OK -> {text!r}')
+        text = (resp.choices[0].message.content or "").strip()
+        print(f"{key:<16} {spec.slug:<36} OK -> {text!r}")
     except Exception as e:
-        print(f'{key:<16} {slug:<28} FAIL -> {e}')
+        print(f"{key:<16} {spec.slug:<36} FAIL -> {e}")
