@@ -41,6 +41,13 @@ MODEL_SPECS: dict[str, ModelSpec] = {
         base_url=MISTRAL_BASE_URL,
         api_key_env="MISTRAL_API_KEY",
     ),
+    "mistrallarge_or": ModelSpec(
+        key="mistrallarge_or",
+        slug="mistralai/mistral-large",
+        tag="MISTRALLARGE_OR",
+        label="Mistral Large (OpenRouter)",
+        rpm=300,
+    ),
     "deepseekv3": ModelSpec(
         key="deepseekv3",
         slug="deepseek/deepseek-chat",

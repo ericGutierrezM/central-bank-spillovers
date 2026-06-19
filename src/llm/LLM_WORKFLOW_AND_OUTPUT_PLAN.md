@@ -44,6 +44,7 @@ Models are defined in `openrouter_models.py`. Each `ModelSpec` carries:
 | `llama33` | Llama 3.3 70B Instruct | **Groq** (`api.groq.com`) | 200 |
 | `deepseekv3` | DeepSeek V3 | OpenRouter | 60 |
 | `mistrallarge3` | Mistral Large 3 | **Mistral direct** (`api.mistral.ai`) | 60 |
+| `mistrallarge_or` | Mistral Large (latest) | OpenRouter | 300 |
 | `qwen25_72b` | Qwen 2.5 72B Instruct | OpenRouter | 200 |
 | `qwen35max` | Qwen 3.5 Max | OpenRouter | 20 (OpenRouter hard cap — high demand) |
 | `gpt55` | GPT-5.5 | OpenRouter | 20 |
@@ -159,6 +160,7 @@ Per-model files under `output/stance/`:
 - `chunk_predictions_deepseekv3.csv`
 - `chunk_predictions_mistrallarge3.csv`
 - `chunk_predictions_mistrallarge3_batch.csv` (Mistral Batch API variant)
+- `chunk_predictions_mistrallarge_or.csv`
 - `chunk_predictions_qwen25_72b.csv`
 - `chunk_predictions_qwen35max.csv`
 - `chunk_predictions_gpt55.csv`
