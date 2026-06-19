@@ -12,7 +12,7 @@ class ModelSpec:
     slug: str
     tag: str
     label: str
-    sleep_between_calls: float = 1.0  # seconds; increase for rate-limited premium models
+    rpm: int = 60  # requests per minute; used by AsyncRateLimiter
     base_url: str = OPENROUTER_BASE_URL
     api_key_env: str = "OPENROUTER_API_KEY"
 
@@ -23,21 +23,21 @@ MODEL_SPECS: dict[str, ModelSpec] = {
         slug="openai/gpt-5.5",
         tag="GPT55",
         label="GPT-5.5",
-        sleep_between_calls=3.0,
+        rpm=20,
     ),
     "gemini31pro": ModelSpec(
         key="gemini31pro",
         slug="google/gemini-3.1-pro-preview",
         tag="GEMINI31PRO",
         label="Gemini 3.1 Pro",
-        sleep_between_calls=3.0,
+        rpm=20,
     ),
     "mistrallarge3": ModelSpec(
         key="mistrallarge3",
         slug="mistral-large-2512",
         tag="MISTRALLARGE3",
         label="Mistral Large 3",
-        sleep_between_calls=0.5,
+        rpm=60,
         base_url=MISTRAL_BASE_URL,
         api_key_env="MISTRAL_API_KEY",
     ),
@@ -46,21 +46,28 @@ MODEL_SPECS: dict[str, ModelSpec] = {
         slug="deepseek/deepseek-chat",
         tag="DEEPSEEKV3",
         label="DeepSeek V3",
-        sleep_between_calls=0.5,
+        rpm=60,
     ),
     "qwen35max": ModelSpec(
         key="qwen35max",
         slug="qwen/qwen3-max",
         tag="QWEN35MAX",
         label="Qwen 3.5 Max",
-        sleep_between_calls=1.0,
+        rpm=20,  # OpenRouter hard cap due to high demand
+    ),
+    "qwen25_72b": ModelSpec(
+        key="qwen25_72b",
+        slug="qwen/qwen-2.5-72b-instruct",
+        tag="QWEN25_72B",
+        label="Qwen 2.5 72B Instruct",
+        rpm=60,
     ),
     "llama33": ModelSpec(
         key="llama33",
         slug="llama-3.3-70b-versatile",
         tag="LLAMA33",
         label="Llama 3.3 70B Instruct",
-        sleep_between_calls=0.5,
+        rpm=200,
         base_url=GROQ_BASE_URL,
         api_key_env="GROQ_API_KEY",
     ),

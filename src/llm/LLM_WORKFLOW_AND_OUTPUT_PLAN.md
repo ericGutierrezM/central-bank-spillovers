@@ -33,20 +33,21 @@ Models are defined in `openrouter_models.py`. Each `ModelSpec` carries:
 | `slug` | Model slug passed to the API |
 | `tag` | Uppercase tag for logging |
 | `label` | Human-readable model name |
-| `sleep_between_calls` | Per-worker sleep in seconds; set higher for rate-limited models |
+| `rpm` | Requests per minute cap fed to the async rate limiter |
 | `base_url` | API base URL (OpenRouter, Groq, Mistral direct, etc.) |
 | `api_key_env` | Environment variable name for the API key |
 
 ### Active models
 
-| Key | Model | Provider | Sleep |
-|-----|-------|----------|-------|
-| `llama33` | Llama 3.3 70B Instruct | **Groq** (`api.groq.com`) | 0.5s |
-| `deepseekv3` | DeepSeek V3 | OpenRouter | 0.5s |
-| `mistrallarge3` | Mistral Large 3 | **Mistral direct** (`api.mistral.ai`) | 0.5s |
-| `qwen35max` | Qwen 3.5 Max | OpenRouter | 1.0s |
-| `gpt55` | GPT-5.5 | OpenRouter | 3.0s |
-| `gemini31pro` | Gemini 3.1 Pro | OpenRouter | 3.0s |
+| Key | Model | Provider | RPM |
+|-----|-------|----------|-----|
+| `llama33` | Llama 3.3 70B Instruct | **Groq** (`api.groq.com`) | 200 |
+| `deepseekv3` | DeepSeek V3 | OpenRouter | 60 |
+| `mistrallarge3` | Mistral Large 3 | **Mistral direct** (`api.mistral.ai`) | 60 |
+| `qwen25_72b` | Qwen 2.5 72B Instruct | OpenRouter | 200 |
+| `qwen35max` | Qwen 3.5 Max | OpenRouter | 20 (OpenRouter hard cap — high demand) |
+| `gpt55` | GPT-5.5 | OpenRouter | 20 |
+| `gemini31pro` | Gemini 3.1 Pro | OpenRouter | 20 |
 
 **Note on DeepSeek:** `deepseek-v4-pro` was replaced with `deepseekv3` (`deepseek/deepseek-chat`)
 because V4 Pro returns empty responses on OpenRouter (likely a thinking model returning output
@@ -111,16 +112,44 @@ Key prompt design decisions:
 - Neutral-preference instruction: `"If the excerpt does not clearly imply tightening or easing, use 'neutral'."`
 - Labels ordered dovish → hawkish in the prompt to match the natural policy scale.
 
+## Mistral Batch API (alternative for `mistrallarge3`)
+
+`score_mistral_batch.py` submits all 5004 chunks as a single async batch job to Mistral's
+Batch API (`/v1/batch/jobs`). Cheaper (~50% discount) and avoids real-time rate limits.
+Output lands in `chunk_predictions_mistrallarge3_batch.csv` with the same schema.
+
+**Status (2026-06-19): batch submitted — check before re-running the live scorer.**
+
+```powershell
+# Check status and download results if done
+uv run python src/llm/score_mistral_batch.py --fetch
+
+# Or keep polling until complete (blocks terminal)
+uv run python src/llm/score_mistral_batch.py --fetch --poll
+```
+
+If you need to submit a new batch (e.g. after a failure):
+```powershell
+# Delete state file first, then re-submit
+Remove-Item output/stance/mistral_batch_state.json
+uv run python src/llm/score_mistral_batch.py --submit
+```
+
+State is saved to `output/stance/mistral_batch_state.json` (job ID, file ID, timestamps).
+
 ## Concurrency model
 
-Workers are independent threads (`ThreadPoolExecutor`). Each worker:
-1. Calls the API with a single chunk
-2. Sleeps `spec.sleep_between_calls` seconds
-3. Writes result under a lock
+Workers are async coroutines (`asyncio` + `AsyncOpenAI`). A shared `AsyncRateLimiter`
+(token bucket) enforces the per-model RPM cap globally across all workers. Each coroutine:
+1. Acquires a rate-limiter token (waits if the bucket is empty)
+2. Calls the API with a single chunk
+3. Writes result under an `asyncio.Lock`
 
 There is no shared state between workers during inference. The model sees exactly one chunk
 per call and has no memory of other concurrent calls. Concurrency does not introduce
 cross-chunk contamination.
+
+The `--rpm` flag overrides the model-default RPM (set in `openrouter_models.py`) at runtime.
 
 ## Output file pattern
 
@@ -129,6 +158,8 @@ Per-model files under `output/stance/`:
 - `chunk_predictions_llama33.csv`
 - `chunk_predictions_deepseekv3.csv`
 - `chunk_predictions_mistrallarge3.csv`
+- `chunk_predictions_mistrallarge3_batch.csv` (Mistral Batch API variant)
+- `chunk_predictions_qwen25_72b.csv`
 - `chunk_predictions_qwen35max.csv`
 - `chunk_predictions_gpt55.csv`
 - `chunk_predictions_gemini31pro.csv`

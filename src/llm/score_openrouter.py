@@ -10,19 +10,17 @@ Run from the repo root: uv run python src/llm/score_openrouter.py --model gpt55
 """
 
 import argparse
+import asyncio
 import json
 import os
 import re
-import threading
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 from dotenv import load_dotenv
-from openai import OpenAI
+from openai import AsyncOpenAI
 from tqdm import tqdm
 
 try:
@@ -39,8 +37,7 @@ OUT_DIR = ROOT / "output" / "stance"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 DEFAULT_BATCH_SIZE = 1
-SLEEP_BETWEEN_CALLS = 1.0
-CHECKPOINT_EVERY_N_BATCHES = 50
+CHECKPOINT_EVERY_N = 50
 DEFAULT_TEMPERATURE = 0.0
 DEFAULT_PROMPT_VERSION = "v1"
 
@@ -86,8 +83,35 @@ OUTPUT_COLUMNS = [
 ]
 LEGACY_STANCE_COLS = [f"{spec.tag}_stance" for spec in MODEL_SPECS.values()]
 
-def _make_client(spec: "ModelSpec") -> OpenAI:
-    return OpenAI(
+
+class AsyncRateLimiter:
+    """Token bucket: averages to rpm requests/minute, allows burst up to `burst` tokens."""
+
+    def __init__(self, rpm: int, burst: int = 1):
+        self._refill_rate = rpm / 60.0  # tokens per second
+        self._tokens = float(burst)
+        self._max_tokens = float(burst)
+        self._last = time.monotonic()
+        self._lock = asyncio.Lock()
+
+    async def acquire(self) -> None:
+        while True:
+            async with self._lock:
+                now = time.monotonic()
+                self._tokens = min(
+                    self._max_tokens,
+                    self._tokens + (now - self._last) * self._refill_rate,
+                )
+                self._last = now
+                if self._tokens >= 1.0:
+                    self._tokens -= 1.0
+                    return
+                wait = (1.0 - self._tokens) / self._refill_rate
+            await asyncio.sleep(wait)
+
+
+def _make_client(spec: "ModelSpec") -> AsyncOpenAI:
+    return AsyncOpenAI(
         base_url=spec.base_url,
         api_key=os.environ[spec.api_key_env],
     )
@@ -190,12 +214,13 @@ def parse_confidence(raw: str) -> str:
     return "parse_error"
 
 
-def _call_openrouter(
-    client: OpenAI,
+async def _call_api_async(
+    client: AsyncOpenAI,
     model_slug: str,
     model_tag: str,
     prompt: str,
     temperature: float,
+    rate_limiter: AsyncRateLimiter,
     max_tokens: int = 512,
     retries: int = 6,
 ) -> str:
@@ -205,8 +230,9 @@ def _call_openrouter(
         {"role": "user", "content": prompt},
     ]
     for attempt in range(retries):
+        await rate_limiter.acquire()
         try:
-            resp = client.chat.completions.create(
+            resp = await client.chat.completions.create(
                 model=model_slug,
                 messages=messages,
                 max_tokens=max_tokens,
@@ -219,28 +245,30 @@ def _call_openrouter(
         except Exception as e:
             msg = str(e)
             if any(x in msg.lower() for x in ["429", "rate", "connect", "timeout"]):
-                print(f"Retrying in {wait:.0f}s (attempt {attempt + 1}/{retries})")
-                time.sleep(wait)
+                tqdm.write(f"Retrying in {wait:.0f}s (attempt {attempt + 1}/{retries})")
+                await asyncio.sleep(wait)
                 wait = min(wait * 2, 120)
             else:
                 raise
     raise RuntimeError(f"{model_tag} failed after {retries} retries")
 
 
-def classify_batch(
-    client: OpenAI,
+async def classify_batch_async(
+    client: AsyncOpenAI,
     chunks: list[str],
     model_slug: str,
     model_tag: str,
     temperature: float,
+    rate_limiter: AsyncRateLimiter,
 ) -> list[tuple[str, str]]:
     max_tokens = max(len(chunks) * 32, 256)
-    raw = _call_openrouter(
+    raw = await _call_api_async(
         client,
         model_slug,
         model_tag,
         build_stance_prompt(chunks),
         temperature=temperature,
+        rate_limiter=rate_limiter,
         max_tokens=max_tokens,
     )
     match = re.search(r"\[.*\]", raw, re.DOTALL)
@@ -343,9 +371,7 @@ def load_or_initialize_results(
     if chunk_out.exists():
         results = pd.read_csv(chunk_out)
         if len(results) != len(chunks_df):
-            print(
-                f"Saved file has {len(results)} rows but chunks_df has {len(chunks_df)} rows - starting fresh."
-            )
+            print(f"Saved file has {len(results)} rows but chunks_df has {len(chunks_df)} rows - starting fresh.")
             return build_output_frame(chunks_df, spec, temperature, prompt_version)
         if has_legacy_schema(results):
             print("Saved file uses the legacy wide schema - starting fresh with the new output schema.")
@@ -363,23 +389,25 @@ def load_or_initialize_results(
     return build_output_frame(chunks_df, spec, temperature, prompt_version)
 
 
-def run_for_model(
+async def _run_for_model_async(
     model_key: str,
-    batch_size: int = DEFAULT_BATCH_SIZE,
     temperature: float = DEFAULT_TEMPERATURE,
     prompt_version: str = DEFAULT_PROMPT_VERSION,
     max_workers: int = 1,
+    rpm: int | None = None,
 ) -> Path:
     if model_key not in MODEL_SPECS:
         valid = ", ".join(sorted(MODEL_SPECS))
         raise ValueError(f"Unknown model key {model_key!r}. Valid options: {valid}")
-    if batch_size < 1:
-        raise ValueError("batch_size must be at least 1")
 
     spec: ModelSpec = MODEL_SPECS[model_key]
+    effective_rpm = rpm if rpm is not None else spec.rpm
     chunk_out = OUT_DIR / f"chunk_predictions_{spec.key}.csv"
     run_created_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+
     client = _make_client(spec)
+    rate_limiter = AsyncRateLimiter(rpm=effective_rpm, burst=max_workers)
+    semaphore = asyncio.Semaphore(max_workers)
 
     chunks_df = load_chunks()
     results = load_or_initialize_results(chunks_df, chunk_out, spec, temperature, prompt_version)
@@ -388,7 +416,7 @@ def run_for_model(
     if n_done > 0:
         print(f"Resuming {spec.tag} from row {n_done} ({len(results) - n_done} remaining)...")
     else:
-        print(f"Starting {spec.tag} from scratch...")
+        print(f"Starting {spec.tag} from scratch ({effective_rpm} RPM, {max_workers} workers)...")
 
     texts = [str(t) if pd.notna(t) else "" for t in results["text"]]
     labels = results["label"].tolist()
@@ -397,34 +425,37 @@ def run_for_model(
 
     pending = [i for i, lbl in enumerate(labels) if pd.isna(lbl) or lbl != lbl or lbl == "parse_error"]
 
-    lock = threading.Lock()
+    lock = asyncio.Lock()
     n_completed = 0
+    pbar = tqdm(total=len(pending), desc=spec.tag)
 
-    def score_one(i: int) -> tuple[int, str, str]:
-        try:
-            preds = classify_batch(client, [texts[i]], spec.slug, spec.tag, temperature)
-            stance, conf = preds[0]
-        except Exception as e:
-            print(f"Chunk {i} failed: {e} - filling with parse_error")
-            stance, conf = "parse_error", "parse_error"
-        time.sleep(spec.sleep_between_calls)
-        return i, stance, conf
+    async def score_one(i: int) -> None:
+        nonlocal n_completed
+        async with semaphore:
+            try:
+                preds = await classify_batch_async(
+                    client, [texts[i]], spec.slug, spec.tag, temperature, rate_limiter
+                )
+                stance, conf = preds[0]
+            except Exception as e:
+                tqdm.write(f"Chunk {i} failed: {e} - filling with parse_error")
+                stance, conf = "parse_error", "parse_error"
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(score_one, i): i for i in pending}
-        for future in tqdm(as_completed(futures), total=len(pending), desc=spec.tag):
-            i, stance, conf = future.result()
-            with lock:
-                labels[i] = stance
-                confidences[i] = conf
-                created_at[i] = run_created_at
-                n_completed += 1
-                if n_completed % CHECKPOINT_EVERY_N_BATCHES == 0:
-                    results["label"] = labels
-                    results["confidence"] = confidences
-                    results["created_at"] = created_at
-                    results.to_csv(chunk_out, index=False)
-                    print(f"Checkpoint saved -> {chunk_out}")
+        async with lock:
+            labels[i] = stance
+            confidences[i] = conf
+            created_at[i] = run_created_at
+            n_completed += 1
+            pbar.update(1)
+            if n_completed % CHECKPOINT_EVERY_N == 0:
+                results["label"] = labels
+                results["confidence"] = confidences
+                results["created_at"] = created_at
+                results.to_csv(chunk_out, index=False)
+                tqdm.write(f"Checkpoint saved -> {chunk_out}")
+
+    await asyncio.gather(*[score_one(i) for i in pending])
+    pbar.close()
 
     results["label"] = labels
     results["confidence"] = confidences
@@ -436,13 +467,25 @@ def run_for_model(
     return chunk_out
 
 
+def run_for_model(
+    model_key: str,
+    temperature: float = DEFAULT_TEMPERATURE,
+    prompt_version: str = DEFAULT_PROMPT_VERSION,
+    max_workers: int = 1,
+    rpm: int | None = None,
+) -> Path:
+    return asyncio.run(
+        _run_for_model_async(model_key, temperature, prompt_version, max_workers, rpm)
+    )
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", required=True, choices=sorted(MODEL_SPECS))
-    parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
     parser.add_argument("--temperature", type=float, default=DEFAULT_TEMPERATURE)
     parser.add_argument("--prompt-version", default=DEFAULT_PROMPT_VERSION)
-    parser.add_argument("--workers", type=int, default=1, help="Concurrent API calls (default: 1)")
+    parser.add_argument("--workers", type=int, default=1, help="Max concurrent requests (default: 1)")
+    parser.add_argument("--rpm", type=int, default=None, help="Requests per minute override (default: model spec)")
     return parser.parse_args()
 
 
@@ -450,10 +493,10 @@ def main() -> None:
     args = parse_args()
     run_for_model(
         args.model,
-        batch_size=args.batch_size,
         temperature=args.temperature,
         prompt_version=args.prompt_version,
         max_workers=args.workers,
+        rpm=args.rpm,
     )
 
 
