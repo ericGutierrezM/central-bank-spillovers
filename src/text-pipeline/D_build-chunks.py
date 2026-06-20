@@ -180,7 +180,9 @@ def build_chunks_for_file(input_path: Path) -> pd.DataFrame:
 
 
 def output_path_for(input_path: Path) -> Path:
-    return input_path.with_name(input_path.name.replace("_sentence", "_chunks"))
+    out_dir = input_path.parent / "chunks_clean"
+    out_dir.mkdir(exist_ok=True)
+    return out_dir / input_path.name.replace("_sentence", "_chunks")
 
 
 def main() -> None:

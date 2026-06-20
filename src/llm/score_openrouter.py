@@ -238,6 +238,8 @@ async def _call_api_async(
                 max_tokens=max_tokens,
                 temperature=temperature,
             )
+            if not resp.choices:
+                raise RuntimeError("Empty choices in response")
             text = resp.choices[0].message.content
             if not text:
                 raise RuntimeError("Empty response")
