@@ -1,4 +1,5 @@
 ﻿import os
+import re
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -95,6 +96,104 @@ def download_fed_transcripts():
     print(f"\nSuccess! Downloaded {new_downloads_count} new transcripts. Your '{output_dir}' directory now has a total of {len(downloaded_files)} files.")
 
 
+_PRESIDENT_SURNAMES = frozenset({"lagarde", "draghi"})
+
+_FOOTER_SENTINELS = (
+    "You may also be interested in",
+    "Directorate General Communications",
+    "Reproduction is permitted",
+    "Disclaimer",
+    "European Central Bank",
+)
+
+_SPEAKER_RE = re.compile(r'^([A-Za-zÀ-ÿ][A-Za-zÀ-ÿ\s\-\.]{1,40}):\s')
+_NAME_CONNECTORS = frozenset({"de", "van", "von", "la", "el", "del", "al", "du"})
+
+
+def _classify_speaker(text: str) -> str | None:
+    """Return 'president', 'official', or None (no name prefix detected)."""
+    m = _SPEAKER_RE.match(text)
+    if not m:
+        return None
+    name = m.group(1).strip()
+    words = name.split()
+    # Reject phrases like "Let me say this:" — every word must be capitalised or a known connector
+    if not all(w[0].isupper() or w.lower() in _NAME_CONNECTORS for w in words):
+        return None
+    name_words = name.lower().split()
+    if any(w in _PRESIDENT_SURNAMES for w in name_words):
+        return "president"
+    return "official"
+
+
+def _ecb_extract_transcript(soup) -> str:
+    """
+    Extract ECB press conference text with [Q]/[A]/[A-O] markers from bold formatting.
+
+    In the Q&A section (after * * *):
+      Bold paragraph, previous NOT bold  → [Q]text   (new journalist question turn)
+      Bold paragraph, previous WAS bold  → text       (continuation of same question)
+      Non-bold, starts with Name: where Name is a known president
+                                         → [A]text    (president explicitly restarts)
+      Non-bold, starts with Name: (other official)
+                                         → [A-O]text  (VP / guest official)
+      Non-bold, after bold or after [A-O]→ [A]text    (president starts / resumes)
+      Non-bold, otherwise                → text        (continuation of current turn)
+    Everything before * * * is emitted as plain text (opening statement).
+    Stops at footer sentinel lines.
+    """
+    main_content = soup.find('main') or soup
+    paras = main_content.find_all(['p', 'h2', 'h3'])
+
+    parts: list[str] = []
+    in_qa = False
+    prev_was_bold = False
+    prev_was_official = False
+
+    for p in paras:
+        text = p.get_text(strip=True)
+        if not text:
+            continue
+
+        if any(text.startswith(s) for s in _FOOTER_SENTINELS):
+            break
+
+        if re.search(r'^\*\s*\*\s*\*$', text):
+            in_qa = True
+            prev_was_bold = False
+            prev_was_official = False
+            parts.append(text)
+            continue
+
+        if not in_qa:
+            parts.append(text)
+            continue
+
+        is_bold = bool(p.find(['strong', 'b']))
+        if is_bold:
+            if prev_was_bold:
+                parts.append(text)
+            else:
+                parts.append(f"[Q]{text}")
+            prev_was_bold = True
+            prev_was_official = False
+        else:
+            speaker = _classify_speaker(text)
+            if speaker == "official":
+                parts.append(f"[A-O]{text}")
+                prev_was_official = True
+            elif prev_was_bold or prev_was_official or speaker == "president":
+                body = _SPEAKER_RE.sub("", text, count=1) if speaker == "president" else text
+                parts.append(f"[A]{body}")
+                prev_was_official = False
+            else:
+                parts.append(text)
+                prev_was_official = False
+            prev_was_bold = False
+
+    return "\n\n".join(parts)
+
+
 def download_ecb_transcripts():
     print(f"\n== Collecting the data from the ECB... ==")
 
@@ -163,9 +262,7 @@ def download_ecb_transcripts():
                 page.wait_for_load_state("domcontentloaded")
                 transcript_soup = BeautifulSoup(page.content(), 'html.parser')
                 
-                main_content = transcript_soup.find('main') or transcript_soup
-                paragraphs = main_content.find_all(['p', 'h2', 'h3'])
-                text_content = "\n\n".join([p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True)])
+                text_content = _ecb_extract_transcript(transcript_soup)
                 
                 if len(text_content.strip()) > 100:
                     with open(file_path, 'w', encoding='utf-8') as f:

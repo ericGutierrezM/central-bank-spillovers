@@ -252,10 +252,25 @@ def _speaker_role(name: str, doc_type: str) -> str:
         return "moderator"
     return "journalist"
 
+_INITIALS_RE = re.compile(r"^(.+?)\s*\(([A-Z]{1,4})\)$")
+
+def _build_initials_map(text: str) -> dict[str, str]:
+    """Return mapping from initials (e.g. 'MC') to full name ('Mark Carney')."""
+    mapping: dict[str, str] = {}
+    for line in text.splitlines():
+        m = re.match(r"^\*\*(.+?)\*\*\s*$", line)
+        if m:
+            im = _INITIALS_RE.match(m.group(1).strip())
+            if im:
+                mapping[im.group(2)] = im.group(1).strip()
+    return mapping
+
 def _parse_turns(text: str, doc_type: str) -> list[tuple[str, str]]:
     """Return list of (speaker, turn_text) from a tagged transcript or opening."""
     if doc_type == "opening":
         return [("Governor", text.strip())]
+
+    initials_map = _build_initials_map(text)
 
     turns = []
     current_speaker = None
@@ -266,7 +281,8 @@ def _parse_turns(text: str, doc_type: str) -> list[tuple[str, str]]:
         if m:
             if current_speaker is not None and current_lines:
                 turns.append((current_speaker, " ".join(current_lines).strip()))
-            current_speaker = m.group(1).strip()
+            raw_speaker = m.group(1).strip()
+            current_speaker = initials_map.get(raw_speaker, raw_speaker)
             current_lines = []
         else:
             if current_speaker is not None and line.strip():
@@ -555,13 +571,18 @@ def _parse_alternating_qa(qa_text: str, president: str) -> list[tuple[str, str]]
         current_parts: list[str] = []
         turns: list[tuple[str, str]] = []
         for para in paras:
-            m = re.match(r"^\[([QA])\]\s*", para)
+            m = re.match(r"^\[([QA]|A-O)\]\s*", para)
             if m:
                 tag = m.group(1)
                 rest = para[m.end():]
                 if current_speaker and current_parts:
                     turns.append((current_speaker, " ".join(current_parts)))
-                current_speaker = "Question" if tag == "Q" else president
+                if tag == "Q":
+                    current_speaker = "Question"
+                elif tag == "A":
+                    current_speaker = president
+                else:
+                    current_speaker = "Official"
                 current_parts = [rest] if rest else []
             elif current_speaker:
                 current_parts.append(para)
@@ -652,6 +673,19 @@ def process_file(path: Path) -> list[dict]:
     raw = path.read_text(encoding="utf-8", errors="replace")
     text = _clean_text(raw)
     turns = _parse_turns(text)
+
+    # Health check: Q/A should alternate — only meaningful for marker-tagged files.
+    # Draghi-era labeled files legitimately have A,A (separate labeled paragraphs per sub-question).
+    # A,A with non-consecutive indices means an Official turn was filtered out — also fine.
+    if "[Q]" in text or "[A]" in text:
+        qa_seq = [(spk, i) for i, (spk, dt, _) in enumerate(turns) if dt == "presser" and spk != "Official"]
+        for k in range(1, len(qa_seq)):
+            prev_spk, prev_i = qa_seq[k - 1]
+            curr_spk, curr_i = qa_seq[k]
+            prev_role = "Q" if prev_spk == "Question" else "A"
+            curr_role = "Q" if curr_spk == "Question" else "A"
+            if prev_role == curr_role and curr_i == prev_i + 1:
+                print(f"  [WARN] {path.stem}: non-alternating Q/A at presser turns {prev_i}->{curr_i} ({prev_role},{curr_role})")
 
     rows = []
     for turn_idx, (speaker, doc_type, turn_text) in enumerate(turns):
