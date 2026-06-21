@@ -69,6 +69,57 @@ MODEL_SPECS: dict[str, ModelSpec] = {
         label="Qwen 2.5 72B Instruct",
         rpm=60,
     ),
+
+    "gpt-4o": ModelSpec(
+        key="gpt-4o",
+        slug="openai/gpt-4o-mini",
+        tag="GPT4O",
+        label="GPT-4o Mini",
+        rpm=60,
+    ),
+    "gpt41nano": ModelSpec(
+        key="gpt41nano",
+        slug="openai/gpt-4.1-nano",
+        tag="GPT41NANO",
+        label="GPT-4.1 Nano",
+        rpm=60,
+    ),
+    "gemma4": ModelSpec(
+        key="gemma4",
+        slug="google/gemma-3-27b-it",  # verify slug on openrouter.ai/models
+        tag="GEMMA4",
+        label="Gemma 4 31B",
+        rpm=60,
+    ),
+    "deepseekv3flash": ModelSpec(
+        key="deepseekv3flash",
+        slug="deepseek/deepseek-chat-v3-5",  # verify slug on openrouter.ai/models
+        tag="DEEPSEEKV3FLASH",
+        label="DeepSeek V3 Flash",
+        rpm=60,
+    ),
+    "gemini25flash": ModelSpec(
+        key="gemini25flash",
+        slug="google/gemini-2.5-flash",
+        tag="GEMINI25FLASH",
+        label="Gemini 2.5 Flash",
+        rpm=60,
+    ),
+    "gemini25flashlite": ModelSpec(
+        key="gemini25flashlite",
+        slug="google/gemini-2.5-flash-lite-preview",  # verify slug on openrouter.ai/models
+        tag="GEMINI25FLASHLITE",
+        label="Gemini 2.5 Flash Lite",
+        rpm=60,
+    ),
+
+    "claude3haiku": ModelSpec(
+        key="claude3haiku",
+        slug="anthropic/claude-3-haiku",
+        tag="CLAUDE3HAIKU",
+        label="Claude 3 Haiku",
+        rpm=60,
+    ),
     "llama33": ModelSpec(
         key="llama33",
         slug="llama-3.3-70b-versatile",
