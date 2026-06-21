@@ -1,21 +1,32 @@
+import os
 from pathlib import Path
 
+import nltk
 import numpy as np
 import pandas as pd
+from dotenv import load_dotenv
 from scipy.signal import find_peaks
 from sentence_transformers import SentenceTransformer
 
+nltk.download("punkt_tab", quiet=True)
 
 ROOT = Path(__file__).resolve().parents[2]
-DATA_CSV_DIR = ROOT / "data" / "csv"
+load_dotenv(ROOT / ".env", override=True)
+
+CORPUS_DIR = ROOT / "data" / "corpus"
+OUT_DIR = ROOT / "data" / "csv" / "chunks_clean"
+
 INPUT_FILES = [
-    DATA_CSV_DIR / "BoE_sentence.csv",
-    DATA_CSV_DIR / "ECB_sentence.csv",
-    DATA_CSV_DIR / "Fed_sentence.csv",
+    CORPUS_DIR / "BoE.csv",
+    CORPUS_DIR / "ECB.csv",
+    CORPUS_DIR / "Fed.csv",
 ]
 
-
 embedding_model = SentenceTransformer("intfloat/e5-large-v2")
+
+
+def split_into_sentences(text: str) -> list[str]:
+    return [s.strip() for s in nltk.sent_tokenize(text) if s.strip()]
 
 
 def embed_sentences(texts: list[str]) -> np.ndarray:
@@ -135,8 +146,7 @@ def chunk_to_record(chunk: list[dict], chunk_id: int) -> dict:
         "doc_type": first["doc_type"],
         "speaker": first["speaker"],
         "speaker_role": first["speaker_role"],
-        "turn_idx": first.get("turn_idx"),
-        "turn_type": first.get("turn_type"),
+        "turn_idx": first["turn_idx"],
         "chunk_id": chunk_id,
         "chunk_uid": f"{first['doc_id']}_{chunk_id}",
         "start_sent_idx": first["sent_idx"],
@@ -146,10 +156,27 @@ def chunk_to_record(chunk: list[dict], chunk_id: int) -> dict:
     }
 
 
-def process_answers(group: pd.DataFrame) -> list[dict]:
+def turn_to_sentence_records(row: dict) -> list[dict]:
+    sentences = split_into_sentences(str(row["text"]))
+    return [
+        {
+            "doc_id": row["doc_id"],
+            "date": row["date"],
+            "doc_type": row["doc_type"],
+            "speaker": row["speaker"],
+            "speaker_role": row["speaker_role"],
+            "turn_idx": row["turn_idx"],
+            "sent_idx": sent_idx,
+            "text": sent,
+        }
+        for sent_idx, sent in enumerate(sentences)
+    ]
+
+
+def process_answers(sentences_df: pd.DataFrame) -> list[dict]:
     output: list[dict] = []
     chunk_counter = 0
-    turns = group.sort_values(["turn_idx", "sent_idx"]).groupby("turn_idx")
+    turns = sentences_df.sort_values(["turn_idx", "sent_idx"]).groupby("turn_idx")
 
     for _, turn in turns:
         records = turn.to_dict("records")
@@ -166,31 +193,32 @@ def process_answers(group: pd.DataFrame) -> list[dict]:
     return output
 
 
-def build_chunks_for_file(input_path: Path) -> pd.DataFrame:
-    df = pd.read_csv(input_path).dropna(subset=["text"])
+def build_chunks_for_file(corpus_path: Path) -> pd.DataFrame:
+    df = pd.read_csv(corpus_path).dropna(subset=["text"])
+    answer_turns = df[df["speaker_role"] != "Journalist"]
     all_chunks: list[dict] = []
 
-    for _, group in df.groupby("doc_id"):
-        if "answer" not in group["turn_type"].unique():
+    for _, group in answer_turns.groupby("doc_id"):
+        sentence_records = []
+        for row in group.to_dict("records"):
+            sentence_records.extend(turn_to_sentence_records(row))
+        if not sentence_records:
             continue
-        answer_group = group[group["turn_type"] == "answer"]
-        all_chunks.extend(process_answers(answer_group))
+        sentences_df = pd.DataFrame(sentence_records)
+        all_chunks.extend(process_answers(sentences_df))
 
     return pd.DataFrame(all_chunks)
 
 
 def output_path_for(input_path: Path) -> Path:
-    out_dir = input_path.parent / "chunks_clean"
-    out_dir.mkdir(exist_ok=True)
-    return out_dir / input_path.name.replace("_sentence", "_chunks")
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    return OUT_DIR / input_path.name.replace(".csv", "_chunks.csv")
 
 
 def main() -> None:
-    DATA_CSV_DIR.mkdir(parents=True, exist_ok=True)
-
     for input_path in INPUT_FILES:
         if not input_path.exists():
-            raise FileNotFoundError(f"Required sentence CSV not found: {input_path}")
+            raise FileNotFoundError(f"Corpus CSV not found: {input_path}")
 
         chunks_df = build_chunks_for_file(input_path)
         output_path = output_path_for(input_path)

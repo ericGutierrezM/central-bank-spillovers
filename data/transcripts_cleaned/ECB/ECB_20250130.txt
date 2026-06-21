@@ -2,7 +2,7 @@ Christine Lagarde, President of the ECB,Luis de Guindos, Vice-President of the E
 
 Frankfurt am Main, 30 January 2025
 
-[OPENING]Good afternoon, the Vice-President and I welcome you to our press conference.
+Good afternoon, the Vice-President and I welcome you to our press conference.
 
 The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.In particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary policy stance – is based on our updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission.
 
@@ -89,3 +89,5 @@ We are now ready to take your questions.
 [Q]I have two questions. First, you mentioned rising real incomes. How far has this process gone comparing the levels with pre-pandemic levels? And my second question is related to Bulgaria. Bulgaria is preparing to ask for an extraordinary convergence report. Do you have recommendations for easing this process? Would a potential extraordinary convergency report be focused mainly on the technical criteria for entering the Eurozone, or will it take a more comprehensive approach about policies and about legislation like the release in June?
 
 [A]On rising real income, it’s a fact. And in many Member States there has been a complete catch-up with pre-pandemic levels. What has been different from pre-pandemic levels is the level of savings. The level of savings has increased. It has varied over the course of time, but in net terms it has increased. And we very much hope that if confidence can be restored, particularly in view of a degree of anxiety and uncertainty about European political developments, for instance, consumers and investors will restore their previous pattern of consumption and investment. On Bulgaria, there is a convergence process that is well advanced. We are marginally involved in the process because we do not pass judgement on anything else than convergence towards inflation, and we look at the fiscal position and the sustainability. But on those fronts and from what I have seen and the discussions that I have had with the Bulgarian authorities, I’m confident that this process is going well. And the special convergence report that has been asked* by the Bulgarian authorities will, I suppose – it’s not my decision – be determined by the Commission and will proceed so that there can be a review of all the criteria – not just inflation – that Bulgaria has to satisfy. I’m only giving you a partial answer because the rest can only be given by the Commission.
+
+*While the Bulgarian authorities may submit a request for an ad-hoc convergence assessment, they have not yet done so.
