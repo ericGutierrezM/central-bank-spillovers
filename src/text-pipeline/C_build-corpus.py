@@ -56,6 +56,19 @@ _CHAIRS     = {"chair powell", "chairman powell", "chair yellen", "chair bernank
 _OFFICIALS  = {"vice chair", "mr.", "ms.", "president", "governor"}
 _MODERATORS = {"michelle smith", "jonathan ernst"}
 
+# Canonical speaker names — raw labels vary by era and include typos
+_FED_SPEAKER_NORM: dict[str, str] = {
+    "chair powell":    "Jerome Powell",
+    "chairman powell": "Jerome Powell",
+    "chairiman powell": "Jerome Powell",  # typo in source
+    "chair yellen":    "Janet Yellen",
+    "chair bernanke":  "Ben Bernanke",
+    "chairman bernanke": "Ben Bernanke",
+}
+
+def _normalize_fed_speaker(name: str) -> str:
+    return _FED_SPEAKER_NORM.get(name.lower(), name)
+
 _GREETINGS = ("good afternoon", "good morning", "good evening")
 
 def _parse_filename(stem: str) -> tuple[str, str] | None:
@@ -163,7 +176,7 @@ def process_file(path: Path) -> tuple[list[dict], bool]:
                 "doc_id":       path.stem,
                 "date":         yyyymmdd,
                 "doc_type":     doc_type,
-                "speaker":      speaker,
+                "speaker":      _normalize_fed_speaker(speaker),
                 "speaker_role": role,
                 "section":      section,
                 "turn_idx":     turn_idx,
