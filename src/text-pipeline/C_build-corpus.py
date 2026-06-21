@@ -244,7 +244,7 @@ def _speaker_role(name: str, doc_type: str) -> str:
     if doc_type == "opening":
         return "governor"
     n = name.lower()
-    if any(g in n for g in GOVERNORS):
+    if any(re.search(r"\b" + re.escape(g) + r"\b", n) for g in GOVERNORS):
         return "governor"
     if any(o in n for o in OFFICIALS):
         return "official"
@@ -253,6 +253,22 @@ def _speaker_role(name: str, doc_type: str) -> str:
     return "journalist"
 
 _INITIALS_RE = re.compile(r"^(.+?)\s*\(([A-Z]{1,4})\)$")
+
+# Known full names (title-cased, multi-word) sorted longest-first for greedy prefix matching.
+# Used to recover answer text when a bold line contains both name and first sentence,
+# e.g. "**Andrew Bailey Well, I'm not going to define it.**"
+_KNOWN_SPEAKER_NAMES: list[str] = sorted(
+    {n.title() for n in (GOVERNORS | OFFICIALS | MODERATORS) if " " in n},
+    key=len,
+    reverse=True,
+)
+
+def _split_speaker_line(raw: str) -> tuple[str, str]:
+    """Split 'Name rest of answer' into (name, rest). Returns (raw, '') if no known name matches."""
+    for name in _KNOWN_SPEAKER_NAMES:
+        if raw.startswith(name) and len(raw) > len(name) and raw[len(name)] == " ":
+            return name, raw[len(name) + 1:].strip()
+    return raw, ""
 
 def _build_initials_map(text: str) -> dict[str, str]:
     """Return mapping from initials (e.g. 'MC') to full name ('Mark Carney')."""
@@ -279,11 +295,20 @@ def _parse_turns(text: str, doc_type: str) -> list[tuple[str, str]]:
     for line in text.splitlines():
         m = re.match(r"^\*\*(.+?)\*\*\s*$", line)
         if m:
+            raw = m.group(1).strip()
+            resolved = initials_map.get(raw, raw)
+            speaker, first_text = _split_speaker_line(resolved)
+            # If the bold span doesn't start with a known name and is long,
+            # it's answer text that the PDF converter accidentally bolded.
+            # Treat it as content for the current speaker rather than a new turn.
+            if speaker not in _KNOWN_SPEAKER_NAMES and len(speaker) > 60:
+                if current_speaker is not None:
+                    current_lines.append(speaker)
+                continue
             if current_speaker is not None and current_lines:
                 turns.append((current_speaker, " ".join(current_lines).strip()))
-            raw_speaker = m.group(1).strip()
-            current_speaker = initials_map.get(raw_speaker, raw_speaker)
-            current_lines = []
+            current_speaker = speaker
+            current_lines = [first_text] if first_text else []
         else:
             if current_speaker is not None and line.strip():
                 current_lines.append(line.strip())

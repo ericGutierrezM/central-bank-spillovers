@@ -27,6 +27,7 @@ Files flagged during pipeline health checks, with notes on how they were address
 | `BoE_202005_transcript` (May 7) | Same URL issue | Hardcoded PDF URL in A | Verify transcript content is sensible |
 | `BoE_202008_transcript` (Aug 6) | Same URL issue | Hardcoded PDF URL in A | Verify transcript content is sensible |
 | `BoE_201708_transcript` | Only 3 meetings in 2017 (not 4) | Not yet investigated | Check if Aug 2017 meeting transcript exists on BoE website |
+| `BoE_202405_transcript`, `BoE_202408_transcript`, `BoE_202411_transcript` | PDF-to-text conversion placed speaker name and first sentence on the same bold line (e.g. `**Andrew Bailey Well, I'm not going to define it.**`), causing the parser to capture the full bold span as the speaker field and drop the first sentence from answer text | Added `_split_speaker_line()` to `C_build-corpus.py` which checks known speaker names as prefixes; recovered first-sentence text is now seeded into `current_lines` | Confirm speaker column is clean (just the name) and answer text is complete in BoE.csv for these three files |
 
 ---
 
