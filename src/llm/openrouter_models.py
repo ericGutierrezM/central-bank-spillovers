@@ -120,6 +120,13 @@ MODEL_SPECS: dict[str, ModelSpec] = {
         label="Claude 3 Haiku",
         rpm=60,
     ),
+    "claude35haiku": ModelSpec(
+        key="claude35haiku",
+        slug="anthropic/claude-3.5-haiku",
+        tag="CLAUDE35HAIKU",
+        label="Claude 3.5 Haiku",
+        rpm=60,
+    ),
     "llama33": ModelSpec(
         key="llama33",
         slug="llama-3.3-70b-versatile",
