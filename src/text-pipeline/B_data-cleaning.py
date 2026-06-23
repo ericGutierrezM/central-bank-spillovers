@@ -561,7 +561,7 @@ def in_window_yyyymm(yyyymm: str) -> bool:
     try:
         yyyy, mm = int(yyyymm[:4]), int(yyyymm[4:6])
         # include if the month falls within the study years
-        return STUDY_START.year <= yyyy <= STUDY_END.year
+        return 2015 <= yyyy <= 2025
     except ValueError:
         return False
 
