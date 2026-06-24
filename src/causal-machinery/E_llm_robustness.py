@@ -248,7 +248,31 @@ else:
 # ==========================================
 print("\nLayer 3: Linking shock spread to LLM disagreement...")
 
-disag = pd.read_csv('output/stance/ensemble_stance_meeting.csv')
+_LABEL_SCORE = {"dovish": -2, "mostly dovish": -1, "neutral": 0, "mostly hawkish": 1, "hawkish": 2}
+_frames = []
+for _llm in LLMS:
+    _fp = f'output/stance/turn_predictions_{_llm}.csv'
+    if not os.path.exists(_fp):
+        continue
+    _df = pd.read_csv(_fp, usecols=['bank', 'date', 'turn_uid', 'label'])
+    _df['model_key'] = _llm
+    _frames.append(_df)
+_raw = pd.concat(_frames, ignore_index=True)
+_raw['label']     = _raw['label'].str.strip().str.lower()
+_raw['date_dt']   = pd.to_datetime(_raw['date'].astype(str).str[:6], format='%Y%m')
+_raw['hawk_score'] = _raw['label'].map(_LABEL_SCORE)
+_raw = _raw.dropna(subset=['hawk_score'])
+_turn_agg = (
+    _raw.groupby(['bank', 'date_dt', 'turn_uid'])['hawk_score']
+    .agg(mean_score='mean', score_std='std')
+    .reset_index()
+)
+disag = (
+    _turn_agg.groupby(['bank', 'date_dt'])
+    .agg(mean_stance=('mean_score', 'mean'), dispersion=('score_std', 'mean'), n_turns=('turn_uid', 'size'))
+    .reset_index()
+    .sort_values(['bank', 'date_dt'])
+)
 disag['date_dt']  = pd.to_datetime(disag['date_dt'])
 disag['ym']       = disag['date_dt'].dt.to_period('M')
 disag['bank_key'] = disag['bank'].str.lower()
@@ -323,50 +347,57 @@ print("  -> Saved: output/robustness/layer3_disagreement_vs_shock_spread.png")
 # ==========================================
 print("\nLayer 3b: DeBERTa text-predicted disagreement vs. shock spread...")
 
-deberta = pd.read_csv(r'C:\Users\sffra\Downloads\meeting_disagreement_for_var.csv')
-deberta['bank_key'] = deberta['bank'].str.lower()
-deberta['ym']       = pd.to_datetime(deberta['meeting'], errors='coerce').dt.to_period('M')
-deberta = deberta.dropna(subset=['ym', 'pred_std3'])
+_DEBERTA_PATH = r'C:\Users\sffra\Downloads\meeting_disagreement_for_var.csv'
+_RUN_3B = os.path.exists(_DEBERTA_PATH)
+if not _RUN_3B:
+    print("  -> Skipping layer 3b: meeting_disagreement_for_var.csv not found.")
 
-merged_b = shock_spread.merge(
-    deberta[['bank_key', 'ym', 'pred_std3']],
-    left_on=['bank', 'ym'],
-    right_on=['bank_key', 'ym'],
-    how='inner'
-)
-print(f"  -> Merged rows for layer3b: {len(merged_b)}")
+if _RUN_3B:
+    deberta = pd.read_csv(_DEBERTA_PATH)
+    deberta['bank_key'] = deberta['bank'].str.lower()
+    deberta['ym']       = pd.to_datetime(deberta['meeting'], errors='coerce').dt.to_period('M')
+    deberta = deberta.dropna(subset=['ym', 'pred_std3'])
 
-fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+if _RUN_3B:
+    merged_b = shock_spread.merge(
+        deberta[['bank_key', 'ym', 'pred_std3']],
+        left_on=['bank', 'ym'],
+        right_on=['bank_key', 'ym'],
+        how='inner'
+    )
+    print(f"  -> Merged rows for layer3b: {len(merged_b)}")
 
-for ax, y_col, y_label in zip(
-    axes,
-    ['cross_llm_std', 'cross_llm_range'],
-    ['Cross-LLM Shock Std Dev', 'Cross-LLM Shock Range (Max–Min)'],
-):
-    for bank in BANKS:
-        sub = merged_b[merged_b['bank'] == bank]
-        ax.scatter(sub['pred_std3'], sub[y_col],
-                   color=bank_colors[bank], label=bank_labels[bank], alpha=0.6, s=40)
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 
-    X_reg = sm.add_constant(merged_b['pred_std3'])
-    fit   = sm.OLS(merged_b[y_col], X_reg).fit(cov_type='HAC', cov_kwds={'maxlags': 3})
-    dw    = durbin_watson(fit.resid)
-    x_rng = np.linspace(merged_b['pred_std3'].min(), merged_b['pred_std3'].max(), 100)
-    ax.plot(x_rng, fit.params['const'] + fit.params['pred_std3'] * x_rng,
-            color='black', linestyle='--', linewidth=2,
-            label=f'OLS-HAC (β={fit.params["pred_std3"]:.3f}, p={fit.pvalues["pred_std3"]:.3f})\nDW={dw:.2f}')
+    for ax, y_col, y_label in zip(
+        axes,
+        ['cross_llm_std', 'cross_llm_range'],
+        ['Cross-LLM Shock Std Dev', 'Cross-LLM Shock Range (Max–Min)'],
+    ):
+        for bank in BANKS:
+            sub = merged_b[merged_b['bank'] == bank]
+            ax.scatter(sub['pred_std3'], sub[y_col],
+                       color=bank_colors[bank], label=bank_labels[bank], alpha=0.6, s=40)
 
-    ax.set_xlabel('DeBERTa Text-Predicted Disagreement ($\\hat{d}$)', fontsize=12)
-    ax.set_ylabel(y_label, fontsize=12)
-    ax.legend(fontsize=10, frameon=True)
-    print(f"  [{y_col}] β={fit.params['pred_std3']:.4f}, p={fit.pvalues['pred_std3']:.4f}, DW={dw:.3f}")
+        X_reg = sm.add_constant(merged_b['pred_std3'])
+        fit   = sm.OLS(merged_b[y_col], X_reg).fit(cov_type='HAC', cov_kwds={'maxlags': 3})
+        dw    = durbin_watson(fit.resid)
+        x_rng = np.linspace(merged_b['pred_std3'].min(), merged_b['pred_std3'].max(), 100)
+        ax.plot(x_rng, fit.params['const'] + fit.params['pred_std3'] * x_rng,
+                color='black', linestyle='--', linewidth=2,
+                label=f'OLS-HAC (β={fit.params["pred_std3"]:.3f}, p={fit.pvalues["pred_std3"]:.3f})\nDW={dw:.2f}')
 
-plt.suptitle('Layer 3b: Text-Predicted Disagreement (DeBERTa) vs. Cross-LLM Shock Spread',
-             fontsize=15, fontweight='bold')
-plt.tight_layout()
-plt.savefig('output/robustness/layer3b_deberta_vs_shock_spread.png', dpi=500, bbox_inches='tight')
-plt.close()
-print("  -> Saved: output/robustness/layer3b_deberta_vs_shock_spread.png")
+        ax.set_xlabel('DeBERTa Text-Predicted Disagreement ($\\hat{d}$)', fontsize=12)
+        ax.set_ylabel(y_label, fontsize=12)
+        ax.legend(fontsize=10, frameon=True)
+        print(f"  [{y_col}] b={fit.params['pred_std3']:.4f}, p={fit.pvalues['pred_std3']:.4f}, DW={dw:.3f}")
+
+    plt.suptitle('Layer 3b: Text-Predicted Disagreement (DeBERTa) vs. Cross-LLM Shock Spread',
+                 fontsize=15, fontweight='bold')
+    plt.tight_layout()
+    plt.savefig('output/robustness/layer3b_deberta_vs_shock_spread.png', dpi=500, bbox_inches='tight')
+    plt.close()
+    print("  -> Saved: output/robustness/layer3b_deberta_vs_shock_spread.png")
 
 # ==========================================
 # Statistical Check: Cluster-Mean IRF Significance
