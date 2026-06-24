@@ -4,11 +4,12 @@ import seaborn as sns
 import os
 
 # Ensure output directory exists
-os.makedirs('output/aggregated', exist_ok=True)
+os.makedirs('output/causal-machinery/aggregated', exist_ok=True)
 
 stance_folder = 'output/stance'
 
-files_info = [(f.name[17:-4], f.path) for f in os.scandir(stance_folder) if f.is_file()]
+files_info = [(f.name[17:-4], f.path) for f in os.scandir(stance_folder)
+              if f.is_file() and f.name.startswith('turn_predictions_') and f.name.endswith('.csv')]
 
 # Hardcoded BoE dates
 date_dict = {
@@ -111,10 +112,10 @@ for name, path in files_info:
 
     # Save Plot
     plt.tight_layout()
-    plt.savefig(f'output/aggregated/hist_stance_combined_{name}.png', dpi=500)
+    plt.savefig(f'output/causal-machinery/aggregated/hist_stance_combined_{name}.png', dpi=500)
     plt.show()
 
     # 6. Save separate CSVs
-    counts.xs('Fed', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/fed_{name}.csv')
-    counts.xs('ECB', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/ecb_{name}.csv')
-    counts.xs('BoE', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/boe_{name}.csv')
+    counts.xs('Fed', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/causal-machinery/aggregated/fed_{name}.csv')
+    counts.xs('ECB', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/causal-machinery/aggregated/ecb_{name}.csv')
+    counts.xs('BoE', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/causal-machinery/aggregated/boe_{name}.csv')

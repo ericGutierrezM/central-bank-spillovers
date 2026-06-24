@@ -17,7 +17,7 @@ def standardize_controls(df, cols):
 
 # ======= FED ======= #
 
-fed = pd.read_csv('output/aggregated/fed_gemini25flash.csv')
+fed = pd.read_csv('output/causal-machinery/aggregated/fed_gemini25flash.csv')
 fed_dates = fed['date'].sort_values(ascending=True)
 
 unemploy_fed = pd.read_csv('data/controls/us_unemployment_vintages.csv')
@@ -100,7 +100,7 @@ fed_controls_std.to_csv('data/controls/FED_CONTROLS.csv')
 # ======= ECB ======= #
 
 # Get Fed dates
-ecb = pd.read_csv('output/aggregated/ecb_gemini25flash.csv')
+ecb = pd.read_csv('output/causal-machinery/aggregated/ecb_gemini25flash.csv')
 ecb_dates = ecb['date'].sort_values(ascending=True)
 
 unemploy_ecb = pd.read_csv('data/controls/unemployment_eur.csv')
@@ -186,7 +186,7 @@ ecb_controls_std.to_csv('data/controls/ECB_CONTROLS.csv')
 
 # ======= BoE ======= #
 
-boe = pd.read_csv('output/aggregated/boe_gemini25flash.csv')
+boe = pd.read_csv('output/causal-machinery/aggregated/boe_gemini25flash.csv')
 boe_dates = boe['date'].sort_values(ascending=True)
 
 unemploy_boe = pd.read_csv('data/controls/uk_unemployment_vintages.csv')

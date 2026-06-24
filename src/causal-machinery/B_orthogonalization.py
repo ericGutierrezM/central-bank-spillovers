@@ -10,7 +10,7 @@ BANKS = ['FED', 'ECB', 'BOE']
 LLMS = ['deepseekv3', 'gemini25flash', 'gpt-4o', 'llama33', 'mistrallarge_or', 'qwen25_72b']
 
 # Ensure output directory exists
-os.makedirs('output/residuals', exist_ok=True)
+os.makedirs('output/causal-machinery/residuals', exist_ok=True)
 
 # The regression formula is constant across all runs
 FORMULA = "stance ~ unemployment + inflation + rate_change + vix + bond_yields + C(governor)"
@@ -23,7 +23,7 @@ for llm in LLMS:
 
         # Construct file paths
         controls_path = f'data/controls/{bank}_CONTROLS.csv'
-        sentiment_path = f'output/aggregated/{bank_lower}_{llm}.csv'
+        sentiment_path = f'output/causal-machinery/aggregated/{bank_lower}_{llm}.csv'
 
         # Safety check: skip if the LLM hasn't generated predictions for this bank yet
         if not os.path.exists(sentiment_path):
@@ -55,7 +55,7 @@ for llm in LLMS:
         regression_data['shock'] = stage1_model.resid
 
         # Save the residuals to CSV (Now includes LLM in filename!)
-        resid_csv_path = f'output/residuals/{bank_lower}_{llm}_residuals.csv'
+        resid_csv_path = f'output/causal-machinery/residuals/{bank_lower}_{llm}_residuals.csv'
         regression_data[['date', 'shock']].to_csv(resid_csv_path, index=False)
         print(f"  -> Saved residuals: {resid_csv_path}")
 
@@ -81,7 +81,7 @@ for llm in LLMS:
         ax.legend(loc='upper right', frameon=True, facecolor='white', framealpha=0.9)
 
         plt.tight_layout()
-        plt.savefig(f'output/residuals/{bank_lower}_{llm}_shocks.png', dpi=500)
+        plt.savefig(f'output/causal-machinery/residuals/{bank_lower}_{llm}_shocks.png', dpi=500)
         plt.close() # Close figure to free up memory!
 
         # ==========================================
@@ -100,5 +100,5 @@ for llm in LLMS:
         ax.legend(frameon=True, facecolor='white', framealpha=0.9)
 
         plt.tight_layout()
-        plt.savefig(f'output/residuals/{bank_lower}_{llm}_shocks_distribution.png', dpi=500)
+        plt.savefig(f'output/causal-machinery/residuals/{bank_lower}_{llm}_shocks_distribution.png', dpi=500)
         plt.close() # Close figure to free up memory!

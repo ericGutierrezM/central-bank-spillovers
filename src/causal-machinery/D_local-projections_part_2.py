@@ -13,7 +13,7 @@ LLMS = ['deepseekv3', 'gemini25flash', 'gpt-4o', 'llama33', 'mistrallarge_or', '
 max_h = 20
 horizons_to_report = [0, 5, 10, 20]
 
-os.makedirs('output/spillovers', exist_ok=True)
+os.makedirs('output/causal-machinery/spillovers', exist_ok=True)
 
 # Define Market Dictionary
 markets = {
@@ -54,7 +54,7 @@ for llm in LLMS:
     shocks_dict = {}
     
     for bank in BANKS:
-        filepath = f'output/residuals/{bank}_{llm}_residuals.csv'
+        filepath = f'output/causal-machinery/residuals/{bank}_{llm}_residuals.csv'
         if not os.path.exists(filepath):
             print(f"  -> Missing file: {filepath}. Skipping {llm.upper()}.")
             missing_data = True
@@ -148,9 +148,9 @@ for llm in LLMS:
 
     plt.suptitle(f'Global Market Spillovers ({llm.upper()})', fontsize=18, fontweight='bold', y=1.02)
     plt.tight_layout()
-    plt.savefig(f'output/spillovers/irf_3x3_{llm}.png', dpi=500, bbox_inches='tight')
+    plt.savefig(f'output/causal-machinery/spillovers/irf_3x3_{llm}.png', dpi=500, bbox_inches='tight')
     plt.close()
-    print(f"  -> Saved IRF Grid: output/spillovers/irf_3x3_{llm}.png")
+    print(f"  -> Saved IRF Grid: output/causal-machinery/spillovers/irf_3x3_{llm}.png")
 
     # --- FORMATTING MATRICES FOR THE COPY-PASTE ZONE ---
     for target_h in horizons_to_report:
@@ -165,7 +165,7 @@ for llm in LLMS:
                 stars = '***' if pval < 0.01 else '**' if pval < 0.05 else '*' if pval < 0.1 else ''
                 spillover_matrix.iloc[i, j] = f"{coef:.4f}{stars} (p={pval:.4f})"
         
-        matrix_path = f'output/spillovers/matrix_{llm}_h{target_h}.csv'
+        matrix_path = f'output/causal-machinery/spillovers/matrix_{llm}_h{target_h}.csv'
         spillover_matrix.to_csv(matrix_path)
         
         # Save the markdown string to our collection dictionary instead of printing immediately

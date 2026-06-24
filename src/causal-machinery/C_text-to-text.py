@@ -7,7 +7,7 @@ BANKS = ['fed', 'ecb', 'boe']
 LLMS = ['deepseekv3', 'gemini25flash', 'gpt-4o', 'llama33', 'mistrallarge_or', 'qwen25_72b']
 
 # Create a directory to save the final matrices
-os.makedirs('output/spillovers', exist_ok=True)
+os.makedirs('output/causal-machinery/spillovers', exist_ok=True)
 
 for llm in LLMS:
     print(f"\n{'='*50}")
@@ -19,7 +19,7 @@ for llm in LLMS:
     missing_data = False
     
     for bank in BANKS:
-        filepath = f'output/residuals/{bank}_{llm}_residuals.csv'
+        filepath = f'output/causal-machinery/residuals/{bank}_{llm}_residuals.csv'
         
         # Graceful skip if the LLM hasn't been run for a specific bank yet
         if not os.path.exists(filepath):
@@ -71,6 +71,6 @@ for llm in LLMS:
     print(text_matrix.to_markdown())
     
     # Save to CSV for easy copy-pasting into your thesis later
-    out_path = f'output/spillovers/text_matrix_{llm}.csv'
+    out_path = f'output/causal-machinery/spillovers/text_matrix_{llm}.csv'
     text_matrix.to_csv(out_path)
     print(f"\n  -> Matrix saved to: {out_path}")

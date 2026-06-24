@@ -33,7 +33,7 @@ markets = {
     'UK': {'index_col': 'FTSE 100',      'vix_col': 'VIX', 'shift_fed': True},
 }
 
-os.makedirs('output/robustness', exist_ok=True)
+os.makedirs('output/causal-machinery/robustness', exist_ok=True)
 
 # ==========================================
 # 2. Pre-Process Market Data (identical to D)
@@ -68,7 +68,7 @@ for llm in LLMS:
     missing = False
 
     for bank in BANKS:
-        filepath = f'output/residuals/{bank}_{llm}_residuals.csv'
+        filepath = f'output/causal-machinery/residuals/{bank}_{llm}_residuals.csv'
         if not os.path.exists(filepath):
             print(f"     Warning: {filepath} missing — skipping {llm}")
             missing = True
@@ -186,9 +186,9 @@ fig.legend(handles=legend_handles, loc='lower center', ncol=3, fontsize=11,
 plt.suptitle('IRF Fan Chart by LLM Cluster: Global Market Spillovers',
              fontsize=16, fontweight='bold', y=1.01)
 plt.tight_layout()
-plt.savefig('output/robustness/layer1_fan_chart.png', dpi=500, bbox_inches='tight')
+plt.savefig('output/causal-machinery/robustness/layer1_fan_chart.png', dpi=500, bbox_inches='tight')
 plt.close()
-print("  -> Saved: output/robustness/layer1_fan_chart.png")
+print("  -> Saved: output/causal-machinery/robustness/layer1_fan_chart.png")
 
 # ==========================================
 # Layer 2: Sensitivity — Max–Min Range + Sign Flips
@@ -232,9 +232,9 @@ plt.suptitle(
     fontsize=15, fontweight='bold', y=1.01
 )
 plt.tight_layout()
-plt.savefig('output/robustness/layer2_sensitivity.png', dpi=500, bbox_inches='tight')
+plt.savefig('output/causal-machinery/robustness/layer2_sensitivity.png', dpi=500, bbox_inches='tight')
 plt.close()
-print("  -> Saved: output/robustness/layer2_sensitivity.png")
+print("  -> Saved: output/causal-machinery/robustness/layer2_sensitivity.png")
 
 print("\n  Sign-flip summary:")
 if sign_flip_summary:
@@ -281,7 +281,7 @@ rows = []
 for bank in BANKS:
     llm_shocks = {}
     for llm in available_llms:
-        filepath = f'output/residuals/{bank}_{llm}_residuals.csv'
+        filepath = f'output/causal-machinery/residuals/{bank}_{llm}_residuals.csv'
         if not os.path.exists(filepath):
             continue
         df_r = pd.read_csv(filepath)
@@ -338,16 +338,16 @@ for ax, y_col, y_label in zip(
 plt.suptitle('Layer 3: §1 Disagreement vs. Cross-LLM Shock Spread',
              fontsize=15, fontweight='bold')
 plt.tight_layout()
-plt.savefig('output/robustness/layer3_disagreement_vs_shock_spread.png', dpi=500, bbox_inches='tight')
+plt.savefig('output/causal-machinery/robustness/layer3_disagreement_vs_shock_spread.png', dpi=500, bbox_inches='tight')
 plt.close()
-print("  -> Saved: output/robustness/layer3_disagreement_vs_shock_spread.png")
+print("  -> Saved: output/causal-machinery/robustness/layer3_disagreement_vs_shock_spread.png")
 
 # ==========================================
 # Layer 3b: DeBERTa Text-Predicted Disagreement vs. Cross-LLM Shock Spread
 # ==========================================
 print("\nLayer 3b: DeBERTa text-predicted disagreement vs. shock spread...")
 
-_DEBERTA_PATH = r'C:\Users\sffra\Downloads\meeting_disagreement_for_var.csv'
+_DEBERTA_PATH = 'output/stance/meeting_disagreement_for_var.csv'
 _RUN_3B = os.path.exists(_DEBERTA_PATH)
 if not _RUN_3B:
     print("  -> Skipping layer 3b: meeting_disagreement_for_var.csv not found.")
@@ -395,9 +395,9 @@ if _RUN_3B:
     plt.suptitle('Layer 3b: Text-Predicted Disagreement (DeBERTa) vs. Cross-LLM Shock Spread',
                  fontsize=15, fontweight='bold')
     plt.tight_layout()
-    plt.savefig('output/robustness/layer3b_deberta_vs_shock_spread.png', dpi=500, bbox_inches='tight')
+    plt.savefig('output/causal-machinery/robustness/layer3b_deberta_vs_shock_spread.png', dpi=500, bbox_inches='tight')
     plt.close()
-    print("  -> Saved: output/robustness/layer3b_deberta_vs_shock_spread.png")
+    print("  -> Saved: output/causal-machinery/robustness/layer3b_deberta_vs_shock_spread.png")
 
 # ==========================================
 # Statistical Check: Cluster-Mean IRF Significance
@@ -420,7 +420,7 @@ for cluster_name, cluster_llms in CLUSTERS_DEF.items():
     for bank in BANKS:
         series_list = []
         for llm in cluster_llms:
-            fp = f'output/residuals/{bank}_{llm}_residuals.csv'
+            fp = f'output/causal-machinery/residuals/{bank}_{llm}_residuals.csv'
             if not os.path.exists(fp):
                 continue
             tmp = pd.read_csv(fp)
