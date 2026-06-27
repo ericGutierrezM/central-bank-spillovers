@@ -47,17 +47,19 @@ for llm in LLMS:
 
         # Fit Stage 1 Regression
         stage1_model = smf.ols(formula=FORMULA, data=regression_data).fit()
-        
-        # Optional: Print summary (commented out to avoid terminal spam, but you can enable it)
-        # print(stage1_model.summary())
 
-        # Extract Residuals
-        regression_data['shock'] = stage1_model.resid
+        # ==========================================
+        # Extract & Standardize Residuals (Z-Score)
+        # ==========================================
+        raw_residuals = stage1_model.resid
+        # Standardize: (X - Mean) / StdDev. 
+        # (Though OLS residuals sum to 0, explicitly subtracting the mean is safest practice)
+        regression_data['shock'] = (raw_residuals - raw_residuals.mean()) / raw_residuals.std()
 
-        # Save the residuals to CSV (Now includes LLM in filename!)
+        # Save the standardized residuals to CSV 
         resid_csv_path = f'output/residuals/{bank_lower}_{llm}_residuals.csv'
         regression_data[['date', 'shock']].to_csv(resid_csv_path, index=False)
-        print(f"  -> Saved residuals: {resid_csv_path}")
+        print(f"  -> Saved STANDARDIZED residuals: {resid_csv_path}")
 
         # ==========================================
         # Plot 1: Shocks Over Time
@@ -68,7 +70,7 @@ for llm in LLMS:
                 marker='o', markersize=6, linestyle='-', linewidth=1.5, 
                 color='#1f77b4', label='Identified Shock ($\epsilon_t$)')
 
-        ax.axhline(0, color='crimson', linestyle='--', linewidth=2, label='Expected Stance (0)')
+        ax.axhline(0, color='crimson', linestyle='--', linewidth=2, label='Zero Mean')
 
         ax.xaxis.set_major_locator(mdates.YearLocator())
         ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
@@ -76,7 +78,7 @@ for llm in LLMS:
 
         # Dynamically inject Bank and LLM into the title
         ax.set_title(f'{bank} Communication Shocks Over Time ({llm.upper()})', fontsize=16, fontweight='bold', pad=15)
-        ax.set_ylabel('Shock', fontsize=12)
+        ax.set_ylabel('Standardized Shock (Std. Dev)', fontsize=12) # Updated Label
         ax.set_xlabel('Meeting Date', fontsize=12)
         ax.legend(loc='upper right', frameon=True, facecolor='white', framealpha=0.9)
 
@@ -95,7 +97,7 @@ for llm in LLMS:
         ax.axvline(0, color='crimson', linestyle='--', linewidth=2, label='Zero Mean')
 
         ax.set_title(f'Distribution of {bank} Shocks ({llm.upper()})', fontsize=16, fontweight='bold', pad=15)
-        ax.set_xlabel('Shock Magnitude ($\epsilon_t$)', fontsize=12)
+        ax.set_xlabel('Standardized Shock Magnitude ($\epsilon_t$)', fontsize=12) # Updated Label
         ax.set_ylabel('Number of Meetings', fontsize=12)
         ax.legend(frameon=True, facecolor='white', framealpha=0.9)
 
