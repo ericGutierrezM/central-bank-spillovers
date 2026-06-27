@@ -26,4 +26,5 @@ dependencies = [
     "sentencepiece>=0.2.1",
     "protobuf>=7.35.1",
     "statsmodels>=0.14.6",
+    "tabulate>=0.10.0",
 ]
