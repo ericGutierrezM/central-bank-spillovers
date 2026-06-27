@@ -347,7 +347,7 @@ def download_boe_transcripts():
                     continue                
                 time.sleep(1)
 
-    # 2020 releases that used one-off URL structures (joint MPR+FSR and emergency meetings)
+    # 2020 releases that used one-off URL structures
     hardcoded_pdfs = [
         "https://www.bankofengland.co.uk/-/media/boe/files/news/2020/march/interest-rate-cut-11-march-2020-transcript.pdf",
         "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2020/may/mpr-fsr-press-conference-transcript-may-2020.pdf",
