@@ -1,0 +1,300 @@
+SOURCE: interest-rate-cut-11-march-2020-transcript.pdf
+DATE: 202003
+TYPE: transcript
+============================================================
+
+1
+
+Interest Rate Cut Press Conference
+
+Wednesday 11 March 2020
+
+
+**Ed Conway, Sky News**
+
+Governor, what kind of evidence do you have so far? You talked about alleviating minor shocks. What evidence do you have right now that it is having an impact and why are you in the dark? Sorry, one other question, is 0.25% as low as you could go, is that rock-bottom for interest rates?
+
+
+**Mark Carney**
+
+Okay, I’ll answer the second part first. The answer’s no, the MPC can go below that, close to but slightly above 0%, so there is additional conventional room for the committee, in fact there’s additional room in all the committee’s instruments if it were to choose that. In terms of evidence, we have-, it’s very early days and it’s uncertain. The direction’s clear, the orders of magnitude are less clear, but what we do have is evidence from other economies. Obviously, we’ve seen what’s happened in the Chinese economy, swinging from north of 5.5% growth to, likely, a contraction in the first quarter, virtually all the evidence there points to that. We have the very early signs in global PMIs across a range of economies of similar shift. Not that same order of magnitude, but directionally more there. We have anecdotal evidence that we’re building up through our agency network and our direct contacts with businesses where we have seen a sharp fall in trading conditions, particularly in retail, consumer-discretionary items, over the course of, really-, we’re almost speaking in real time, but over the course, certainly, of the last week/ten days. But even prior to that we were beginning to see supply-chain disruptions in the manufacturing sector, as well.
+
+So, I would emphasise the direction is clear, orders of magnitude, still to be determined, but also what is clear to all of the committees is that this is a situation that should prove temporary, and part of our job is to make sure that the economic impacts are temporary so that we truly are taking the steps in order to bridge from where we are today to where we should be when this passes. Thank you.
+
+
+**Joumanna Bercetche, CNBC**
+
+Given what you just said, if the economic situation deteriorates further in the next couple of weeks, do you imagine that the Bank of England may have to act again in the March meeting? Then, my second question is, why was quantitative easing or asset purchases not included as part of today’s broad announcement of measures, and would you still consider QE as an important part of the toolkit here.
+
+
+**Mark Carney**
+
+Okay, well, I’ll start again with the second and make a comment on the first, and then pass to Andrew on the first, if he wishes. In terms of QE and asset purchases, they’re very much part of the bank’s toolkit. I think I testified, as did you, only last week, seemingly longer ago, to parliament about the monetary policies base that we have, and that, in the range of monetary policies base that I gave, at least in my view, that asset purchases can be an important component of providing additional firepower for the MPC, for the bank, if that’s needed. Why not now? This is a big package, this is a big package. People, I recognise that, quite often, the focus is on interest rates. It’s the easiest to understand, it’s the conventional policy instrument, but shifting a counter-cyclical buffer that was en route to being 2% to 0%, that releases a huge amount of lending capacity. Andrew, in his remarks, underscored this, that this is just under £200 billion of corporate credit lending capacity, exactly the type of drawdowns that would be required in this type of situation, and the capacity that just under £200 billion is thirteen times net lending to the entire corporate sector last year in this economy. So, that is a big, big number. On the capital side. So, capital flexibility then on top of it, not liquidity but term-funding clarity, up to, you know, probably in excess of £100 billion at bank rate across the banking and building society sector. So, it’s a big, big package and the judgement was that that was sufficient.
+
+2
+
+Now, in terms of forward-looking, I would just note the statement that the bank will take all necessary further actions, but, since I won’t be here to take all necessary further actions, I will pass to the man who will.
+
+
+**Andrew Bailey**
+
+Well, I don’t think I’ve got anything to add to the substance, I think that says it very well. The only thing I would remind us of, of course, is that there is a regular schedule of meetings, that the MPC will be meeting again later this month. There’s no change to that. This has been a special meeting and a special action, but it doesn’t change the schedule in any sense. So, of course, as you can tell from that, this will be under, you know, constant review and consideration.
+
+
+**Helia Ebrahimi, Channel 4 News**
+
+Governor, you’re talking today about a shock that is both sharp and large, could we end up seeing a recession this year, and what if coronavirus is not as temporary as you think?
+
+
+**Mark Carney**
+
+Well, it will pass. The medical situation will pass. With time, there will be a vaccine. With time, the spread of the virus will be arrested. We don’t know exactly what that period of time is, I mean, that’s absolutely clear, nor do the expert epidemiologists, they talk in terms of scenarios and probabilities, and quite rightly so. But, we have the resilience in the system that has been built up over a decade that can withstand all of those scenarios, and the important thing is to use some of that resilience for the purpose of bridging from where we are to where we need to get to. It is too early, I apologise to repeat what I said to Ed Conway, but we have a sense of the direction, we have a sense that the orders of magnitude could be large, but it’s a temporary situation, and what’s important is that a viable business today, or a viable business as of last week, has the resources and can be bridged so that they are viable going forward, and that peoples’ jobs associated with those businesses are there. So, that’s how we and the government, and the private financial system itself has a very important role here, as well, help prevent a difficult, temporary situation having longer-lasting economic effects.
+
+
+**Chris Giles, Financial Times**
+
+I think this is a question to the incoming governor, Mr Bailey. At the select committee last week, you said that you agreed with Mark Carney that there was about 250 basis points of loosening available, how much have you used and how much have you got left?
+
+
+**Andrew Bailey**
+
+Well, I think, there, you have to combine two things. What have we done and how the market’s moved in the meantime, because, if you like, the forward-guidance element of that is, sort of, in a sense, a combination of what we do and what the markets anticipate. So, I don’t want to put an exact number on it, but I think, you know, and it follows from what Mark said earlier in terms of what’s left, that probably, roughly, in the order of just under half is where I would put it at this point. That can move around from day-to-day, for the reason I just gave, and I would just reemphasise the point that Mark made, that means there is more available.
+
+
+**David Robinson, Market News**
+
+Could you explain, if the effective lower bound 0.1% why you didn’t go there today, on the grounds that a 15 basis point cut is not going to have much announcement effect if you do do it? Thank you.
+
+
+**Mark Carney**
+
+David, I’m sorry, I missed the last clause of your question. ‘On the grounds that it didn’t have,’ what? Sorry.
+
+
+**David Robinson, Market News**
+
+Yes, if the effective lower bound is 0.1%-,
+
+
+**Mark Carney**
+
+That I got, yes.
+
+3
+
+
+**David Robinson, Market News**
+
+That leaves you with only 15 basis points to go, what is the point of not having done that today rather than delaying, because that doesn’t sound like a significant effect in the next announcement?
+
+
+**Mark Carney**
+
+A couple of things. (1) is this is a big package, this is a big package, it is a big deal to cut the CCYB by as much as the FPC did, it’s a huge term-funding certainty for the financial sector, £100 billion at bank rate, with additional incentives and, potentially, could be substantially increased depending on the lending path of the economy. And, on top of it, there are fiscal measures that are coming, we have direct line of sight of what the relevant bits of the budget-, that’s part of coordination, acting in concert. So, you have to wait for the end of the day for the whole package, or until midday, maybe, is a better way to put it. Then, the last point is that the MPC is in a position where it has-, and I’d very much associate myself with the incoming governor’s comments in terms of magnitude, but it has room on all of its policy instruments if it so chooses, and it has regularly scheduled meetings, and we’ll take those decisions at the appropriate time.
+
+
+**Lucy Meakin, Bloomberg News**
+
+I just wanted to ask if you agreed with Christine Lagarde that this economic shock risks being as serious as 2008?
+
+
+**Mark Carney**
+
+It is a different form of shock than 2008 and, as President Lagarde knows well-, and we’ve had this discussion, and we lived through 2008 in our previous roles, that the financial system was the core of the problem in 2008, it was the core of the problem, and it is in a very much different place, where we can draw on the resources of that. There is no reason for this shock to turn into the experience of 2008, a virtual lost decade in a number of economies, if we handle it well, and the ‘we’ is the Bank of England it is the government and it’s the private financial sector. It’s recognising that this has the potential to be-, and, of course, very much, those on the frontline. I think we shouldn’t forget the extraordinary work that they’re doing and how important that is. I mean, that’s fundamental, but, as you step back onto the economic side, all of us working together, including the private financial sector, in ensuring something which is temporary does not have these longer-lasting effects.
+
+
+**Andrew Bailey**
+
+Can I just emphasise that? I mean, we’ve spent a decade or more, led by what Mark has done domestically, and globally through the Financial Stability Board, building up the resilience to face a shock. We didn’t know what the shock was going to be, I don’t think we would’ve predicted it was going to be this one, but, the fact is, when we sat down earlier this week, it’s a totally different discussion to the one we were having a decade ago, and that’s a very good thing.
+
+
+**Russell Lynch, The Telegraph**
+
+Could you give an estimate-, could you express the measures you’ve unveiled today in terms of a stimulus in terms of the size of GDP? Are we talking, like, a 1% or 2% boost to GDP, for example? Also, does anyone at the Bank have corona yet, is anyone self-isolating or anything?
+
+
+**Mark Carney**
+
+The answer to the second is no, but we are, as you would expect, taking a series of contingency measures that are fully operational, three sites for our critical functions rotating teams, critical teams, including at the governors level, so, with the Deputy Governors, with the governor, and ensuring that we have the necessary capacity to take all necessary decisions. In terms of the scale of the stimulus, it is-, there are different ways you can size it. It gets north of 1%, and I say that not least because imagine if we didn’t do this in a situation where-, and the signal to banks and the financial system would be to draw in, ‘Conserve your capital, this could be difficult, rein in, don’t answer when the small business or the retailer needs to draw on their line’. The damage that can be done there can be significant, and, actually, Andrew may want to expand on this, it’s actually self-defeating in that situation ultimately, but it’s a co-ordination issue. We’ve got that base in the system, that very strong
+
+4
+
+base in the system, and so we can release it. So, just like quantitative easing is particularly powerful when markets were disrupted, using the counter-cyclical buffer when there is the potential for credit constraints, it’s particularly powerful in that situation here, but I don’t know if you want to-,
+
+
+**Andrew Bailey**
+
+Well, I would just add that, as many of you know, we are still dealing with some of the more painful elements of the consequences of the last crises for small firms, and we don’t want that again, thank you, and there’s a very clear message to the banks-, and, by the way, which I think has been reflected in things that a number of the banks have already said. So, it’s important to take that into consideration, that, you know, you have all the resources and all the wherewithal to see through this issue, the shock, and to support the economy and to support businesses, and that’s a very strong message.
+
+
+**Oscar Wiliams-Grut, Yahoo Finance**
+
+You mentioned, Governor, the indicators from China has a potential forebear of what could come here, does that mean that you’re assuming in your decision- making today that we could see similar measures in terms of isolating cities or industries within the UK, in a similar sort of lockdown that we’ve seen even in Italy this week?
+
+
+**Mark Carney**
+
+Well, the medical strategy, if I can put it that way, those are ultimately decisions for the government, advised by experts, so it’s not for us to comment, or speculate, on what those could be, and so don’t take the premise of your question as what I’m about to say confirming it, if you will? Okay? But we have worked directly with those same medical experts to understand the very scenarios in terms of the potential spread of the virus, and there are different strategies for social isolation and protection of groups, and we’ve looked across those different strategies and been able to make some judgement in our analysis. Again, I’d underscore, we don’t have a forecast, we don’t have a scenario sitting there, but, in terms of our analysis and how that could propagate through the economy and which sectors could be most affected, and then the knock-on back through the financial sector, suffice to say that, looking at those various scenarios, it made it clear to the various policy committees and us collectively that we should act, and act quickly, and act in size.
+
+
+**David Milliken, Thomson Reuters**
+
+We don’t have a lot of time until the next MPC meeting on March 26th, and a lot of the economic data coming out between then, particularly the official numbers, will be quite backward-looking. So, can you tell us more about what indicators you’ll be looking at, either in financial markets or more anecdotal measures of the real economy in the UK, in terms of deciding if more policy stimulus will be needed then?
+
+
+**Andrew Bailey**
+
+I’d say two things on that, one of which is directly to your point and the other is slightly additional. On the indicators, and going back to what the governor was saying earlier, we will have some, obviously, survey evidence, coming in between now and then, we will have reporting from the bank’s agents. That is particularly, I think, relevant in the area of how supply chains are holding up. The impact on that, how firms are, in a sense, running through stock levels, because there’s a bit of evidence, certainly, coming from our agents that, possibly, some parts of the economy started with somewhat higher stock levels than they might otherwise have done. So, there’s a question about how those are running down. So, we’ll be looking at all of that. That’s the evidence we’ll be looking at. The second thing I would emphasise is that, you know, we haven’t done a forecast, because, for all the reasons that we have discussed, that is too uncertain. I would classify it more as analysis, drawing, actually, also, as the governor was saying earlier on, on very helpful contact with epidemiologists to understand the transmission of this. Well, possible, likely, transmission of it.
+
+Now, the uncertainty around that is such, as you’ll understand, I’m sure, that the other thing we’ll be doing for the meeting on the 26th is to come back and say, ‘Well, you know, we did a set of
+
+5
+
+assumptions and a set of analysis for the decisions we’ve announced today, but it would not be unreasonable to think that we’ll revisit some of that, because of the uncertainty around this. The fact that we’re, say, doing this on the basis of analysis that has a lot of uncertainty in it. So, I would expect us to come back to that, as well as to the evidence that emerges between now and then.
+
+
+**Priya Patel, BBC News**
+
+Can I ask how similar the measures announced today are to contingency that had to be put in place for no-deal Brexit, and, if there’s no trade deal with the EU by the end of the year, will the bank have enough firepower to deal with both of those things?
+
+
+**Mark Carney**
+
+Okay, I’ll start and then pass to Andrew. One of the challenges with no-deal Brexit is the supply/demand effects. Certainly, the supply effects of no-deal Brexit would be expected to have a longer life. In other words, the economics will change depending on the relationship that’s ultimately struck, but, in that extreme scenario, the economics of certain activities will change, and there would need to be capital and people moved from one area to another area, which takes some time. That complicates the decision-making process. I think that the various committees are very much up to it, but, in advance, it’s not just as simple as, ‘These policies were prepared a year earlier,’ and they’re popped out. In this situation, it’s disruption not destruction of supply. Part of our job is to make sure that that is indeed the case, and so that we’re bridging, and that’s very much part of the analysis. I would say the headline is, and Andrew may want to expand on this, that there is additional-, and we’ve used some policy space, but there is additional policy space, and one of the advantages of the structure of the Bank of England is that we have multiple tools across multiple committees.
+
+
+**Andrew Bailey**
+
+Well, I don’t have anything to add, other than to say, as the Governor said, that it’s the interaction of those things, however they come to pass, that the committees will focus on, and they’ve got the tools to do that.
+
+
+**Lucy White, Daily Mail**
+
+For households with cash savings, this won’t have come as good news today, and, for anyone who has their savings invested, the movements over the past couple of weeks on the markets will have been somewhat alarming. What are your words to, you know, Britain’s household savers and how they can get through this?
+
+
+**Mark Carney**
+
+Yes, I’ll start. The first thing is that we all want to get through this, and those savers with jobs, those savers with children with jobs, relatives with jobs, neighbours with jobs, want to make sure that-, I’m confident all the Daily Mail readers want to make sure that people up and down this country-, people will be affected, their health will be affected, some people unfortunately and, in some cases, severely and tragically, but what we can do, and what the government can also help do, is ensure that peoples’ jobs, their livelihoods, their businesses, are there. That requires drawing on some of the resilience of banks. It requires stimulus through monetary policy. It requires funding. It requires other measures that you’ll hear about later today, and that will all mean, not just for those individuals, and, as I say, their livelihoods, it’ll mean, in the end, that, in terms of financial markets and assets and value and growth, profits, they will be higher over time. That this will be temporary as opposed to what is priced to some extent in some markets as a more permanent shock, and that’s not what needs to happen.
+
+
+**Fiona Maxwell, MLEX**
+
+So, a question, Governor, on your CCYB announcement today. You said, I believe, in December, that there should be a lowering of overall capital requirements for banks to compliment a planned rise in CCYB.
+
+
+**Mark Carney**
+
+Yes.
+
+6
+
+
+**Fiona Maxwell, MLEX**
+
+So, now, today, you’ve announced a reduction in the CCYB rates. So, what does that mean for the overall capital and resilience of the banks now?
+
+
+**Mark Carney**
+
+Yes, that’s a very good question. I mean, all the other questions were very good, but this one’s also very good, it’s very technical. Just to, if I may, clarify the question for those who don’t follow as closely, the issue is that there were certain minimum capital standards and then buffers that are put on top that are bank specific. Then, on top of that, is this variable, the so-called CCYB, the counter-cyclical buffer, which we’re drawing on. The decision of the Financial Policy Committee, back in December, by Andrew and I and our colleagues, was that we should raise the resting rate of the CCYB towards 2%. The consequence of having a higher-resting rate is that it makes it less risky for the system as a whole so that the minimum levels can be adjusted per bank downwards. Okay? The reason you have these buffers, though, is to draw on them in situations like this, and what you don’t do is take that away by adjusting the minimum amount. So, the PRA is just in the process of consulting on, given that there’s going to be a higher-resting rate in a standard environment, so, on average, it’s going to be higher, doesn’t it make sense to make this downward adjustment to-, I call it the minimum. It’s a little more complicated than that, but that’s basically the point, and that’s still the case.
+
+So, that consultation goes on and that decision would be taken under Andrews chairing later in the Spring, early in the Summer, I forget the exact timing, because, as far as I was concerned, anything beyond Sunday, I, you know-, but the logic of that adjustment is still there, and, just to be absolutely clear, what is not going to happen is that we’re going to-, the committees are going to do something which we have done today, which is provide more flexibility by lowering this counter-cyclical buffer rate, and then have it taken away in other ways. It’s not going to be taken away by changing the minimum, pushing it up. It’s not going to be taken away by banks dividending out that additional capital or by them raising bonuses for employees. No. In fact, what Andrew mentioned in his opening remarks, and I’d underscore it, there will be constant and constructive monitoring of how the banks are using their flexibility on capital liquidity to help bridge the economy over this period.
+
+
+**Andrew Bailey**
+
+Can I just emphasise that? I mean, one of the things we’ve said many times over the years is the saying ‘buffers are there to be used’, and they’re there to be used when you get to situations like this. Now, you can only have confidence in that, both on our side and the bank side, if you’ve got the minimum underpinning, and that the minimum underpinning is the right level to give you that confidence. Then, as the Governor says, it doesn’t change, you’ve got that minimum, and then you can be confident to use the buffers, because, only with that, can you really put the buffers to effect. That’s what we’re doing. The minimum is there, it’s much higher than it was in the past, and then the buffers can be used to support the economy.
+
+
+**Richard Partington, The Guardian**
+
+I just wanted to ask, how important is the need for co-ordinated action, both here, domestically, with the budget today, but, also, with international partners. I think it’s regarded that, in 2008, the G20 and the response there was vital for stopping the last recession turning into a great depression again. This time, the presidency of the G20 is initiating a price war on oil with Russia, and we have seen different central banks moving at different times. So, how important is that need for co-ordination, and how concerned are you about the lack of it?
+
+
+**Mark Carney**
+
+Well, first of, let me focus on the international co-ordination. If others want to, we can come back to domestic, but, on the international side, I was there in 2008, I was part of the co- ordinated interest rate cut along with the Bank of England and, effectively, the G10, at the time. Let me tell you, we did that to get to the weekend. We cut interest rates 50 basis points, co-ordinated, in order to get to the weekend, to get to the G7/G20 meeting and figure out what to do to backstop the system. Andrew was very involved in that aspect of it and designing and making effective what was necessary
+
+7
+
+in this country, which was, in effect, a model that was adopted by the G7 and then, more broadly, the G20, over the course of that IMF weekend. We’re in a different place, this is not about making it to a weekend. It’s not about backstopping the system, we’ve backstopped the system over the course of the last ten years, the system’s backstopping itself, that’s why it has resilience. There is a high degree of dialogue, co-operation and co-ordination, amongst the global central banks, we have seen a number of central banks move. They don’t all have to move on the same day. The RBA, the Bank of Canada, obviously the Fed, a host of-, the Bank of Japan, a host of emerging market central banks, the People’s Bank of China, originally. Collectively, these measures will have a significant impact.
+
+There is a fiscal component of this, a very important fiscal component of the response and need for much-, as a compliment to what the central banks can do, targeted fiscal policy, which is why things like the budget later today are important.
+
+Jessica O’Mari, ITV News: You expect the shock to be short sharp and damaging, but what if it’s not? Could this be as bad as 2008?
+
+
+**Mark Carney**
+
+There’s no reason for it to be as bad as 2008 if we act as we have and if there is that targeted support to prevent a difficult temporary situation. I’m speaking only on an economic basis, but, from that, having longer-lasting scars, and I’ll reemphasise that the private financial sector has a very important role to play. We’re encouraged by the early signs in terms of some of the major institutions indicating flexibility, but we will be-, the bank-, we’ve made clear in this statement that we will be monitoring closely the response to the very considerable additional flexibility that we have given to the system, in terms of both capital and funding certainty, on top of the liquidity that’s already there. I agree with the incoming governor, those buffers are there to be used.
+
+
+**Simon Neville, Press Association**
+
+I was going to ask whether you’re going to be sticking around after Sunday, but I think I’ve got my answer on that, at the moment, it seems. I wanted to just ask, for anyone in the outside world who doesn’t follow this closely enough, doesn’t follow banking, they’re going to see ‘Bank of England shock, surprise announcement, the last time there was a surprise like this was during the financial crisis’. Now, I take your point, that you’re saying the banks can make this better by behaving in a different way, but most of the public still don’t trust the banks and still have a negative image of bankers. What reassurance can you give to the public that, this time, the banks will behave in a different manner to last?
+
+
+**Mark Carney**
+
+Let me start and then I’ll have Andrew amplify. Look, I think the public expects the authorities to act in a situation like this, they expect to use the tools at their disposal to make sure that something which is temporary doesn’t have permanent effects, and that’s exactly what we’re doing. I’ll just reiterate that, by providing much more flexibility, an ability to-, the banking system has been put in a position today where they could make loans to the hardest hit businesses, in fact the entire corporate sector, not just the hardest hit businesses and Small and Medium Sized enterprises, thirteen times of what they lent last year in good times. So, it’s a huge amount of flexibility that has been put there. On top of that, we’re giving them four-year certainty on a considerable amount of funding at the cost of bank rate. On top of that, they have liquidity buffers themselves, but, also, liquidity from the Bank of England. So, they are in that position to support the economy. The government-, again, wait for the budget, but the government will do other things that are targeted to the exact issue we’re all trying to address. On top of that, the bank is going to be monitoring and I would like Andrew to-, well, whatever you want to add on that.
+
+
+**Andrew Bailey**
+
+Well, yes, and let me also put the FCA hat on for a moment, because I’ve still got it for a day or two. One of the FCA’s core principles for business is treating customers fairly. The system
+
+8
+
+is now, as we’ve said many times this morning, in a much more resilient state. We expect them to treat customers fairly. That’s what must happen. They know that. They’re in a position to do it. There should be no excuses now, and both we, the Bank of England, and the FCA, will be watching this very carefully.
+
+
+**Daniel Hinge, Central Banking**
+
+About the term ‘funding scheme’, have you done any analysis of how effective that was in its previous incarnations, and how does it compare in potency to other tools?
+
+
+**Mark Carney**
+
+So, Dan, it was a little tough to hear, but you’re saying, ‘How is the term “funding scheme” different from previous incarnations?’
+
+
+**Daniel Hinge, Central Banking**
+
+Sorry, no. Have you analysed how effective it was when you used it previous times, and how did that compare to other tools?
+
+
+**Mark Carney**
+
+Very effective. Yes, we have. Secondly, very effective. Well-used, well-spread across the banking sector. Big take-up, including by the challenger banks, many of the banks. Of course, as you’re probably familiar, but bears reinforcing, and Andrew’s been very focused on this, a lot of the competition, particularly in SME lending, it’s not the big high street banks anymore, there’s a lot of new competition and they have eligibility for this funding, which makes a difference. What we have changed in it is we provided a very specific incentive around lending to SMEs. So, there’s an initial allotment which is 5% of their outstanding lending stock to the real economy, so businesses and households, but they get additional allotments if they lend more to SMEs, five times that flow, and there is a penalty rate if they start to shrink that lending stock, as well. So, there is quite a strong incentive there. Also, just to be clear, I’ll finish on this, so to pull it up a level, there are a couple of paths for the economy here. (1) is a do-nothing path, a pull-in path, which makes a shorter-term disruption have more permanent effects. That’s the low road. The high road is the path where we use the flexibility in the system, we support viable businesses, we help households through, you know, a potentially challenging period for some of them, and we emerge on the other side as strong, if not stronger, as we were going in. Here’s a surprise, we choose the high road.
+
+
+**Gurpreet Narwan, The Times**
+
+Sir John Cunliffe said a few weeks ago, and others too, that rate cuts don’t work when there’s a supply shock to the economy, so what’s changed here, what’s changed since?
+
+
+**Mark Carney**
+
+Well, I think what Sir John was saying was that he was observing the aspect of a supply shock that comes with a situation like this, because of supply-chain effects or because of social distancing and the need for people to be off-work or, in some cases, not to be as effective. John was not saying that rate cuts-, he didn’t say the premise of your question which was punch-lined, and I would add that John voted alongside every member of the MPC for a 50 basis point cut, so it’s pretty clear where his bottom-line is. Obviously, he can speak for himself but-, you know, in terms of the impact of rate cuts, there is a direct cashflow effect, and if you think about the situation here, households have shifted so that now only about a third of their borrowing is floating mortgages, they’re taking advantages of longer-term fixed rate, but it still is a third of their borrowing. So, that’s around a £3 billion boost for them with the adjustment on an annualised basis. Half of business borrowing, half of business unhedged is unhedged floating rate. So, it’s just about £4.5 billion, and then three-quarters of SME borrowing is floating rate. So, who’s going to get hit the most? It’s the SMEs. Ring them up and ask them whether they think there’s a benefit of having a half-point cut on the cost of their money.
+
+Obviously, there are broader financial condition effects which effect everybody and, you know, are an importance, I think, of the package as a whole, which have real economic effects, but also acting across
+
+9
+
+the board and in a co-ordinated manner with the government in a way that makes it clear that we’re going to bridge a situation as opposed to turn it into-, allow it be turned into something worse.
+
+
+**Andrew Bailey**
+
+I agree. I’d simply add that, as was discussed and that I think John was part of, there isn’t a supply shock without demand effects.
+
+
+**Mark Carney**
+
+Yes.
+
+
+**Andrew Bailey**
+
+And that’s so important. I mean, that’s part of the analysis, as I was talking about earlier, that we’ll also take forward, as to how those things balance.
