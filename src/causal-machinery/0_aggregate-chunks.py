@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Ensure output directory exists
 os.makedirs('output/aggregated', exist_ok=True)
 
 stance_folder = 'output/stance'
@@ -59,35 +58,25 @@ date_dict = {
 }
 
 for name, path in files_info:
-    # 1. Load Data
     data_chunks = pd.read_csv(path)
     
-    # 2. Fix the Dates safely (Force strings so dictionary matching works!)
     data_chunks['date'] = data_chunks['date'].astype(str)
     date_dict_str = {str(k): str(v) for k, v in date_dict.items()} # Ensure dict is string:string
     
     is_boe = data_chunks['bank'] == 'BoE'
     data_chunks.loc[is_boe, 'date'] = data_chunks.loc[is_boe, 'date'].replace(date_dict_str)
 
-    # Convert to datetime (if some are STILL YYYYMM, let pandas infer it)
     data_chunks['date'] = pd.to_datetime(data_chunks['date'], format='mixed')
 
-    # 3. Calculate Counts
     counts = data_chunks.reset_index().groupby(['doc_id', 'bank', 'label', 'date']).size().unstack(level='label', fill_value=0)
 
-    # 4. Calculate Stance (THE MATH FIX)
     total = counts.sum(axis=1)
 
-    # .get() safely looks for the column. If it doesn't exist, it defaults to 0.
-    # This allows you to safely ADD them together if a document has both!
     hawk = counts.get('hawkish', 0) + (counts.get('mostly hawkish', 0) * 0.5)
     dove = counts.get('dovish', 0) + (counts.get('mostly dovish', 0) * 0.5)
     
-    # (Optional: what about 'neutral'? If 'neutral' shouldn't skew the stance heavily, 
-    # dividing by `total` is fine, but just be aware that total includes neutral sentences)
     counts['stance'] = (hawk - dove) / total
 
-    # 5. Plot Combined Histogram
     plt.figure(figsize=(10, 6))
     plot_data = counts.reset_index()
 
@@ -112,7 +101,7 @@ for name, path in files_info:
     plt.tight_layout()
     plt.savefig(f'output/aggregated/hist_stance_combined_{name}.png', dpi=500)
 
-    # 6. Save separate CSVs
+    # Save separate CSVs
     counts.xs('Fed', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/fed_{name}.csv')
     counts.xs('ECB', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/ecb_{name}.csv')
     counts.xs('BoE', level='bank').sort_values(by='date', ascending=True).to_csv(f'output/aggregated/boe_{name}.csv')

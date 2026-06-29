@@ -4,9 +4,6 @@ import numpy as np
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
-# ==========================================
-# 1. Global Configuration
-# ==========================================
 BANKS = ['fed', 'ecb', 'boe']
 LLMS = ['deepseekv3', 'gemini25flash', 'gpt-4o', 'llama33', 'mistrallarge_or', 'qwen25_72b']
 
@@ -22,17 +19,13 @@ markets = {
     'UK':  {'index_col': 'FTSE 100',      'vix_col': 'VIX', 'shift_fed': True}   
 }
 
-# Dictionaries to collect results for multi-pass execution
 all_llm_results = {}
 final_terminal_tables = {}
 
-# Variables to track the absolute global min and max for y-axis standardization
 global_ymin = float('inf')
 global_ymax = float('-inf')
 
-# ==========================================
-# 2. Pre-Process Market Data (Done Once)
-# ==========================================
+# Pre-Process Market Data
 print("Loading and transforming base market data...")
 df_base = pd.read_csv('data/controls/global_indices_daily.csv')
 vix = pd.read_csv('data/controls/vix_daily.csv')
@@ -47,9 +40,6 @@ df_base['FTSE 100'] = np.log(df_base['FTSE 100']) * 100
 
 df_base[['S&P 500', 'Euro Stoxx 50', 'FTSE 100', 'VIX']] = df_base[['S&P 500', 'Euro Stoxx 50', 'FTSE 100', 'VIX']].ffill(limit=3)
 
-# ==========================================
-# 3. PASS 1: Run Local Projections & Find Global Y-Limits
-# ==========================================
 print("\n--- PASS 1: Calculating Regressions and tracking scales ---")
 for llm in LLMS:
     missing_data = False
@@ -121,22 +111,17 @@ for llm in LLMS:
                 irf_results[market_name][bank]['ci_upper'].append(ci_u)
                 irf_results[market_name][bank]['pvalue'].append(pval)
                 
-                # Dynamic boundaries tracking
                 if ci_l < global_ymin: global_ymin = ci_l
                 if ci_u > global_ymax: global_ymax = ci_u
 
     all_llm_results[llm] = irf_results
 
-# Pad the boundaries slightly by 5% so data points do not touch the absolute edges of the plot
 y_padding = (global_ymax - global_ymin) * 0.05
 global_ymin -= y_padding
 global_ymax += y_padding
 
 print(f"Standardization Matrix Lock complete. Global Y-Axis Range set to: [{global_ymin:.2f}, {global_ymax:.2f}]")
 
-# ==========================================
-# 4. PASS 2: Plotting Grid and Matrices Export
-# ==========================================
 print("\n--- PASS 2: Standardized Grid Generation ---")
 row_labels = ['US Market (SP500)', 'EU Market (EUROSTOXX50)', 'UK Market (FTSE100)']
 col_labels = ['FED Shock', 'ECB Shock', 'BoE Shock']
@@ -159,7 +144,6 @@ for llm, irf_results in all_llm_results.items():
             ax.plot(h_vals, coefs, color=colors[bank], marker='o', markersize=4, linewidth=2)
             ax.fill_between(h_vals, lower, upper, color=colors[bank], alpha=0.2)
             
-            # This line forces every single panel across all 6 models to share the exact same scale
             ax.set_ylim(global_ymin, global_ymax)
             
             if i == 0:
@@ -175,7 +159,6 @@ for llm, irf_results in all_llm_results.items():
     plt.close()
     print(f"  -> Saved Standardized IRF Grid: output/spillovers/irf_3x3_{llm}.png")
 
-    # --- FORMATTING MATRICES ---
     for target_h in horizons_to_report:
         spillover_matrix = pd.DataFrame(index=row_labels, columns=col_labels)
         
@@ -194,12 +177,9 @@ for llm, irf_results in all_llm_results.items():
         dict_key = f"{llm.upper()} - Horizon (h={target_h} days)"
         final_terminal_tables[dict_key] = spillover_matrix.to_markdown()
 
-# ==========================================
-# 5. THE COPY-PASTE ZONE
-# ==========================================
 print("\n" * 3)
 print("*" * 80)
-print("*" * 24 + " FINAL RESULTS FOR COPY-PASTING " + "*" * 24)
+print("*" * 24 + " FINAL RESULTS " + "*" * 24)
 print("*" * 80)
 
 for title, markdown_table in final_terminal_tables.items():

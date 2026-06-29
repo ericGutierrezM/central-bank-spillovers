@@ -5,27 +5,22 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import seaborn as sns
 
-# 1. Configuration: Define your banks and your LLMs here
 BANKS = ['FED', 'ECB', 'BOE']
 LLMS = ['deepseekv3', 'gemini25flash', 'gpt-4o', 'llama33', 'mistrallarge_or', 'qwen25_72b']
 
-# Ensure output directory exists
 os.makedirs('output/residuals', exist_ok=True)
 
 # The regression formula is constant across all runs
 FORMULA = "stance ~ unemployment + inflation + rate_change + vix + bond_yields + C(governor)"
 
-# 2. Main Execution Loop
 for llm in LLMS:
     for bank in BANKS:
         bank_lower = bank.lower()
         print(f"\n[{bank} | {llm.upper()}] Processing orthogonalization...")
 
-        # Construct file paths
         controls_path = f'data/controls/{bank}_CONTROLS.csv'
         sentiment_path = f'output/aggregated/{bank_lower}_{llm}.csv'
 
-        # Safety check: skip if the LLM hasn't generated predictions for this bank yet
         if not os.path.exists(sentiment_path):
             print(f"  -> Warning: {sentiment_path} not found. Skipping.")
             continue
@@ -48,15 +43,9 @@ for llm in LLMS:
         # Fit Stage 1 Regression
         stage1_model = smf.ols(formula=FORMULA, data=regression_data).fit()
 
-        # ==========================================
-        # Extract & Standardize Residuals (Z-Score)
-        # ==========================================
         raw_residuals = stage1_model.resid
-        # Standardize: (X - Mean) / StdDev. 
-        # (Though OLS residuals sum to 0, explicitly subtracting the mean is safest practice)
         regression_data['shock'] = (raw_residuals - raw_residuals.mean()) / raw_residuals.std()
 
-        # Save the standardized residuals to CSV 
         resid_csv_path = f'output/residuals/{bank_lower}_{llm}_residuals.csv'
         regression_data[['date', 'shock']].to_csv(resid_csv_path, index=False)
         print(f"  -> Saved STANDARDIZED residuals: {resid_csv_path}")
@@ -76,7 +65,6 @@ for llm in LLMS:
         ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))
         plt.setp(ax.xaxis.get_majorticklabels(), rotation=45, ha='right')
 
-        # Dynamically inject Bank and LLM into the title
         ax.set_title(f'{bank} Communication Shocks Over Time ({llm.upper()})', fontsize=16, fontweight='bold', pad=15)
         ax.set_ylabel('Standardized Shock (Std. Dev)', fontsize=12) # Updated Label
         ax.set_xlabel('Meeting Date', fontsize=12)
@@ -84,7 +72,7 @@ for llm in LLMS:
 
         plt.tight_layout()
         plt.savefig(f'output/residuals/{bank_lower}_{llm}_shocks.png', dpi=500)
-        plt.close() # Close figure to free up memory!
+        plt.close()
 
         # ==========================================
         # Plot 2: Distribution of Shocks
@@ -103,4 +91,4 @@ for llm in LLMS:
 
         plt.tight_layout()
         plt.savefig(f'output/residuals/{bank_lower}_{llm}_shocks_distribution.png', dpi=500)
-        plt.close() # Close figure to free up memory!
+        plt.close()
